@@ -1,10 +1,28 @@
+div.parallel {
+  display: flex;
+  font-family: "TeX Gyre Schola";
+  
+}
+
+div.parallel p, div.parallel aside {
+  width: 50%;
+  padding: 0 2em 0 2em;
+  text-align: justify;
+}
+
+div.parallel h2 {
+  width: 50%;
+  padding: 0 auto 0 auto;
+}
 
 .sc {
     font-variant: small-caps;
 }
 
-span:lang(de) {
-    display: none;
+
+a.origpage {
+    border-left: 1px dotted gray;
+    padding: 0 0.25em 0 0.25em;
 }
 
 .footnote {
