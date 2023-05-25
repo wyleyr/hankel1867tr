@@ -1,0 +1,12 @@
+
+.sc {
+    font-variant: small-caps;
+}
+
+span:lang(de) {
+    display: none;
+}
+
+.footnote {
+    font-size: 0.8em;
+}
