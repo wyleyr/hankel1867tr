@@ -1,12 +1,12 @@
 This is a work-in-progress English translation of Hermann Hankel's 1867
-<cite>Vorlesungen über die complexen Zahlen und ihre Functionen</cite>
+*Vorlesungen über die complexen Zahlen und ihre Functionen*
 ("Lectures on complex numbers and their functions").
 The original text, with reasonably good OCR, is available from the
 [Internet Archive](https://archive.org/details/vorlesungenberd01hankgoog/).
 
 This work is not very well known today, even among philosophers and
 historians of mathematics, but it was an important work in its time.
-For example, in Frege's <cite>Grundlagen der Arithmetik</cite>
+For example, in Frege's *Grundlagen der Arithmetik*
 ("Foundations of arithmetic"), which is *very* widely read among
 anglophone philosophers today, Hankel is Frege's most frequently cited
 interlocutor. Frege scholarship could learn a lot from Hankel, but
