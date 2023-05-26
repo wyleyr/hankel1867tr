@@ -6,6 +6,9 @@ This is a work-in-progress English translation of Hermann Hankel's 1867
 analysis that played an important role in the transition to modern mathematics
 in nineteenth century Germany.
 
+You can view the translation in its present state
+[here](https://wyleyr.github.io/hankel1867tr/).
+
 The original text, with sometimes-workable OCR, is available from the
 [Internet Archive](https://archive.org/details/vorlesungenberd01hankgoog/).
 
