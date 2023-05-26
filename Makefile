@@ -8,6 +8,6 @@ public_html/index.html: build/parallel.html build/parallel.css
 	cp build/parallel.html public_html/index.html && \
 	cp build/parallel.css public_html/parallel.css
 
-gh_pages: public_html/index.html
-	git add public_html && \
+gh_pages: docs/index.html
+	git add docs && \
 	echo "New version staged"
