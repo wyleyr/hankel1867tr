@@ -10,7 +10,12 @@
   text-align: justify;
 }
 
-.parallel h2, .parallel h3, .parallel h4 {
+.parallel ol {
+  width: 50%;
+  padding: 0 2em 0 2em;
+}
+
+.parallel h1, .parallel h2, .parallel h3, .parallel h4 {
   width: 50%;
   padding: 0 auto 0 auto;
 }
@@ -27,4 +32,12 @@ a.origpage {
 
 .footnote {
     font-size: 0.8em;
+}
+
+ol.toc {
+    list-style-type: none;
+}
+
+.text-center {
+    text-align: center !important;
 }
