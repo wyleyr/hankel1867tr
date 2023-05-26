@@ -1,13 +1,20 @@
+# A Translation of Hankel's *Vorlesungen*
+
 This is a work-in-progress English translation of Hermann Hankel's 1867
 *Vorlesungen über die complexen Zahlen und ihre Functionen*
-("Lectures on complex numbers and their functions").
-The original text, with reasonably good OCR, is available from the
+("Lectures on complex numbers and their functions"), a textbook on complex 
+analysis that played an important role in the transition to modern mathematics
+in nineteenth century Germany.
+
+The original text, with sometimes-workable OCR, is available from the
 [Internet Archive](https://archive.org/details/vorlesungenberd01hankgoog/).
 
-This work is not very well known today, even among philosophers and
+## Goals
+
+Hankel's book is not very well known today, even among philosophers and
 historians of mathematics, but it was an important work in its time.
 For example, in Frege's *Grundlagen der Arithmetik*
-("Foundations of arithmetic"), which is *very* widely read among
+("Foundations of arithmetic"), which *is* widely read among
 anglophone philosophers today, Hankel is Frege's most frequently cited
 interlocutor. Frege scholarship could learn a lot from Hankel, but
 because Hankel's text is difficult and hasn't been translated, it
@@ -24,6 +31,8 @@ interest lies mainly in its historical importance and in the
 philosophical approach to the foundations of mathematics which Hankel
 sets out in the initial chapters of the book. The translation is
 focused on these initial chapters.
+
+## Contributing
 
 I update the translation as I find new passages of interest and as I
 learn more about the text and its history. Comments, corrections, and
