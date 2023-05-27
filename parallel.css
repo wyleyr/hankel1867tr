@@ -1,22 +1,25 @@
+body {
+  font-family: "TeX Gyre Schola", "Century Schoolbook", Times, serif;
+}
+
 .parallel {
   display: flex;
-  font-family: "TeX Gyre Schola";
-  
+}
+
+.parallel > * {
+  width: 50%;
 }
 
 .parallel p, .parallel aside {
-  width: 50%;
   padding: 0 2em 0 2em;
   text-align: justify;
 }
 
 .parallel ol {
-  width: 50%;
   padding: 0 2em 0 2em;
 }
 
 .parallel h1, .parallel h2, .parallel h3, .parallel h4 {
-  width: 50%;
   padding: 0 auto 0 auto;
 }
 
