@@ -24,7 +24,17 @@ body {
 }
 
 .sc {
-    font-variant: small-caps;
+  font-variant: small-caps;
+}
+
+cite.quoted {
+  font-style: normal;
+}
+cite.quoted::before {
+    content: open-quote;
+}
+cite.quoted::after {
+    content: close-quote;
 }
 
 
