@@ -54,3 +54,6 @@ ol.toc {
 .text-center {
     text-align: center !important;
 }
+.text-small {
+    font-size: 0.8em;
+}
