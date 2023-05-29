@@ -39,9 +39,9 @@ focused on these initial chapters.
 
 ### Translation
 
-Corresponding paragaphs and other block-level elements are marked up
-by placing both in a `<div>` with class `parallel` and adding a
-language attribute to the respective blocks. The German block
+A paragraph or other block-level element and its corresponding translation
+are marked up by placing both in a `<div>` with class `parallel` and adding a
+language attribute to each block element. The German block
 element appears before the English translation. For example,
 ```
 <div class="parallel">
@@ -55,7 +55,7 @@ The default CSS displays these blocks side by side.
 
 Each chapter (*Abschnitt*) is marked up as a `<section>` with class
 `chapter`. Each numbered subsection is marked up as a `<section>` with
-class `pz` (for *Paragraphzeichen*, the § symbol), inside the chapter
+class `pz` (for *Paragrafzeichen*, the § symbol), inside the chapter
 section of which it is a part. Hankel's unnumbered subsections are
 marked up as `<section>` with class `unnumbered`. Every titled
 `section` has an `id` attribute and is linked from the table of
