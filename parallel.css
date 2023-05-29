@@ -7,7 +7,7 @@ body {
 }
 
 .parallel > * {
-  width: 50%;
+  flex: 1;
 }
 
 .parallel p, .parallel aside {
