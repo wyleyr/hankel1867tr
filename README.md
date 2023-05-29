@@ -35,6 +35,82 @@ philosophical approach to the foundations of mathematics which Hankel
 sets out in the initial chapters of the book. The translation is
 focused on these initial chapters.
 
+## Markup conventions
+
+### Translation
+
+Corresponding paragaphs and other block-level elements are marked up
+by placing both in a `<div>` with class `parallel` and adding a
+language attribute to the respective blocks. The German block
+element appears before the English translation. For example,
+```
+<div class="parallel">
+<p lang="de">Das ist ein deutscher Absatz.</p>
+<p lang="en">This is an English paragraph.</p>
+</div>
+```
+The default CSS displays these blocks side by side.
+
+### Document structure
+
+Each chapter (*Abschnitt*) is marked up as a `<section>` with class
+`chapter`. Each numbered subsection is marked up as a `<section>` with
+class `pz` (for *Paragraphzeichen*, the § symbol), inside the chapter
+section of which it is a part. Hankel's unnumbered subsections are
+marked up as `<section>` with class `unnumbered`. Every titled
+`section` has an `id` attribute and is linked from the table of
+contents.
+
+The original page numbers are marked in both German and English using
+`<a>` elements of class `origpage` and have `lang`, `id`, and `title`
+attributes to make them useful for internal links and for citations to
+the original text. The `id` and `title` are related to the original
+page number in an obvious way:
+```
+  <a lang="de" class="origpage" id="S.1" title="Seite 1"></a>
+  <a lang="en" class="origpage" id="p.1" title="Page 1"></a>
+```
+Where a page break occurs inside a paragraph, the German link is placed
+immediately before the first word of the page indicated, and as
+near as possible to the corresponding position in the English translation.
+(This is why the page break must be marked with *two* anchors.)
+
+Where a page break occurs outside any paragraph (e.g. at the start of
+a chapter), the `<a>` are placed by themselves in a `<div class="parallel">`.
+
+One challenge I haven't completely solved yet is how to markup
+footnotes. For now I have decided to place them directly following the
+paragraph where they are referenced. Footnotes are marked up using
+`<p>` elements inside an `<aside>` element with class `footnote`.
+
+### Typography
+
+`<q>` elements are used to mark up double quotes, which (in
+combination with the `lang` attribute of the surrounding paragraph)
+ensures they are displayed in the right style for the language. If the
+quote is drawn from another text which is also available on the Web, I
+try to record that in the `cite` attribute.
+
+Titles of texts which Hankel explicitly mentions are marked up with
+`<cite>` and, if they are available on the Web, wrapped in a link to
+the other text.
+
+The class `.sc` is used for text in small caps, e.g. proper names.
+
+The class `.text-small` is used for text set in small type.
+
+The class `.text-center` is used for centered text. 
+
+### Mathematics
+
+Mathematics is marked up in MathML, with the LaTeX equivalent in an
+`annotation` element for accessibility. I produce the markup by first
+typing the LaTeX equivalent, then converting it to MathML with Pandoc
+like
+```
+pandoc -f latex -t html --mathml
+```
+
 ## Contributing
 
 I update the translation as I find new passages of interest and as I
