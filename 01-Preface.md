@@ -164,7 +164,7 @@ $(a + b)$ bediente. Indess hat der Umstand, dass sich an letzteres
 Zeichen gar zu leicht die gewohnten Vorstellungen anknüpfen, schliesslich 
 den Ausschlag zu Gunsten der im Texte angewandten Bezeichnung gegeben. 
 </p>
-<p lang="en" id="p.VIIn1"> <sup>\*</sup>In §§4 and 5 I have only
+<p lang="en" id="p.VIIn1"> <sup>\*</sup> In §§4 and 5 I have only
 with displeasure used a somewhat awkward notation for the operations,
 and I was long undecided whether I shouldn't prevent the appearance of
 abstruseness which the investigations, unavoidable for what follows,
