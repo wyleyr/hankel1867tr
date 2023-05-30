@@ -81,20 +81,103 @@ Corresponding to these two meanings there are two ways of conjoining
 
 <div class="parallel">
 <p lang="de">
-<a lang="de" class="origpage" id="S.3" title="Seite 3"></a>
-  ...
+[Addition.]{.pname} Denkt man sich die numerische Einheit $a$ mal, dann $b$ mal
+gesetzt, und fasst diese Setzungen in eins zusammen, so nennt man das
+Resultat die Summe der einzelnen Setzungen $(a + b)$. Die Addition
+zweier Zahlen besteht in demselben Processe, der zu ihrer Erzeugung
+selbst geführt hat und man sieht, dass die Summe und damit auch das zu
+ihrer Bezeichnung angewandte Symbol $+$ den beiden Hauptgesetzen:
+$$ a + (b + c) = (a + b) + c = a + b + c $$
+$$ a + b = b + a $$
+unterliegen, von denen das erste als das der <dfn>Associativität</dfn>, 
+das zweite als das der <dfn>Commutativität</dfn> bezeichnet wird. Die 
+Addition ist eine eindeutige Operation, d. h. das Resultat der Addition 
+$(a + b)$ ist ein bestimmtes; sie hat ferner die Eigenschaft, dass 
+wenn ein Summand seinen Werth ändert, während der andere constant bleibt,
+dann sich jedesmal das Resultat der Operation ändert. 
+Die hier angegebenen Eigenschaften der Addition sind ausreichend, 
+um aus ihnen alle weiteren Folgerungen über Sunmienbildung abzuleiten,
+ohne dass man sich jemals dabei der realen Bedeutung der 
+Addition erinnern müsste. Sie bilden insofern das System der Bedingungen,
+welche nöthig und ausreichend sind, um die Operation <dfn>formal</dfn> zu definiren.
 </p>
 <p lang="en">
-sufficient to derive all further consequences about formation of sums
+...sufficient to derive all further consequences about formation of sums
 [Summenbildung] from them
-form the system of
+...form the system of
 conditions which are necessary and sufficient to formally define the
 operation [of addition]
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+[Multiplication.]{.pname} Die Multiplication besteht in der Verknüpfung 
+einer Ordinalzahl $b$ mit einer Cardinalzahl $a$ und verlangt, dass $b$ 
+$a$ mal genommen werden soll. Das Resultat dieser Operation, das 
+Product $a . b$ kann auch als diejenige Zahl angesehen werden, welche 
+aus $b$ auf dieselbe Weise hervorgeht, wie $a$ aus der numerischen 
+<a lang="de" class="origpage" id="S.3" title="Seite 3"></a>
+Einheit. Bilden wir jetzt ein Product durch $b$maliges Vervielfachen
+der Ordinalzahl $a$, so ist es keineswegs selbstverständlich, sondern
+bedarf eines Beweises, dass
+$$ a.b = b.a $$
+also das <dfn>commutative</dfn> Gesetz gilt. Dieser Beweis kann durch eine im
+Grunde geometrische Construction in einer Ebene ebenso leicht geführt
+werden<a href="#S.3n1"><sup>*</sup></a>, als im Raume der Beweis für das
+<dfn>associative</dfn> Gesetz:
+$$ a.(b.c) = (a.b).c $$
+wobei man darauf achten mag, dass bald von dem ordinalen, bald 
+von dem cardinalen Begriffe der Zahl Gebrauch gemacht wird. 
+</p>
+<p lang="en">
+[Multiplication.]{.pname} ...
 <a lang="en" class="origpage" id="p.3" title="Page 3"></a>
 exhausted the fundamental properties [of addition and multiplication] and at the
 same time given their formal definition
 </p>
 </div>
+
+<aside class="parallel footnote">
+<p lang="de" id="S.3n1"><sup>\*</sup>Vergl. [Lejeune-Dirichlet]{.sc},
+<cite>Vorl. über Zahlentheorie</cite>. 1863. S. 1. 
+</p>
+<p lang="en" id="p.3n1"><sup>\*</sup>Compare [Lejeune-Dirichlet]{.sc},
+<cite>Vorl. über Zahlentheorie</cite>. 1863. p. 1. 
+</p>
+</aside>
+
+<div class="parallel">
+<p lang="de">
+Die Multiplication hängt ihrem Begriff nach mit der Addition 
+eng zusammen, denn es ist allgemein: 
+$$
+(b+c)a = ba + ca, a(b+c) = ab + ac;
+$$
+--- eine Eigenschaft, welche man die
+<dfn>distributive</dfn><a href="S.3n2"><sup>**</sup></a> nennt. Fügen 
+wir noch hinzu, dass $1a = a$ ist und die Multiplication hinsichtlich 
+der Eindeutigkeit ebenso beschaffen ist wie die Addition, so hat man 
+ihre fundamentalen Eigenschaften erschöpft, und mit diesen zugleich
+ihre formale Definition gegeben. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<aside class="parallel footnote">
+<p lang="de" id="S.3n2"><sup>\*\*</sup>
+Diese Namen sind in England seit 1840 vollkommen eingebürgert und
+ich habe daher nicht Anstand genommen, sie auch auf deutschen Boden zu
+verpflanzen; <q>distributiv</q> und <q>commutativ</q> sind von [Servois]{.sc} eingeführt 
+worden ([Gergonne]{.sc}'s Ann. Bd. V. 1814, S. 93), <q>associativ</q> wahrscheinlich 
+zuerst von Sir W. R. [Hamilton]{.sc}. 
+</p>
+<p lang="en" id="p.3n2"><sup>\*\*</sup>
+...
+</p>
+</aside>
+
+
 </section>
 
 <section class="pz" id="§2">
