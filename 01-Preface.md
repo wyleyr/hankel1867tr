@@ -1,9 +1,10 @@
 <div class="parallel">
   <a lang="de" class="origpage" id="S.V" title="Seite V"></a>
+
   <a lang="en" class="origpage" id="p.V" title="Page V"></a>
 </div>
 
-# [Vorrede]{lang="de"} [Preface]{lang="en"} {.parallel}
+## [Vorrede]{lang="de"} [Preface]{lang="en"} {.parallel}
 
 <div class="parallel">
 <p lang="de"> Das Werk, dessen erster Theil hier vorliegt, ist aus der
