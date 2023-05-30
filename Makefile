@@ -1,6 +1,15 @@
 # Just a stupid-simple build process for now: 
-build/parallel.html: HEAD.html 00-Titlepage.html 01-Preface.html 02-TOC.html 03-I-Exposition.html FOOT.html parallel.css
-	cat HEAD.html 00-Titlepage.html 01-Preface.html 02-TOC.html 03-I-Exposition.html FOOT.html > build/parallel.html && \
+build/parallel.html: parallel.css 00-Titlepage.md 01-Preface.md 02-TOC.html 03-I-Exposition.md 
+	pandoc -o build/parallel.html\
+		-f markdown+raw_html -t html \
+		--standalone \
+		--mathml \
+		--css=parallel.css \
+		metadata.md \
+		00-Titlepage.md\
+		01-Preface.md\
+		02-TOC.html \
+		03-I-Exposition.md && \
 	cp parallel.css build/
 
 # Serve the built version via Github Pages:
