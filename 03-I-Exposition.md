@@ -179,6 +179,46 @@ zuerst von Sir W. R. [Hamilton]{.sc}.
 </p>
 </aside>
 
+<div class="parallel">
+<p lang="de">
+[Potenzirung.]{.pname} Die Potenzirung ist eine Operation, welche aus
+der Multiplication ebenso hervorgeht, wie diese aus der Addition.
+Unter $a^b$ versteht man den Factor $a,$ $b$ mal gesetzt. Was die
+Gesetze dieser Operation betrifft, so findet das commutative Princip
+nicht statt, denn $a^b$ ist von $b^a$ im Allgemeinen verschieden; auch
+das associative Gesetz nicht, denn es ist
+$$ a^(b^c) \mbox{ von } (a^b)^c $$
+verschieden. Es ist aber
+$$ (a)^{bc} = (a^b)^c $$
+$$ (bc)^a = b^a c^a $$
+$$ a^{b+c} = a^b a^c $$
+<a lang="de" class="origpage" id="S.4" title="Seite 4"></a>
+und diese Gleichungen repräsentiren das distributive Princip bei 
+dieser Operation. 
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.4" title="Page 4"></a>
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Die Wiederholung der Potenzirung liefert wieder eine neue Operation.
+Nimmt man nämlich zunächst $a$ welches auch mit $a_1$ bezeichnet
+werden kann, und erhebt es auf die $a_1$te Potenz, so erhält man
+$a^a$, welches etwa als $a_2$ bezeichnet werden möge. Erhebt man dann
+$a$ auf die $a_2$te Potenz und nennt das Resultat $a_3$, so dass
+$$ a_3 = a^{a_2} = a^{(a^a)} $$
+$$ a_4 = a^{a_3} = a^{(a^{(a^a)})} $$
+$$ . . . . . . $$
+so erhält man allgemein $a_b$ als eine neue Operation, deren weitere 
+Untersuchung sich indess bis jetzt in der Wissenschaft nicht als 
+nothwendig erwiesen hat. 
+</p>
+<p lang="en">
+</p>
+</div>
 
 </section>
 
@@ -187,7 +227,6 @@ zuerst von Sir W. R. [Hamilton]{.sc}.
 
 <div class="parallel">
 <p lang="de">...
-  <a lang="de" class="origpage" id="S.4" title="Seite 4"></a>
 In einer Gleichung $a + b = c$ war bisher die Summe $c$ aus den
 beiden als bekannt vorausgesetzten Gliedern $a$, $b$ abgeleitet.
 Man kann jetzt fragen, welchen Werth muss $x$ haben, damit $x + b =
@@ -196,7 +235,6 @@ Werth von $x$, für welchen $x + b = c$, und den man mit $x = b -
 c$ [sic; probably a printing error] bezeichnet.
 </p>
 <p lang="en">
-  <a lang="en" class="origpage" id="p.4" title="Page 4"></a>
   ...
 </p>
 </div>
