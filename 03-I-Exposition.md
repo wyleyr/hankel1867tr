@@ -139,10 +139,10 @@ same time given their formal definition
 </div>
 
 <aside class="parallel footnote">
-<p lang="de" id="S.3n1"><sup>\*</sup>Vergl. [Lejeune-Dirichlet]{.sc},
+<p lang="de" id="S.3n1"><sup>\*</sup> Vergl. [Lejeune-Dirichlet]{.sc},
 <cite>Vorl. über Zahlentheorie</cite>. 1863. S. 1. 
 </p>
-<p lang="en" id="p.3n1"><sup>\*</sup>Compare [Lejeune-Dirichlet]{.sc},
+<p lang="en" id="p.3n1"><sup>\*</sup> Compare [Lejeune-Dirichlet]{.sc},
 <cite>Vorl. über Zahlentheorie</cite>. 1863. p. 1. 
 </p>
 </aside>
@@ -303,7 +303,7 @@ explanation of number thus becomes:
 <div class="parallel">
 <p lang="de">
 Die Zahl ist der begriffliche Ausdruck der gegenseitigen Beziehung
-zweier Object, soweit dieselbe quantitativen Messungen zugänglich ist.
+zweier Objecte, soweit dieselbe quantitativen Messungen zugänglich ist.
 </p>
 <p lang="en">
 Number is the conceptual expression of the mutual relation of two
