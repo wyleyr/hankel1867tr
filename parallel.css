@@ -31,7 +31,7 @@ body {
   font-variant: small-caps;
 }
 
-cite.quoted {
+cite {
   font-style: normal;
 }
 cite.quoted::before {
