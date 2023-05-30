@@ -73,7 +73,7 @@ war ich gezwungen, auf Untersuchungen über complexe Zahlen im
 Allgemeinen (VI. Abschnitt) einzugehen, und neben jenen älteren
 complexen Zahlen, zum factischen Beweise der Möglichkeit von Zahlen,
 deren Einheiten nicht allen Gesetzen der <q>arithmetica
-universalis</q>[<sup>*</sup>](#S.VIn1) folgen, wenigstens einige
+universalis</q><a href="#S.VIn1"><sup>\*</sup></a> folgen, wenigstens einige
 abweichende Zahlensysteme zu behandeln. Ich habe deshalb im VIII. und
 IX. Abschnitt die Theorie der Quaternionen Sir W. R. [Hamilton]{.sc}'s,
 die in England allgemein bekannt und gebraucht, in Deutschland aber
@@ -110,7 +110,7 @@ I was forced into investigations of complex numbers in general (Section
 VI), and besides those older complex numbers, to treat at least a few
 deviant number systems for the sake of a factual proof of the
 possibility of numbers whose units do not follow all the laws of
-<q>arithmetica universalis</q>[<sup>*<sup>](#p.VIn1). I have
+<q>arithmetica universalis</q><a href="#p.VIn1"><sup>\*<sup></a>. I have
 therefore in Sections VIII and IX presented the theory of quaternions of
 Sir W.R. [Hamilton]{.sc}, which in England is generally known and in
 use, but which in Germany has remained almost completely unknown; and I
@@ -128,10 +128,9 @@ given a place, though a smaller one, in Section VII.
 </div>
  
 <aside class="parallel footnote">
-<p lang="de" id="S.VIn1">Ich nehme dies Wort im Folgenden überall in dem durch
+<p lang="de" id="S.VIn1"><sup>\*</sup> Ich nehme dies Wort im Folgenden überall in dem durch
 [Newton]{.sc}'s gleichnamiges Werk bekannten Sinne.</p>
-
-<p lang="en" id="p.VIn1">I take this word everywhere in the following in the sense
+<p lang="en" id="p.VIn1"><sup>\*</sup> I take this word everywhere in the following in the sense
 made well known by [Newton]{.sc}'s work of the same name.</p>
 </aside>
 
@@ -149,34 +148,31 @@ Zahlen und der vier Species gezeigt und das hodegetische Princip
 der Permanenz der formalen Gresetze aufgestellt ist, wird im 
 II. Abschnitte die Natur von Operationen, welche in ihren formalen Bedingungen
 denen der arithmetica universalis nachgebildet 
-sind, ausführlich untersucht. <a href="#S.VIIn1">*)</a> 
+sind, ausführlich untersucht. <a href="#S.VIIn1"><sup>\*</sup></a> 
 </p>
-<p lang="en">
-  ...
-</p>
+<p lang="en"> ... </p>
 </div>
 
 <aside class="parallel footnote">
-<p lang="de" id="S.VIIn1">*) Ich habe in den §§. 4 und 5 nur ungern eine etwas schwerfällige Bezeichnung
-der Operationen angewandt, und lange geschwankt, ob ich den 
-Schein des Abstrusen, welchen diese für das folgende unentbehrlichen Untersuchungen
-annehmen könnten, nicht dadurch vermeiden sollte, dass ich statt 
-des Zeichens
+<p lang="de" id="S.VIIn1"><sup>\*</sup> Ich habe in den §§. 4 und 5
+nur ungern eine etwas schwerfällige Bezeichnung der Operationen
+angewandt, und lange geschwankt, ob ich den Schein des Abstrusen,
+welchen diese für das folgende unentbehrlichen Untersuchungen annehmen
+könnten, nicht dadurch vermeiden sollte, dass ich statt des Zeichens
 $\Theta(a,b)$ für eine thetische Verknüpfung mich des übersichtlicheren
-$(a + b)$
-bediente. Indess hat der Umstand, dass sich an letzteres 
+$(a + b)$ bediente. Indess hat der Umstand, dass sich an letzteres 
 Zeichen gar zu leicht die gewohnten Vorstellungen anknüpfen, schliesslich 
 den Ausschlag zu Gunsten der im Texte angewandten Bezeichnung gegeben. 
 </p>
-<p lang="en" id="p.VIIn1">
-In §§. 4 and 5 I have only with displeasure used a somewhat awkward
-notation for the operations, and I was long undecided whether I
-shouldn't prevent the appearance of abstruseness which the
-investigations, unavoidable for what follows, might take on, by availing
-myself of the clearer $(a + b)$ for a thetic operation, instead of the
-sign $\Theta(a,b)$. The circumstance, however, that the usual ideas
-attach themselves all too easily to the former sign, eventually decided
-in favor of the notation used in the text.
+<p lang="en" id="p.VIIn1"> <sup>\*</sup>In §§4 and 5 I have only
+with displeasure used a somewhat awkward notation for the operations,
+and I was long undecided whether I shouldn't prevent the appearance of
+abstruseness which the investigations, unavoidable for what follows,
+might take on, by availing myself of the clearer $(a + b)$ for a
+thetic operation, instead of the sign $\Theta(a,b)$. The circumstance,
+however, that the usual ideas attach themselves all too easily to the
+former sign, eventually decided in favor of the notation used in the
+text.
 </p>
 </aside>
 
