@@ -61,3 +61,8 @@ ol.toc {
 .text-small {
     font-size: 0.8em;
 }
+
+/* TODO: get pandoc to suppress automatic title output; this is a quick hackaround: */
+h1.title {
+    display: none;
+}
