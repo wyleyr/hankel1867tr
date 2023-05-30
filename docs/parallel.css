@@ -2,15 +2,19 @@ body {
   font-family: "TeX Gyre Schola", "Century Schoolbook", Times, serif;
 }
 
-.parallel {
+.parallel, .titlepages {
   display: flex;
 }
 
-.parallel > * {
-  width: 50%;
+.parallel > *, .titlepages > * {
+  flex: 1;
 }
 
-.parallel p, .parallel aside {
+.titlepages {
+  text-align: center;
+}
+
+.parallel p {
   padding: 0 2em 0 2em;
   text-align: justify;
 }
@@ -46,6 +50,10 @@ a.origpage {
 .footnote {
     font-size: 0.8em;
 }
+/* TODO: this is a quick fix; em is not the right unit, since .footnote makes it smaller */ 
+.footnote p {
+    padding: 0 4em 0 4em;
+}
 
 ol.toc {
     list-style-type: none;
@@ -53,4 +61,19 @@ ol.toc {
 
 .text-center {
     text-align: center !important;
+}
+.text-small {
+    font-size: 0.8em;
+}
+.pname {
+    font-weight: bold;
+}
+dfn {
+    font-style: normal;
+    letter-spacing: 0.2rem;
+}
+
+/* TODO: get pandoc to suppress automatic title output; this is a quick hackaround: */
+h1.title {
+    display: none;
 }
