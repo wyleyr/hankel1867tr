@@ -61,6 +61,13 @@ ol.toc {
 .text-small {
     font-size: 0.8em;
 }
+.pname {
+    font-weight: bold;
+}
+dfn {
+    font-style: normal;
+    letter-spacing: 0.2rem;
+}
 
 /* TODO: get pandoc to suppress automatic title output; this is a quick hackaround: */
 h1.title {
