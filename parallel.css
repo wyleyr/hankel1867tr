@@ -2,12 +2,16 @@ body {
   font-family: "TeX Gyre Schola", "Century Schoolbook", Times, serif;
 }
 
-.parallel {
+.parallel, .titlepages {
   display: flex;
 }
 
-.parallel > * {
+.parallel > *, .titlepages > * {
   flex: 1;
+}
+
+.titlepages {
+  text-align: center;
 }
 
 .parallel p, .parallel aside {
