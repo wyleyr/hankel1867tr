@@ -140,10 +140,12 @@ same time given their formal definition
 
 <aside class="parallel footnote">
 <p lang="de" id="S.3n1"><sup>\*</sup> Vergl. [Lejeune-Dirichlet]{.sc},
-<cite>Vorl. über Zahlentheorie</cite>. 1863. S. 1. 
+<a href="https://archive.org/details/vorlesungenberz03dedegoog">
+<cite>Vorl. über Zahlentheorie</cite></a>. 1863. S. 1. 
 </p>
 <p lang="en" id="p.3n1"><sup>\*</sup> Compare [Lejeune-Dirichlet]{.sc},
-<cite>Vorl. über Zahlentheorie</cite>. 1863. p. 1. 
+<a href="https://archive.org/details/vorlesungenberz03dedegoog">
+<cite>Vorl. über Zahlentheorie</cite></a>. 1863. p. 1. 
 </p>
 </aside>
 
