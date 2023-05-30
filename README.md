@@ -14,19 +14,23 @@ The original text, with sometimes-workable OCR, is available from the
 
 ## Goals
 
-Hankel's book is not very well known today, even among philosophers and
-historians of mathematics, but it was an important work in its time.
-For example, in Frege's *Grundlagen der Arithmetik*
-("Foundations of arithmetic"), which *is* widely read among
-anglophone philosophers today, Hankel is Frege's most frequently cited
+Hankel's book is not very well known today, even among philosophers
+and historians of mathematics, but it was an important work in its
+time. For example, in Frege's *Grundlagen der Arithmetik*
+("Foundations of arithmetic"), which *is* widely read among anglophone
+philosophers today, Hankel is Frege's most frequently cited
 interlocutor. Frege scholarship could learn a lot from Hankel, but
 because Hankel's text is difficult and hasn't been translated, it
-hasn't received much attention.
+hasn't received much attention. By making this translation available,
+I am hoping to make the work more accessible to an English-speaking
+audience (and their search engines and browsers).
 
-By making this translation available, I am hoping to make the work
-more accessible to an English-speaking audience. I am also using the
-project to experiment with the possibilities of publishing a
-translation in a "hypertext-first" format.
+I am also using the project to experiment with the possibilities of
+publishing a translation in a "hypertext-first" format. HTML offers a
+lot of possibilities which scholars have so far not made much use of.
+This is partly because digital texts are hard to cite by traditional
+means (e.g. with page numbers); thus I am taking care to encode the
+features of the original text in the markup.
 
 At the moment, it is not my goal to translate the whole book, which is
 mostly just a mathematics textbook that is by now quite outdated. Its
