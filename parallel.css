@@ -14,7 +14,7 @@ body {
   text-align: center;
 }
 
-.parallel p, .parallel aside {
+.parallel p {
   padding: 0 2em 0 2em;
   text-align: justify;
 }
@@ -49,6 +49,10 @@ a.origpage {
 
 .footnote {
     font-size: 0.8em;
+}
+/* TODO: this is a quick fix; em is not the right unit, since .footnote makes it smaller */ 
+.footnote p {
+    padding: 0 4em 0 4em;
 }
 
 ol.toc {
