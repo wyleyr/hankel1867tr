@@ -6,6 +6,8 @@ build/parallel.html: parallel.css 00-Titlepage.md 01-Preface.md 02-TOC.html 03-I
 		--mathml \
 		--css=parallel.css \
 		metadata.md \
+		--include-in-header=HEAD.html \
+		--include-after-body=FOOT.html \
 		00-Titlepage.md\
 		01-Preface.md\
 		02-TOC.html \
