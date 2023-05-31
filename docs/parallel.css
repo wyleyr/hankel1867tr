@@ -31,7 +31,7 @@ body {
   font-variant: small-caps;
 }
 
-cite.quoted {
+cite {
   font-style: normal;
 }
 cite.quoted::before {
@@ -55,7 +55,7 @@ a.origpage {
     padding: 0 4em 0 4em;
 }
 
-ol.toc {
+.toc ol {
     list-style-type: none;
 }
 
@@ -68,9 +68,9 @@ ol.toc {
 .pname {
     font-weight: bold;
 }
-dfn {
+dfn, em, .text-sperren {
     font-style: normal;
-    letter-spacing: 0.2rem;
+    letter-spacing: 0.15rem;
 }
 
 /* TODO: get pandoc to suppress automatic title output; this is a quick hackaround: */
