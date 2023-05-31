@@ -1,41 +1,42 @@
-::: {#TOC .section}
-<div class="parallel">
-[]{#S.XI .origpage lang="de"}
+<section id="TOC" epub:type="toc">
 
-[]{#p.XI .origpage lang="en"}
+<div class="parallel">
+  <a lang="de" class="origpage" id="S.XI" title="Seite XI"></a>
+
+  <a lang="en" class="origpage" id="p.XI" title="Page XI"></a>
 </div>
 
 ## [Inhaltsverzeichnis]{lang="de"} [Table of contents]{lang="en"} {.parallel}
 
 <nav class="parallel toc">
 <div lang="de">
-1.  [Vorrede](#preface)
+1.  [Vorrede](#Preface)
 2.  [Inhaltsverzeichnis](#TOC)
 </div>
 <div lang="en">
-1.  [Preface](#preface)
+1.  [Preface](#Preface)
 2.  [Table of contents](#TOC)
 </div>
 </nav>
 
-### [I. Abschnitt. Exposition]{lang="de"} [Chapter I. Exposition]{lang="en"} {.parallel}
+### [I. Abschnitt. Exposition](#Ch.I){lang="de"} [Chapter I. Exposition](#Ch.I){lang="en"} {.parallel}
 
 <nav class="parallel toc">
 <div lang="de">
-1.  [§1. Die ganzen Zahlen und ihre thetischen Verbindungen](#S.1)
-2.  [§2. Die lytischen Operationen, Erweiterung des Begriffes der Zahlen](#S.4)
-3.  [§3. Princip der Permanenz formaler Gesetzte](#S.10)
-4.  [Historisches](#S.13)
+1.  [§1. Die ganzen Zahlen und ihre thetischen Verbindungen](#§1)
+2.  [§2. Die lytischen Operationen, Erweiterung des Begriffes der Zahlen](#§2)
+3.  [§3. Princip der Permanenz formaler Gesetzte](#§3)
+4.  [Historisches](#S.13) <!-- TODO -->
 </div>
 <div lang="en">
-1.  [§1. The whole numbers and their thetic combinations](#p.1)
-2.  [§2. The lytic operations, Extension of the concept of numbers](#p.4)
-3.  [§3. The principle of permanence of formal laws](#p.10)
-4.  [Historical remarks](#p.13)
+1.  [§1. The whole numbers and their thetic combinations](#§1)
+2.  [§2. The lytic operations, Extension of the concept of numbers](#§2)
+3.  [§3. The principle of permanence of formal laws](#§3)
+4.  [Historical remarks](#p.13) <!-- TODO -->
 </div>
 </nav>
 
-### [II. Abschnitt. Allgemeine Formenlehre.]{lang="de"} [Chapter II. General Theory of Forms.]{lang="en"} {.parallel}
+### [II. Abschnitt. Allgemeine Formenlehre.](#Ch.II){lang="de"} [Chapter II. General Theory of Forms.](Ch.II){lang="en"} {.parallel}
 
 <nav class="parallel toc">
 <div lang="de">
@@ -52,7 +53,7 @@
 </div>
 </nav>
 
-### [III. Abschnitt. Die reellen Zahlen in ihrem formalen Begriffe.]{lang="de"} [Chapter III. The real numbers in their formal concept.]{lang="en"} {.parallel}
+### [III. Abschnitt. Die reellen Zahlen in ihrem formalen Begriffe.](#Ch.III){lang="de"} [Chapter III. The real numbers in their formal concept.](#Ch.III){lang="en"} {.parallel}
 
 <nav class="parallel toc">
 <div lang="de">
@@ -71,4 +72,4 @@
 </div>
 </nav>
 
-:::
+</section>

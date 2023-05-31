@@ -1,3 +1,5 @@
+<section epub:type="preface" id="Preface">
+
 <div class="parallel">
   <a lang="de" class="origpage" id="S.V" title="Seite V"></a>
 
@@ -344,3 +346,5 @@ University of Leipzig,<br>
 Dr. Hermann Hankel. 
 </p>
 </div>
+
+</section>

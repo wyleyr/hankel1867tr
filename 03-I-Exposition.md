@@ -1,4 +1,5 @@
-<section class="chapter" id="exposition">
+<section epub:type="chapter" id="Ch.I">
+
 <div class="parallel">
   <a lang="de" class="origpage" id="S.1" title="Seite 1"></a>
 
