@@ -467,13 +467,13 @@ möglich gemacht werden können, wo die in der Zahl $a + b\sqrt{-1}$
 ausgesprochene Beziehung nicht realisirt werden kann.
 </p>
 <p lang="en">
-If one wants to reply to the frequently put question of whether a
+If one wants to answer the frequently put question of whether a
 certain number is possible or impossible, one must first get clear
 about the actual sense of this question. Number today is no longer a
 thing, a substance, which exists independently apart from the thinking
 subject and from the objects which give rise to it, an independent
 principle such as the Pythagoreans considered. The question of
-existence can therefore only relate to the thinking subject or the
+existence can therefore only be related to the thinking subject or to the
 objects thought, whose relations the numbers present. The
 mathematician counts as impossible in the strict sense only what is
 logically impossible, i.e., what is self-contradictory. That numbers
@@ -487,8 +487,8 @@ intuition, of the presented [des Actuellen], a substrate for them;
 whether there are objects in which the numbers, i.e. intellectual
 relations of a certain sort, make their appearance.
 In this sense, to anticipate an example to be elaborated in what follows,
-one used to be able to call the numbers combined from $\sqrt{-1}$
-impossible, as no intuitive representation of them whatsoever was known,
+one was once able to call the numbers combined from $\sqrt{-1}$
+impossible, so long as no intuitive representation of them was known,
 and there are still numbers of this sort today.
 But after the numbers $a + b\sqrt{-1}$ have found a geometric
 representation, and their operations have been geometrically
