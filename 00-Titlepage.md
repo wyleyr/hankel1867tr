@@ -74,7 +74,7 @@ especially\
 of the common imaginary numbers\
 and\
 of the [Hamilton]{.sc}ian Quaternions\
-alongside\
+together with\
 their geometric representation
 
 by\

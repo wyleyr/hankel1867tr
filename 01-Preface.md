@@ -167,14 +167,14 @@ Zeichen gar zu leicht die gewohnten Vorstellungen anknüpfen, schliesslich
 den Ausschlag zu Gunsten der im Texte angewandten Bezeichnung gegeben. 
 </p>
 <p lang="en" id="p.VIIn1"> <sup>\*</sup> In §§4 and 5 I have only
-with displeasure used a somewhat awkward notation for the operations,
-and I was long undecided whether I shouldn't prevent the appearance of
-abstruseness which the investigations, unavoidable for what follows,
-might take on, by availing myself of the clearer $(a + b)$ for a
-thetic operation, instead of the sign $\Theta(a,b)$. The circumstance,
-however, that the usual ideas attach themselves all too easily to the
-former sign, eventually decided in favor of the notation used in the
-text.
+reluctantly used a somewhat awkward notation for the operations, and I
+was long undecided whether I shouldn't prevent the appearance of
+abstruseness which the investigations might take on---since they are
+unavoidable for what follows---by availing myself, instead of the sign
+$\Theta(a,b)$ for a thetic operation, of the clearer $(a + b)$. The
+circumstance, however, that the usual ideas attach themselves all too
+easily to the latter sign, eventually decided in favor of the notation
+used in the text.
 </p>
 </aside>
 
