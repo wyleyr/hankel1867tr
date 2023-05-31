@@ -556,18 +556,67 @@ narrower meaning.
 </p>
 </aside>
 
+<div class="parallel">
+<p lang="de">
+[Division und gebrochene Zahlen.]{.pname} Die Lysis der
+multiplicativen Thesis, die Division schliesst die Reihe der
+arithmetischen Fundamentaloperationen, der 4 <dfn>Species</dfn>, zu
+der wir die Addition, Subtraction, Multiplication, Division zählen,
+ab. Die Anwendung dieser 4 Species auf irgend welche Zahlen nennt man
+<q><dfn>rechnen</dfn>.</q>
+</p>
+<p lang="en">...</p>
+</div>
 
 <div class="parallel">
 <p lang="de">
-Diesen gebrochenen Zahlen, welche zunächst als reine Zeichen
+Die Division besteht in der Aufgabe, aus einer Gleichung 
+$$ x.a = b $$
+das $x$ zu bestimmen, wenn $a, b$ ganze Zahlen sind. Es leuchtet ein,
+dass es nicht immer möglich ist, das $x$, sowie es bis jetzt zulässig
+ist, als ganze Zahl zu bestimmen. Soll also die Division unter jeder
+Bedingung möglich gemacht werden, so müssen wir unser Zahlengebiet
+erweitern und in dasselbe neue Zahlen aufnehmen, welche durch:
+$$ x = \frac{b}{a} $$
+bezeichnet werden, so dass 
+$$ \frac{b}{a} a = b$$
+ihre Definition enthält. Letztere Verknüpfung aber, durch welche 
+diese Zeichen einer zunächst unausführbaren Operation definirt 
+werden, die Multiplication, verliert ganz ihre früher festgesetzte 
+Bedeutung der wiederholten Setzung einer gewissen Reihe von Einheiten,
+wenn $x$ keine ganze Zahl ist. Was also ist die Bedeutung 
+der letzten Gleichung? 
+</p>
+<p lang="en">...</p>
+</div>
+<div class="parallel">
+<p lang="de">
+Diesen <dfn>gebrochenen</dfn> Zahlen, welche zunächst als reine Zeichen
 auftreten, kann in vielen Fällen eine actuelle Bedeutung beigelegt
 werden.
-...
+Denkt man sich nämlich die Einheit $+1$ als in $a$ Theile zerlegbar,
+deren einer $\frac{1}{a}$ ist, so kann der reale Begriff der
+Multiplication, wie er früher für ganze Zahlen, d. h. für wirkliche
+gesetzte Objecte gegeben war, auf diese neuen Objecte auch angewandt
+werden und man kann unter
 <a lang="de" class="origpage" id="S.9" title="Seite 9"></a>
+$$ b \frac{1}{a} = \frac{b}{a} $$
+den $b$ mal gesetzten Theil $\frac{1}{a}$ verstehen. Dadurch ist die
+Bedeutung von $\frac{1}{a} b$ noch nicht bestimmt, und wird es erst,
+wenn wir unter einer solchen Multiplication von $\frac{1}{a}$ in $b$
+die Operation verstehen, durch welche $b$ in $a$ Theile zerlegt wird;
+dann wird in der Anschauung der Beweis geliefert werden können, dass
+$$ \frac{1}{a} . b = b . \frac{1}{a} = \frac{b}{a} $$
+und daher das commutative Princip gilt.
 Dabei ist aber zu bemerken, dass eine neue Definition der
 Multiplication in letzterem Falle ausdrücklich gegeben werden musste
 und so gewählt würde, dass dieselben Gesetze, wie zuvor für ganze
-Zahlen, auch bei der Multiplication von Brüchen gelten. 
+Zahlen, auch bei der Multiplication von Brüchen gelten. Die
+gebrochenen Zahlen, weil ihnen an solchen Substanzen oder Relationen,
+welche einer wirklichen Theilung fähig sind, eben diese Theile
+entsprechen, sind von Alters her als reale bezeichnet worden, obgleich
+es unzählig viele Dinge (Individuen) gibt, welche eine Theilung ihrem
+Begriffe nach gar nicht zulassen.
 </p>
 <p lang="en">
 ...To these rational numbers, which appear at first as pure signs, can be
@@ -578,15 +627,25 @@ attached in many cases a presented meaning.
 
 <div class="parallel">
 <p lang="de">
-jene allgemeinen formalen Verhältnisse, deren Möglichkeit von der
-Beschränktheit unserer empirischen Anschauungen unabhängig ist, und
-die man, insofern sie die Bedingung der Möglichkeit realer
-Verhältnisse einschliessen, transscendentale oder potentielle nennen
-kann, werden auch nicht an realen Objecten, sondern an intellectuellen
-oder an
+Eben dieser Umstand, der in ganz gleicher Weise den Begriff des
+Negativen gefährdet, insofern jener umkehrbare Gegensatz nicht in
+allen physischen Grössengebieten vorhanden ist, weist zur Genüge
+daraufhin, dass der Gesichtspunkt, aus dem wir bisher die negativen
+und gebrochenen Zahlen betrachtet haben, nicht der einer reinen
+Theorie ist, welche von dem Inhalte der zu verknüpfenden Objecte
+unabhängig ist. Jene eines wirklichen Gegensatzes fähigen Relationen,
+diese wirklichen Theile eines theilbaren Objectes sind nur gewissen
+Verhältnissen entsprechende concrete Bilder, deren Existenz auf
+zufälligen, aus der specifischen Natur des bestimmten Concreten
+hervorgehenden Bedingungen beruht. Jene allgemeinen formalen
+Verhältnisse, deren Möglichkeit von der Beschränktheit unserer
+empirischen Anschauungen unabhängig ist, und die man, insofern sie die
+Bedingung der Möglichkeit realer Verhältnisse einschliessen,
+transscendentale oder potentielle nennen kann, werden auch nicht an
+realen Objecten, sondern an intellectuellen oder an
 <a lang="de" class="origpage" id="S.10" title="Seite 10"></a>
 Relationen solcher betrachtet weiden müssen, wenn wir uns von
-der Zufälligkeit des Wirklichen befreien wollen. ...
+der Zufälligkeit des Wirklichen befreien wollen. 
 Die Bedingung zur Aufstellung einer allgemeinen Arithmetik ist daher
 eine von aller Anschaaung losgelöste, rein intellectuelle Mathematik,
 eine reine Formenlehre, in welcher nicht Quanta oder ihre Bilder, die
