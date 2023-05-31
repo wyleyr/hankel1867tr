@@ -24,8 +24,8 @@ The default CSS displays the texts in a `parallel` block side by side.
 
 ## Document structure
 
-Each chapter (*Abschnitt*) is marked up as a `<section>` with class
-`chapter`. Each numbered subsection is marked up as a `<section>` with
+Each chapter (*Abschnitt*) is marked up as a `<section>` with 
+`epub:type="chapter"`. Each numbered subsection is marked up as a `<section>` with
 class `pz` (for *Paragrafzeichen*, the § symbol), inside the chapter
 section of which it is a part. Hankel's unnumbered subsections are
 marked up as `<section>` with class `unnumbered`. Every titled
@@ -77,6 +77,10 @@ The class `.sc` is used for text in small caps, e.g. proper names.
 The class `.text-small` is used for text set in small type.
 
 The class `.text-center` is used for centered text. 
+
+The class `.text-sperren` is used for passages where something is emphasized
+via [letter spacing](https://en.wikipedia.org/wiki/Emphasis_(typography)#Letter-spacing),
+but markup as `dfn` or `em` does not seem appropriate. 
 
 ## Mathematics
 
