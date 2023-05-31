@@ -336,13 +336,13 @@ des vorliegenden Werkes einen wesentlichen Einfluss ausgeübt.
 
 <div class="parallel">
 <p lang="de">
-Universität Leipzig,<br>
-<time datetime="1867-05-09">9. Mai 1867</time>.<br>
+Universität Leipzig,\
+<time datetime="1867-05-09">9. Mai 1867</time>.\
 Dr. Hermann Hankel. 
 </p>
 <p lang="en">
-University of Leipzig,<br>
-<time datetime="1867-05-09">9<sup>th</sup> May, 1867</time>.<br>
+University of Leipzig,\
+<time datetime="1867-05-09">9<sup>th</sup> May, 1867</time>.\
 Dr. Hermann Hankel. 
 </p>
 </div>
