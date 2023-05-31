@@ -1,3 +1,4 @@
+<section epub:type="titlepage" id="Titlepages">
 <div class="parallel">
   <a lang="de" class="origpage" id="S.II" title="Seite II"></a>
 
@@ -6,7 +7,7 @@
 
 <div class="titlepages">
 <div lang="de">
-<h1>Vorlesungen über die complexen Zahlen<br>und ihre Functionen</h1>
+<h1>Vorlesungen über die complexen Zahlen<br/>und ihre Functionen</h1>
 
 von\
 Dr. Hermann Hankel
@@ -21,7 +22,7 @@ Leopold Voss,\
 1867
 </div>
 <div lang="en">
-<h1>Lectures on Complex Numbers<br>and their Functions</h1>
+<h1>Lectures on Complex Numbers<br/>and their Functions</h1>
 
 by\
 Dr. Hermann Hankel
@@ -89,3 +90,4 @@ Richard Lawrence\
 </div>
 
 </div>
+</section>
