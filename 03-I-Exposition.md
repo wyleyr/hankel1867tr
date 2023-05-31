@@ -226,147 +226,206 @@ nothwendig erwiesen hat.
 <section class="pz" id="§2">
 ### [§2. Die lytischen Operationen, Erweiterung des Begriffes der Zahlen]{lang="de"} [§2. The lytic operations, Extension of the concept of numbers]{lang="en"} {.parallel}
 
+
 <div class="parallel">
-<p lang="de">...
-In einer Gleichung $a + b = c$ war bisher die Summe $c$ aus den
-beiden als bekannt vorausgesetzten Gliedern $a$, $b$ abgeleitet.
-Man kann jetzt fragen, welchen Werth muss $x$ haben, damit $x + b =
-c$. Nach den oben bemerkten Eigenschaften der Summe gibt es nur einen
-Werth von $x$, für welchen $x + b = c$, und den man mit $x = b -
-c$ [sic; probably a printing error] bezeichnet.
+<p lang="de">
+Die vorstehenden Operationen nenne ich <dfn>thetische</dfn> im
+Gegensatze zu den <dfn>lytischen</dfn>, welche durch Umkehrung aus
+ihnen hervorgehen.
 </p>
-<p lang="en">
-  ...
-</p>
+<p lang="en">...</p>
 </div>
 
 <div class="parallel">
-<p lang="de">...
+<p lang="de">
+[Subtraction. Negative Zahlen.]{.pname} In einer Gleichung $a + b = c$
+war bisher die Summe $c$ aus den beiden als bekannt vorausgesetzten 
+Gliedern $a, b$ abgeleitet. Man kann jetzt fragen, welchen Werth 
+muss $x$ haben, damit $x + b = c$. Nach den oben bemerkten 
+Eigenschaften der Summe gibt es nur Einen Werth von x, für welchen
+$x + b = c$, und den man mit $x = b - c$ [sic.] bezeichnet. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Die Operation, welche $x$ aus $x + b = c$ finden lehrt, heisst 
+Subtraction, und ist keine andere, wenn man $b + x = c$ als die 
+aufzulösende Gleichung ansieht. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Man hat hienach die Identität oder die zur Definition des 
+Zeichen $-$ dienende Gleichung 
+$$ (c — b) + b = c $$ 
+und kann alle bekannten Rechnungsregeln, welche sich auf die 
+additive und subtractive Verbindung von Zahlen beziehen, mit 
+Hülfe dieser Gleichung und der angegebenen Eigenschaften der 
+Addition ableiten. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
   <a lang="de" class="origpage" id="S.5" title="Seite 5"></a>
-  Es liegt auf der Hand, dass es, wenn $b > c$ ist, keine Zahl $x$
-in der Reihe 1,2,3... gibt, welche die betreffende Aufgabe löst: die
-Subtraction is dann unmöglich. Nichts hindert uns jedoch, dass wir in
-diesem Falle die Differenz $c - b$ als ein Zeichen ansehen, welches
+Es liegt auf der Hand, dass es, wenn $b > c$ ist, keine Zahl $x$
+in der Reihe $1, 2, 3...$ gibt, welche die betreffende Aufgabe löst: die
+Subtraction is dann <em>unmöglich</em>. Nichts hindert uns jedoch, dass wir in
+diesem Falle die Differenz $c - b$ als ein <em>Zeichen</em> ansehen, welches
 die Aufgabe löst und mit welchem genau so zu operiren ist, als wenn es
-eine numerische Zahl aus der Reihe 1,2,3... wäre 
+eine numerische Zahl aus der Reihe $1, 2, 3...$ wäre.
 </p>
 <p lang="en">
   <a lang="en" class="origpage" id="p.5" title="Page 5"></a>
 It is immediate that, if $b > c$, there is no number in the series
-1,2,3... which solves the problem given: the subtraction is then
-impossible. Nothing hinders us, however, from looking at the
-difference $c - b$ in this case as a sign which solves the problem
+$1, 2, 3...$ which solves the problem given: the subtraction is then
+<em>impossible</em>. Nothing hinders us, however, from looking at the
+difference $c - b$ in this case as a <em>sign</em> which solves the problem
 and with which one can operate exactly as if it were a 
-number from the series 1,2,3...
+number from the series $1, 2, 3...$.
 </p>
 </div>
 
 <div class="parallel">
 <p lang="de">
-Indem wir so neue negative Zahlen einführen, welche sich durch die
+Die der Variabilität von $b$ und $c$ wegen scheinbar doppelte 
+Reihe von Zahlen, welche so entsteht, kann leicht auf eine einfache 
+zurückgeführt werden: denkt man sich eine Zahl $0$, welche die 
+Eigenschaft hat, dass $a + 0 = a$ sei, was auch a bedeute, so hat 
+man $a - a = 0$, und schreibt man nun statt $0 - a$ einfach $-a$, 
+so kann $c - b = -a$ gesetzt werden. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Indem wir so neue <dfn>negative</dfn> Zahlen einführen, welche sich durch die
 Vorsetzung des $-$, von den bisher allein betrachteten, durch
-Position eines Objectes entstandenen, positiven Zahlen unterscheiden,
-müssen wir offenbar den Begriff der Zahl, wie er oben gefasst wurde,
-erweitern. Es kann dies etwa geschehen, indem wir eine Zahl definiren
-als das Zeichen der Forderung einer Operation, welche an einem irgend
-welchen Objecte vorzunehmen ist und zugleich als das aus der Erfüllung
-jener Forderung Resultirende, wenn jenes Object durch die numerische
+Position eines Objectes entstandenen, <dfn>positiven</dfn> Zahlen unterscheiden,
+müssen wir offenbar den <em>Begriff der Zahl</em>, wie er oben gefasst wurde,
+<em>erweitern</em>. Es kann dies etwa geschehen, indem wir eine <dfn>Zahl</dfn> definiren
+als [das Zeichen der Forderung einer Operation]{.text-sperren}, welche an einem irgend
+welchen Objecte vorzunehmen ist und zugleich als [das aus der Erfüllung
+jener Forderung Resultirende]{.text-sperren}, wenn jenes Object durch die numerische
 Einheit ersetzt wird. So bedeutet 3 oder $+3$ die 3 malige Position
 eines Objectes, 0 die absolute Aufhebung der Position, die man etwa
 sich so hergestellt denken kann, dass man ein Object zunächst 1 mal
-setzt und dann diese Setzung wieder aufhebt, so dass 0 kein Object
+setzt und dann diese Setzung wieder aufhebt, so dass 0 <em>kein</em> Object
 dieser Art bezeichnet. Man sieht aber nicht, wie unter $-3$ eine
 reale Substanz verstanden werden kann, wenn das ursprünglich gesetzte
 Object eine solche ist, und würde im Rechte sein, wenn man $-3$ als
 eine nicht reelle, imaginäre Zahl als eine <q>falsche</q> bezeichnete.
-<q>Positive und negative Zahlen können nur da eine Anwendung finden, wo
+<q cite="https://archive.org/details/werkecarlf02gausrich/page/n183/mode/2up">Positive
+und negative Zahlen können nur da eine Anwendung finden, wo
 das Gezählte ein Entgegengesetztes hat, was mit ihm vereinigt gedacht
 der Vernichtung gleich zu stellen ist. Genau besehen, findet diese
-Vorausssetzung nur da Statt, wo nicht Substanzen (für sich denkbare
-Gegenstände) sondern Relationen zwischen je zweien Gegenständen das
+Vorausssetzung nur da Statt, wo [nicht Substanzen]{.text-sperren} (für sich denkbare
+Gegenstände) sondern [Relationen zwischen je zweien Gegenständen]{.text-sperren} das
 Gezählte sind. Postulirt wird dabei, dass diese Gegenstände auf eine
 <a lang="de" class="origpage" id="S.6" title="Seite 6"></a>
 bestimmte Art in eine Reihe geordnet sind, z.B. $A$, $B$, $C$,
 $D$..., und dass die Relation des $A$ zu $B$ als der Relation
 des $B$ zu $C$ u.s.w., gleich betrachtet werden kann. Hier gehört
-nun zu dem Begriff der Entgegensetzung nichts weiter als der Umtausch
+nun zu dem Begriff der Entgegensetzung nichts weiter als der <em>Umtausch</em>
 der Glieder der Relation, so dass wenn die Relation (oder der
 Uebergang von $A$ zu $B$) als $+1$ gilt, die Relation von $B$
 zu $A$ als $-1$ dargestellt werden muss. Insofern also eine solche
 Reihe auf beiden Seiten unbegrenzt ist, repräsentirt jede reelle ganze
 Zahl die Relation eines beliebig als Anfang gewählten Gliedes zu einem
-bestimmten Gliede der Reihe.</q> So sieht man, dass die Operation, als
+bestimmten Gliede der Reihe.</q><a href="#S.6n1"><sup>*</sup></a>
+So sieht man, dass die Operation, als
 deren Ausdruck wir vorhin eine Zahl ansahen, darin besteht, zwei
 Objecte (Substanzen) unter einander in Beziehung zu setzen und obige
 Erklärung der Zahl wird daher jetzt so gefasst werden können:
 </p>
 <p lang="en">
-In introducing such new negative numbers, which are distinguished
-through the prefixing of $-$ from the positive numbers, which arise
+In introducing such new <dfn>negative</dfn> numbers, which are distinguished
+through the prefixing of $-$ from the <dfn>positive</dfn> numbers, which arise
 through the positing of an object and which up to now we have
 considered alone, we must clearly extend the concept of number as it
 was understood above. This can for example take place by defining a
-number as the sign of the requirement[fn:Forderung] of an operation which is to be
+number as the sign of the postulation [Forderung] of an operation which is to be
 carried out on any arbitrary object and at the same time as that resulting
-from the fulfillment of that requirement when that object is replaced with
+from the fulfillment of that postulate when that object is replaced with
 the numerical unit. Thus 3 or $+3$ means the positing of an object
 three times, 0 the absolute cancellation of this positing, which
-can be thought of like: one first places an object 1 time and then
-cancels this placing, so that 0 signifies no object of this type. One cannot
+can be thought of as produced like: one first places an object 1 time and then
+cancels this placing, so that 0 signifies <em>no</em> object of this type. One cannot
 however see how a real substance can be understood by $-3$, if the
 originally placed object is such an object, and would be within his
 rights if he refers to $-3$ as a non-real, imaginary number, as a
 <q>false</q> one.
-<q>Positive and negative numbers can only find an application where
+<q cite="https://archive.org/details/werkecarlf02gausrich/page/n183/mode/2up">Positive
+and negative numbers can only find an application where
 what is numbered has an inverse which, when imagined unified with it,
 is to be set equal to its cancellation. Looked at
 precisely, this condition only takes place where what is numbered [das
-Gezählte] are not substances (objects thinkable for themselves), but rather
-relations between pairs of objects. In that case it is postulated that
+Gezählte] are [not substances]{.text-sperren} (objects thinkable for themselves), but rather
+[relations between pairs of objects]{.text-sperren}. In that case it is postulated that
 these objects are ordered in a series in a
 <a lang="en" class="origpage" id="p.6" title="Page 6"></a>
 certain way, e.g. $A$,
 $B$, $C$, $D$..., and that the relation of $A$ to $B$ can be
 considered the same as the relation of $B$ to $C$, etc. Nothing
-more belongs here to the concept of inverse than the exchange of the
+more belongs here to the concept of inverse than the <em>exchange</em> of the
 members of the relation, so that when the relation (or the passage
 from $A$ to $B$) is taken to be $+1$, the relation from $B$ to
 $A$ must be depicted as $-1$. Insofar as such a series is
 unlimited on both sides, every whole real number represents the
 relation of one member, arbitrarily chosen as the starting point, to a
-certain other member of the series.</q> Thus one sees that the operation,
+certain other member of the series.</q><a href="#p.6n1"><sup>*</sup></a>
+Thus one sees that the operation,
 whose expression we earlier looked at as a number, can be understood
 as putting two objects in relation to each other, and the above
 explanation of number thus becomes:
 </p>
 </div>
 
+<aside class="parallel footnote">
+<p lang="de" id="S.6n1"><sup>\*</sup>
+[Gauss]{.sc},
+<a href="https://archive.org/details/werkecarlf02gausrich/"><cite>Werke</cite></a>,
+Bd. II, S. 176 in dem Aufsatze von 1831.
+</p>
+<p lang="en" id="p.6n1"><sup>\*</sup>
+[Gauss]{.sc}, 
+<a href="https://archive.org/details/werkecarlf02gausrich/"><cite>Werke</cite></a>,
+Vol. II, p. 176 in the essay from 1831.
+</p>
+</aside>
+
 <div class="parallel">
 <p lang="de">
-Die Zahl ist der begriffliche Ausdruck der gegenseitigen Beziehung
-zweier Objecte, soweit dieselbe quantitativen Messungen zugänglich ist.
+[Die Zahl ist der begriffliche Ausdruck der gegenseitigen Beziehung
+zweier Objecte, soweit dieselbe quantitativen Messungen zugänglich ist.]{.text-sperren}
 </p>
 <p lang="en">
-Number is the conceptual expression of the mutual relation of two
-objects, so far as their relation is accessible to quantitative measurements.
+[Number is the conceptual expression of the mutual relation of two
+objects, so far as this relation is accessible to quantitative measurements.]{.text-sperren}
 </p>
 </div>
 
 <div class="parallel">
 <p lang="de">
 Die eigentlich quantitativen Resultaten solcher Messungen finden ihre
-Darstellung überall in den absoluten ganzen Zahlen; wenn aber eine
+Darstellung überall in den [absoluten ganzen Zahlen]{.text-sperren}; wenn aber eine
 Zahl so beschaffen ist, dass sie mehrere solche absolute Zahlen als
-Elemente enthält, so heisst sie eine zusammengesetzte oder complexe
+Elemente enthält, so heisst sie eine <dfn>zusammengesetzte</dfn> oder <dfn>complexe</dfn>
 Zahl, die durch ihre Zusammensetzung zugleich angibt, in welcher Weise
 diese quantitativen Verhältnisse an den Objecten und ihrer Relation
 zur Erscheinung kommen.
 </p>
 <p lang="en">
 The actually quantitative results of such measurements find their
-presentation [Darstellung] everywhere in the absolute whole numbers;
+representation everywhere in the [absolute whole numbers]{.text-sperren};
 but if a number is so constituted that it contains several such
-absolute numbers as elements, it is called a combined or complex
+absolute numbers as elements, it is called a <dfn>combined</dfn> or <dfn>complex</dfn>
 number, which by its combination at the same time specifies [angeben]
 the way these quantitative relationships make their appearance [zur
 Erscheinung kommen] in the objects and in their relation.
@@ -387,14 +446,25 @@ werden. Als unmöglich gilt dem Mathematiker streng genommen nur das,
 was logisch unmöglich ist, d.h. sich selbst widerspricht. Dass in
 diesem Sinne unmögliche Zahlen nicht
 <a lang="de" class="origpage" id="S.7" title="Seite 7"></a>
-zugelassen werden können, bedarf
-keines Beweises. Sind aber die betreffenden Zahlen logisch möglich,
-ihr Begriff klar und bestimmt definirt und also ohne Widerspruch, so
-kann jene Frage nur darauf hinaus kommen, ob es im Gebiete des
-Realen oder des in der Anschaaung Wirklichen, des Actuellen ein
-Substrat derselben, ob es Objecte gebe, an welchen die Zahlen, also
-die intellectuellen Beziehungen der bestimmten Art zur Erscheinung
-kommen.
+zugelassen werden können, bedarf keines Beweises. Sind aber die
+betreffenden Zahlen logisch möglich, ihr Begriff klar und bestimmt
+definirt und also ohne Widerspruch, so kann jene Frage nur darauf
+hinaus kommen, ob es im Gebiete des Realen oder des in der Anschaaung
+Wirklichen, des Actuellen ein Substrat derselben, ob es Objecte gebe,
+an welchen die Zahlen, also die intellectuellen Beziehungen der
+bestimmten Art zur Erscheinung kommen. In diesem Sinne konnte man,
+wenn hier ein im Folgenden weiter zu erläuterndes Beispiel anticipirt
+wird, die aus $\sqrt{1}$ zusammengesetzten Zahlen solange unmögliche
+nennen, als man keinerlei anschauliche Darstellung derselben kannte,
+und gibt es noch heute Zahlen dieser Art.
+Nachdem aber die Zahlen $a + b\sqrt{-1}$ eine geometrische
+Darstellung gefunden haben, und ihre Operationen geometrisch gedeutet
+worden sind, kann man in keiner Weise dieselben als unmögliche
+bezeichnen; sie sind ganz von derselben Realität als die positiven und
+negativen Zahlen, wenn auch letztere zahlreichere Substrate in der
+Anschauung finden, und in vielen Fällen im Wirklichen dargestellt oder
+möglich gemacht werden können, wo die in der Zahl $a + b\sqrt{-1}$
+ausgesprochene Beziehung nicht realisirt werden kann.
 </p>
 <p lang="en">
 If one wants to reply to the frequently put question of whether a
@@ -416,38 +486,29 @@ this: whether there is in the domain of the real or of the actual in
 intuition, of the presented [des Actuellen], a substrate for them;
 whether there are objects in which the numbers, i.e. intellectual
 relations of a certain sort, make their appearance.
-</p>
-</div>
-
-<div class="parallel">
-<p lang="de">
-Nachdem aber die Zahlen $a + b\sqrt{-1}$ eine geometrische
-Darstellung gefunden haben, und ihre Operationen geometrisch gedeutet
-worden sind, kann man in keiner Weise dieselben als unmögliche
-bezeichnen; sie sind ganz von derselben Realität als die positiven und
-negativen Zahlen, wenn auch letztere zahlreichere Substrate in der
-Anschauung finden, und in vielen Fällen im Wirklichen dargestellt oder
-möglich gemacht werden können, wo die in der Zahl $a + b\sqrt{-1}$
-ausgesprochene Beziehung nicht realisirt werden kann.
-</p>
-<p lang="en">
+In this sense, to anticipate an example to be elaborated in what follows,
+one used to be able to call the numbers combined from $\sqrt{-1}$
+impossible, as no intuitive representation of them whatsoever was known,
+and there are still numbers of this sort today.
 But after the numbers $a + b\sqrt{-1}$ have found a geometric
 representation, and their operations have been geometrically
 interpreted, one can in no way call them impossible; they have exactly
 the same reality as the positive and negative numbers, even if the
 latter find several substrates in intuition, and in many cases can be
-represented in reality, or made possible, where the relation expressed
+presented in reality, or made possible, where the relation expressed
 in the number $a + b\sqrt{-1}$ cannot be realized.
 </p>
 </div>
+
 <div class="parallel">
 <p lang="de">
 Um aller Unklarheit der Begriffe, die so leicht aus der Unbestimmtheit
 der Benennung hervorgeht, zu entgehen, wird man gut thun, solche
 Zahlen, deren Begriff ein vollkommen bestimmter ist, die aber einer
 irgend welchen Construction in der Anschauung nicht fähig sind,
-transcendente, rein mentale, rein intellectuelle oder rein formale zu
-nennen im Gegensatz zu den actuellen Zahlen, welche in der Lehre von
+transcendente, rein mentale, rein intellectuelle oder <dfn>rein formale</dfn> zu
+nennen im Gegensatz zu den <dfn>actuellen</dfn><a href="#S.7n1"><sup>*</sup></a>
+Zahlen, welche in der Lehre von
 den wirklichen Grössen und ihrer Verknüpfung ihre Repräsentation
 finden. Solche Zahlen, welche zwischen beiden in der Mitte stehen, von denen
 man eine vollständige Definition geben, aber im Allgemeinen und von
@@ -461,14 +522,15 @@ formale schlechthin, insofern in ihnen nur eine gewisse formale
 Beziehung zum Ausdrucke kommt.  Dass dieser Gegensatz zwischen den
 transscendenten und actuellen Zahlen in seiner Vermittelung durch die
 formalen Zahlen, kein starrer, sondern ein fliessender ist, wird sich
-im Folgenden klar genug herausstellen.  
+im Folgenden klar genug herausstellen.
 </p>
 <p lang="en">
 To avoid all unclarity of the concepts, which so easily arises from
 the indeterminateness of application [Benennung], one does well to
 call such numbers transcendent, purely mental, purely intellectual or
-purely formal, in contrast to the presented numbers which find their
-representation in the theory of actual magnitudes and their operation
+<dfn>purely formal</dfn>, in contrast to the
+<dfn>presented</dfn><a href="#p.7n1"><sup>*</sup></a> numbers which find their
+representation in the theory of actual magnitudes and their combination
 [Verknüpfung]. Those numbers which stand between these two, of which
 one can give a complete definition, but cannot know in general and in
 advance whether they can be subjected to an intuitive presentation,
@@ -481,6 +543,18 @@ its mediation [Vermittelung] through the formal numbers is not fixed,
 but rather flowing, will be shown clearly enough in the following. 
 </p>
 </div>
+
+<aside class="parallel footnote">
+<p lang="de" id="S.7n1"><sup>\*</sup>
+Die zur Bezeichnung dieser beiden Klassen geeignetsten Namen des 
+Idealen und Realen haben leider schon eine bestimmte engere Bedeutung. 
+</p>
+<p lang="en" id="p.7n1"><sup>\*</sup>
+The names most appropriate for the desigation of these two classes of
+ideal and real numbers unfortunately already have a determined and
+narrower meaning.
+</p>
+</aside>
 
 
 <div class="parallel">
