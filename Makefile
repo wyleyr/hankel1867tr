@@ -1,5 +1,5 @@
 # Just a stupid-simple build process for now: 
-build/parallel.html: parallel.css 00-Titlepage.md 01-Preface.md 02-TOC.html 03-I-Exposition.md 
+build/parallel.html: parallel.css 00-Titlepage.md 01-Preface.md 02-TOC.md 03-I-Exposition.md 
 	pandoc -o build/parallel.html\
 		-f markdown+raw_html -t html \
 		--standalone \
@@ -10,7 +10,7 @@ build/parallel.html: parallel.css 00-Titlepage.md 01-Preface.md 02-TOC.html 03-I
 		--include-after-body=FOOT.html \
 		00-Titlepage.md\
 		01-Preface.md\
-		02-TOC.html \
+		02-TOC.md\
 		03-I-Exposition.md && \
 	cp parallel.css build/
 

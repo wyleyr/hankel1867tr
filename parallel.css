@@ -55,7 +55,7 @@ a.origpage {
     padding: 0 4em 0 4em;
 }
 
-ol.toc {
+.toc ol {
     list-style-type: none;
 }
 
