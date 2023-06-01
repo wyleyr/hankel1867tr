@@ -125,7 +125,7 @@ bedarf eines Beweises, dass
 $$ a.b = b.a $$
 also das <dfn>commutative</dfn> Gesetz gilt. Dieser Beweis kann durch eine im
 Grunde geometrische Construction in einer Ebene ebenso leicht geführt
-werden<a href="#S.3n1"><sup>*</sup></a>, als im Raume der Beweis für das
+werden[\*)](#S.3n1){#S.3n1ref .fnref}, als im Raume der Beweis für das
 <dfn>associative</dfn> Gesetz:
 $$ a.(b.c) = (a.b).c $$
 wobei man darauf achten mag, dass bald von dem ordinalen, bald 
@@ -140,11 +140,11 @@ same time given their formal definition
 </div>
 
 <aside class="parallel footnote">
-<p lang="de" id="S.3n1"><sup>\*</sup> Vergl. [Lejeune-Dirichlet]{.sc},
+<p lang="de" id="S.3n1">\*) Vergl. [Lejeune-Dirichlet]{.sc},
 <a href="https://archive.org/details/vorlesungenberz03dedegoog">
 <cite>Vorl. über Zahlentheorie</cite></a>. 1863. S. 1. 
 </p>
-<p lang="en" id="p.3n1"><sup>\*</sup> Compare [Lejeune-Dirichlet]{.sc},
+<p lang="en" id="p.3n1">\*) Compare [Lejeune-Dirichlet]{.sc},
 <a href="https://archive.org/details/vorlesungenberz03dedegoog">
 <cite>Vorl. über Zahlentheorie</cite></a>. 1863. p. 1. 
 </p>
@@ -158,7 +158,7 @@ $$
 (b+c)a = ba + ca, a(b+c) = ab + ac;
 $$
 --- eine Eigenschaft, welche man die
-<dfn>distributive</dfn><a href="S.3n2"><sup>**</sup></a> nennt. Fügen 
+<dfn>distributive</dfn>[\*\*)](#S.3n2){#S.3n2ref .fnref} nennt. Fügen 
 wir noch hinzu, dass $1a = a$ ist und die Multiplication hinsichtlich 
 der Eindeutigkeit ebenso beschaffen ist wie die Addition, so hat man 
 ihre fundamentalen Eigenschaften erschöpft, und mit diesen zugleich
@@ -168,14 +168,14 @@ ihre formale Definition gegeben.
 </div>
 
 <aside class="parallel footnote">
-<p lang="de" id="S.3n2"><sup>\*\*</sup>
+<p lang="de" id="S.3n2">\*\*)
 Diese Namen sind in England seit 1840 vollkommen eingebürgert und
 ich habe daher nicht Anstand genommen, sie auch auf deutschen Boden zu
 verpflanzen; <q>distributiv</q> und <q>commutativ</q> sind von [Servois]{.sc} eingeführt 
 worden ([Gergonne]{.sc}'s Ann. Bd. V. 1814, S. 93), <q>associativ</q> wahrscheinlich 
 zuerst von Sir W. R. [Hamilton]{.sc}. 
 </p>
-<p lang="en" id="p.3n2"><sup>\*\*</sup>
+<p lang="en" id="p.3n2">\*\*)
 ...
 </p>
 </aside>
@@ -338,7 +338,7 @@ Uebergang von $A$ zu $B$) als $+1$ gilt, die Relation von $B$
 zu $A$ als $-1$ dargestellt werden muss. Insofern also eine solche
 Reihe auf beiden Seiten unbegrenzt ist, repräsentirt jede reelle ganze
 Zahl die Relation eines beliebig als Anfang gewählten Gliedes zu einem
-bestimmten Gliede der Reihe.</q><a href="#S.6n1"><sup>*</sup></a>
+bestimmten Gliede der Reihe.</q>[\*)](#S.6n1){#S.6n1ref .fnref}
 So sieht man, dass die Operation, als
 deren Ausdruck wir vorhin eine Zahl ansahen, darin besteht, zwei
 Objecte (Substanzen) unter einander in Beziehung zu setzen und obige
@@ -379,7 +379,7 @@ from $A$ to $B$) is taken to be $+1$, the relation from $B$ to
 $A$ must be depicted as $-1$. Insofar as such a series is
 unlimited on both sides, every whole real number represents the
 relation of one member, arbitrarily chosen as the starting point, to a
-certain other member of the series.</q><a href="#p.6n1"><sup>*</sup></a>
+certain other member of the series.</q>[\*)](#p.6n1){#p.6n1ref .fnref}
 Thus one sees that the operation,
 whose expression we earlier looked at as a number, can be understood
 as putting two objects in relation to each other, and the above
@@ -388,12 +388,12 @@ explanation of number thus becomes:
 </div>
 
 <aside class="parallel footnote">
-<p lang="de" id="S.6n1"><sup>\*</sup>
+<p lang="de" id="S.6n1">\*)
 [Gauss]{.sc},
 <a href="https://archive.org/details/werkecarlf02gausrich/"><cite>Werke</cite></a>,
 Bd. II, S. 176 in dem Aufsatze von 1831.
 </p>
-<p lang="en" id="p.6n1"><sup>\*</sup>
+<p lang="en" id="p.6n1">\*)
 [Gauss]{.sc}, 
 <a href="https://archive.org/details/werkecarlf02gausrich/"><cite>Werke</cite></a>,
 Vol. II, p. 176 in the essay from 1831.
@@ -507,7 +507,7 @@ der Benennung hervorgeht, zu entgehen, wird man gut thun, solche
 Zahlen, deren Begriff ein vollkommen bestimmter ist, die aber einer
 irgend welchen Construction in der Anschauung nicht fähig sind,
 transcendente, rein mentale, rein intellectuelle oder <dfn>rein formale</dfn> zu
-nennen im Gegensatz zu den <dfn>actuellen</dfn><a href="#S.7n1"><sup>*</sup></a>
+nennen im Gegensatz zu den <dfn>actuellen</dfn>[\*)](#S.7n1){#S.7n1ref .fnref}
 Zahlen, welche in der Lehre von
 den wirklichen Grössen und ihrer Verknüpfung ihre Repräsentation
 finden. Solche Zahlen, welche zwischen beiden in der Mitte stehen, von denen
@@ -529,7 +529,7 @@ To avoid all unclarity of the concepts, which so easily arises from
 the indeterminateness of application [Benennung], one does well to
 call such numbers transcendent, purely mental, purely intellectual or
 <dfn>purely formal</dfn>, in contrast to the
-<dfn>presented</dfn><a href="#p.7n1"><sup>*</sup></a> numbers which find their
+<dfn>presented</dfn>[\*)](#p.7n1){#p.7n1ref .fnref} numbers which find their
 representation in the theory of actual magnitudes and their combination
 [Verknüpfung]. Those numbers which stand between these two, of which
 one can give a complete definition, but cannot know in general and in
@@ -545,11 +545,11 @@ but rather flowing, will be shown clearly enough in the following.
 </div>
 
 <aside class="parallel footnote">
-<p lang="de" id="S.7n1"><sup>\*</sup>
+<p lang="de" id="S.7n1">\*)
 Die zur Bezeichnung dieser beiden Klassen geeignetsten Namen des 
 Idealen und Realen haben leider schon eine bestimmte engere Bedeutung. 
 </p>
-<p lang="en" id="p.7n1"><sup>\*</sup>
+<p lang="en" id="p.7n1">\*)
 The names most appropriate for the desigation of these two classes of
 ideal and real numbers unfortunately already have a determined and
 narrower meaning.
