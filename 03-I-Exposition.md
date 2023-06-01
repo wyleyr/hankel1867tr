@@ -43,7 +43,7 @@ the scene, for she combines [verknüpft] those relations of magnitude,
 of measure, and of number purely with one another, independently of
 the compared objects and substances themselves.
 </p>
-</section>
+</div>
 
 <section class="pz" id="§1">
 ### [§1. Die ganzen Zahlen und ihre thetischen Verbindungen]{lang="de"} [§1. The whole numbers and their thetic combinations]{lang="en"} {.parallel}
@@ -261,7 +261,7 @@ aufzulösende Gleichung ansieht.
 <p lang="de">
 Man hat hienach die Identität oder die zur Definition des 
 Zeichen $-$ dienende Gleichung 
-$$ (c — b) + b = c $$ 
+$$ (c - b) + b = c $$ 
 und kann alle bekannten Rechnungsregeln, welche sich auf die 
 additive und subtractive Verbindung von Zahlen beziehen, mit 
 Hülfe dieser Gleichung und der angegebenen Eigenschaften der 
