@@ -58,6 +58,10 @@ a.fnref {
     padding: 0 4em 0 4em;
 }
 
+span.origphrase{
+    border-bottom: 1px dotted gray;
+}
+
 .toc ol {
     list-style-type: none;
 }

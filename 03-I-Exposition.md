@@ -28,20 +28,22 @@ und der Zahl mit einander verknüpft.
 </p>
 <p lang="en">
 Pure theory, no matter what sort of objects it may refer to,
-everywhere has the task of deriving from given relations [Relationen]
-new relationships [Beziehungen] which are indeed contained in the
+everywhere has the task of deriving from given [relations]{.origphrase title="Relationen"} 
+new [relationships]{.origphrase title="Beziehungen"} which are indeed contained in the
 presupposed ones and set out at the same time as them, but cognition
 of which, in consequence of the natur of the human mind, constitutes a
 scientific advance. The purely formal sciences, logic and mathematics,
 treat of such relations which are, or at least could be, independent
 of the determinate content, the substance of the objects. To
 mathematics fall especially those relations of objects to one another
-which involve the concept of magnitude [Grösse], of measure [Maass],
-of number [Zahl]. Everywhere where these concepts are applicable,
+which involve the concept of [magnitude]{.origphrase title="Grösse"},
+of [measure]{.origphrase title="Maass"}, of [number]{.origphrase title="Zahl"}.
+Everywhere where these concepts are applicable,
 mathematics, without changing her character, can and will step into
-the scene, for she combines [verknüpft] those relations of magnitude,
-of measure, and of number purely with one another, independently of
-the compared objects and substances themselves.
+the scene, for she [combines]{.origphrase title="verknüpft"} those
+relations of magnitude, of measure, and of number purely with one
+another, independently of the compared objects and substances
+themselves.
 </p>
 </div>
 
@@ -75,8 +77,8 @@ $e$. ...
 one then simply sets $1 . 1, 2 . 1, 3 . 1...$ equal to $1, 2, 3...$
 and expresses thus with the numerals two distinct, though closely related, concepts...
 the position of a certain plurality in the ordered number series...
-Corresponding to these two meanings there are two ways of conjoining
-[Verknüpfungsweisen] numbers.
+Corresponding to these two meanings there are two
+[ways of conjoining]{.origphrase title="Verknüpfungsweisen"} numbers.
 </p>
 </div>
 
@@ -103,8 +105,8 @@ Addition erinnern müsste. Sie bilden insofern das System der Bedingungen,
 welche nöthig und ausreichend sind, um die Operation <dfn>formal</dfn> zu definiren.
 </p>
 <p lang="en">
-...sufficient to derive all further consequences about formation of sums
-[Summenbildung] from them
+...sufficient to derive all further consequences about
+[formation of sums]{.origphrase title="Summenbildung"} from them
 ...form the system of
 conditions which are necessary and sufficient to formally define the
 operation [of addition]
@@ -350,7 +352,7 @@ through the prefixing of $-$ from the <dfn>positive</dfn> numbers, which arise
 through the positing of an object and which up to now we have
 considered alone, we must clearly extend the concept of number as it
 was understood above. This can for example take place by defining a
-number as the sign of the postulation [Forderung] of an operation which is to be
+number as the sign of the [postulation]{.origphrase title="Forderung"} of an operation which is to be
 carried out on any arbitrary object and at the same time as that resulting
 from the fulfillment of that postulate when that object is replaced with
 the numerical unit. Thus 3 or $+3$ means the positing of an object
@@ -365,8 +367,9 @@ rights if he refers to $-3$ as a non-real, imaginary number, as a
 and negative numbers can only find an application where
 what is numbered has an inverse which, when imagined unified with it,
 is to be set equal to its cancellation. Looked at
-precisely, this condition only takes place where what is numbered [das
-Gezählte] are [not substances]{.text-sperren} (objects thinkable for themselves), but rather
+precisely, this condition only takes place where
+[what is numbered]{.origphrase title="das Gezählte"}
+are [not substances]{.text-sperren} (objects thinkable for themselves), but rather
 [relations between pairs of objects]{.text-sperren}. In that case it is postulated that
 these objects are ordered in a series in a
 <a lang="en" class="origpage" id="p.6" title="Page 6"></a>
@@ -426,9 +429,9 @@ The actually quantitative results of such measurements find their
 representation everywhere in the [absolute whole numbers]{.text-sperren};
 but if a number is so constituted that it contains several such
 absolute numbers as elements, it is called a <dfn>combined</dfn> or <dfn>complex</dfn>
-number, which by its combination at the same time specifies [angeben]
-the way these quantitative relationships make their appearance [zur
-Erscheinung kommen] in the objects and in their relation.
+number, which by its combination at the same time [specifies]{.origphrase title="angeben"} 
+the way these quantitative relationships [make their appearance]{.origphrase title="zur Erscheinung kommen"}
+in the objects and in their relation.
 </p>
 </div>
 
@@ -526,12 +529,13 @@ im Folgenden klar genug herausstellen.
 </p>
 <p lang="en">
 To avoid all unclarity of the concepts, which so easily arises from
-the indeterminateness of application [Benennung], one does well to
+the indeterminateness of [application]{.origphrase title="Benennung"},  one does well to
 call such numbers transcendent, purely mental, purely intellectual or
 <dfn>purely formal</dfn>, in contrast to the
 <dfn>presented</dfn>[\*)](#p.7n1){#p.7n1ref .fnref} numbers which find their
-representation in the theory of actual magnitudes and their combination
-[Verknüpfung]. Those numbers which stand between these two, of which
+representation in the theory of actual magnitudes and their
+[combination]{.origphrase title="Verknüpfung"}.
+Those numbers which stand between these two, of which
 one can give a complete definition, but cannot know in general and in
 advance whether they can be subjected to an intuitive presentation,
 one might call 'potential', insofar as they can be presented [zu
@@ -539,7 +543,7 @@ actuellen gemacht werden], or purely intellectual, mental, or
 <a lang="en" class="origpage" id="p.8" title="Page 8"></a>
 formal, insofar as only a certain formal relation comes to expression in them.
 That this opposition between the transcendent and presented numbers in
-its mediation [Vermittelung] through the formal numbers is not fixed,
+its [mediation]{.origphrase title="Vermittelung"} through the formal numbers is not fixed,
 but rather flowing, will be shown clearly enough in the following. 
 </p>
 </div>
@@ -701,27 +705,28 @@ absolut zureichenden beschränken müssen.
 <p lang="en"> 
 If $a$, $b$, $c$... are objects or relations of objects which
 are mental or available in intuition, one can think for instance $a$
-and $b$ conjoined [verknüpft] in some way purely conceptually and
+and $b$ [conjoined]{.origphrase title="verknüpft"} in some way purely conceptually and
 formally with one another and regard a new object or new relation
-$c$ as the result of this conjunction [Verknüpfung], which, because
-it in all further conclusions can take the place of [an
-Stelle...treten] the two members $a$, $b$ insofar as they are
-conjoined, should be called /equal/ to the conjunction.
+$c$ as the result of this [conjunction]{.origphrase title="Verknüpfung"}, which, because
+it in all further conclusions can [take the place of]{.origphrase title="an Stelle...treten"}
+the two members $a$, $b$ insofar as they are
+conjoined, should be called *equal* to the conjunction.
 If this conjoining happens in a law-like way and is subject to
 certain rules, then one sees from the beginning that between the
 results of different conjunctions new relations can take place which
 are the consequences of those originally set out, and can be derived
 from the latter via logical inferences which are completely
 independent of the nature of the conjoined objects.
-How we define the rules of purely formal operations [Verknüpfungen],
-i.e., of carrying out operations [Operationen] with mental objects, is
+How we define the rules of purely formal [operations]{.origphrase title="Verknüpfungen"}, 
+i.e., of carrying out [operations]{.origphrase title="Operationen"} with mental objects, is
 our arbitrary choice, except that one essential condition must be
 adhered to: namely that any logical contradiction may not be implied
 in these same rules.
 In order to be convinced that such a contradiction cannot appear in
-any context of these operations [Verknüpfungen], we will have to keep
-the rules independent of each other, so that no rule overlaps another:
-we will have to limit ourselves to the absolute minimum that suffices.
+any combination of these [operations]{.origphrase title="Verknüpfungen"},
+we will have to keep the rules independent of each other, so that no
+rule overlaps another: we will have to limit ourselves to the absolute
+minimum that suffices. 
 </p>
 </div>
 
