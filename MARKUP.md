@@ -22,6 +22,11 @@ and headings like this:
 ```
 The default CSS displays the texts in a `parallel` block side by side.
 
+In the translation, English phrases where a significant translation
+choice has been made or where it can be helpful to know
+the original German are marked up as `span` elements with class
+`origphrase` and a `title` element containing the original German.
+
 ## Document structure
 
 Each chapter (*Abschnitt*) is marked up as a `<section>` with 
