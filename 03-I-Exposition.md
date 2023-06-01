@@ -772,7 +772,7 @@ Wenn zwei in allgemeinen Zeichen der arithmetica universalis
 ausgedrückte Formen einander gleich sind, so sollen sie einander auch
 gleich bleiben, wenn die Zeichen aufhören, einfache Grössen zu
 bezeichnen, und daher auch die Operationen einen irgend welchen
-anderen Inhalt bekommen 
+anderen Inhalt bekommen. 
 </p>
 <p lang="en">
 The guiding principle contained herein can be referred to as the
