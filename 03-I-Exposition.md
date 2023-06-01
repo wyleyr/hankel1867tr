@@ -99,17 +99,32 @@ $(a + b)$ ist ein bestimmtes; sie hat ferner die Eigenschaft, dass
 wenn ein Summand seinen Werth ändert, während der andere constant bleibt,
 dann sich jedesmal das Resultat der Operation ändert. 
 Die hier angegebenen Eigenschaften der Addition sind ausreichend, 
-um aus ihnen alle weiteren Folgerungen über Sunmienbildung abzuleiten,
+um aus ihnen alle weiteren Folgerungen über Summenbildung abzuleiten,
 ohne dass man sich jemals dabei der realen Bedeutung der 
 Addition erinnern müsste. Sie bilden insofern das System der Bedingungen,
 welche nöthig und ausreichend sind, um die Operation <dfn>formal</dfn> zu definiren.
 </p>
 <p lang="en">
-...sufficient to derive all further consequences about
-[formation of sums]{.origphrase title="Summenbildung"} from them
-...form the system of
-conditions which are necessary and sufficient to formally define the
-operation [of addition]
+[Addition.]{.pname} If one thinks of the numerical unit posited $a$
+times, then $b$ times, and combines these positings together into one,
+then the result is called the sum of the individual positings $(a+b)$.
+The addition of two numbers consists in the same process which led to
+the [generation]{.origphrase title="Erzeugung"} of the numbers
+themselves, and one sees that the the sum and also the the symbol $+$
+used for its notation is governed by two main laws
+$$ a + (b + c) = (a + b) + c = a + b + c $$
+$$ a + b = b + a $$
+the first of which is designated that of <dfn>associativity</dfn>, the
+second that of <dfn>commutativity</dfn>. Addition is a
+[single-valued]{.origphrase title="eindeutig"} operation, i.e., the
+result of addition $(a+b)$ is a determinate one; it further has the
+property that if one summand changes its value while the other
+remains constant, then the result of the operation always changes. The
+properties of addition specified here are sufficient to derive all
+further consequences about [sums]{.origphrase title="Summenbildung"},
+without needing to remind oneself of the real meaning of addition in
+doing so. In this sense they form the system of conditions which are
+necessary and sufficient to <dfn>formally</dfn> define the operation.
 </p>
 </div>
 
