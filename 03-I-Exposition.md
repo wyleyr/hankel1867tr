@@ -31,7 +31,7 @@ Pure theory, no matter what sort of objects it may refer to,
 everywhere has the task of deriving from given [relations]{.origphrase title="Relationen"} 
 new [relationships]{.origphrase title="Beziehungen"} which are indeed contained in the
 presupposed ones and set out at the same time as them, but cognition
-of which, in consequence of the natur of the human mind, constitutes a
+of which, in consequence of the nature of the human mind, constitutes a
 scientific advance. The purely formal sciences, logic and mathematics,
 treat of such relations which are, or at least could be, independent
 of the determinate content, the substance of the objects. To
@@ -676,7 +676,7 @@ objects can, but need not, correspond.
  </div>
 
 <div class="parallel">
-<p lang="de">...
+<p lang="de">
 Es seien $a$, $b$, $c$... irgend welche in der Anschaaung
 vorhandene oder mental Objecte oder Relationen von Objecten, so kann
 man sich etwa $a$ und $b$ auf irgend eine Weise rein begrifflich
@@ -744,6 +744,19 @@ Operationen mit mentalen Objecten solchen formalen Regeln unterwerfen,
 dass sie die actuellen Operationen an anschaulichen Objecten und den
 deren Verhältnisse ausdrückenden Zahlen als untergeordnete in sich
 enthalten können.
+Die gemeine Arithmetik, 
+die wesentlich mit einfachen gleichartigen Grössen operirt, und sich 
+als arithmetica numerosa der concreten Zahlzeichen oder auch als 
+arithmetica universalis oder speciosa concret allgemeiner Zeichen 
+(species nach [Vieta]{.sc}) z. B. der Buchstaben bedient, hat uns
+vorstehends ein System von Regeln kennen gelehrt, welche in der 
+That den verlangten Charakter der vollkommenen Independenz 
+unter einander haben. Diese werden wir zum Leitfaden nehmen 
+und Operationen formal so bestimmen, dass die Resultate in die der 
+gewöhnlichen Arithmetik übergehen, wenn an Stelle der mentalen 
+Objecte, an denen operirt wird, solche in der Anschauung existirende
+Objecte getreten sind, deren gegenseitige Relationen durch 
+gemeine Zahlen ausgedrückt werden. 
 </p>
 <p lang="en">...
 <a lang="en" class="origpage" id="p.11" title="Page 11"></a>
@@ -751,11 +764,10 @@ enthalten können.
 </p>
 </div>
 
-
 <div class="parallel">
 <p lang="de">
-Der hierin enthaltene hodegetische Grundsatz kann als das Prinzip der
-Permanenz der formalen Gesetze bezeichnet werden und besteht darin:
+Der hierin enthaltene hodegetische Grundsatz kann als <dfn>das Prinzip der
+Permanenz der formalen Gesetze</dfn> bezeichnet werden und besteht darin:
 Wenn zwei in allgemeinen Zeichen der arithmetica universalis
 ausgedrückte Formen einander gleich sind, so sollen sie einander auch
 gleich bleiben, wenn die Zeichen aufhören, einfache Grössen zu
@@ -764,20 +776,27 @@ anderen Inhalt bekommen
 </p>
 <p lang="en">
 The guiding principle contained herein can be referred to as the
-Principle of Permanence of Formal Laws and consists in the following:
+<dfn>Principle of Permanence of Formal Laws</dfn> and consists in the following:
 if two forms expressed in the general signs of arithmetica universalis
 are equal to one another, then they shall also remain equal to each
 other when the signs cease to signify simple magnitudes and as a
-result the operations acquire some other content.   
+result the operations acquire some other content.
 </p>
 </div>
-</section>
-
 
 <div class="parallel">
 <p lang="de">
-...
+Dies Princip wird im Folgenden unsere Schritte leiten; es darf aber in
+seiner Allgemeinheit nicht ohne Weiteres und überall verwandt werden;
+wir werden es überall nur zur Definition der nothwendigen und
+hinreichenden Regeln, soweit diese von einander unabhängig sind,
+anwenden dürfen. Jedoch werden wir uns durch dasselbe nicht allzusehr
+beschränken lassen, namentlich die Commutativität unserer Operationen
+nicht unbedingt voraussetzen, da es sich als wissenschaftliche
+Nöthwendigkeit gezeigt hat, Operationen
 <a lang="de" class="origpage" id="S.12" title="Seite 12"></a>
+zu betrachten, welche allen Regeln der arithmetischen Multiplication 
+nur mit Ausnahme jener entsprechen. 
 </p>
 <p lang="en">
 ...
@@ -785,13 +804,14 @@ result the operations acquire some other content.
 </p>
 </div>
 
-<section class="unnumbered text-small"> <!-- TODO: is this really a "section"? -->
+<div class="text-small"> 
 <div class="parallel">
 <p lang="de">
 Die rein formale Mathematik, deren Principien wir hier dargelegt
 haben, bestellt nach eben diesen nicht in einer Verallgemeinerung der
 gewöhnlichen Arithmetik; sie ist eine durchaus neue Wissenschaft,
-deren Regeln durch letztere nicht bewiesen, sondern nur exemplificirt
+deren Regeln durch letztere nicht <em>bewiesen</em>,
+sondern nur <em>exemplificirt</em>
 werden, indem die formalen Operationen, auf actuelle Zahlen
 angewandt, dieselben Resultate geben, als die anschaulichen
 Operationen der gemeinen Arithmetik. In letzterer bestimmen die
@@ -815,8 +835,63 @@ eminent fruchtbar für den ganzen Organismus der Mathematik.
 
 <div class="parallel">
 <p lang="de">
-...
+Es ist schwierig schon an dieser Stelle die ganze Wichtigkeit jenes
+Principes nachzuweisen; doch mag wenigstens einiges hier angedeutet
+werden:
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Die reine Theorie der complexen Zahlen beruht auf diesem Princip, das
+uns zur Statuirung der an sich willkührlichen Verknüpfungs-Gesetze
+solcher einen Leitfaden liefert. Der unterschied der complexen
+Zahlensysteme beruht auf particulären, neben den allgemeinen Gesetzen
+zulässigen Bestimmungen, in denen eben der Charakter des
+Zahlensystemes ausgesprochen ist. Doch können wir auf weitere
+allgemeine Erörterung dieses Punktes hier um so leichter verzichten,
+als das ganze vorliegende Werk seiner Entwickelung gewidmet ist.
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Aber noch mehr: Man kann auch auf räumliche Objecte (Punkte, Strecken,
+Flächen- und Körperräume) Operationen anwenden, welche denen der
+gemeinen Arithmetik entsprechen, und die sich in überraschender Weise
+den natürlichen Gesetzen räumlicher Transformationen und Bewegungen
+anschliessen.
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Auch die Mechanik ist der reinen Formenlehre untergeordnet, insofern
+ihre Objecte (Kräfte, Kräftepaare, Momente) nicht allein ihren
+Operationen unterzogen werden können, sondern auch in diesen der
+natürliche, nothwendige Ausdruck mechanischer Beziehungen
+(Zusammensetzung von Kräften, Kräftepaaren, in der Ebene und dem
+Räume) gefunden wird.
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+So erweisen sich denn, wie der Verlauf unserer Entwickelungen im
+Einzelnen darthun wird, die formalen Gesetze, wie sie die
+arithmetischen Operationen zeigen, als von weitreichender Bedeutung;
+das Princip der Permanenz nicht als ein specielles oder nur
+hodegetisches, sondern als ein metaphysisches, das mit unserer ganzen
+Anschauung auf das engste verknüpft ist; die formale Mathematik aber,
+zu der wir von jenen Elementaroperationen durch dieses Princip
+aufsteigen, als eine fundamentale Disciplin, welcher ebensowohl die
 <a lang="de" class="origpage" id="S.13" title="Seite 13"></a>
+Lehre von der Verknüpfung der Grössen in abstracto, als derer in der
+räumlichen Anschauung, als der mechanischen Grössen subordinirt ist.
 </p>
 <p lang="en">
 ...
@@ -824,6 +899,63 @@ eminent fruchtbar für den ganzen Organismus der Mathematik.
 </p>
 </div>
  
+<div class="parallel">
+<p lang="de">
+Wir haben bisher nur von dem Beharren der <em>arithmetischen</em>
+Formeln gesprochen. Doch müssen wir hier schon aufmerksam machen auf
+den allgemeinen Werth, den das Princip der Permanenz formaler Gesetze
+als ein methodologisches für die ganze Mathematik hat: Ist ein
+complexes Zahlensystem, z.B. das gemeine gegeben, dessen Zahlen $a =
+A + Bi$ sind, so kann man innerhalb desselben gewisse Operationen
+vornehmen, z. B. $aa, aaa, aaaa, ...$ die man mit $a^2, a^3, a^4...$
+bezeichnet, wo dann, so lange $M, N$ ganze positive Zahlen sind, die
+Gleichung
+$$ a^Ma^N = a^{M+N} $$
+stattfindet. Dies Gesetz, rein formal betrachtet, hat man nun auf alle
+möglichen reellen Werthe von $M$ und $N$ auszudehnen versucht, und gelangte so 
+zu der Bedeutung von $a^{-1}, a^{-2}, ... a^{\frac{1}{2}}, a^{\frac{1}{3}}...$
+Der Fortschritt der Wissenschaft verlangte dann aber eine Erweiterung
+des Begriffes der Potenzirung auf complexe Exponenten; eine Aufgabe,
+die seit der Mitte des vorigen Jahrhunderts unendlich oft angegriffen
+und mit mehr oder minderer Klarheit behandelt wurde, deren endliche,
+vollkommene Lösung aber erst [Abel]{.sc} gab, indem er obiges formales
+Gesetz als Functionalgleichung zur <em>Definition</em> der Potenz mit
+complexen Exponenten erhob.
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+In ähnlicher Weise ist man neuerdings von der entsprechenden Gleichung
+aus zur Aufstellung des Begriffes negativer, gebrochener
+Differentiationen gelangt; andere Operationen, welche zunächst auch
+nur für ganzzahlige Veränderliche Bedeutung zu haben schienen, z. B.
+die numerischen Facultäten, sind von anderen Gleichungen aus erweitert
+worden. Immer ist die Permanenz formaler Gesetze der leitende
+Grundsatz; die Erfindung ist überall nur insofern selbstständig, als
+sie diejenigen Gesetze auszuwählen hat, die man für permanent erklärt.
+</p>
+<p lang="en">...</p>
+</div>
+<div class="parallel">
+<p lang="de">
+Solche formale Gesetze, die von den gemeinen arithmetischen immerhin
+ganz verschieden sein mögen, können nun einer besonderen
+propädeutischen Untersuchung unterworfen werden, die gänzlich von der
+actuellen Bedeutung der Operationen abstrahirt, und es wird sich dies
+besonders dann als zweckmässig erweisen, wenn dieselben Gesetze mit
+verschiedenem Inhalte mehrmals in verschiedenen Disciplinen
+wiederkehren. Diese formale Mathematik würde dann mit der unter dem
+Namen des <q>calculus of Operations</q> oder <q>symbols</q> besonders
+von den Engländern in letzter Zeit mit specieller Vorliebe gepflegten
+Disciplin zusammenfallen. Hierauf und auf den Nutzen, welchen dieser
+Calcul der Theorie der Functionen leistet, näher einzugehen, liegt
+nicht in dem Zwecke des vorliegenden Werkes.
+</p>
+<p lang="en">...</p>
+</div>
+</div> <!-- .text-small -->
 </section>
 
 
