@@ -260,7 +260,7 @@ war bisher die Summe $c$ aus den beiden als bekannt vorausgesetzten
 Gliedern $a, b$ abgeleitet. Man kann jetzt fragen, welchen Werth 
 muss $x$ haben, damit $x + b = c$. Nach den oben bemerkten 
 Eigenschaften der Summe gibt es nur Einen Werth von x, für welchen
-$x + b = c$, und den man mit $x = b - c$ [sic.] bezeichnet. 
+$x + b = c$, und den man mit [$x = c - b$]{.corrected} bezeichnet. 
 </p>
 <p lang="en">...</p>
 </div>
@@ -974,12 +974,124 @@ nicht in dem Zwecke des vorliegenden Werkes.
 </section>
 
 
-
-<section class="unnumbered text-small" id="exposition-historical">
-  <a lang="de" class="origpage" id="S.14" title="Seite 14"></a>
+<section class="unnumbered text-small" id="Ch.I-historical-remarks">
+<div class="parallel">
+<p lang="de">
+[Historisches.]{.pname} Dass an Stelle des absoluten Grössenbegriffes,
+mit dem die Arithmetik ausschliesslich operirt, ein allgemeinerer
+treten müsse, ist schon so lange als Nothwendigkeit anerkannt und mit
+grösserer oder geringerer Entschiedenheit ausgesprochen worden, als
+sich die imaginären Grössen in
+<a lang="de" class="origpage" id="S.14" title="Seite 14"></a>
+der Algebra und Analysis eine gesicherte Stelle errungen haben. Aber
+auf welch' wunderliche Weise man das Bedürfniss befriedigen zu können
+glaubte, mag unter zahllosen Beispielen, die sich hier beibringen
+liessen, nur an der von [Cauchy]{.sc}
+(<a href="https://archive.org/details/coursdanalysedel00cauc/"><cite>Analyse algébrique</cite></a>, 1821, S. 173 ff.)
+aufgestellten und sehr allgemein verbreiteten Theorie des Imaginären
+dargethan werden:
+</p>
+<p lang="en">...
   <a lang="en" class="origpage" id="p.14" title="Page 14"></a>
-  <a lang="de" class="origpage" id="S.15" title="Seite 15"></a>
+</p>
+</div>
+
+<div class="parallel">
+<p lang="fr">
+<q cite="https://archive.org/details/coursdanalysedel00cauc/page/173/mode/1up">En
+analyse, on appelle [expression symbolique]{.text-sperren} ou
+[Symbole]{.text-sperren} toute combinaison de signes algébriques qui
+ne signifie rien par elle-même, ou à laquelle on attribue une valeur
+différente de celle qu'elle doit naturellement avoir. On nomme de même
+equations symboliques toutes celles qui, prises à la lettre et
+interprétées d'après les conventions généralement établies, sont
+inexactes ou n'ont pas de sens, mais desquelles on peut déduire des
+résultats exacts, en modifiant et altérant selon des règles fixes ou
+ces équations elles-mêmes, ou les symboles qu'elles renferment...
+Parmi les expressions ou équations symboliques dont la considération
+est de quelque importance en analyse, on doit sur tout distinguer
+celles que l'on a nommées imaginaires.</q>
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Sollte man eine Kritik dieses Raisonnements geben, man wüsste in der
+That nicht, wo anfangen. Da soll etwas <q>was nichts bezeichnet</q>,
+oder <q>was etwas anderes bezeichnet, als es naturgemäss bezeichnen
+sollte</q>, etwas <q>Unsinniges</q> oder <q>Ungenaues</q>, mit anderem
+derselben Art gepaart, Reelles erzeugen. Da sollen <q>algebraische
+Zeichen</q> --- sind dies Zeichen für Grössen oder wofür? denn etwas
+muss doch ein Zeichen bezeichnen --- mit einander combinirt werden auf
+eine Weise, die <q>nichts bezeichnet.</q> Ich glaube nicht zu viel zu
+sagen, wenn ich dies ein unerhörtes Spiel mit Worten nenne, das der
+Mathematik, die auf die Klarheit und Evidenz ihrer Begriffe stolz ist
+und stolz sein soll, schlecht ansteht. Wenn nun auch, vermöge der
+eigenthümlichen Natur der mathematischen Methode, die in ihrer
+Entwickelung selbst das Correctiv für die in den allgemeinen Begriffen
+begangenen Fehler und Unklarheiten trägt, die weitere Exposition
+[Cauchy]{.sc}'s in ihren Resultaten richtig ist, so muss doch jenes
+Gaukelspiel, welches durch die Phrase <q>symbolisch</q> nur
+nothdürftig verdeckt wird, fort und fort störend eingreifen, wie er
+denn (S. 175) wiederum ausdrücklich erklärt: <q lang="fr">L'équation 
+$$ \cos(a+b) + \sqrt{-1}\sin(a+b) =
+ (\cos a + \sqrt{-1}\sin a)(\cos b + \sqrt{-1}\sin b) $$
+elle-même, prise à la lettre, se trouve inexacte et n'a pas de
+sens</q> u.s.w.
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Die Begründung der Rechnungsoperationen wird von ihm folgendermassen 
+gegeben:
+<q lang="fr" cite="https://archive.org/details/coursdanalysedel00cauc/page/174/mode/1up">Supposons
+que l'on multiplie l'une par l'autre les deux expressions $(\cos a +
+\sqrt{-1}\sin a)$, $(\cos b + \sqrt{-1}\sin b)$, en opérant d'après les
+règles connues de la multiplication algébrique, comme si $\sqrt{-1}$
+etait une quantite réelle dont le carré fût égal à $-1$.</q> (S. 174)
+<q lang="fr" cite="https://archive.org/details/coursdanalysedel00cauc/page/176/mode/2up">Les
+expressions imaginaires peuvent être soumises, aussi bienque les
+quantités réelles aux diverses Operations de l'algèbre</q> (S. 177)
+u.s.w. Ob dies aber willkührlich, oder nothwendig, und ob es erlaubt
+ist, darüber erfährt man nichts. Eben so oberflächlich als hier das
+Imaginäre behandelt [Cauchy]{.sc} das Negative in der ersten Note der
+Analyse algébrique.
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+<a lang="de" class="origpage" id="S.15" title="Seite 15"></a>
+Man begreift, dass es hier, wo nicht eine Geschichte der Metaphysik
+der mathematischen Grundbegriffe geschrieben werden soll, nicht
+möglich ist, auf die zahllosen Darstellungen einzugehen, welche sich
+von den Begriffen der Zahl, des Negativen, Imaginären und ihrer
+Rechnungsoperationen in den Lehrbüchern finden. Fast jeder
+einigermassen selbstständige Autor hat diese Schwierigkeiten, welche
+eine gründliche Darstellung jener Begriffe in den Elementen hat,
+gefühlt und sie auf unendlich mannigfaltige Weise zu überwinden
+gesucht.
+</p>
+<p lang="en">
   <a lang="en" class="origpage" id="p.15" title="Page 15"></a>
+...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Nachdem ich den Weg, den ich in diesem Werke eingeschlagen habe, als
+den einzigen wissenschaftlich genügenden erkannt hatte, habe ich es mir
+[angelegen]{.corrected} sein lassen, zu ermitteln, wie weit derselbe schon von
+anderen angezeigt worden sei. Meine Ausbeute ist nicht gross
+gewesen:
+</p>
+<p lang="en">...</p>
+</div>
+
   <a lang="de" class="origpage" id="S.16" title="Seite 16"></a>
   <a lang="en" class="origpage" id="p.16" title="Page 16"></a>
   <a lang="de" class="origpage" id="S.17" title="Seite 17"></a>
