@@ -380,10 +380,11 @@ rights if he refers to $-3$ as a non-real, imaginary number, as a
 <q>false</q> one.
 <q cite="https://archive.org/details/werkecarlf02gausrich/page/n183/mode/2up">Positive
 and negative numbers can only find an application where
-what is numbered has an inverse which, when imagined unified with it,
+[what is numbered]{.origphrase title="das Gezählte"}
+has an inverse which, when imagined unified with it,
 is to be set equal to its cancellation. Looked at
 precisely, this condition only takes place where
-[what is numbered]{.origphrase title="das Gezählte"}
+what is numbered
 are [not substances]{.text-sperren} (objects thinkable for themselves), but rather
 [relations between pairs of objects]{.text-sperren}. In that case it is postulated that
 these objects are ordered in a series in a
