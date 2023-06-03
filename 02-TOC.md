@@ -26,13 +26,13 @@
 1.  [§1. Die ganzen Zahlen und ihre thetischen Verbindungen](#§1)
 2.  [§2. Die lytischen Operationen, Erweiterung des Begriffes der Zahlen](#§2)
 3.  [§3. Princip der Permanenz formaler Gesetzte](#§3)
-4.  [Historisches](#S.13) <!-- TODO -->
+4.  [Historisches](#Ch.I-historical-remarks) <!-- TODO -->
 </div>
 <div lang="en">
 1.  [§1. The whole numbers and their thetic combinations](#§1)
 2.  [§2. The lytic operations, Extension of the concept of numbers](#§2)
 3.  [§3. The principle of permanence of formal laws](#§3)
-4.  [Historical remarks](#p.13) <!-- TODO -->
+4.  [Historical remarks](#Ch.I-historical-remarks) <!-- TODO -->
 </div>
 </nav>
 
