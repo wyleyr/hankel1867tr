@@ -997,8 +997,8 @@ dargethan werden:
 </div>
 
 <div class="parallel">
-<p lang="fr">
-<q cite="https://archive.org/details/coursdanalysedel00cauc/page/173/mode/1up">En
+<p lang="de">
+<q lang="fr" cite="https://archive.org/details/coursdanalysedel00cauc/page/173/mode/1up">En
 analyse, on appelle [expression symbolique]{.text-sperren} ou
 [Symbole]{.text-sperren} toute combinaison de signes algébriques qui
 ne signifie rien par elle-même, ou à laquelle on attribue une valeur
