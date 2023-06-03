@@ -502,7 +502,7 @@ be admitted needs no proof. If however the numbers under consideration
 are logically possible, their concept clear and determinately defined
 for us and thus without contradiction, that question can only come to
 this: whether there is in the domain of the real or of the actual in
-intuition, of the presented [des Actuellen], a substrate for them;
+intuition, of the Actual, a substrate for them;
 whether there are objects in which the numbers, i.e. intellectual
 relations of a certain sort, make their appearance.
 In this sense, to anticipate an example to be elaborated in what follows,
@@ -548,17 +548,16 @@ To avoid all unclarity of the concepts, which so easily arises from
 the indeterminateness of [application]{.origphrase title="Benennung"},  one does well to
 call such numbers transcendent, purely mental, purely intellectual or
 <dfn>purely formal</dfn>, in contrast to the
-<dfn>presented</dfn>[\*)](#p.7n1){#p.7n1ref .fnref} numbers which find their
+<dfn>Actual</dfn>[\*)](#p.7n1){#p.7n1ref .fnref} numbers which find their
 representation in the theory of actual magnitudes and their
 [combination]{.origphrase title="Verknüpfung"}.
 Those numbers which stand between these two, of which
 one can give a complete definition, but cannot know in general and in
 advance whether they can be subjected to an intuitive presentation,
-one might call 'potential', insofar as they can be presented [zu
-actuellen gemacht werden], or purely intellectual, mental, or
+one might call 'potential', insofar as they can be made Actual, or purely intellectual, mental, or
 <a lang="en" class="origpage" id="p.8" title="Page 8"></a>
 formal, insofar as only a certain formal relation comes to expression in them.
-That this opposition between the transcendent and presented numbers in
+That this opposition between the transcendent and Actual numbers in
 its [mediation]{.origphrase title="Vermittelung"} through the formal numbers is not fixed,
 but rather flowing, will be shown clearly enough in the following. 
 </p>
@@ -639,8 +638,8 @@ es unzählig viele Dinge (Individuen) gibt, welche eine Theilung ihrem
 Begriffe nach gar nicht zulassen.
 </p>
 <p lang="en">
-...To these rational numbers, which appear at first as pure signs, can be
-attached in many cases a presented meaning. 
+To these rational numbers, which appear at first as pure signs, can be
+attached in many cases an Actual meaning. 
 <a lang="en" class="origpage" id="p.9" title="Page 9"></a>...
 </p>
 </div>
