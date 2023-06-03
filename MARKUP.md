@@ -27,6 +27,10 @@ choice has been made or where it can be helpful to know
 the original German are marked up as `span` elements with class
 `origphrase` and a `title` element containing the original German.
 
+Printing errors in the German are corrected where the intended text is
+clear. The corrected phrase is marked up as a `span` with class
+`corrected`. 
+
 ## Document structure
 
 Each chapter (*Abschnitt*) is marked up as a `<section>` with 
