@@ -89,11 +89,18 @@ intent clear.
   philosophical role, I capitalize it to distinguish it from the others.
 
 <i>verknüpfen, Verknüpfung</i>
-: conjoin, Conjunction, Operation.
+: conjoin, conjunction, operation.
+
+### Corrections
+
+I have corrected printing errors in the German where the intended text
+was clear, and marked the corrected phrase in the HTML.
+
 
 [^contributing]: To learn more about how to contribute, see
   [the project page on GitHub](https://github.com/wyleyr/hankel1867tr) and
   [this guide to contributing on GitHub](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).
+  
 
 </div>
 </div>
