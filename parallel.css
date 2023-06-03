@@ -27,6 +27,10 @@ body {
   padding: 0 auto 0 auto;
 }
 
+math[display="block"] {
+    margin: 0.5em 0 0.5em 0;
+}
+
 .sc {
   font-variant: small-caps;
 }
