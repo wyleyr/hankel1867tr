@@ -1169,8 +1169,119 @@ aber dies nicht an, vergl. §. 10 und 11.
 </p>
 </div>
 
-  <a lang="de" class="origpage" id="S.17" title="Seite 17"></a>
-  <a lang="en" class="origpage" id="p.17" title="Page 17"></a>
+<div class="parallel">
+<p lang="de">
+Der Gedanke, eine reine Formenlehre der Grössenlehre vorangehen zu 
+lassen und letztere aus dem Gesichtspunkte der ersten zu betrachten, so 
+wichtig er auch für die Begründung und die structive Gliederung des Gebäudes 
+der Mathematik sein mochte, war so lange für den weiteren Aufbau derselben 
+ohne wesentlichen Werth, als man sich nur darauf beschränkte, ihn ausschliesslich
+zum Beweise von Sätzen zu verwenden, die nicht allein schon 
+längst bekannt, sondern auch sattsam, wenn auch so zu sagen nur empirisch, 
+begründet waren. Erst [H. Grassmann]{.sc} hat diesen Gedanken mit wahrhaft 
+philosophischem Geiste ergriffen und von einem umfassenden Gesichtspunkte 
+aus betrachtet. In seiner
+<a href="https://archive.org/details/dielinealeausde00grasgoog/"><cite class="quoted">Linealen Ausdehnungslehre ein neuer Zweig der 
+Mathematik</q></a> 1844
+hat er auf ihn eine Wissenschaft gegründet, welche sich 
+ganz allgemein mit abstracten, extensiven, stetigen Grössen, als deren concrete 
+Bilder die räumlichen Figuren (Strecken, Flächen, Körperräume) erscheinen, 
+und mit deren Verknüpfung, beschäftigt. Die rein formalen Verknüpfungsgesetze,
+die man nach dem hergebrachten Ausdrucke arithmetische Operationen nennt,
+finden hier ihr reales, aber abstractes Substrat, und, wenn man 
+sie geometrisch veranschaulicht, ihre concrete reale Bedeutung. Die schönen 
+in diesem Werke niedergelegten Ideen haben eine weitere Ausbildung und 
+Verwendung erhalten in [Grassmann]{.sc}'s Leipziger Preisschrift
+<a href="https://archive.org/details/abn8108.0001.001.umich.edu/"><cite class="quoted">Geometrische Analyse, geknüpft an die von [Leibniz]{.sc} erfundene geometrische Charakteristik</cite></a> 1847
+und in seiner
+<a href="https://archive.org/details/dieausdehnungsl05grasgoog/"><cite class="quoted">Ausdehnungslehre</cite></a> von 1862.
+In letzterem Werke ist 
+die Darstellung eine andere geworden, indem er hier die räumlichen Gebilde 
+durch complexe Zahlen darstellt, deren Einheiten die den geometrischen 
+Operationen entsprechenden Verknüpfungsgesetze zeigen. Mochte die Darstellung
+in dem ersten Werke durch ihr allerdings durchaus sachgemässes 
+philosophisches Gewand und die ungewohnte Form der Operation mit Grössen, 
+welche den Charakter der einfachen in der Arithmetik gebräuchlichen Grössen 
+nicht haben, einigermassen abschrecken, so ist im letzten Werke die dem 
+Mathematiker gewohnte Form eingehalten: Wenn trotzdem die Untersuchungen des
+geistreichen Forschers die Anerkennung nicht gefunden haben, 
+die sie verdienen und die jeder, <em>der sie kennt</em>, ihnen zollen muss,
+so ist dies, meines Erachtens, hauptsächlich dem Umstande zuzuschreiben, dass ihr 
+Verfasser allen Sätzen sogleich die allgemeinste Form (in Bezug auf $n$
+Dimensionen) gegeben, dadurch aber die Uebersichtlichkeit und das
+Verstandniss ungemein erschwert hat. Wo wir im Folgenden [Grassmann]{.sc}'s
+complexe Zahlen und ihre Operationen darzustellen haben, werden wir den Sätzen
+eine anschauliche, geometrische Gestalt geben, die in der That die wesentliche
+Allgemeinheit nicht beeinträchtigt. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Die Anwendung der Principien der allgemeinen Formenlehre auf einfache, 
+<a lang="de" class="origpage" id="S.17" title="Seite 17"></a>
+durch Setzung eines und desselben Objectes entstandene Grössen zeigt
+[Grassmann]{.sc} in seinem
+<a href="https://archive.org/details/lehrbuchderarit00grasgoog/"><cite class="quoted">Lehrbuch der Arithmetik für höhere Lehranstalten</cite></a> (Berlin 1861). 
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.17" title="Page 17"></a>
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Auch [Sir William Rowan Hamilton]{.sc} hat sich
+(<cite lang="en">Theory of conjugate Functions or Algebraic couples; with a Preliminary and Elementary Essay on Algebra as the science of Pure Time</cite>,
+<a href="https://archive.org/details/transactionsofro17iris/page/292/mode/2up">Trans. of the Royal Irish Acad. Vol. XVII. Part II. S. 293</a>, Dublin 1835,
+sowie in der Vorrede zu seinen
+<a href="https://archive.org/details/bub_gb_TCwPAAAAIAAJ"><cite lang="en">Lectures on Quaternions</cite></a>, Dublin 1853)
+sehr eingehend mit der Begründung der Algebra beschäftigt. Er
+betrachtet die Algebra <q>as being no mere Art, nor Language, nor
+primarily a Science of Quantity, but rather as the Science of Order in
+Progression.</q> Als Bild eines solchen Fortschrittes erscheint ihm
+die ideale, von allen Beziehungen von Ursache und Wirkung abstrahirte
+Zeit, da sie die reine Anschauungsform des <em>inneren</em> Sinnes
+nach [Kant]{.sc} (<cite>Kritik der reinen Vernunft</cite>, in der
+<a href="https://archive.org/details/bub_gb_KOqgf0Pr1zsC/page/40/mode/2up">Ausg. v. [Rosenkranz]{.sc} und [Schubert]{.sc}, II. Bd., S. 40</a>)
+sei, besser geeignet als der Raum, die Anschauungsform des
+<em>äusseren</em> Sinnes, insofern der Begriff des Vergangenen,
+Gegenwärtigen und Zukünftigen früher in dem Geiste entstehe, als der
+des Vorwärts und Rückwärts im Räume; die Algebra ist ihm die
+Wissenschaft von der <em>reinen</em> Zeit.
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Gelangt er so zu den Begriffen der reellen Zahlen und ihrer
+Verknüpfungen, so geht er dann zu Paaren, Ternionen, Quaternionen
+u.s.w. solcher Zahlen über und hat deren formale Verknüpfungen und die
+verschiedenen dabei vorhandenen Möglichkeiten ausführlich untersucht
+(s. Vorrede zu den Lectures S. 8--30). Die Auffindung von
+entsprechenden Verknüpfungen räumlicher Gebilde hat ihn auf seine
+<em>Quaternionen</em> geführt. ---
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Wenn nun hienach der Gedanke, die allgemeine Arithmetik und Algebra
+unter dem höheren Gesichtspunkte einer formalen Mathematik, zu der das
+Princip der Permanenz ihrer formalen Gesetze führt, anzusehen, nicht
+absolut neu ist, so darf doch die ganze Art und Weise, in der ich
+denselben für die elementarsten und ältesten Theile der Mathematik
+ebensowohl wie ihre schwierigsten und neuesten [Theorien]{.corrected}
+fruchtbar gemacht und systematisch durchgeführt habe, als neu und
+selbstständig bezeichnet werden.
+</p>
+<p lang="en">...</p>
+</div>
+
 </section>
  
 </section>
