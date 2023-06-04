@@ -1093,8 +1093,82 @@ gewesen:
 <p lang="en">...</p>
 </div>
 
-  <a lang="de" class="origpage" id="S.16" title="Seite 16"></a>
-  <a lang="en" class="origpage" id="p.16" title="Page 16"></a>
+<div class="parallel">
+<p lang="de">
+In England, wo man Untersuchungen über die Grundprincipien der Mathematik
+stets mit Vorliebe gepflegt hat, und wo selbst die bedeutendsten Mathematiker
+es nicht verschmäht haben, in gelehrten Abhandlungen sich mit ihnen 
+zu beschäftigen, ist als derjenige, welcher die Nothwendigkeit einer formalen 
+Mathematik zuerst mit Entschiedenheit erkannt hat, der von seinen Landsleuten
+sehr geschätzte Cambridger Gelehrte [George Peacock]{.sc} zu nennen. In 
+seinem interessanten
+<cite lang="en">Report on Certain Branches of Analysis</cite> (in dem 
+<a
+href="https://archive.org/details/reportofthirdmee34lond/page/184/mode/2up"><cite
+lang="en">III.
+Report of the British Assoc. f. the Advanc. of Science</cite></a>,
+London 1834, S. 185), ist das Princip der Permanenz freilich einerseits zu eng,
+andererseits ohne die 
+nöthige Begründung aufgestellt. Die Werke, in denen er dasselbe weiter ausgeführt
+hat, die
+<a
+href="https://archive.org/details/bub_gb_Ap54gR4l-y8C/page/n3/"><cite lang="en">Arithmetical Algebra</cite></a> (Cambridge 1842) und die
+<a
+href="https://archive.org/details/treatiseonalgebr02peac/page/n5/"><cite
+lang="en">Symbolical Algebra</cite></a> (ebenda 1845)
+kenne ich ebensowenig wie die einschlagenden Abhandlungen von
+[Augustus de Morgan]{.sc}
+<cite class="quoted" lang="en">On the Foundation of Algebra</cite>
+(Cambridge Phil. Transact. T.
+<a href="https://archive.org/details/transactionsofca07camb/page/172/mode/2up">VII, pt. II</a>, 1841 und
+<a href="https://archive.org/details/transactionsofca07camb/page/286/mode/2up">III</a>, 1842;
+<a href="https://archive.org/details/transactionsofca08camb/page/n157/mode/2up">VIII, pt. II</a>, 1844 und 
+<a href="https://archive.org/details/transactionsofca08camb/page/n261/mode/2up">III</a>, 1847). Ueberhaupt ist mir von der zahlreichen Literatur, welche eine von 
+[Peacock]{.sc} ausgehende Cambridger Schule über die von ihnen sogenannte
+<q>symbolische Algebra</q> hervorgebracht hat, nur noch eine kurze Abhandlung von 
+[D. F. Gregory]{.sc}
+<cite class="quoted" lang="en">On the Real Nature of Symbolical Algebra</cite> 
+(<a href="https://archive.org/details/transactionsofro14royal/page/208/mode/2up">Trans. Roy. Soc. Edinburgh. Vol. XIV</a>, 1840, S. 208) zugänglich gewesen. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+In Deutschland hat eine rein formale Darstellung der arithmetischen 
+Operationen [M. Ohm]{.sc} in der ersten Auflage seines
+<a href="https://www.degruyter.com/serial/vvcsm-b/html"><cite class="quoted">Versuchs eines vollkommen consequenten Systems der Mathematik</cite></a> 1822 gegeben,
+die er dann in der zweiten Auflage von 1828, ohne seine Meinung
+darüber zu ändern, <q>dass nur dieser Weg logisch strenge und also
+allein der vollkommene Ueberzeugung gewährende ist</q>, zu Gunsten
+einer grösseren Popularität, so umgestaltet hat, dass er von dem
+gewöhnlichen Zahlenbegriff ausgeht und denselben überall vermischt mit
+dem der formalen Operationen anwendet. Dadurch aber hat, ganz
+abgesehen von der bekannten Pedanterie und Weitläufigkeit in den
+Schriften [Ohm]{.sc}'s, die ganze Darstellung eine höchst unerquickliche
+Zwittergestalt angenommen.
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+In ähnlicher nur noch minder strenger Darstellung taucht der Gedanke 
+[Ohm]{.sc}'s in deutschen Lehrbüchern hie und da auf, aber ohne dass er meines 
+<a lang="de" class="origpage" id="S.16" title="Seite 16"></a>
+Wissens irgendwo so consequent durchgeführt ist, als dies bei den
+Engländern muthmasslich geschehen ist. Man hat sich eben nie
+entschliessen können, die Formenlehre ohne den Zahlbegriff zu
+behandeln, sondern überall ihre Sätze aus der gemeinen Arithmetik
+<em>bewiesen</em>. Bei einer streng wissenschaftlichen Behandlung geht
+aber dies nicht an, vergl. §. 10 und 11.
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.16" title="Page 16"></a>
+...
+</p>
+</div>
+
   <a lang="de" class="origpage" id="S.17" title="Seite 17"></a>
   <a lang="en" class="origpage" id="p.17" title="Page 17"></a>
 </section>
