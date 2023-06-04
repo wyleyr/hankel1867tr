@@ -412,7 +412,7 @@ explanation of number thus becomes:
 Aufsatze von 1831.
 </p>
 <p lang="en" id="p.6n1">\*)
-[Gauss]{.sc}, [cite>Werke</cite>, Vol. II, p. 176][Gauss1831], in the
+[Gauss]{.sc}, [<cite>Werke</cite>, Vol. II, p. 176][Gauss1831], in the
 essay from 1831.
 </p>
 </aside>
