@@ -158,14 +158,14 @@ same time given their formal definition
 
 <aside class="parallel footnote">
 <p lang="de" id="S.3n1">\*) Vergl. [Lejeune-Dirichlet]{.sc},
-<a href="https://archive.org/details/vorlesungenberz03dedegoog">
-<cite>Vorl. über Zahlentheorie</cite></a>. 1863. S. 1. 
+[<cite>Vorl. über Zahlentheorie</cite>][Dirichlet1863]. 1863. S. 1. 
 </p>
 <p lang="en" id="p.3n1">\*) Compare [Lejeune-Dirichlet]{.sc},
-<a href="https://archive.org/details/vorlesungenberz03dedegoog">
-<cite>Vorl. über Zahlentheorie</cite></a>. 1863. p. 1. 
+[<cite>Vorl. über Zahlentheorie</cite>][Dirichlet1863]. 1863. p. 1. 
 </p>
 </aside>
+
+[Dirichlet1863]: https://archive.org/details/vorlesungenberz03dedegoog
 
 <div class="parallel">
 <p lang="de">
@@ -408,16 +408,16 @@ explanation of number thus becomes:
 
 <aside class="parallel footnote">
 <p lang="de" id="S.6n1">\*)
-[Gauss]{.sc},
-<a href="https://archive.org/details/werkecarlf02gausrich/"><cite>Werke</cite></a>,
-Bd. II, S. 176 in dem Aufsatze von 1831.
+[Gauss]{.sc}, [<cite>Werke</cite>][Gauss1831], Bd. II, S. 176 in dem
+Aufsatze von 1831.
 </p>
 <p lang="en" id="p.6n1">\*)
-[Gauss]{.sc}, 
-<a href="https://archive.org/details/werkecarlf02gausrich/"><cite>Werke</cite></a>,
-Vol. II, p. 176 in the essay from 1831.
+[Gauss]{.sc}, [cite>Werke</cite>][Gauss1831], Vol. II, p. 176 in the
+essay from 1831.
 </p>
 </aside>
+
+[Gauss1831]: https://archive.org/details/werkecarlf02gausrich/
 
 <div class="parallel">
 <p lang="de">
@@ -988,7 +988,7 @@ der Algebra und Analysis eine gesicherte Stelle errungen haben. Aber
 auf welch' wunderliche Weise man das Bedürfniss befriedigen zu können
 glaubte, mag unter zahllosen Beispielen, die sich hier beibringen
 liessen, nur an der von [Cauchy]{.sc}
-(<a href="https://archive.org/details/coursdanalysedel00cauc/"><cite>Analyse algébrique</cite></a>, 1821, S. 173 ff.)
+([<cite>Analyse algébrique</cite>][Cauchy1821], 1821, S. 173 ff.)
 aufgestellten und sehr allgemein verbreiteten Theorie des Imaginären
 dargethan werden:
 </p>
@@ -996,6 +996,8 @@ dargethan werden:
   <a lang="en" class="origpage" id="p.14" title="Page 14"></a>
 </p>
 </div>
+
+[Cauchy1821]: https://archive.org/details/coursdanalysedel00cauc/
 
 <div class="parallel">
 <p lang="de">
@@ -1095,61 +1097,66 @@ gewesen:
 
 <div class="parallel">
 <p lang="de">
-In England, wo man Untersuchungen über die Grundprincipien der Mathematik
-stets mit Vorliebe gepflegt hat, und wo selbst die bedeutendsten Mathematiker
-es nicht verschmäht haben, in gelehrten Abhandlungen sich mit ihnen 
-zu beschäftigen, ist als derjenige, welcher die Nothwendigkeit einer formalen 
-Mathematik zuerst mit Entschiedenheit erkannt hat, der von seinen Landsleuten
-sehr geschätzte Cambridger Gelehrte [George Peacock]{.sc} zu nennen. In 
-seinem interessanten
-<cite lang="en">Report on Certain Branches of Analysis</cite> (in dem 
-<a
-href="https://archive.org/details/reportofthirdmee34lond/page/184/mode/2up"><cite
-lang="en">III.
-Report of the British Assoc. f. the Advanc. of Science</cite></a>,
-London 1834, S. 185), ist das Princip der Permanenz freilich einerseits zu eng,
-andererseits ohne die 
-nöthige Begründung aufgestellt. Die Werke, in denen er dasselbe weiter ausgeführt
-hat, die
-<a
-href="https://archive.org/details/bub_gb_Ap54gR4l-y8C/page/n3/"><cite lang="en">Arithmetical Algebra</cite></a> (Cambridge 1842) und die
-<a
-href="https://archive.org/details/treatiseonalgebr02peac/page/n5/"><cite
-lang="en">Symbolical Algebra</cite></a> (ebenda 1845)
-kenne ich ebensowenig wie die einschlagenden Abhandlungen von
-[Augustus de Morgan]{.sc}
+In England, wo man Untersuchungen über die Grundprincipien der
+Mathematik stets mit Vorliebe gepflegt hat, und wo selbst die
+bedeutendsten Mathematiker es nicht verschmäht haben, in gelehrten
+Abhandlungen sich mit ihnen zu beschäftigen, ist als derjenige,
+welcher die Nothwendigkeit einer formalen Mathematik zuerst mit
+Entschiedenheit erkannt hat, der von seinen Landsleuten sehr
+geschätzte Cambridger Gelehrte [George Peacock]{.sc} zu nennen. In
+seinem interessanten <cite lang="en">Report on Certain Branches of
+Analysis</cite> (in dem [<cite lang="en">III. Report of the British
+Assoc. f. the Advanc. of Science</cite>][Peacock1834], London 1834, S.
+185), ist das Princip der Permanenz freilich einerseits zu eng,
+andererseits ohne die nöthige Begründung aufgestellt. Die Werke, in
+denen er dasselbe weiter ausgeführt hat, die
+[<cite lang="en">Arithmetical Algebra</cite>][Peacock1842] (Cambridge 1842)
+und die [<cite lang="en">Symbolical Algebra</cite>][Peacock1845]
+(ebenda 1845) kenne ich ebensowenig wie die einschlagenden
+Abhandlungen von [Augustus de Morgan]{.sc}
 <cite class="quoted" lang="en">On the Foundation of Algebra</cite>
-(Cambridge Phil. Transact. T.
-<a href="https://archive.org/details/transactionsofca07camb/page/172/mode/2up">VII, pt. II</a>, 1841 und
-<a href="https://archive.org/details/transactionsofca07camb/page/286/mode/2up">III</a>, 1842;
-<a href="https://archive.org/details/transactionsofca08camb/page/n157/mode/2up">VIII, pt. II</a>, 1844 und 
-<a href="https://archive.org/details/transactionsofca08camb/page/n261/mode/2up">III</a>, 1847). Ueberhaupt ist mir von der zahlreichen Literatur, welche eine von 
-[Peacock]{.sc} ausgehende Cambridger Schule über die von ihnen sogenannte
-<q>symbolische Algebra</q> hervorgebracht hat, nur noch eine kurze Abhandlung von 
-[D. F. Gregory]{.sc}
-<cite class="quoted" lang="en">On the Real Nature of Symbolical Algebra</cite> 
-(<a href="https://archive.org/details/transactionsofro14royal/page/208/mode/2up">Trans. Roy. Soc. Edinburgh. Vol. XIV</a>, 1840, S. 208) zugänglich gewesen. 
+(Cambridge Phil. Transact. T. [VII, pt. II][deMorganI], 1841 und
+[III][deMorganII], 1842; [VIII, pt. II][deMorganIII], 1844 und
+[III][deMorganIV], 1847). Ueberhaupt ist mir von der zahlreichen
+Literatur, welche eine von [Peacock]{.sc} ausgehende Cambridger Schule
+über die von ihnen sogenannte <q>symbolische Algebra</q>
+hervorgebracht hat, nur noch eine kurze Abhandlung von [D. F.
+Gregory]{.sc} <cite class="quoted" lang="en">On the Real Nature of
+Symbolical Algebra</cite> ([Trans. Roy. Soc. Edinburgh. Vol. XIV][Gregory1840],
+1840, S. 208) zugänglich gewesen.
 </p>
 <p lang="en">...</p>
 </div>
 
+[Peacock1834]: https://archive.org/details/reportofthirdmee34lond/page/184/mode/2up
+[Peacock1842]: https://archive.org/details/bub_gb_Ap54gR4l-y8C/page/n3/
+[Peacock1845]: https://archive.org/details/treatiseonalgebr02peac/page/n5/
+[deMorganI]: https://archive.org/details/transactionsofca07camb/page/172/mode/2up
+[deMorganII]: https://archive.org/details/transactionsofca07camb/page/286/mode/2up
+[deMorganIII]: https://archive.org/details/transactionsofca08camb/page/n157/mode/2up
+[deMorganIV]: https://archive.org/details/transactionsofca08camb/page/n261/mode/2up
+[Gregory1840]: https://archive.org/details/transactionsofro14royal/page/208/mode/2up
+
 <div class="parallel">
 <p lang="de">
-In Deutschland hat eine rein formale Darstellung der arithmetischen 
+In Deutschland hat eine rein formale Darstellung der arithmetischen
 Operationen [M. Ohm]{.sc} in der ersten Auflage seines
-<a href="https://www.degruyter.com/serial/vvcsm-b/html"><cite class="quoted">Versuchs eines vollkommen consequenten Systems der Mathematik</cite></a> 1822 gegeben,
-die er dann in der zweiten Auflage von 1828, ohne seine Meinung
-darüber zu ändern, <q>dass nur dieser Weg logisch strenge und also
-allein der vollkommene Ueberzeugung gewährende ist</q>, zu Gunsten
-einer grösseren Popularität, so umgestaltet hat, dass er von dem
-gewöhnlichen Zahlenbegriff ausgeht und denselben überall vermischt mit
-dem der formalen Operationen anwendet. Dadurch aber hat, ganz
-abgesehen von der bekannten Pedanterie und Weitläufigkeit in den
-Schriften [Ohm]{.sc}'s, die ganze Darstellung eine höchst unerquickliche
+[<cite class="quoted">Versuchs eines vollkommen consequenten Systems der
+Mathematik</cite>][Ohm1822] 1822 gegeben, die er dann in der zweiten
+Auflage von 1828, ohne seine Meinung darüber zu ändern, <q>dass nur
+dieser Weg logisch strenge und also allein der vollkommene
+Ueberzeugung gewährende ist</q>, zu Gunsten einer grösseren
+Popularität, so umgestaltet hat, dass er von dem gewöhnlichen
+Zahlenbegriff ausgeht und denselben überall vermischt mit dem der
+formalen Operationen anwendet. Dadurch aber hat, ganz abgesehen von
+der bekannten Pedanterie und Weitläufigkeit in den Schriften
+[Ohm]{.sc}'s, die ganze Darstellung eine höchst unerquickliche
 Zwittergestalt angenommen.
 </p>
 <p lang="en">...</p>
 </div>
+
+[Ohm1822]: https://www.degruyter.com/serial/vvcsm-b/html
 
 <div class="parallel">
 <p lang="de">
@@ -1171,51 +1178,58 @@ aber dies nicht an, vergl. §. 10 und 11.
 
 <div class="parallel">
 <p lang="de">
-Der Gedanke, eine reine Formenlehre der Grössenlehre vorangehen zu 
-lassen und letztere aus dem Gesichtspunkte der ersten zu betrachten, so 
-wichtig er auch für die Begründung und die structive Gliederung des Gebäudes 
-der Mathematik sein mochte, war so lange für den weiteren Aufbau derselben 
-ohne wesentlichen Werth, als man sich nur darauf beschränkte, ihn ausschliesslich
-zum Beweise von Sätzen zu verwenden, die nicht allein schon 
-längst bekannt, sondern auch sattsam, wenn auch so zu sagen nur empirisch, 
-begründet waren. Erst [H. Grassmann]{.sc} hat diesen Gedanken mit wahrhaft 
-philosophischem Geiste ergriffen und von einem umfassenden Gesichtspunkte 
-aus betrachtet. In seiner
-<a href="https://archive.org/details/dielinealeausde00grasgoog/"><cite class="quoted">Linealen Ausdehnungslehre ein neuer Zweig der 
-Mathematik</q></a> 1844
-hat er auf ihn eine Wissenschaft gegründet, welche sich 
-ganz allgemein mit abstracten, extensiven, stetigen Grössen, als deren concrete 
-Bilder die räumlichen Figuren (Strecken, Flächen, Körperräume) erscheinen, 
-und mit deren Verknüpfung, beschäftigt. Die rein formalen Verknüpfungsgesetze,
-die man nach dem hergebrachten Ausdrucke arithmetische Operationen nennt,
-finden hier ihr reales, aber abstractes Substrat, und, wenn man 
-sie geometrisch veranschaulicht, ihre concrete reale Bedeutung. Die schönen 
-in diesem Werke niedergelegten Ideen haben eine weitere Ausbildung und 
-Verwendung erhalten in [Grassmann]{.sc}'s Leipziger Preisschrift
-<a href="https://archive.org/details/abn8108.0001.001.umich.edu/"><cite class="quoted">Geometrische Analyse, geknüpft an die von [Leibniz]{.sc} erfundene geometrische Charakteristik</cite></a> 1847
-und in seiner
-<a href="https://archive.org/details/dieausdehnungsl05grasgoog/"><cite class="quoted">Ausdehnungslehre</cite></a> von 1862.
-In letzterem Werke ist 
-die Darstellung eine andere geworden, indem er hier die räumlichen Gebilde 
-durch complexe Zahlen darstellt, deren Einheiten die den geometrischen 
-Operationen entsprechenden Verknüpfungsgesetze zeigen. Mochte die Darstellung
-in dem ersten Werke durch ihr allerdings durchaus sachgemässes 
-philosophisches Gewand und die ungewohnte Form der Operation mit Grössen, 
-welche den Charakter der einfachen in der Arithmetik gebräuchlichen Grössen 
-nicht haben, einigermassen abschrecken, so ist im letzten Werke die dem 
-Mathematiker gewohnte Form eingehalten: Wenn trotzdem die Untersuchungen des
-geistreichen Forschers die Anerkennung nicht gefunden haben, 
-die sie verdienen und die jeder, <em>der sie kennt</em>, ihnen zollen muss,
-so ist dies, meines Erachtens, hauptsächlich dem Umstande zuzuschreiben, dass ihr 
-Verfasser allen Sätzen sogleich die allgemeinste Form (in Bezug auf $n$
-Dimensionen) gegeben, dadurch aber die Uebersichtlichkeit und das
-Verstandniss ungemein erschwert hat. Wo wir im Folgenden [Grassmann]{.sc}'s
-complexe Zahlen und ihre Operationen darzustellen haben, werden wir den Sätzen
-eine anschauliche, geometrische Gestalt geben, die in der That die wesentliche
-Allgemeinheit nicht beeinträchtigt. 
+Der Gedanke, eine reine Formenlehre der Grössenlehre vorangehen zu
+lassen und letztere aus dem Gesichtspunkte der ersten zu betrachten,
+so wichtig er auch für die Begründung und die structive Gliederung des
+Gebäudes der Mathematik sein mochte, war so lange für den weiteren
+Aufbau derselben ohne wesentlichen Werth, als man sich nur darauf
+beschränkte, ihn ausschliesslich zum Beweise von Sätzen zu verwenden,
+die nicht allein schon längst bekannt, sondern auch sattsam, wenn auch
+so zu sagen nur empirisch, begründet waren. Erst [H. Grassmann]{.sc}
+hat diesen Gedanken mit wahrhaft philosophischem Geiste ergriffen und
+von einem umfassenden Gesichtspunkte aus betrachtet. In seiner
+[<cite class="quoted">Linealen Ausdehnungslehre ein neuer Zweig der
+Mathematik</q>][Grassmann1844] 1844 hat er auf ihn eine Wissenschaft
+gegründet, welche sich ganz allgemein mit abstracten, extensiven,
+stetigen Grössen, als deren concrete Bilder die räumlichen Figuren
+(Strecken, Flächen, Körperräume) erscheinen, und mit deren
+Verknüpfung, beschäftigt. Die rein formalen Verknüpfungsgesetze, die
+man nach dem hergebrachten Ausdrucke arithmetische Operationen nennt,
+finden hier ihr reales, aber abstractes Substrat, und, wenn man sie
+geometrisch veranschaulicht, ihre concrete reale Bedeutung. Die
+schönen in diesem Werke niedergelegten Ideen haben eine weitere
+Ausbildung und Verwendung erhalten in [Grassmann]{.sc}'s Leipziger
+Preisschrift
+[<cite class="quoted">Geometrische Analyse, geknüpft an die von
+[Leibniz]{.sc} erfundene geometrische Charakteristik</cite>][Grassmann1847] 1847
+und in seiner [<cite class="quoted">Ausdehnungslehre</cite>][Grassmann1862]
+von 1862. In letzterem Werke ist die Darstellung eine andere geworden,
+indem er hier die räumlichen Gebilde durch complexe Zahlen darstellt,
+deren Einheiten die den geometrischen Operationen entsprechenden
+Verknüpfungsgesetze zeigen. Mochte die Darstellung in dem ersten Werke
+durch ihr allerdings durchaus sachgemässes philosophisches Gewand und
+die ungewohnte Form der Operation mit Grössen, welche den Charakter
+der einfachen in der Arithmetik gebräuchlichen Grössen nicht haben,
+einigermassen abschrecken, so ist im letzten Werke die dem
+Mathematiker gewohnte Form eingehalten: Wenn trotzdem die
+Untersuchungen des geistreichen Forschers die Anerkennung nicht
+gefunden haben, die sie verdienen und die jeder, <em>der sie
+kennt</em>, ihnen zollen muss, so ist dies, meines Erachtens,
+hauptsächlich dem Umstande zuzuschreiben, dass ihr Verfasser allen
+Sätzen sogleich die allgemeinste Form (in Bezug auf $n$ Dimensionen)
+gegeben, dadurch aber die Uebersichtlichkeit und das Verstandniss
+ungemein erschwert hat. Wo wir im Folgenden [Grassmann]{.sc}'s
+complexe Zahlen und ihre Operationen darzustellen haben, werden wir
+den Sätzen eine anschauliche, geometrische Gestalt geben, die in der
+That die wesentliche Allgemeinheit nicht beeinträchtigt.
 </p>
 <p lang="en">...</p>
 </div>
+
+[Grassmann1844]: https://archive.org/details/dielinealeausde00grasgoog/
+[Grassmann1847]: https://archive.org/details/abn8108.0001.001.umich.edu/
+[Grassmann1862]: https://archive.org/details/dieausdehnungsl05grasgoog/
+
 
 <div class="parallel">
 <p lang="de">
@@ -1223,7 +1237,7 @@ Die Anwendung der Principien der allgemeinen Formenlehre auf einfache,
 <a lang="de" class="origpage" id="S.17" title="Seite 17"></a>
 durch Setzung eines und desselben Objectes entstandene Grössen zeigt
 [Grassmann]{.sc} in seinem
-<a href="https://archive.org/details/lehrbuchderarit00grasgoog/"><cite class="quoted">Lehrbuch der Arithmetik für höhere Lehranstalten</cite></a> (Berlin 1861). 
+[<cite class="quoted">Lehrbuch der Arithmetik für höhere Lehranstalten</cite>][Grassmann1861] (Berlin 1861). 
 </p>
 <p lang="en">...
 <a lang="en" class="origpage" id="p.17" title="Page 17"></a>
@@ -1231,13 +1245,16 @@ durch Setzung eines und desselben Objectes entstandene Grössen zeigt
 </p>
 </div>
 
+[Grassmann1861]: https://archive.org/details/lehrbuchderarit00grasgoog/
+
 <div class="parallel">
 <p lang="de">
 Auch [Sir William Rowan Hamilton]{.sc} hat sich
-(<cite lang="en">Theory of conjugate Functions or Algebraic couples; with a Preliminary and Elementary Essay on Algebra as the science of Pure Time</cite>,
-<a href="https://archive.org/details/transactionsofro17iris/page/292/mode/2up">Trans. of the Royal Irish Acad. Vol. XVII. Part II. S. 293</a>, Dublin 1835,
-sowie in der Vorrede zu seinen
-<a href="https://archive.org/details/bub_gb_TCwPAAAAIAAJ"><cite lang="en">Lectures on Quaternions</cite></a>, Dublin 1853)
+(<cite lang="en">Theory of conjugate Functions or Algebraic couples; with a
+Preliminary and Elementary Essay on Algebra as the science of Pure
+Time</cite>, [Trans. of the Royal Irish Acad. Vol. XVII. Part II. S.
+293][Hamilton1835], Dublin 1835, sowie in der Vorrede zu seinen [<cite
+lang="en">Lectures on Quaternions</cite>][Hamilton1853], Dublin 1853)
 sehr eingehend mit der Begründung der Algebra beschäftigt. Er
 betrachtet die Algebra <q>as being no mere Art, nor Language, nor
 primarily a Science of Quantity, but rather as the Science of Order in
@@ -1245,15 +1262,19 @@ Progression.</q> Als Bild eines solchen Fortschrittes erscheint ihm
 die ideale, von allen Beziehungen von Ursache und Wirkung abstrahirte
 Zeit, da sie die reine Anschauungsform des <em>inneren</em> Sinnes
 nach [Kant]{.sc} (<cite>Kritik der reinen Vernunft</cite>, in der
-<a href="https://archive.org/details/bub_gb_KOqgf0Pr1zsC/page/40/mode/2up">Ausg. v. [Rosenkranz]{.sc} und [Schubert]{.sc}, II. Bd., S. 40</a>)
-sei, besser geeignet als der Raum, die Anschauungsform des
-<em>äusseren</em> Sinnes, insofern der Begriff des Vergangenen,
-Gegenwärtigen und Zukünftigen früher in dem Geiste entstehe, als der
-des Vorwärts und Rückwärts im Räume; die Algebra ist ihm die
-Wissenschaft von der <em>reinen</em> Zeit.
+[Ausg. v. [Rosenkranz]{.sc} und [Schubert]{.sc}, II. Bd., S.
+40][KantRosenkranzSchubert]) sei, besser geeignet als der Raum, die
+Anschauungsform des <em>äusseren</em> Sinnes, insofern der Begriff des
+Vergangenen, Gegenwärtigen und Zukünftigen früher in dem Geiste
+entstehe, als der des Vorwärts und Rückwärts im Räume; die Algebra ist
+ihm die Wissenschaft von der <em>reinen</em> Zeit.
 </p>
 <p lang="en">...</p>
 </div>
+
+[Hamilton1835]: https://archive.org/details/transactionsofro17iris/page/292/mode/2up
+[Hamilton1853]: https://archive.org/details/bub_gb_TCwPAAAAIAAJ
+[KantRosenkranzSchubert]: https://archive.org/details/bub_gb_KOqgf0Pr1zsC/page/40/mode/2up
 
 <div class="parallel">
 <p lang="de">
