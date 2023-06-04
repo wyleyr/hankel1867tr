@@ -408,16 +408,16 @@ explanation of number thus becomes:
 
 <aside class="parallel footnote">
 <p lang="de" id="S.6n1">\*)
-[Gauss]{.sc}, [<cite>Werke</cite>][Gauss1831], Bd. II, S. 176 in dem
+[Gauss]{.sc}, [<cite>Werke</cite>, Bd. II, S. 176][Gauss1831], in dem
 Aufsatze von 1831.
 </p>
 <p lang="en" id="p.6n1">\*)
-[Gauss]{.sc}, [cite>Werke</cite>][Gauss1831], Vol. II, p. 176 in the
+[Gauss]{.sc}, [cite>Werke</cite>, Vol. II, p. 176][Gauss1831], in the
 essay from 1831.
 </p>
 </aside>
 
-[Gauss1831]: https://archive.org/details/werkecarlf02gausrich/
+[Gauss1831]: https://archive.org/details/werkecarlf02gausrich/page/n183/mode/2up 
 
 <div class="parallel">
 <p lang="de">
