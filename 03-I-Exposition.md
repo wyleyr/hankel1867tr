@@ -1,12 +1,10 @@
-<section epub:type="chapter" id="Ch.I">
-
 <div class="parallel">
   <a lang="de" class="origpage" id="S.1" title="Seite 1"></a>
 
   <a lang="en" class="origpage" id="p.1" title="Page 1"></a>
 </div>
 
-## [I. Abschnitt. Exposition]{lang="de"} [Chapter I. Exposition]{lang="end"} {.parallel}
+## [I. Abschnitt. Exposition]{lang="de"} [Chapter I. Exposition]{lang="en"} {#Ch.I  epub:type="chapter"}
 
 <div class="parallel">
 <p lang="de">
@@ -47,8 +45,7 @@ themselves.
 </p>
 </div>
 
-<section class="pz" id="§1">
-### [§1. Die ganzen Zahlen und ihre thetischen Verbindungen]{lang="de"} [§1. The whole numbers and their thetic combinations]{lang="en"} {.parallel}
+### [§1. Die ganzen Zahlen und ihre thetischen Verbindungen]{lang="de"} [§1. The whole numbers and their thetic combinations]{lang="en"} {#pz1 .pz}
 
 <div class="parallel">
 <p lang="de">Was es heisst, ein Object 1 mal, 2 mal, 3 mal ... denken oder 
@@ -238,10 +235,7 @@ nothwendig erwiesen hat.
 </p>
 </div>
 
-</section>
-
-<section class="pz" id="§2">
-### [§2. Die lytischen Operationen, Erweiterung des Begriffes der Zahlen]{lang="de"} [§2. The lytic operations, Extension of the concept of numbers]{lang="en"} {.parallel}
+### [§2. Die lytischen Operationen, Erweiterung des Begriffes der Zahlen]{lang="de"} [§2. The lytic operations, Extension of the concept of numbers]{lang="en"} {#pz2 .pz}
 
 
 <div class="parallel">
@@ -683,13 +677,8 @@ thought-things, to which 'actuelle' objects or relations of such
 objects can, but need not, correspond.
 </p>
 </div>
-</section>
 
-<section class="pz" id="§3">
- <div class="parallel">
-  <h3 lang="de">§3. Princip der Permanenz formaler Gesetzte</h3>
-  <h3 lang="en">§3. The principle of permanence of formal laws</h3>
- </div>
+### [§3. Princip der Permanenz formaler Gesetzte]{lang="de"} [§3. The principle of permanence of formal laws]{lang="en"} {#pz3 .pz}
 
 <div class="parallel">
 <p lang="de">
@@ -972,7 +961,6 @@ nicht in dem Zwecke des vorliegenden Werkes.
 <p lang="en">...</p>
 </div>
 </div> <!-- .text-small -->
-</section>
 
 
 <section class="unnumbered text-small" id="Ch.I-historical-remarks">
@@ -1303,6 +1291,4 @@ selbstständig bezeichnet werden.
 <p lang="en">...</p>
 </div>
 
-</section>
- 
 </section>

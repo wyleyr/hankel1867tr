@@ -10,6 +10,16 @@ body {
   flex: 1;
 }
 
+/* This may need to made more specific: */
+h2, h3 {
+  display: flex;
+  justify-content: space-around;
+}
+
+h2 > *, h3 > * {
+    flex: 1;
+}
+
 .titlepages {
   text-align: center;
 }
