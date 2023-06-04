@@ -27,6 +27,10 @@ be translated but aren't able to translate yourself,
 [contact me](https://recursewithless.net) and I will translate them
 as I am able.
 
+[^contributing]: To learn more about how to contribute, see
+  [the project page on GitHub](https://github.com/wyleyr/hankel1867tr) and
+  [this guide to contributing on GitHub](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).
+  
 ### The markup
 
 The translation is designed to be read as hypertext, either in a Web
@@ -97,10 +101,12 @@ I have corrected printing errors in the German where the intended text
 was clear, and marked the corrected phrase in the HTML.
 
 
-[^contributing]: To learn more about how to contribute, see
-  [the project page on GitHub](https://github.com/wyleyr/hankel1867tr) and
-  [this guide to contributing on GitHub](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).
-  
+### Acknowledgments
+
+This work was funded in part by the Austrian Science Fund grant ESP
+211-G, as part of the project
+["Frege among the Formalists"](https://pf.fwf.ac.at/en/research-in-practice/project-finder/58366).
+I am grateful for their support.
 
 </div>
 </div>
