@@ -1189,7 +1189,7 @@ so zu sagen nur empirisch, begründet waren. Erst [H. Grassmann]{.sc}
 hat diesen Gedanken mit wahrhaft philosophischem Geiste ergriffen und
 von einem umfassenden Gesichtspunkte aus betrachtet. In seiner
 [<cite class="quoted">Linealen Ausdehnungslehre ein neuer Zweig der
-Mathematik</q>][Grassmann1844] 1844 hat er auf ihn eine Wissenschaft
+Mathematik</cite>][Grassmann1844] 1844 hat er auf ihn eine Wissenschaft
 gegründet, welche sich ganz allgemein mit abstracten, extensiven,
 stetigen Grössen, als deren concrete Bilder die räumlichen Figuren
 (Strecken, Flächen, Körperräume) erscheinen, und mit deren
