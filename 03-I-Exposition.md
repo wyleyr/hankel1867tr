@@ -558,8 +558,9 @@ one might call 'potential', insofar as they can be made Actual, or purely intell
 <a lang="en" class="origpage" id="p.8" title="Page 8"></a>
 formal, insofar as only a certain formal relation comes to expression in them.
 That this opposition between the transcendent and Actual numbers in
-its [mediation]{.origphrase title="Vermittelung"} through the formal numbers is not fixed,
-but rather flowing, will be shown clearly enough in the following. 
+its [mediation]{.origphrase title="Vermittelung"} through the formal numbers is
+not fixed, but rather a [meandering]{.origphrase title="fliessender"} one,
+will be shown clearly enough in the following. 
 </p>
 </div>
 
