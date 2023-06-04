@@ -1,0 +1,20 @@
+{
+    "creators": [
+        {
+            "orcid": "0000-0001-6633-0246",
+            "affiliation": "Universität Wien",
+            "name": "Lawrence, Richard"
+        },
+        {
+            "name": "Hankel, Hermann"
+        }
+    ],
+
+    "license": "CC-BY-SA-4.0",
+
+    "title": "Vorlesungen über die complexen Zahlen und ihre Functionen / Lectures on Complex Numbers and their Functions",
+
+    "keywords": ["Hermann Hankel", "Gottlob Frege", "history of mathematics", "philosophy of mathematics", "formalism"],
+
+    "grants": [{"id":"10.13039/501100002428::ESP 211-G"}]
+}
