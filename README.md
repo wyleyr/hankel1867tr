@@ -30,7 +30,7 @@ publishing a translation in a "hypertext-first" format. HTML offers a
 lot of possibilities which scholars have so far not made much use of.
 This is partly because digital texts are hard to cite by traditional
 means (e.g. with page numbers); thus I am taking care to encode the
-features of the original text in the markup.
+features of the original text in the markup (see [MARKUP.md](./MARKUP.md)).
 
 At the moment, it is not my goal to translate the whole book, which is
 mostly just a mathematics textbook that is by now quite outdated. Its
@@ -51,3 +51,7 @@ pull request, or simply send me an email (<code>rwl</code> followed by
 ## License
 
 <p xmlns:cc="http://creativecommons.org/ns#">This work by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://recursewithless.net">Richard Lawrence</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0 <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p> 
+
+This research was funded in part by the Austrian Science Fund grant ESP
+211-G, as part of the project
+["Frege among the Formalists"](https://pf.fwf.ac.at/en/research-in-practice/project-finder/58366).
