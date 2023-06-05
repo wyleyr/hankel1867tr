@@ -1031,7 +1031,22 @@ $$ \cos(a+b) + \sqrt{-1}\sin(a+b) =
 elle-même, prise à la lettre, se trouve inexacte et n'a pas de
 sens</q> u.s.w.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Should one undertake to give a critique of this bit of reasoning,
+one would know where to begin. Here something <q>which signifies
+nothing</q> or <q>which signifies something different than that which
+it naturally should</q>, something <q>nonsensical</q> or
+<q>inexact</q>, is supposed, when paired with something of the same
+type, to generate something real. Here <q>algebraic signs</q> --- are
+these signs for magnitudes, or for what? for a sign must signify
+<em>something</em> --- are supposed to be combined with one another in
+a way that <q>signifies nothing</q>. I believe I am not going too far
+when I call this an absurd game with words that is badly suited to
+mathematics, which is and should be proud of the clarity and
+evidentness of its concepts.
+...
+</p>
+
 </div>
 
 <div class="parallel">
