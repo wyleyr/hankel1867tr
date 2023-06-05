@@ -41,12 +41,24 @@ focused on these initial chapters.
 
 ## Contributing
 
-I update the translation as I find new passages of interest and as I
-learn more about the text and its history. Comments, corrections, and
-contributions of new translations are welcome. Open an issue, make a
-pull request, or simply send me an email (<code>rwl</code> followed by
+Comments, corrections, and contributions of any kind are welcome! 
+There are plenty of ways to help, even if you don't read German. You can:
+
+* continue transcribing and marking up the German text
+* proof read the English translation and report any errors or inconsistencies
+* improve the markup and CSS
+
+If you do read German, you can also:
+
+* proof read the German transcription
+* suggest improvements to existing translations
+* contribute new translations, or suggest that passages be translated
+
+Open an issue, make a pull request, or simply send me an email
+(<code>rwl</code> followed by
 [the usual commercial accounting symbol](https://en.wikipedia.org/wiki/At_sign) and
-<code>[recursewithless.net](https://recursewithless.net "the domain of my website")</code>).
+<code>[recursewithless.net](https://recursewithless.net "the domain of
+my website")</code>).
 
 ## License
 
