@@ -55,7 +55,8 @@ $1, 2, 3...$ sagt aus, es solle ein Object $1, 2, 3...$ mal gesetzt werden,
 und es bedeutet $1e, 2e, 3e...$, das Resultat der wiederholten 
 Position von $e$. Jenes Object, welches willkührlich bleibt, kann 
 <a lang="de" class="origpage" id="S.2" title="Seite 2"></a>
-Einheit genannt und an seine Stelle die absolute, numerische Einheit gesetzt werden,
+Einheit genannt und an seine Stelle die absolute,
+numerische Einheit gesetzt werden,
 die man mit 1 bezeichnet. Man setzt dann $1 . 1, 2 . 1, 
 3 . 1...$ einfach gleich $1, 2, 3, ...$ und drückt so durch die Zahlzeichen 
 zwei verschiedene, wenn auch nahe verwandte Begriffe aus. In der 
@@ -69,9 +70,11 @@ Bedeutungen gibt es zwei Verknüpfungsweisen der Zahlen.
 <p lang="en">an absolute, whole number $1, 2, 3...$
 expresses that an object should be placed $1, 2, 3...$ times,
 and it means $1e, 2e, 3e...$, the result of the repeated positing of
-$e$. ...
+$e$. Each object which remains arbitrary can
 <a lang="en" class="origpage" id="p.2" title="Page 2"></a>
-one then simply sets $1 . 1, 2 . 1, 3 . 1...$ equal to $1, 2, 3...$
+be called a unit and the absolute numerical unit can be set in its place,
+which one signifies with 1. 
+One then simply sets $1 . 1, 2 . 1, 3 . 1...$ equal to $1, 2, 3...$
 and expresses thus with the numerals two distinct, though closely related, concepts...
 the position of a certain plurality in the ordered number series...
 Corresponding to these two meanings there are two
@@ -108,7 +111,7 @@ then the result is called the sum of the individual positings $(a+b)$.
 The addition of two numbers consists in the same process which led to
 the [generation]{.origphrase title="Erzeugung"} of the numbers
 themselves, and one sees that the the sum and also the the symbol $+$
-used for its notation is governed by two main laws
+used to signify it is governed by two main laws
 $$ a + (b + c) = (a + b) + c = a + b + c $$
 $$ a + b = b + a $$
 the first of which is designated that of <dfn>associativity</dfn>, the
@@ -231,7 +234,7 @@ so erhält man allgemein $a_b$ als eine neue Operation, deren weitere
 Untersuchung sich indess bis jetzt in der Wissenschaft nicht als 
 nothwendig erwiesen hat. 
 </p>
-<p lang="en">
+<p lang="en">...
 </p>
 </div>
 
@@ -370,8 +373,8 @@ can be thought of as produced like: one first places an object 1 time and then
 cancels this placing, so that 0 signifies <em>no</em> object of this type. One cannot
 however see how a real substance can be understood by $-3$, if the
 originally placed object is such an object, and would be within his
-rights if he refers to $-3$ as a non-real, imaginary number, as a
-<q>false</q> one.
+rights if he were to [designate]{.origphrase title="bezeichnete"} $-3$
+as a non-real, imaginary number, as a <q>false</q> one.
 <q cite="https://archive.org/details/werkecarlf02gausrich/page/n183/mode/2up">Positive
 and negative numbers can only find an application where
 [what is numbered]{.origphrase title="das Gezählte"}
@@ -505,7 +508,8 @@ impossible, so long as no intuitive representation of them was known,
 and there are still numbers of this sort today.
 But after the numbers $a + b\sqrt{-1}$ have found a geometric
 representation, and their operations have been geometrically
-interpreted, one can in no way call them impossible; they have exactly
+interpreted, one can in no way [call]{.origphrase title="bezeichnen"}
+them impossible; they have exactly
 the same reality as the positive and negative numbers, even if the
 latter find several substrates in intuition, and in many cases can be
 presented in reality, or made possible, where the relation expressed
@@ -564,7 +568,7 @@ Die zur Bezeichnung dieser beiden Klassen geeignetsten Namen des
 Idealen und Realen haben leider schon eine bestimmte engere Bedeutung. 
 </p>
 <p lang="en" id="p.7n1">\*)
-The names most appropriate for the desigation of these two classes of
+The names most appropriate for signifying these two classes of
 ideal and real numbers unfortunately already have a determined and
 narrower meaning.
 </p>
