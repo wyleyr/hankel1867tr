@@ -83,7 +83,7 @@ second occurrence of "operations" cannot be in English. In such cases,
 I rely on the annotations of the original German to make Hankel's
 intent clear.
 
-<i>actuell</i>
+<i lang="de">actuell</i>
 : Actual. Hankel opposes this word to <i>formal</i>. In earlier work,
   I reluctantly translated <i>actuel</i> as "presented", to mark its
   connection to intuition, and to distinguish it from <i>wirklich</i>
@@ -92,7 +92,29 @@ intent clear.
   cognate problem. But since <i>actuel</i> plays such an important
   philosophical role, I capitalize it to distinguish it from the others.
 
-<i>verknüpfen, Verknüpfung</i>
+<i lang="de">bezeichnen</i>
+: to signify. This is a problematic term in the context of a book that
+  identifies numbers with <i>Zeichen</i> (signs). Hankel uses this
+  term (on [page 14](#p.14)) as a translation of French
+  <i lang="fr">signifier</i>, which speaks in favor of <q>signify</q> as
+  a default translation, but in other places that would be extremely
+  awkward. This is because Hankel uses <i>bezeichnen</i> both as a
+  quasi-technical term for the relationship between a sign and what it
+  signifies, but often also in a more informal sense, akin to <q>to
+  call</q> or <q>to describe as</q>. 
+
+  I have seen <q>designate</q> used as an alternative translation,
+  especially in Frege, and I have sometimes used it to translate
+  Hankel's more informal usage. While both mirror the etymological
+  connection between <i>bezeichnen</i> and <i>Zeichen</i> in English,
+  <q>designate</q> sounds much too "referential" for Hankel's more
+  technical usage. Hankel does insist, in that passage on p. 14, that
+  a <i>Zeichen</i> must <i>bezeichnen</i> something. As I understand
+  him, Hankel would thus insist that every sign signifies something;
+  but I think he would be unhappy with the (Fregean-sounding) claim
+  that every sign must *designate* something.
+ 
+<i lang="de">verknüpfen, Verknüpfung</i>
 : conjoin, conjunction, operation.
 
 ### Corrections
