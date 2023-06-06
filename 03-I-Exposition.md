@@ -1050,7 +1050,7 @@ sens</q> u.s.w.
 </p>
 <p lang="en">
 Should one undertake to give a critique of this bit of reasoning,
-one would know where to begin. Here something <q>which signifies
+one would hardly know where to begin. Here something <q>which signifies
 nothing</q> or <q>which signifies something different than that which
 it naturally should</q>, something <q>nonsensical</q> or
 <q>inexact</q>, is supposed, when paired with something of the same
