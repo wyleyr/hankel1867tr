@@ -370,11 +370,11 @@ Erklärung der Zahl wird daher jetzt so gefasst werden können:
 In introducing such new <dfn>negative</dfn> numbers, which are distinguished
 through the prefixing of $-$ from the <dfn>positive</dfn> numbers, which arise
 through the positing of an object and which up to now we have
-considered alone, we must clearly extend the concept of number as it
+considered alone, we must clearly <em>extend the concept of number</em> as it
 was understood above. This can for example take place by defining a
-number as the sign of the [postulation]{.origphrase title="Forderung"} of an operation which is to be
-carried out on any arbitrary object and at the same time as that resulting
-from the fulfillment of that postulate when that object is replaced with
+number as the [sign of the [postulation]{.origphrase title="Forderung"} of an operation]{.text-sperren} which is to be
+carried out on any arbitrary object and at the same time as [that resulting
+from the fulfillment]{.text-sperren} of that postulate when that object is replaced with
 the numerical unit. Thus 3 or $+3$ means the positing of an object
 three times, 0 the absolute cancellation of this positing, which
 can be thought of as produced like: one first places an object 1 time and then
@@ -690,7 +690,7 @@ entsprechen können, aber nicht müssen.
 therefore a purely intellectual mathematics detached from all
 intuition, a pure theory of form, in which magnitudes or their images,
 the numbers, are not combined, but rather intellectual objects,
-thought-things, to which 'actuelle' objects or relations of such
+thought-things, to which Actual objects or relations of such
 objects can, but need not, correspond.
 </p>
 </div>
