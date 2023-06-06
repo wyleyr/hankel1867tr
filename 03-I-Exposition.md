@@ -570,7 +570,7 @@ simply formal, insofar as only a certain formal relation comes to
 expression in them.
 That this opposition between the transcendent and Actual numbers in
 its [mediation]{.origphrase title="Vermittelung"} through the formal numbers is
-not fixed, but rather a [meandering]{.origphrase title="fliessender"} one,
+not a fixed one, but rather [meandering]{.origphrase title="fliessender"},
 will be shown clearly enough in the following. 
 </p>
 </div>
@@ -678,7 +678,7 @@ realen Objecten, sondern an intellectuellen oder an
 Relationen solcher betrachtet weiden müssen, wenn wir uns von
 der Zufälligkeit des Wirklichen befreien wollen. 
 Die Bedingung zur Aufstellung einer allgemeinen Arithmetik ist daher
-eine von aller Anschaaung losgelöste, rein intellectuelle Mathematik,
+eine von aller Anschauung losgelöste, rein intellectuelle Mathematik,
 eine reine Formenlehre, in welcher nicht Quanta oder ihre Bilder, die
 Zahlen verknüpft werden, sondern intellectuelle Objecte,
 Gedankendinge, denen actuelle Objecte oder Relationen solcher
@@ -700,7 +700,7 @@ objects can, but need not, correspond.
 <div class="parallel">
 <p lang="de">
 Es seien $a$, $b$, $c$... irgend welche in der Anschaaung
-vorhandene oder mental Objecte oder Relationen von Objecten, so kann
+vorhandene oder mentale Objecte oder Relationen von Objecten, so kann
 man sich etwa $a$ und $b$ auf irgend eine Weise rein begrifflich
 und formal miteinander verknüpft denken und als Resultat der
 Verknüpfung ein neues Object oder eine neue Relation $c$ ansehen,
