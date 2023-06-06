@@ -83,21 +83,26 @@ second occurrence of "operations" cannot be in English. In such cases,
 I rely on the annotations of the original German to make Hankel's
 intent clear.
 
+A few terms (not the least of which is <i>Verknüpfung</i>) are
+especially difficult to translate; here are the choices I've made
+about them:
+
 <i lang="de">actuell</i>
 : Actual. Hankel opposes this word to <i>formal</i>. In earlier work,
-  I reluctantly translated <i>actuel</i> as "presented", to mark its
+  I reluctantly translated <i>actuell</i> as "presented", to mark its
   connection to intuition, and to distinguish it from <i>wirklich</i>
   and <i>eigentlich</i>. Here I have chosen to translate all three as
   "actual", since this is just another instance of the German-Latin
-  cognate problem. But since <i>actuel</i> plays such an important
-  philosophical role, I capitalize it to distinguish it from the others.
+  cognate problem discussed above. But since <i>actuell</i> plays such
+  an important philosophical role, I capitalize it to distinguish it
+  from the others.
 
 <i lang="de">bezeichnen</i>
 : to signify. This is a problematic term in the context of a book that
   identifies numbers with <i>Zeichen</i> (signs). Hankel uses this
   term (on [page 14](#p.14)) as a translation of French
   <i lang="fr">signifier</i>, which speaks in favor of <q>signify</q> as
-  a default translation, but in other places that would be extremely
+  a default translation, but in many places that would be too
   awkward. This is because Hankel uses <i>bezeichnen</i> both as a
   quasi-technical term for the relationship between a sign and what it
   signifies, but often also in a more informal sense, akin to <q>to
@@ -114,8 +119,18 @@ intent clear.
   but I think he would be unhappy with the (Fregean-sounding) claim
   that every sign must *designate* something.
  
-<i lang="de">verknüpfen, Verknüpfung</i>
-: conjoin, conjunction, operation.
+<i lang="de">verknüpfen; Verknüpfung</i>
+: conjoin, combine; conjunction, operation. Hankel thinks of
+  arithmetical operations like addition as *conjoining* or *putting
+  together* two numbers. Thus $1 + 2$ is a conjunction of $1$ and $2$,
+  in which the operation $+$ combines these two numbers into one. The
+  noun form <i>Verknüpfung</i> exhibits a three-way ambiguity between
+  the act of combining, the result of the combination, and the
+  operator which combines them. No single English word suffices to
+  capture all three senses, so I have done my best to pick the
+  relevant one, and left it up to the annotations to make the
+  connection between them clear.
+  
 
 ### Corrections
 
