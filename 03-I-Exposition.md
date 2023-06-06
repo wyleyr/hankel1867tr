@@ -1010,8 +1010,8 @@ dargethan werden:
 <div class="parallel">
 <p lang="de">
 <q lang="fr" cite="https://archive.org/details/coursdanalysedel00cauc/page/173/mode/1up">En
-analyse, on appelle [expression symbolique]{.text-sperren} ou
-[Symbole]{.text-sperren} toute combinaison de signes algébriques qui
+analyse, on appelle <dfn>expression symbolique</dfn> ou
+<dfn>Symbole</dfn> toute combinaison de signes algébriques qui
 ne signifie rien par elle-même, ou à laquelle on attribue une valeur
 différente de celle qu'elle doit naturellement avoir. On nomme de même
 equations symboliques toutes celles qui, prises à la lettre et
@@ -1023,7 +1023,19 @@ Parmi les expressions ou équations symboliques dont la considération
 est de quelque importance en analyse, on doit sur tout distinguer
 celles que l'on a nommées imaginaires.</q>
 </p>
-<p lang="en">...</p>
+<p lang="en">
+<q>In analysis, we call a <dfn>symbolic expression</dfn> or
+<dfn>symbol</dfn> any combination of algebraic signs which signifies
+nothing by itself, or to which we attribute a value different from
+that which it should naturally have. Similarly, we call symbolic
+equations all those which, taken literally and interpreted according
+to generally established conventions, are inexact or have no sense,
+but from which we can deduce exact results, by modifying and altering
+according to fixed rules either these equations themselves, or the
+symbols they contain... Among the symbolic expressions or equations
+whose consideration is of some importance in analysis, we must above
+all distinguish those we have called imaginary.</q>
+</p>
 </div>
 
 <div class="parallel">
@@ -1063,10 +1075,18 @@ these signs for magnitudes, or for what? for a sign must signify
 a way that <q>signifies nothing</q>. I believe I am not going too far
 when I call this an absurd game with words that is badly suited to
 mathematics, which is and should be proud of the clarity and
-evidentness of its concepts.
-...
+evidentness of its concepts. Even if, by means of the unique nature of
+the mathematical method, which in its own development carries the
+corrective for unclarities and mistakes committed in the general
+concepts, [Cauchy]{.sc}'s broader plan is correct in its results, that
+shell game, only barely concealed by means of the phrase
+<q>symbolic</q>, must again and again disturb the process,
+as he again explicitly clarifies (p. 175): <q>The equation
+$$ \cos(a+b) + \sqrt{-1}\sin(a+b) =
+ (\cos a + \sqrt{-1}\sin a)(\cos b + \sqrt{-1}\sin b) $$
+itself, taken literally, is found to be inexact and has no
+sense</q> etc.
 </p>
-
 </div>
 
 <div class="parallel">
