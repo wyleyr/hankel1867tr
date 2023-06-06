@@ -67,17 +67,25 @@ Vielheit in der geordneten Zahlenreihe und das Resultat der Verknüpfung
 von Einheiten bezeichnen. Entsprechend diesen beiden 
 Bedeutungen gibt es zwei Verknüpfungsweisen der Zahlen.
 </p>
-<p lang="en">an absolute, whole number $1, 2, 3...$
-expresses that an object should be placed $1, 2, 3...$ times,
-and it means $1e, 2e, 3e...$, the result of the repeated positing of
-$e$. Each object which remains arbitrary can
+<p lang="en">
+What it means to think or [posit]{.origphrase title="setzen"} an
+object 1 time, 2 times, 3 times... cannot be defined upon the concept
+of positing (<i>Position</i>) in its fundamental simplicity. An
+absolute, whole number $1, 2, 3...$ expresses that an object should be
+posited $1, 2, 3...$ times, and it means $1e, 2e, 3e...$, the result
+of the repeated positing of $e$. That object, which remains arbitrary, can
 <a lang="en" class="origpage" id="p.2" title="Page 2"></a>
-be called a unit and the absolute numerical unit can be set in its place,
-which one signifies with 1. 
-One then simply sets $1 . 1, 2 . 1, 3 . 1...$ equal to $1, 2, 3...$
-and expresses thus with the numerals two distinct, though closely related, concepts...
-the position of a certain plurality in the ordered number series...
-Corresponding to these two meanings there are two
+be called a unit and the absolute numerical unit can be posited in its place,
+which is signified with 1. 
+One then simply [sets]{.origphrase title="setzt"} $1 . 1, 2 . 1, 3 . 1...$
+equal to $1, 2, 3...$ and expresses thus with the number signs two
+distinct, though closely related, concepts.
+In the first relation, $1, 2, 3...$ are cardinal numbers, in that they
+signify the <q>how often</q> of the [positing]{.origphrase title="Position"}
+and [contain a postulate]{.origphrase title="eine Forderung enthalten"};
+in the second, they are ordinal numbers, which signify the position of a
+certain plurality in the ordered number series and the result of the
+conjoining of units. Corresponding to these two meanings there are two
 [ways of conjoining]{.origphrase title="Verknüpfungsweisen"} numbers.
 </p>
 </div>
@@ -544,17 +552,22 @@ im Folgenden klar genug herausstellen.
 <p lang="en">
 To avoid all unclarity of the concepts, which so easily arises from
 the indeterminateness of [application]{.origphrase title="Benennung"},  one does well to
-call such numbers transcendent, purely mental, purely intellectual or
+call such numbers --- the concept of which is completely determinate,
+but which are not capable of any construction in intuition ---
+transcendent, purely mental, purely intellectual or
 <dfn>purely formal</dfn>, in contrast to the
 <dfn>Actual</dfn>[\*)](#p.7n1){#p.7n1ref .fnref} numbers which find their
 representation in the theory of actual magnitudes and their
 [combination]{.origphrase title="Verknüpfung"}.
-Those numbers which stand between these two, of which
+Those numbers which stand in the middle between these two, of which
 one can give a complete definition, but cannot know in general and in
 advance whether they can be subjected to an intuitive presentation,
-one might call 'potential', insofar as they can be made Actual, or purely intellectual, mental, or
+one might call 'potential', insofar as they can be made Actual,
+or purely intellectual, mental, insofar as they can at first only be
+thought, but not intuited, or
 <a lang="en" class="origpage" id="p.8" title="Page 8"></a>
-formal, insofar as only a certain formal relation comes to expression in them.
+simply formal, insofar as only a certain formal relation comes to
+expression in them.
 That this opposition between the transcendent and Actual numbers in
 its [mediation]{.origphrase title="Vermittelung"} through the formal numbers is
 not fixed, but rather a [meandering]{.origphrase title="fliessender"} one,
