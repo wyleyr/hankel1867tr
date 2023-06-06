@@ -729,23 +729,26 @@ If $a$, $b$, $c$... are objects or relations of objects which
 are mental or available in intuition, one can think for instance $a$
 and $b$ [conjoined]{.origphrase title="verknüpft"} in some way purely conceptually and
 formally with one another and regard a new object or new relation
-$c$ as the result of this [conjunction]{.origphrase title="Verknüpfung"}, which, because
+$c$ as the result of this [operation]{.origphrase title="Verknüpfung"}, which, because
 it in all further conclusions can [take the place of]{.origphrase title="an Stelle...treten"}
-the two members $a$, $b$ insofar as they are
-conjoined, should be called *equal* to the conjunction.
-If this conjoining happens in a law-like way and is subject to
+the two members $a$, $b$ insofar as they are [conjoined]{.origphrase title="verknüpft"},
+should be called *equal* to the [conjunction]{.origphrase title="Verknüpfung"}.
+If this [conjoining]{.origphrase title="Verknüpfung"}
+happens in a law-like way and is subject to
 certain rules, then one sees from the beginning that between the
-results of different conjunctions new relations can take place which
+results of different [operations]{.origphrase title="Verknüpfungen"}
+new relations can take place which
 are the consequences of those originally set out, and can be derived
 from the latter via logical inferences which are completely
-independent of the nature of the conjoined objects.
+independent of the nature of the objects [conjoined]{.origphrase title="verknüpft"}.
 How we define the rules of purely formal [operations]{.origphrase title="Verknüpfungen"}, 
 i.e., of carrying out [operations]{.origphrase title="Operationen"} with mental objects, is
 our arbitrary choice, except that one essential condition must be
 adhered to: namely that any logical contradiction may not be implied
 in these same rules.
 In order to be convinced that such a contradiction cannot appear in
-any combination of these [operations]{.origphrase title="Verknüpfungen"},
+any [combination]{.origphrase title="Zusammensetzung"}
+of these [operations]{.origphrase title="Verknüpfungen"},
 we will have to keep the rules independent of each other, so that no
 rule overlaps another: we will have to limit ourselves to the absolute
 minimum that suffices. 
