@@ -1096,13 +1096,13 @@ evidentness of its concepts. Even if, by means of the unique nature of
 the mathematical method, which in its own development carries the
 corrective for unclarities and mistakes committed in the general
 concepts, [Cauchy]{.sc}'s broader plan is correct in its results, that
-shell game, only barely concealed by means of the phrase
-<q>symbolic</q>, must again and again disturb the process,
-as he again explicitly clarifies (p. 175): <q>The equation
+shell game, only barely concealed under the phrase
+<q>symbolic</q>, must continually and disturbingly interfere.
+As he again expressly declares (p. 175):
+<q>The equation
 $$ \cos(a+b) + \sqrt{-1}\sin(a+b) =
  (\cos a + \sqrt{-1}\sin a)(\cos b + \sqrt{-1}\sin b) $$
-itself, taken literally, is found to be inexact and has no
-sense</q> etc.
+itself, taken literally, is found to be inexact and has no sense</q> etc.
 </p>
 </div>
 
