@@ -596,8 +596,25 @@ der wir die Addition, Subtraction, Multiplication, Division zählen,
 ab. Die Anwendung dieser 4 Species auf irgend welche Zahlen nennt man
 <q><dfn>rechnen</dfn>.</q>
 </p>
-<p lang="en">...</p>
+<p lang="en">
+[Division and fractional numbers.]{.pname}
+The <i>lysis</i> of the multipicative <i>thesis</i>, division
+completes the series of the four fundamental arithmetical operations, the 4
+<dfn>species</dfn><sup>[A](#p.7nA){#p.7nAref .trnref}</sup>, to which
+we count addition, subtraction, multiplication, and division. The application of
+these 4 species to arbitrary numbers is called <q><dfn>calculation</dfn>.</q>
+</p>
 </div>
+
+<aside class="parallel footnote trnote">
+<p lang="de"></p>
+<p lang="en" id="p.7nA">A\)
+Use of the term <i>species</i> for the four basic arithmetical
+operations apparently
+[originates from a medieval codex](https://lehrerfortbildung-bw.de/u_matnatech/informatik/gym/weiteres/fb3/2_techinf/1_hintergrund/1_info/02_historie/)
+and was used by Leibniz to describe
+[a calculating machine](https://www.arithmeum.uni-bonn.de/sammlungen/rechenmaschine-des-monats/archiv/01-die-vierspezies-rechenmaschine-von-gottfried-wilhelm-leibniz.html) of his own design.</p>
+</aside>
 
 <div class="parallel">
 <p lang="de">

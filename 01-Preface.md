@@ -150,7 +150,21 @@ II. Abschnitte die Natur von Operationen, welche in ihren formalen Bedingungen
 denen der arithmetica universalis nachgebildet 
 sind, ausführlich untersucht.[\*)](#S.VIIn1){#S.VIIn1ref .fnref}
 </p>
-<p lang="en"> ... </p>
+<p lang="en">
+A fundamental investigation of the essence of the concepts of
+arithmetical operations and of number in their mutually necessary
+connection showed itself to be necessary if one wanted to grasp the
+concept of complex number systems more deeply. Chapters I and II of
+the present work thereby came into being. After the deficiency of the
+[common explanation]{.origphrase title="vulgäre Begründung"} of the
+concept of number and of the four
+species<sup>[A](#p.VIInA){#p.VIInAref .trnref}</sup> has been shown
+and the [guiding]{.origphrase title="hodegetisch"} Principle of
+Permanence of Formal Laws has been set out in Chapter I, in Chapter II
+the nature of [operations]{.origphrase title="Operationen"} patterned
+in their formal conditions on those of arithmetica universalis will be
+investigated in depth.
+</p>
 </div>
 
 <aside class="parallel footnote">
@@ -173,6 +187,13 @@ $\Theta(a,b)$ for a thetic operation, of the clearer $(a + b)$. The
 circumstance, however, that the usual ideas attach themselves all too
 easily to the latter sign, eventually decided in favor of the notation
 used in the text.
+</p>
+</aside>
+
+<aside class="parallel footnote trnote">
+<p lang="de"></p>
+<p lang="en" id="p.VIInA">A\) Hankel means the four fundamental
+arithmetical operations; see [p. 7](#p.7) below. 
 </p>
 </aside>
 
