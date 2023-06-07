@@ -62,6 +62,15 @@ One challenge I haven't completely solved yet is how to markup
 footnotes. For now I have decided to place them directly following the
 paragraph where they are referenced. Footnotes are marked up using
 `<p>` elements inside an `<aside>` element with class `footnote`.
+These `<p>` are given an `id` formed from the page number, `n`, and a note
+number starting from 1, e.g. `S.7n1` in German, and `p.7n1` for the
+corresponding note in English. The marker is a link to a footnote, and
+is also given an `id` composed of the note's `id` value plus "ref"
+(e.g. `p.7n1ref`) and given the class `fnref`.
+
+Translator's comments are marked up like footnotes, except they use
+letters as markers and in the `id`s, and use the classes `trnote` on
+the note content and `trnref` on the marker linking to it.
 
 Hankel often defines (or at least explains) terms implicitly, by
 showing how he uses them; these are marked up with `<dfn>`.
