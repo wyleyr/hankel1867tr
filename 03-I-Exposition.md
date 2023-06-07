@@ -667,7 +667,7 @@ es unzählig viele Dinge (Individuen) gibt, welche eine Theilung ihrem
 Begriffe nach gar nicht zulassen.
 </p>
 <p lang="en">
-To these rational numbers, which appear at first as pure signs, can be
+To these fractional numbers, which appear at first as pure signs, can be
 attached in many cases an Actual meaning. 
 <a lang="en" class="origpage" id="p.9" title="Page 9"></a>...
 </p>
@@ -705,12 +705,24 @@ entsprechen können, aber nicht müssen.
 <a lang="en" class="origpage" id="p.10" title="Page 10"></a>
 ... The condition for the establishment of a general arithmetic is
 therefore a purely intellectual mathematics detached from all
-intuition, a pure theory of form, in which magnitudes or their images,
-the numbers, are not combined, but rather intellectual objects,
-thought-things, to which Actual objects or relations of such
-objects can, but need not, correspond.
+intuition, a pure theory of form, in which
+not [quantities]{.origphrase title="Quanta"}<sup>[A](#p.10nA){#p.10nAref .trnref}</sup>
+or their images, the numbers, are conjoined, but rather intellectual objects,
+[thought-things]{.origphrase title="Gedankendinge"},
+to which Actual objects or relations of such objects can, but need not,
+correspond.
 </p>
 </div>
+
+<aside class="parallel footnote trnote">
+<p lang="de"></p>
+<p lang="en" id="p.10nA">A\)
+Hankel's word <i>Quanta</i> comes from Kant, who distinguishes two
+categories of quantity, <i>quanta</i> and <i>quantitas</i>.
+For Kant, <i>quanta</i> are quantities which require intuition for
+their representation. <!-- TODO: cite @Sutherland2021 ch. 8 -->
+</p>
+</aside>
 
 ### [§3. Princip der Permanenz formaler Gesetzte]{lang="de"} [§3. The principle of permanence of formal laws]{lang="en"} {#pz3 .pz}
 
