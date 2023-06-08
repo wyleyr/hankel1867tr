@@ -16,20 +16,19 @@
 
     "related_identifiers": [
         {
-            "scheme": "doi",
             "identifier": "10.15173/jhap.v9i11.5007",
             "relation": "isDescribedBy",
             "resource_type": "publication-article"
         },
         {
-            "scheme": "url",
             "identifier": "https://archive.org/details/vorlesungenberd01hankgoog/",
             "relation": "isDerivedFrom",
-            "resource_type": "book"
+            "resource_type": "publication-book"
         }
     ],
     
     "keywords": ["Hermann Hankel", "Gottlob Frege", "history of mathematics", "philosophy of mathematics", "formalism"],
 
-    "grants": [{"id":"10.13039/501100002428::ESP 211-G"}]
+    "grants": [{"id":"10.13039/501100002428::ESP 211"}]
+
 }
