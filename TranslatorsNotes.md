@@ -1,9 +1,4 @@
-<section epub:type="foreword" id="Translators-Notes">
-
-<div class="parallel">
-<div lang="de"></div>
-<div lang="en">
-## Translator's Notes
+## Translator's Notes {#Translators-Notes epub:type="foreword" lang="en"}
 
 There is probably no translation that cannot be improved, and in this
 sense, no translation is ever finished. This translation embraces that
@@ -133,7 +128,6 @@ about them:
 I have corrected printing errors in the German where the intended text
 was clear, and marked the corrected phrase in the HTML.
 
-
 ### Acknowledgments
 
 This work was funded in part by the Austrian Science Fund grant ESP
@@ -141,6 +135,3 @@ This work was funded in part by the Austrian Science Fund grant ESP
 ["Frege among the Formalists"](https://pf.fwf.ac.at/en/research-in-practice/project-finder/58366).
 I am grateful for their support.
 
-</div>
-</div>
-</section>
