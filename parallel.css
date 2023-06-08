@@ -2,6 +2,10 @@ body {
   font-family: "TeX Gyre Schola", "Century Schoolbook", Times, serif;
 }
 
+/* 
+ * Layout
+ */
+
 .parallel, .titlepages {
   display: flex;
 }
@@ -37,10 +41,24 @@ h2 > *, h3 > * {
   padding: 0 auto 0 auto;
 }
 
+a.fnref {
+    margin-left: 0.5em;
+}
+.footnote {
+    font-size: 0.8em;
+}
+.footnote p {
+    padding: 0 40px 0 40px;
+}
+
+
 math[display="block"] {
     margin: 0.5em 0 0.5em 0;
 }
 
+/*
+ * Typography
+ */
 .sc {
   font-variant: small-caps;
 }
@@ -59,17 +77,6 @@ cite.quoted::after {
 a.origpage {
     border-left: 1px dotted gray;
     padding: 0 0.25em 0 0.25em;
-}
-
-a.fnref {
-    margin-left: 0.5em;
-}
-.footnote {
-    font-size: 0.8em;
-}
-/* TODO: this is a quick fix; em is not the right unit, since .footnote makes it smaller */ 
-.footnote p {
-    padding: 0 4em 0 4em;
 }
 
 span.origphrase{
