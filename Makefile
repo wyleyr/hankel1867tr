@@ -13,7 +13,8 @@ build/parallel.html: parallel.css 00-Titlepage.md 01-Preface.md 02-TOC.md 03-I-E
 		00-Titlepage.md\
 		01-Preface.md\
 		02-TOC.md\
-		03-I-Exposition.md &&\
+		03-I-Exposition.md \
+		04-II-GeneralTheoryOfForms.md &&\
 	cp parallel.css build/
 
 # Serve the built version via Github Pages:
