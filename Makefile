@@ -1,17 +1,19 @@
+VERSION="1.0"
+
 build/parallel.html: parallel.css 00-Titlepage.md 01-Preface.md 02-TOC.md 03-I-Exposition.md 
 	pandoc -o build/parallel.html\
 		-f markdown+raw_html -t html \
 		--standalone \
 		--mathml \
 		--css=parallel.css \
-		--include-in-header=HEAD.html \
-		--include-after-body=FOOT.html \
+		--template=templates/parallel \
+		-V version=${VERSION}\
 		--section-divs \
 		metadata.md \
 		00-Titlepage.md\
 		01-Preface.md\
 		02-TOC.md\
-		03-I-Exposition.md && \
+		03-I-Exposition.md &&\
 	cp parallel.css build/
 
 build/Hankel1867tr.epub: parallel.css 00-Titlepage.md 01-Preface.md 02-TOC.md 03-I-Exposition.md 
