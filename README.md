@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/645240313.svg)](https://zenodo.org/badge/latestdoi/645240313)
+
 # A Translation of Hankel's *Vorlesungen*
 
 This is a work-in-progress English translation of Hermann Hankel's 1867
