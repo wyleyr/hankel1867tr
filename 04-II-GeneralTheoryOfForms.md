@@ -35,7 +35,7 @@ $$ % TODO: number (1)
 $$
 diese Annahme in Zeichen aus und enthält zugleich eine Definition 
 dieser <dfn>thetischen</dfn> Operation $\Theta$ aus jener $\lambda$,
-die wir als die <dfn>1ytische</dfn> bezeichnen. 
+die wir als die <dfn>lytische</dfn> bezeichnen. 
 </p>
 <p lang="en">...</p>
 </div>
