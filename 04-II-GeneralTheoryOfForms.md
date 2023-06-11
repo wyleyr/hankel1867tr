@@ -205,6 +205,38 @@ nur zusammenfallen, wenn $\Theta(a,b) = \Theta(b,a)$.
 <div class="parallel">
 <p lang="de">
 <a lang="de" class="origpage" id="S.21" title="Seite 21"></a>
+Unter Voraussetzung der Eindeutigkeit beider Operationen 
+hat man neben
+$$ % TODO: number (1)
+\Theta\{\lambda(a,b),b\} = a
+$$
+wie schon gezeigt, die andere Gleichung:
+$$ % TODO: number (2)
+\lambda\{\Theta(a,b),b\} = a
+$$
+Wir setzen ferner die <dfn>associative</dfn> Eigenschaft voraus, d. h. dass: 
+$$ % TODO: number (3)
+\Theta[a, \Theta(b,c)] = \Theta[\Theta(a,b), c]
+$$
+sei, wo man dann, ohne Zweideutigkeit hiefür:
+$$
+= \Theta(a,b,c)
+$$
+schreiben darf. Dann ist:
+\begin{multline}
+\Theta[a, \Theta(b,c,d)] = \Theta[a,\Theta\{\Theta(b,c),d\}] \\
+= \Theta[\Theta\{a, \Theta(b,c)\}, d] = \Theta[a,\Theta(b,c),d] \\
+= \Theta[a,\Theta\{b,\Theta(c,d)\}] = \Theta[\Theta(a,b), \Theta(c,d)]
+\end{multline}
+so dass man hiefür wiederum: 
+$$
+= \Theta(a,b,c,d)
+$$
+schreiben darf, womit man ausdrückt, dass man immer, und in 
+ganz beliebiger Weise zwei aufeinanderfolgende Objecte paarweise 
+thetisch zu verbinden hat; dann wieder zwei solche u.s.f. Gilt 
+also das associative Princip bei 3 Gliedern, so gilt es auch bei 4 
+und überhaupt allgemein. 
 </p>
 <p lang="en">
 <a lang="en" class="origpage" id="p.21" title="Page 21"></a>
@@ -213,9 +245,130 @@ nur zusammenfallen, wenn $\Theta(a,b) = \Theta(b,a)$.
 
 <div class="parallel text-small">
 <p lang="de">
-
+Als Beispiele durchaus eindeutiger Thesen, welche associativ sind, können 
+die Addition und Multiplication dienen. Als Beispiele solcher, welche es nicht 
+sind, z.B. $\Theta(a,b) = \frac{a+b}{2}$; denn dann ist
+$\Theta(\Theta(a,b),c) = \Theta\left(\frac{a+b}{2},c\right) = \frac{a+b+2c}{4}$;
+$\Theta(a,\Theta(b,c)) = \Theta\left(a, \frac{b+c}{2}\right) = \frac{4a+b+c}{2}.$
 </p>
 <p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Aus den gemachten Voraussetzungen lassen sich nun eine Reihe 
+von wichtigen Transformationen herleiten: 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Setzt man
+$$
+x = \Theta[a,\lambda(b,c)]
+$$
+so hat man nach (3) <!-- TODO: eqref? -->
+$$
+\Theta(x,c) = \Theta\{\Theta[a,\lambda(b,c)],c\} = \Theta\{a, \Theta[\lambda(b,c),c]\}
+$$
+und daher nach (1) <!-- TODO: eqref? -->
+$$
+\Theta(x,c) = \Theta(a,b)
+$$
+<a lang="de" class="origpage" id="S.22" title="Seite 22"></a>
+also
+$$
+\lambda[\Theta(x,c),c] = \lambda[\Theta(a,b),c]
+$$
+oder nach (2) <!-- TODO: eqref --> $x =$ 
+$$ % TODO: number (4)
+\Theta[a, \lambda(b,c)] = \lambda[\Theta(a,b),c]
+$$
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.22" title="Page 22"></a>
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Setzen wir ferner:
+$$
+x = \lambda[\lambda(a,b),c]
+$$
+so hat man nach (1) <!-- TODO: eqref? -->
+$$
+\Theta(x,c) = \Theta\{\lambda[\lambda(a,b),c],c\} = \lambda(a,b)
+$$
+also wieder nach (1) <!-- TODO: eqref? -->
+$$
+\Theta[\Theta(x,c),b] = a
+$$
+oder nach (3)  <!-- TODO: eqref? -->
+$$
+\Theta[x, \Theta(c,b)] = a
+$$
+und somit nach (2): <!-- TODO: eqref? --> $x =$
+$$ % TODO: number (5)
+\lambda[a, \Theta(c,b)] = \lambda[\lambda(a,b), c]
+$$
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Man hat ferner, wenn
+$$
+x = \lambda[\Theta(c,b), b]
+$$
+gesetzt wird, nach (1) <!-- TODO: eqref? -->
+$$
+\Theta(x,b) = \Theta(a,c)
+$$
+und nach (2)<!-- TODO: eqref? -->
+$$
+\lambda[\Theta(x,b), c] = a
+$$
+daher nach (4) <!-- TODO: eqref? -->
+$$
+\lambda[\Theta(x,b), c] = \Theta[x, \lambda(b,c)] = a
+$$
+und somit erhält man nach (2), <!-- TODO: eqref? --> $x =$
+$$ % TODO: number (6)
+\lambda[\Theta(a,c), b] = \lambda[a, \lambda(b,c)] = \Theta[a, \lambda(b,c)],
+$$
+eine Gleichung, welche mit (4) <!-- TODO: eqref? --> zu:
+$$ % TODO: number (4, 6)
+\lambda[\Theta(a,c), b] = \lambda[a, \lambda(b,c)] = \Theta[a, \lambda(c,b)],
+$$
+vereinigt werden kann und wo, wie in (5), <!-- TODO: eqref? -->
+die Vertauschung der Ordnung von $c$ und $b$ im mittelsten Gliede
+wohl zu beachten ist. --- 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Wir haben es oben als eine nothwendige Folge der vorausgesetzten Eindeutigkeit
+der lytischen und thetischen Verknüpfung kennen lernen, dass sich
+$\Theta(a,b), \lambda(a,b)$ ändern muss, wenn sich 
+das Vorderglied $a$ ändert, während das Hinterglied $b$ constant 
+bleibt. Wir nehmen jetzt weiter an --- und nennen diese ganze 
+Voraussetzung die der <dfn>vollkommenen Eindeutigkeit</dfn> ---, dass 
+auch, wenn in $\Theta(a,b)$ sich das zweite Glied ändert, während das 
+<a lang="de" class="origpage" id="S.23" title="Seite 23"></a>
+erste unverändert bleibt, sich das Ergebniss der Verknüpfung 
+ändere; dass man also aus $\Theta(\mu,b') = \Theta(\mu, b)$ immer auf $b=b'$ 
+schliessen dürfe. 
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.23" title="Page 23"></a>
+...
+</p>
 </div>
 
 <div class="parallel">
@@ -224,36 +377,7 @@ nur zusammenfallen, wenn $\Theta(a,b) = \Theta(b,a)$.
 </p>
 <p lang="en">...</p>
 </div>
-<div class="parallel">
-<p lang="de">
 
-</p>
-<p lang="en">...</p>
-</div>
-<div class="parallel">
-<p lang="de">
-
-</p>
-<p lang="en">...</p>
-</div>
-<div class="parallel">
-<p lang="de">
-
-</p>
-<p lang="en">...</p>
-</div>
-<div class="parallel">
-<p lang="de">
-
-</p>
-<p lang="en">...</p>
-</div>
-<div class="parallel">
-<p lang="de">
-
-</p>
-<p lang="en">...</p>
-</div>
 <div class="parallel">
 <p lang="de">
 
