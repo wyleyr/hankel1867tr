@@ -373,53 +373,185 @@ schliessen dürfe.
 
 <div class="parallel">
 <p lang="de">
-
+Eine nothwendige Folge hievon ist, dass, wenn
+$\lambda(a,b)=\lambda(a,b')=\mu$
+also 
+$$
+\Theta\{\lambda(a,b), b\} = a, \Theta\{\lambda(a, b'), b'\} = a
+$$
+oder 
+$$
+\Theta(\mu, b) = \Theta(\mu, b')
+$$
+auch nothwendig $b=b'$ sein muss, sich also auch das Resultat der 
+lytischen Verbindung ändert, wenn das zweite Glied ein anderes 
+ist, während das erstere constant bleibt. 
 </p>
 <p lang="en">...</p>
 </div>
 
 <div class="parallel">
 <p lang="de">
-
+Wir nehmen nun an, [dass es]{.corrected} ein Object $n$, den <dfn>Modulus</dfn> der 
+Operation gibt, welches mit jedem Object $a$ thetisch verknüpft, 
+dasselbe wieder als Resultat ergibt, so dass: 
+$$ % TODO: number (7)
+\Theta(a,n) = a
+$$
+Dann hat man nach dem associativen Princip 
+$$
+\Theta\{a, \Theta(n, c)\} = \Theta\{\Theta(a,n), c\} = \Theta(a, c)
+$$
+und nach der vorausgesetzten Eindeutigkeit 
+$$ % TODO: number  (8)
+\Theta(n, c) = c
+$$
+so dass die Ordnung, in der man den Modul mit dem Objecte verbindet,
+für das Resultat gleichgültig ist. 
 </p>
 <p lang="en">...</p>
 </div>
 <div class="parallel">
 <p lang="de">
-
+Ferner findet man: 
+$$
+\lambda(a,n) = a
+$$
+denn es ist nach (1) <!-- TODO: eqref? -->
+$$
+\Theta\{\lambda(a,n),n\} = a
+$$
+und nach (7) <!-- TODO: eqref? -->
+$$
+\lambda(a, w) = \Theta\{\lambda (a, n), n\} = a 
+$$
 </p>
 <p lang="en">...</p>
 </div>
 <div class="parallel">
 <p lang="de">
-
+Aus (2)  erhält man ferner für $a = n$ <!-- TODO: eqref? -->
+$$
+\lambda[\Theta(n,b), b] = n
+$$
+und da $\Theta(n, b) = b$
+$$ % TODO: number (10)
+\lambda(b, b) = n
+$$
+so dass der Modul durch die lytische Verknüpfung irgend eines 
+Objectes mit sich selbst, erhalten wird. 
 </p>
 <p lang="en">...</p>
 </div>
 <div class="parallel">
 <p lang="de">
+Während sich $\Theta(b,n)$, $\Theta(n,b)$, $\lambda(b,n)$ einfach auf
+$b$ reducirten, ist dies mit $\lambda(n,b)$ nicht der Fall. Wir schreiben:
+<a lang="de" class="origpage" id="S.24" title="Seite 24"></a>
+$$ % TODO: number (11)
+\lambda(n,b) = b_n
+$$
+und nennen $b_n$ das zu $b$ <dfn>inverse</dfn> Object, $b$ aber das
+<dfn>directe</dfn>. Dann lässt sich zeigen, dass das zu $b_n$ inverse
+Object wiederum $b$ ist, also $b_n$ und $b$ in dem conträren
+Gegensatze des directen und inversen stehen (vergl. [§. 17](#pz17)).
+Man hat nämlich aus (6) für $a = n, b = n$: <!-- TODO: eqref? -->
+$$
+\lambda [n, \lambda (n, c)] == \lambda[\Theta(n, c), n] 
+$$
+also da nach (8) und (9) <!--TODO: eqref? -->
+$\lambda [\Theta (n, c), n] = \lambda (c, n) = c$ und nach 
+(11) <!--TODO: eqref? -->
+$\lambda[n, \lambda(n,c)] = \lambda[\Theta(n,c), n]$ ist: 
+$$ % TODO: number (12)
+(c_n)_n = c
+$$
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.24" title="Page 24"></a>
+...
+</p>
+</div>
 
+<div class="parallel">
+<p lang="de">
+Durch Einfuhrung dieses Zeichens lässt sich ausserdem jede 
+lytische Verknüpfung in eine thetische und umgekehrt verwandeln. 
 </p>
 <p lang="en">...</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
-
+Denn man hat für $b = n$ aus (4): <!-- TODO: eqref? -->
+$$
+\Theta[a, \lambda(n, c)] = \lambda[\Theta (a, n), c] 
+$$
+oder 
+$$ % TODO: number (13) 
+\lambda(a,c) = \Theta(a, c_n)
+$$
+und aus (6) für $b = n$: <!-- TODO: eqref? -->
+$$
+\lambda[a, \lambda(n, c)] = \lambda[\Theta(a, c), n] 
+$$
+oder
+$$ % TODO: number (14) 
+\Theta(a,c) = \lambda(a, c_n)
+$$
 </p>
 <p lang="en">...</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
-
+Aus der Gleichung (4, 6) <!-- TODO: eqref? -->
+$$
+\lambda[a, \lambda(b,c)] = \Theta[a, \lambda(c, b)] 
+$$
+ergibt sich noch für $a = n$, dass 
+$$ % TODO: number (15) 
+[\lambda(b, c)]_n = \lambda (c, b)
+$$
+und aus (5) für $a = n$: <!-- TODO: eqref? -->
+$$ % TODO: number (16) 
+[\Theta(b,c)]_n = \Theta(c_n, b_n)
+$$
 </p>
 <p lang="en">...</p>
 </div>
 
 <div class="parallel text-small">
 <p lang="de">
-
+Mit Hilfe dieses Begriffes des Inversen lassen sich jetzt die Gleichungen 
+4, 5, 6  <!-- TODO: eqref?  -->
+so schreiben: Es ist
+\begin{align}
+\Theta[a, \lambda(b,c)] &= \Theta[a,\Theta(b,c_n)] \\
+\lambda[\Theta(a,b), c] &= \Theta[\Theta(a,b), c_n]
+\end{align}
+also gibt (4): <!-- TODO: eqref? -->
+$$
+\Theta[a, \Theta(b, c_n)] = \Theta[\Theta(a, b), c_n] 
+$$
+Ebenso gibt (5) <!-- TODO: eqref? -->
+$$
+\Theta[a, \Theta(b_n, c_n)] = \Theta[\Theta(a, b_n), c_n]
+$$
+und (6) <!-- TODO: eqref? -->
+$$
+\Theta[a, \Theta(c, b_n)] = \Theta[\Theta(a, c), b_n]
+$$
+und sie sind somit nur Darstellungen des associativen Princips bei der
+Verknüpfung directer und inverser Objecte.
 </p>
 <p lang="en">...</p>
+</div>
+
+<div class="parallel">
+  <a lang="de" class="origpage" id="S.25" title="Seite 25"></a>
+
+  <a lang="en" class="origpage" id="p.25" title="Page 25"></a>
 </div>
 
 ### [§5. Algorithmus associativer Operationen mit Commutation; Bildung der inversen Objectenreihe]{lang="de"} [§5. Algorithm of associative operations with commutativity; Formation of the inverse object-series]{lang="en"} {#pz5 .pz}
