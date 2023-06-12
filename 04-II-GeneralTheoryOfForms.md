@@ -37,7 +37,27 @@ diese Annahme in Zeichen aus und enthält zugleich eine Definition
 dieser <dfn>thetischen</dfn> Operation $\Theta$ aus jener $\lambda$,
 die wir als die <dfn>lytische</dfn> bezeichnen. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Let $\lambda(a,b)$ mean an [operation]{.origphrase title="Verknüpfung"}
+of $a$ and $b$; and let $c$ be the object which
+[results from carrying out the operation]{.origphrase title="aus der vollzogenen Verknüpfung resultirt"},
+so that $\lambda(a,b) = c$.
+This [combination]{.origphrase title="Verbindung"} $\lambda(a,b)$
+should be so constituted that, if the resulting object $c$ is
+[thetically conjoined]{.origphrase title="thetisch verknüpt"} with $b$,
+the other member $a$ of the [combination]{.origphrase title="Verbindung"} 
+is of necessity obtained again. If one signifies the latter
+[operation]{.origphrase title="Verknüpfung"}
+with $\Theta$, then $\Theta(c, b) = a$ or
+$$ % TODO: number (1)
+\begin{equation}
+\Theta\{\lambda(a,b), b\} = a
+\end{equation}
+$$
+expresses this assumption in signs and at the same time contains a
+definition of this <dfn>thetic</dfn> [operation]{.origphrase title="Operation"}
+$\Theta$ from that $\lambda$, which we call <dfn>lytic</dfn>.
+</p>
 </div>
 
 <div class="parallel">
@@ -514,7 +534,7 @@ $$ % TODO: number (15)
 [\lambda(b, c)]_n = \lambda (c, b)
 $$
 und aus (5) für $a = n$: <!-- TODO: eqref? -->
-$$ % TODO: number (16) 
+$$ 
 [\Theta(b,c)]_n = \Theta(c_n, b_n)
 $$
 </p>
