@@ -1,6 +1,6 @@
 VERSION="1.0"
 
-build/parallel.html: parallel.css 00-Titlepage.md 01-Preface.md 02-TOC.md 03-I-Exposition.md 
+build/parallel.html: parallel.css 00-Titlepage.md 01-Preface.md 02-TOC.md 03-I-Exposition.md 04-II-GeneralTheoryOfForms.md
 	pandoc -o build/parallel.html\
 		-f markdown+raw_html -t html \
 		--standalone \
