@@ -72,9 +72,20 @@ das Resultat dieser Verbindungen gesetzt werden dürfen, unter sich
 vollkommen gleich sind, sich also, der Definition des Gleichen zufolge,
 überall vertreten können. 
 </p>
-<p lang="en">...
+<p lang="en">
+I remark immediately that we want everywhere in this §. to presuppose
+that the lytic and thetic operations, no matter what objects they are
+applied to, are possible and
+[one-valued]{.orig-phrase title="eindeutig"}, that is,
+if $a$ and $b$ are given, then $\Theta(a,b)$ and likewise
+$\lambda(a,b)$ have only one 
 <a lang="en" class="origpage" id="p.19" title="Page 19"></a>
-...
+single [interpretation]{.origphrase title="Bedeutung"}, so that all
+objects which may be posited for the result of these
+[combinations]{.origphrase title="Verbindungen"} are among themselves
+[entirely equal]{.origphrase title="vollkommen gleich"} and can thus
+[stand in]{.origphrase title="vertreten"} for one another everywhere,
+in consequence of the definition of equality. 
 </p>
 </div>
 
