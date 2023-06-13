@@ -110,6 +110,16 @@ about them:
   but I think he would be unhappy with the (Fregean-sounding) claim
   that every sign must *designate* something.
  
+<i lang="de">eindeutig</i>
+: one-valued. Hankel generally uses this word to express that an
+  operation is (as we would now put it) *injective*, i.e., different
+  inputs give different outputs (or equivalently, if the outputs are
+  the same, so must be the inputs, which is Hankel's usual way of
+  thinking about it). But he does not always distinguish this clearly
+  from its converse, the operation's being *functional* (the same
+  inputs give the same output), especially in more informal glosses
+  (see for example [page 2](#p.2) or [page 18--19](#p.19)).
+
 <i lang="de">verknüpfen; Verknüpfung</i>
 : conjoin, combine; conjunction, combination, operation. Hankel thinks of
   arithmetical operations like addition as *conjoining* or *putting
