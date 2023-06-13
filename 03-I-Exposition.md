@@ -124,7 +124,7 @@ $$ a + (b + c) = (a + b) + c = a + b + c $$
 $$ a + b = b + a $$
 the first of which is designated that of <dfn>associativity</dfn>, the
 second that of <dfn>commutativity</dfn>. Addition is a
-[single-valued]{.origphrase title="eindeutig"} operation, i.e., the
+[one-valued]{.origphrase title="eindeutig"} operation, i.e., the
 result of addition $(a+b)$ is a determinate one; it further has the
 property that if one summand changes its value while the other
 remains constant, then the result of the operation always changes. The
