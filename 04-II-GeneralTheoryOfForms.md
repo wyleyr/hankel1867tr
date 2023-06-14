@@ -75,7 +75,7 @@ vollkommen gleich sind, sich also, der Definition des Gleichen zufolge,
 <p lang="en">
 I remark immediately that we want everywhere in this §. to presuppose
 that the lytic and thetic operations, no matter what objects they are
-applied to, are possible and
+applied to are possible and
 [one-valued]{.orig-phrase title="eindeutig"}, that is,
 if $a$ and $b$ are given, then $\Theta(a,b)$ and likewise
 $\lambda(a,b)$ have only one 
@@ -118,9 +118,11 @@ $$
 \Theta\{\lambda(x,b),b\} = \Theta(a,b)
 $$
 also $x = \Theta(a,b)$, wodurch man die Identität:
-$$ % TODO: numbering (2)
+<span class="numbered" id="S.19eq2" data-label="2">
+\begin{equation}
 \lambda\{\Theta(a,b),b\} = a
-$$
+\end{equation}
+</span>
 erhält. Hieraus geht weiter hervor, dass wenn 
 $$
 \Theta(a,b) = \Theta(a',b)
@@ -238,17 +240,23 @@ nur zusammenfallen, wenn $\Theta(a,b) = \Theta(b,a)$.
 <a lang="de" class="origpage" id="S.21" title="Seite 21"></a>
 Unter Voraussetzung der Eindeutigkeit beider Operationen 
 hat man neben
-$$ % TODO: number (1)
+<span class="numbered" id="S.21eq1" data-label="1">
+\begin{equation}
 \Theta\{\lambda(a,b),b\} = a
-$$
+\end{equation}
+</span>
 wie schon gezeigt, die andere Gleichung:
-$$ % TODO: number (2)
+<span class="numbered" id="S.21eq2" data-label="2">
+\begin{equation}
 \lambda\{\Theta(a,b),b\} = a
-$$
+\end{equation}
+</span>
 Wir setzen ferner die <dfn>associative</dfn> Eigenschaft voraus, d. h. dass: 
-$$ % TODO: number (3)
+<span class="numbered" id="S.21eq3" data-label="3">
+\begin{equation}
 \Theta[a, \Theta(b,c)] = \Theta[\Theta(a,b), c]
-$$
+\end{equation}
+</span>
 sei, wo man dann, ohne Zweideutigkeit hiefür:
 $$
 = \Theta(a,b,c)
@@ -299,11 +307,11 @@ Setzt man
 $$
 x = \Theta[a,\lambda(b,c)]
 $$
-so hat man nach (3) <!-- TODO: eqref? -->
+so hat man nach [(3)](#S.21eq3) 
 $$
 \Theta(x,c) = \Theta\{\Theta[a,\lambda(b,c)],c\} = \Theta\{a, \Theta[\lambda(b,c),c]\}
 $$
-und daher nach (1) <!-- TODO: eqref? -->
+und daher nach [(1)](#S.18eq1) 
 $$
 \Theta(x,c) = \Theta(a,b)
 $$
@@ -312,10 +320,12 @@ also
 $$
 \lambda[\Theta(x,c),c] = \lambda[\Theta(a,b),c]
 $$
-oder nach (2) <!-- TODO: eqref --> $x =$ 
-$$ % TODO: number (4)
+oder nach [(2)](#S.19eq2)  $x =$ 
+<span class="numbered" id="S.22eq4" data-label="4">
+\begin{equation}
 \Theta[a, \lambda(b,c)] = \lambda[\Theta(a,b),c]
-$$
+\end{equation}
+</span>
 </p>
 <p lang="en">...
 <a lang="en" class="origpage" id="p.22" title="Page 22"></a>
@@ -329,22 +339,24 @@ Setzen wir ferner:
 $$
 x = \lambda[\lambda(a,b),c]
 $$
-so hat man nach (1) <!-- TODO: eqref? -->
+so hat man nach [(1)](#S.18eq1) 
 $$
 \Theta(x,c) = \Theta\{\lambda[\lambda(a,b),c],c\} = \lambda(a,b)
 $$
-also wieder nach (1) <!-- TODO: eqref? -->
+also wieder nach [(1)](#S.18eq1) 
 $$
 \Theta[\Theta(x,c),b] = a
 $$
-oder nach (3)  <!-- TODO: eqref? -->
+oder nach [(3)](#S.21eq3)
 $$
 \Theta[x, \Theta(c,b)] = a
 $$
-und somit nach (2): <!-- TODO: eqref? --> $x =$
-$$ % TODO: number (5)
+und somit nach [(2)](#S.19eq2):  $x =$
+<span class="numbered" id="S.22eq5" data-label="5">
+\begin{equation}
 \lambda[a, \Theta(c,b)] = \lambda[\lambda(a,b), c]
-$$
+\end{equation}
+</span>
 </p>
 <p lang="en">...</p>
 </div>
@@ -355,27 +367,31 @@ Man hat ferner, wenn
 $$
 x = \lambda[\Theta(c,b), b]
 $$
-gesetzt wird, nach (1) <!-- TODO: eqref? -->
+gesetzt wird, nach [(1)](#S.18eq1) 
 $$
 \Theta(x,b) = \Theta(a,c)
 $$
-und nach (2)<!-- TODO: eqref? -->
+und nach [(2)](#S.19eq2)
 $$
 \lambda[\Theta(x,b), c] = a
 $$
-daher nach (4) <!-- TODO: eqref? -->
+daher nach [(4)](#S.22eq4) 
 $$
 \lambda[\Theta(x,b), c] = \Theta[x, \lambda(b,c)] = a
 $$
-und somit erhält man nach (2), <!-- TODO: eqref? --> $x =$
-$$ % TODO: number (6)
+und somit erhält man nach [(2)](#S.19eq2), $x =$
+<span class="numbered" id="S.22eq6" data-label="6">
+\begin{equation}
 \lambda[\Theta(a,c), b] = \lambda[a, \lambda(b,c)] = \Theta[a, \lambda(b,c)],
-$$
-eine Gleichung, welche mit (4) <!-- TODO: eqref? --> zu:
-$$ % TODO: number (4, 6)
+\end{equation}
+</span>
+eine Gleichung, welche mit [(4)](#S.22eq4) zu:
+<span class="numbered" id="S.22eq4,6" data-label="4, 6">
+\begin{equation}
 \lambda[\Theta(a,c), b] = \lambda[a, \lambda(b,c)] = \Theta[a, \lambda(c,b)],
-$$
-vereinigt werden kann und wo, wie in (5), <!-- TODO: eqref? -->
+\end{equation}
+</span>
+vereinigt werden kann und wo, wie in [(5)](#S.22eq5), 
 die Vertauschung der Ordnung von $c$ und $b$ im mittelsten Gliede
 wohl zu beachten ist. --- 
 </p>
@@ -426,17 +442,21 @@ ist, während das erstere constant bleibt.
 Wir nehmen nun an, [dass es]{.corrected} ein Object $n$, den <dfn>Modulus</dfn> der 
 Operation gibt, welches mit jedem Object $a$ thetisch verknüpft, 
 dasselbe wieder als Resultat ergibt, so dass: 
-$$ % TODO: number (7)
+<span class="numbered" id="S.23eq7" data-label="7">
+\begin{equation}
 \Theta(a,n) = a
-$$
+\end{equation}
+</span>
 Dann hat man nach dem associativen Princip 
 $$
 \Theta\{a, \Theta(n, c)\} = \Theta\{\Theta(a,n), c\} = \Theta(a, c)
 $$
 und nach der vorausgesetzten Eindeutigkeit 
-$$ % TODO: number  (8)
+<span class="numbered" id="S.23eq8" data-label="8">
+\begin{equation}
 \Theta(n, c) = c
-$$
+\end{equation}
+</span>
 so dass die Ordnung, in der man den Modul mit dem Objecte verbindet,
 für das Resultat gleichgültig ist. 
 </p>
@@ -445,14 +465,16 @@ für das Resultat gleichgültig ist.
 <div class="parallel">
 <p lang="de">
 Ferner findet man: 
-$$
+<span class="numbered" id="S.23eq9" data-label="9">
+\begin{equation}
 \lambda(a,n) = a
-$$
-denn es ist nach (1) <!-- TODO: eqref? -->
+\end{equation}
+</span>
+denn es ist nach [(1)](#S.18eq1) 
 $$
 \Theta\{\lambda(a,n),n\} = a
 $$
-und nach (7) <!-- TODO: eqref? -->
+und nach [(7)](#S.23eq7) 
 $$
 \lambda(a, w) = \Theta\{\lambda (a, n), n\} = a 
 $$
@@ -461,14 +483,16 @@ $$
 </div>
 <div class="parallel">
 <p lang="de">
-Aus (2)  erhält man ferner für $a = n$ <!-- TODO: eqref? -->
+Aus [(2)](#S.19eq2)  erhält man ferner für $a = n$ 
 $$
 \lambda[\Theta(n,b), b] = n
 $$
 und da $\Theta(n, b) = b$
-$$ % TODO: number (10)
+<span class="numbered" id="S.23eq10" data-label="10">
+\begin{equation}
 \lambda(b, b) = n
-$$
+\end{equation}
+</span>
 so dass der Modul durch die lytische Verknüpfung irgend eines 
 Objectes mit sich selbst, erhalten wird. 
 </p>
@@ -479,24 +503,28 @@ Objectes mit sich selbst, erhalten wird.
 Während sich $\Theta(b,n)$, $\Theta(n,b)$, $\lambda(b,n)$ einfach auf
 $b$ reducirten, ist dies mit $\lambda(n,b)$ nicht der Fall. Wir schreiben:
 <a lang="de" class="origpage" id="S.24" title="Seite 24"></a>
-$$ % TODO: number (11)
+<span class="numbered" id="S.24eq11" data-label="11">
+\begin{equation}
 \lambda(n,b) = b_n
-$$
+\end{equation}
+</span>
 und nennen $b_n$ das zu $b$ <dfn>inverse</dfn> Object, $b$ aber das
 <dfn>directe</dfn>. Dann lässt sich zeigen, dass das zu $b_n$ inverse
 Object wiederum $b$ ist, also $b_n$ und $b$ in dem conträren
 Gegensatze des directen und inversen stehen (vergl. [§. 17](#pz17)).
-Man hat nämlich aus (6) für $a = n, b = n$: <!-- TODO: eqref? -->
+Man hat nämlich aus [(6)](#S.22eq6) für $a = n, b = n$: 
 $$
 \lambda [n, \lambda (n, c)] == \lambda[\Theta(n, c), n] 
 $$
-also da nach (8) und (9) <!--TODO: eqref? -->
+also da nach [(8)](#S.23eq8) und [(9)](#S.23eq9) 
 $\lambda [\Theta (n, c), n] = \lambda (c, n) = c$ und nach 
-(11) <!--TODO: eqref? -->
+[(11)](#S.24eq11) 
 $\lambda[n, \lambda(n,c)] = \lambda[\Theta(n,c), n]$ ist: 
-$$ % TODO: number (12)
+<span class="numbered" id="S.24eq12" data-label="12">
+\begin{equation}
 (c_n)_n = c
-$$
+\end{equation}
+</span>
 </p>
 <p lang="en">...
 <a lang="en" class="origpage" id="p.24" title="Page 24"></a>
@@ -514,40 +542,48 @@ lytische Verknüpfung in eine thetische und umgekehrt verwandeln.
 
 <div class="parallel">
 <p lang="de">
-Denn man hat für $b = n$ aus (4): <!-- TODO: eqref? -->
+Denn man hat für $b = n$ aus [(4)](#S.22eq4): 
 $$
 \Theta[a, \lambda(n, c)] = \lambda[\Theta (a, n), c] 
 $$
 oder 
-$$ % TODO: number (13) 
+<span class="numbered" id="S.24eq13" data-label="13">
+\begin{equation} 
 \lambda(a,c) = \Theta(a, c_n)
-$$
-und aus (6) für $b = n$: <!-- TODO: eqref? -->
+\end{equation}
+</span>
+und aus [(6)](#S.22eq6) für $b = n$: 
 $$
 \lambda[a, \lambda(n, c)] = \lambda[\Theta(a, c), n] 
 $$
 oder
-$$ % TODO: number (14) 
+<span class="numbered" id="S.24eq14" data-label="14">
+\begin{equation} 
 \Theta(a,c) = \lambda(a, c_n)
-$$
+\end{equation}
+</span>
 </p>
 <p lang="en">...</p>
 </div>
 
 <div class="parallel">
 <p lang="de">
-Aus der Gleichung (4, 6) <!-- TODO: eqref? -->
+Aus der Gleichung [(4, 6)](#S.22eq4,6) 
 $$
 \lambda[a, \lambda(b,c)] = \Theta[a, \lambda(c, b)] 
 $$
 ergibt sich noch für $a = n$, dass 
-$$ % TODO: number (15) 
+<span class="numbered" id="S.24eq15" data-label="15">
+\begin{equation} 
 [\lambda(b, c)]_n = \lambda (c, b)
-$$
-und aus (5) für $a = n$: <!-- TODO: eqref? -->
-$$ 
+\end{equation}
+</span>
+und aus [(5)](#S.22eq5) für $a = n$: 
+<span class="numbered" id="S.24eq16" data-label="16">
+\begin{equation}
 [\Theta(b,c)]_n = \Theta(c_n, b_n)
-$$
+\end{equation}
+</span>
 </p>
 <p lang="en">...</p>
 </div>
@@ -555,21 +591,21 @@ $$
 <div class="parallel text-small">
 <p lang="de">
 Mit Hilfe dieses Begriffes des Inversen lassen sich jetzt die Gleichungen 
-4, 5, 6  <!-- TODO: eqref?  -->
+[4](#S.23eq4), [5](#S.23eq5), [6](#S.23eq6)  <!-- TODO: eqref?  -->
 so schreiben: Es ist
 \begin{align}
 \Theta[a, \lambda(b,c)] &= \Theta[a,\Theta(b,c_n)] \\
 \lambda[\Theta(a,b), c] &= \Theta[\Theta(a,b), c_n]
 \end{align}
-also gibt (4): <!-- TODO: eqref? -->
+also gibt [(4)](#S.22eq4): 
 $$
 \Theta[a, \Theta(b, c_n)] = \Theta[\Theta(a, b), c_n] 
 $$
-Ebenso gibt (5) <!-- TODO: eqref? -->
+Ebenso gibt [(5)](#S.22eq5) 
 $$
 \Theta[a, \Theta(b_n, c_n)] = \Theta[\Theta(a, b_n), c_n]
 $$
-und (6) <!-- TODO: eqref? -->
+und [(6)](#S.22eq6) 
 $$
 \Theta[a, \Theta(c, b_n)] = \Theta[\Theta(a, c), b_n]
 $$
