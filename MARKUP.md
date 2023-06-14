@@ -105,3 +105,23 @@ but markup as `dfn` or `em` does not seem appropriate.
 Mathematics is marked up using LaTeX, which pandoc exports to MathML
 with the original LaTeX in an `annotation` element for accessibility.
 
+Since pandoc's (and MathML's) support for LaTeX does not include
+equation numbering, numbered/labeled equations are marked up by
+wrapping them in a `<span>` with class `numbered`, a `data-label`
+attribute containing the actual label displayed (without the
+parentheses), and a unique `id` based on the page number and label
+(similar to other links, the German version uses "S." and the English
+uses "p."). For example:
+```
+<span class="numbered" id="S.21eq3" data-label="3">
+\begin{equation}
+\Theta[a, \Theta(b,c)] = \Theta[\Theta(a,b), c]
+\end{equation}
+</span>
+```
+References to these equations are then ordinary links which target the
+corresponding `id`, with class `eqref`. The link text includes the parentheses:
+```
+[(3)](#S.21eq3){.eqref}
+```
+
