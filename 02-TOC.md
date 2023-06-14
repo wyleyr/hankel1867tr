@@ -34,20 +34,20 @@
 </div>
 </nav>
 
-### [II. Abschnitt. Allgemeine Formenlehre.](#Ch.II){lang="de"} [Chapter II. General Theory of Forms.](Ch.II){lang="en"} 
+### [II. Abschnitt. Allgemeine Formenlehre.](#Ch.II){lang="de"} [Chapter II. General Theory of Forms.](#Ch.II){lang="en"} 
 
 <nav class="parallel toc">
 <div lang="de">
-1.  [§4. Algorithmus associativer Rechnungsoperationen ohne Commutation](#S.18)
-2.  [§5. Algorithmus associativer Operationen mit Commutation; Bildung der inversen Objectenreihe](#S.25)
-3.  [§6. Die Addition und Subtraction](#S.29)
-4.  [§7. Die Multiplication und Division](#S.30)
+1.  [§4. Algorithmus associativer Rechnungsoperationen ohne Commutation](#pz4)
+2.  [§5. Algorithmus associativer Operationen mit Commutation; Bildung der inversen Objectenreihe](#pz5)
+3.  [§6. Die Addition und Subtraction](#pz6)
+4.  [§7. Die Multiplication und Division](#pz7)
 </div>
 <div lang="en">
-1.  [§4. Algorithm of associative arithmetic operations without commutativity](#p.18)
-2.  [§5. Algorithm of associative operations with commutativity; Formation of the inverse object-series](#p.25)
-3.  [§6. Addition and subtraction](#p.29)
-4.  [§7. Multiplication and Division](#p.30)
+1.  [§4. Algorithm of associative arithmetic operations without commutativity](#pz4)
+2.  [§5. Algorithm of associative operations with commutativity; Formation of the inverse object-series](#pz5)
+3.  [§6. Addition and subtraction](#pz6)
+4.  [§7. Multiplication and Division](#pz7)
 </div>
 </nav>
 
