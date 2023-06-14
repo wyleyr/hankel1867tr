@@ -28,11 +28,11 @@ sich als Resultat ergebende Object $c$ mit $b$ thetisch verknüpft, dadurch
 das andere Glied der Verbindung $a$ mit Nothwendigkeit 
 wieder erhalten wird. Bezeichnet man diese letztere Verknüpfung 
 mit $\Theta$, so spricht $\Theta(c, b) = a$ oder 
-$$ % TODO: number (1)
+<span class="numbered" id="S.18eq1" data-label="1">
 \begin{equation}
 \Theta\{\lambda(a,b), b\} = a
 \end{equation}
-$$
+</span>
 diese Annahme in Zeichen aus und enthält zugleich eine Definition 
 dieser <dfn>thetischen</dfn> Operation $\Theta$ aus jener $\lambda$,
 die wir als die <dfn>lytische</dfn> bezeichnen. 
@@ -49,11 +49,11 @@ the other member $a$ of the [combination]{.origphrase title="Verbindung"}
 is of necessity obtained again. If one signifies the latter
 [operation]{.origphrase title="Verknüpfung"}
 with $\Theta$, then $\Theta(c, b) = a$ or
-$$ % TODO: number (1)
+<span class="numbered" id="p.18eq1" data-label="1">
 \begin{equation}
 \Theta\{\lambda(a,b), b\} = a
 \end{equation}
-$$
+</span>
 expresses this assumption in signs and at the same time contains a
 definition of this <dfn>thetic</dfn> [operation]{.origphrase title="Operation"}
 $\Theta$ from that $\lambda$, which we call <dfn>lytic</dfn>.
