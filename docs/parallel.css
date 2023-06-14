@@ -51,9 +51,24 @@ a.fnref {
     padding: 0 40px 0 40px;
 }
 
-
+/*
+ * Math
+ */
 math[display="block"] {
     margin: 0.5em 0 0.5em 0;
+}
+
+.numbered {
+    display: block;
+    width: 100%;
+    position: relative;
+    margin: 0.5em 0 0.5em 0;
+}
+.numbered:after {
+    position: absolute;
+    top: 0;
+    right: 0;
+    content: "(" attr(data-label) ")"; 
 }
 
 /*
