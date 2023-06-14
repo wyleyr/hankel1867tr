@@ -307,11 +307,11 @@ Setzt man
 $$
 x = \Theta[a,\lambda(b,c)]
 $$
-so hat man nach [(3)](#S.21eq3) 
+so hat man nach [(3)](#S.21eq3){.eqref} 
 $$
 \Theta(x,c) = \Theta\{\Theta[a,\lambda(b,c)],c\} = \Theta\{a, \Theta[\lambda(b,c),c]\}
 $$
-und daher nach [(1)](#S.18eq1) 
+und daher nach [(1)](#S.18eq1){.eqref} 
 $$
 \Theta(x,c) = \Theta(a,b)
 $$
@@ -320,7 +320,7 @@ also
 $$
 \lambda[\Theta(x,c),c] = \lambda[\Theta(a,b),c]
 $$
-oder nach [(2)](#S.19eq2)  $x =$ 
+oder nach [(2)](#S.19eq2){.eqref}  $x =$ 
 <span class="numbered" id="S.22eq4" data-label="4">
 \begin{equation}
 \Theta[a, \lambda(b,c)] = \lambda[\Theta(a,b),c]
@@ -339,19 +339,19 @@ Setzen wir ferner:
 $$
 x = \lambda[\lambda(a,b),c]
 $$
-so hat man nach [(1)](#S.18eq1) 
+so hat man nach [(1)](#S.18eq1){.eqref} 
 $$
 \Theta(x,c) = \Theta\{\lambda[\lambda(a,b),c],c\} = \lambda(a,b)
 $$
-also wieder nach [(1)](#S.18eq1) 
+also wieder nach [(1)](#S.18eq1){.eqref} 
 $$
 \Theta[\Theta(x,c),b] = a
 $$
-oder nach [(3)](#S.21eq3)
+oder nach [(3)](#S.21eq3){.eqref}
 $$
 \Theta[x, \Theta(c,b)] = a
 $$
-und somit nach [(2)](#S.19eq2):  $x =$
+und somit nach [(2)](#S.19eq2){.eqref}:  $x =$
 <span class="numbered" id="S.22eq5" data-label="5">
 \begin{equation}
 \lambda[a, \Theta(c,b)] = \lambda[\lambda(a,b), c]
@@ -367,31 +367,31 @@ Man hat ferner, wenn
 $$
 x = \lambda[\Theta(c,b), b]
 $$
-gesetzt wird, nach [(1)](#S.18eq1) 
+gesetzt wird, nach [(1)](#S.18eq1){.eqref} 
 $$
 \Theta(x,b) = \Theta(a,c)
 $$
-und nach [(2)](#S.19eq2)
+und nach [(2)](#S.19eq2){.eqref}
 $$
 \lambda[\Theta(x,b), c] = a
 $$
-daher nach [(4)](#S.22eq4) 
+daher nach [(4)](#S.22eq4){.eqref} 
 $$
 \lambda[\Theta(x,b), c] = \Theta[x, \lambda(b,c)] = a
 $$
-und somit erhält man nach [(2)](#S.19eq2), $x =$
+und somit erhält man nach [(2)](#S.19eq2){.eqref}, $x =$
 <span class="numbered" id="S.22eq6" data-label="6">
 \begin{equation}
 \lambda[\Theta(a,c), b] = \lambda[a, \lambda(b,c)] = \Theta[a, \lambda(b,c)],
 \end{equation}
 </span>
-eine Gleichung, welche mit [(4)](#S.22eq4) zu:
+eine Gleichung, welche mit [(4)](#S.22eq4){.eqref} zu:
 <span class="numbered" id="S.22eq4,6" data-label="4, 6">
 \begin{equation}
 \lambda[\Theta(a,c), b] = \lambda[a, \lambda(b,c)] = \Theta[a, \lambda(c,b)],
 \end{equation}
 </span>
-vereinigt werden kann und wo, wie in [(5)](#S.22eq5), 
+vereinigt werden kann und wo, wie in [(5)](#S.22eq5){.eqref}, 
 die Vertauschung der Ordnung von $c$ und $b$ im mittelsten Gliede
 wohl zu beachten ist. --- 
 </p>
@@ -470,11 +470,11 @@ Ferner findet man:
 \lambda(a,n) = a
 \end{equation}
 </span>
-denn es ist nach [(1)](#S.18eq1) 
+denn es ist nach [(1)](#S.18eq1){.eqref} 
 $$
 \Theta\{\lambda(a,n),n\} = a
 $$
-und nach [(7)](#S.23eq7) 
+und nach [(7)](#S.23eq7){.eqref} 
 $$
 \lambda(a, w) = \Theta\{\lambda (a, n), n\} = a 
 $$
@@ -483,7 +483,7 @@ $$
 </div>
 <div class="parallel">
 <p lang="de">
-Aus [(2)](#S.19eq2)  erhält man ferner für $a = n$ 
+Aus [(2)](#S.19eq2){.eqref}  erhält man ferner für $a = n$ 
 $$
 \lambda[\Theta(n,b), b] = n
 $$
@@ -512,13 +512,13 @@ und nennen $b_n$ das zu $b$ <dfn>inverse</dfn> Object, $b$ aber das
 <dfn>directe</dfn>. Dann lässt sich zeigen, dass das zu $b_n$ inverse
 Object wiederum $b$ ist, also $b_n$ und $b$ in dem conträren
 Gegensatze des directen und inversen stehen (vergl. [§. 17](#pz17)).
-Man hat nämlich aus [(6)](#S.22eq6) für $a = n, b = n$: 
+Man hat nämlich aus [(6)](#S.22eq6){.eqref} für $a = n, b = n$: 
 $$
 \lambda [n, \lambda (n, c)] == \lambda[\Theta(n, c), n] 
 $$
-also da nach [(8)](#S.23eq8) und [(9)](#S.23eq9) 
+also da nach [(8)](#S.23eq8){.eqref} und [(9)](#S.23eq9){.eqref} 
 $\lambda [\Theta (n, c), n] = \lambda (c, n) = c$ und nach 
-[(11)](#S.24eq11) 
+[(11)](#S.24eq11){.eqref} 
 $\lambda[n, \lambda(n,c)] = \lambda[\Theta(n,c), n]$ ist: 
 <span class="numbered" id="S.24eq12" data-label="12">
 \begin{equation}
@@ -542,7 +542,7 @@ lytische Verknüpfung in eine thetische und umgekehrt verwandeln.
 
 <div class="parallel">
 <p lang="de">
-Denn man hat für $b = n$ aus [(4)](#S.22eq4): 
+Denn man hat für $b = n$ aus [(4)](#S.22eq4){.eqref}: 
 $$
 \Theta[a, \lambda(n, c)] = \lambda[\Theta (a, n), c] 
 $$
@@ -552,7 +552,7 @@ oder
 \lambda(a,c) = \Theta(a, c_n)
 \end{equation}
 </span>
-und aus [(6)](#S.22eq6) für $b = n$: 
+und aus [(6)](#S.22eq6){.eqref} für $b = n$: 
 $$
 \lambda[a, \lambda(n, c)] = \lambda[\Theta(a, c), n] 
 $$
@@ -568,7 +568,7 @@ oder
 
 <div class="parallel">
 <p lang="de">
-Aus der Gleichung [(4, 6)](#S.22eq4,6) 
+Aus der Gleichung [(4, 6)](#S.22eq4,6){.eqref} 
 $$
 \lambda[a, \lambda(b,c)] = \Theta[a, \lambda(c, b)] 
 $$
@@ -578,7 +578,7 @@ ergibt sich noch für $a = n$, dass
 [\lambda(b, c)]_n = \lambda (c, b)
 \end{equation}
 </span>
-und aus [(5)](#S.22eq5) für $a = n$: 
+und aus [(5)](#S.22eq5){.eqref} für $a = n$: 
 <span class="numbered" id="S.24eq16" data-label="16">
 \begin{equation}
 [\Theta(b,c)]_n = \Theta(c_n, b_n)
@@ -597,15 +597,15 @@ so schreiben: Es ist
 \Theta[a, \lambda(b,c)] &= \Theta[a,\Theta(b,c_n)] \\
 \lambda[\Theta(a,b), c] &= \Theta[\Theta(a,b), c_n]
 \end{align}
-also gibt [(4)](#S.22eq4): 
+also gibt [(4)](#S.22eq4){.eqref}: 
 $$
 \Theta[a, \Theta(b, c_n)] = \Theta[\Theta(a, b), c_n] 
 $$
-Ebenso gibt [(5)](#S.22eq5) 
+Ebenso gibt [(5)](#S.22eq5){.eqref} 
 $$
 \Theta[a, \Theta(b_n, c_n)] = \Theta[\Theta(a, b_n), c_n]
 $$
-und [(6)](#S.22eq6) 
+und [(6)](#S.22eq6){.eqref} 
 $$
 \Theta[a, \Theta(c, b_n)] = \Theta[\Theta(a, c), b_n]
 $$
