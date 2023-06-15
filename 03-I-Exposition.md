@@ -473,7 +473,7 @@ diesem Sinne unmögliche Zahlen nicht
 zugelassen werden können, bedarf keines Beweises. Sind aber die
 betreffenden Zahlen logisch möglich, ihr Begriff klar und bestimmt
 definirt und also ohne Widerspruch, so kann jene Frage nur darauf
-hinaus kommen, ob es im Gebiete des Realen oder des in der Anschaaung
+hinaus kommen, ob es im Gebiete des Realen oder des in der Anschauung
 Wirklichen, des Actuellen ein Substrat derselben, ob es Objecte gebe,
 an welchen die Zahlen, also die intellectuellen Beziehungen der
 bestimmten Art zur Erscheinung kommen. In diesem Sinne konnte man,
@@ -728,7 +728,7 @@ their representation. <!-- TODO: cite @Sutherland2021 ch. 8 -->
 
 <div class="parallel">
 <p lang="de">
-Es seien $a$, $b$, $c$... irgend welche in der Anschaaung
+Es seien $a$, $b$, $c$... irgend welche in der Anschauung
 vorhandene oder mentale Objecte oder Relationen von Objecten, so kann
 man sich etwa $a$ und $b$ auf irgend eine Weise rein begrifflich
 und formal miteinander verknüpft denken und als Resultat der
