@@ -636,22 +636,73 @@ Verknüpfung directer und inverser Objecte.
 <p lang="en">...</p>
 </div>
 <div class="parallel">
+
 <p lang="de">
 
+Wir haben im Vorstehenden überall die unbeschränkte Ausführbarkeit
+aller Operationen vorausgesetzt, d. h. angenommen, dass es in dem
+betrachteten Gtebiete von Objecten jedesmal ein Object gibt, welches
+als Resultat der Operation angesehen werden kann, und insofern mit den
+in die Operation eingehenden Objecten gleichartig ist, als es mit
+letzteren oder auch mit anderen aus ähnlichen
+<!-- Note: page break is actually mid-word, after "ähn-" -->
+<a lang="de" class="origpage" id="S.26" title="Seite 26"></a>
+Operationen hervorgehenden Objecten nach denselben, einmal
+festgesetzten Regeln verknüpft werden kann.
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.26" title="Page 26"></a>
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Nicht überall aber ist das Gebiet von Anfang an so ausgedehnt;
+vielmehr werden wir Fälle kennenlernen, in welchen die auf eine Reihe
+von Objecten angewandte thetische Operation allerdings jederzeit ein
+Object derselben directen Reihe liefert, während die Lysis nur in
+gewissen Fällen zu einem solchen führt, in anderen aber nicht, somit
+in gewissem Sinne unausführbar ist, und erst ausführbar wird, wenn man
+sich zu der gegebenen Reihe von Objecten eine inverse hinzudenkt, die
+entweder transscendental oder in der Anschauung construirbar ist. ---
 </p>
 <p lang="en">...</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
-
+Wenn $a, b$ Objecte der ursprünglich gegebenen Reihe bezeichnen, so
+wird $\lambda(a, b)$ ein Object dieser neuen Reihe oder auch unter
+bestimmten Bedingungen eines der ursprünglichen Reihe darstellen. Im
+letzteren Falle weiss man nach vorstehenden Regeln mit $\lambda(a, b)$
+zu operiren, es lässt sich dies $\lambda(a, b)$ mit anderen Zeichen
+$\lambda(c, d)$..., welche der ursprünglichen Reihe angehören,
+associativ verknüpfen. Gehört aber $\lambda(a, b)$ dieser alten Reihe
+nicht an, so ist es zunächst unbestimmt, wie dasselbe überhaupt mit
+anderen Objecten $\lambda(c, d)$..., welche ebenfalls in der alten
+Reihe nicht vorhanden sind, oder auch mit denen der alten verknüpft
+werden solle. Hier tritt nun das Princip der Permanenz der Formen ein,
+indem es uns auffordert, die neuen Verknüpfungen so zu definiren, dass
+sie denselben formalen Bedingungen genügen, als die der ursprünglich
+gegebenen Objecte.
 </p>
-<p lang="en">...</p>
-</div>
-<div class="parallel">
-<p lang="de">
-
+<p lang="en">
+If $a$ and $b$ signify objects of the originally given series, then
+$\lambda(a, b)$ will represent an object of this new series, or, under
+certain conditions, one of the original series. In the latter case,
+one already knows how to operate with $\lambda(a, b)$ according to the
+previously given rules; this $\lambda(a, b)$ may be associatively
+[conjoined]{.origphrase title="verknüpfen"} with other signs which
+belong to the original series. But if $\lambda(a, b)$ does not belong
+to the original series, then it is not yet determined how it is to be
+conjoined with other objects $\lambda(c, d)$ not present in the old
+series, nor with those of the old. At this point the principle of
+permanence of forms enters by calling upon us to define the new
+[conjunctions]{.origphrase title="Verknüpfungen"} such that they
+satisfy the same formal conditions as those of the originally given
+objects.
 </p>
-<p lang="en">...</p>
 </div>
 <div class="parallel">
 <p lang="de">
@@ -804,15 +855,73 @@ Verknüpfung directer und inverser Objecte.
 <div class="text-small">
 <div class="parallel">
 <p lang="de">
-
+Die in den beiden letzten Paragraphen statuirten formalen Gesetze der
+Addition und Multiplication sind den bekannten und in [§. 1](#pz1),
+[2](#pz2) angeführten Gesetzen der actuellen Addition und
+Multiplication in der Grössenlehre, mit einiger Freiheit (in Bezug auf
+die Commutativität) nachgebildet. Diese Gesetze sind es nun, die wir
+auf die Gebiete der Anschauung, in's Besondere des Raumes im
+Folgenden übertragen werden; und dies ist die eine Seite des
+Principes der Permanenz der formalen Gesetze.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+The formal laws of addition and multiplication established in the
+previous two sections are patterned on the well-known laws of Actual
+addition and multiplication in the theory of magnitude, introduced in
+[§. 1](#pz1), [2](#pz2) --- though with some degree of freedom (with
+respect to commutativity). It is these laws which we will now in the
+following carry over to the domain of intuition, in particular the
+domain of space; and this is the one side of the principle of
+permanence of formal laws.
+</p>
 </div>
 <div class="parallel">
 <p lang="de">
-
+Wir werden dabei im Allgemeinen so verfahren: Wenn ein Gebiet von
+Objecten gegeben ist, so wird man zunächst fragen, ob es eine auf sie
+anwendbare Operation gebe, welcher die Eigenschaften der Addition
+zukommen. Eine stricte Methode zur Beantwortung dieser Frage gibt es
+allerdings nicht, vielmehr wird die productive Erfindung sie lösen
+müssen; das Princip der Permanenz leistet dabei gute Dienste. Ist aber
+eine Operation gefunden, welche die Eigenschaften der Addition hat, so
+wird man weiter fragen, ob es eine entsprechende Multiplication gebe;
+um dies zu beantworten, wird man die Principien der Multiplication
+wiederum in mehr oder minder speciellen Fällen benutzen, und so dazu
+gelangen die Multiplication actuell zu definiren. Ist dies geschehen,
+so bleibt es dann noch übrig, in synthetischem Gange nachzuweisen,
+<!-- Note: page break is actually mid-word, after "nach-" -->
+<a lang="de" class="origpage" id="S.34" title="Seite 34"></a>
+dass in der That alle fundamentalen Principien der Operation, wie sie
+in diesem §. gelehrt sind, erfüllt sind, und erst dann wird man die
+Operation streng genommen als Multiplication bezeichnen können. Das
+Princip der Permanenz ist hiebei überall nur ein im methodologischen
+Sinne dieses Wortes, analytisches; es müssen stets eine Reihe von
+arbiträren Annahmen gemacht werden, welche es nicht beweist, sondern
+nur leitet. Dass jene Annahmen arbiträr sind, geht genügend daraus
+hervor, dass verschiedene actuelle Operationen gegeben werden können,
+welche sämmtlich den allgemeinen formalen Regeln genügen.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+As we do so, we will in general proceed as follows: when a domain of
+objects is given, we will first ask whether there is an operation
+applicable to it to which the properties of addition belong.
+There is however no strict method for answering this question; it must
+rather be resolved by productive invention, and the principle of
+permanence performs here an admirable service. If however an operation
+is found which has the properties of addition, we will further ask
+whether there is a corresponding multiplication; in order to answer
+this question, one uses the principles of multiplication in more
+or less specific cases, and thus achieves an Actual definition of
+multiplication. Once this has taken place, it remains to be shown in 
+<a lang="en" class="origpage" id="p.34" title="Page 34"></a>
+that in fact all the fundamental principles of the
+[operation]{.origphrase title="Operation"}
+as they have been set out in this §. are fulfilled, and it is strictly
+speaking only then that one will be able to call the operation multiplication.
+The principle of permanence is everywhere here an analytic one, only
+in the 
+...
+</p>
 </div>
 <div class="parallel">
 <p lang="de">
