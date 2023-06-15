@@ -667,7 +667,18 @@ in gewissem Sinne unausführbar ist, und erst ausführbar wird, wenn man
 sich zu der gegebenen Reihe von Objecten eine inverse hinzudenkt, die
 entweder transscendental oder in der Anschauung construirbar ist. ---
 </p>
-<p lang="en">...</p>
+<p lang="en">
+But not everywhere is the domain so extended at the start;
+rather we will become acquainted with cases in which the thetic
+operation, applied to a series of objects, always delivers an
+object of the same direct <!-- TODO: trnote about this word -->
+series, while the lytic only leads to such an object in certain cases,
+but not in others, and is thus in a certain sense 
+[not completable]{.origphrase title="unausführbar"}; it only becomes
+completable if one adds in thought to the given series of objects
+an inverse series which is constructible either transcendentally
+or in intuition. --- 
+</p>
 </div>
 
 <div class="parallel">
@@ -689,7 +700,7 @@ gegebenen Objecte.
 </p>
 <p lang="en">
 If $a$ and $b$ signify objects of the originally given series, then
-$\lambda(a, b)$ will represent an object of this new series, or, under
+$\lambda(a, b)$ will present an object of this new series, or, under
 certain conditions, one of the original series. In the latter case,
 one already knows how to operate with $\lambda(a, b)$ according to the
 previously given rules; this $\lambda(a, b)$ may be associatively
@@ -868,7 +879,7 @@ Principes der Permanenz der formalen Gesetze.
 The formal laws of addition and multiplication established in the
 previous two sections are patterned on the well-known laws of Actual
 addition and multiplication in the theory of magnitude, introduced in
-[§. 1](#pz1), [2](#pz2) --- though with some degree of freedom (with
+[§. 1](#pz1), [2](#pz2) --- though with some liberty taken (with
 respect to commutativity). It is these laws which we will now in the
 following carry over to the domain of intuition, in particular the
 domain of space; and this is the one side of the principle of
@@ -912,39 +923,76 @@ is found which has the properties of addition, we will further ask
 whether there is a corresponding multiplication; in order to answer
 this question, one uses the principles of multiplication in more
 or less specific cases, and thus achieves an Actual definition of
-multiplication. Once this has taken place, it remains to be shown in 
+multiplication. Once this has taken place, it remains to be shown
+[synthetically]{.origphrase title="in synthetischem Gange"} 
 <a lang="en" class="origpage" id="p.34" title="Page 34"></a>
 that in fact all the fundamental principles of the
-[operation]{.origphrase title="Operation"}
-as they have been set out in this §. are fulfilled, and it is strictly
-speaking only then that one will be able to call the operation multiplication.
-The principle of permanence is everywhere here an analytic one, only
-in the 
-...
+[operation]{.origphrase title="Operation"} as they have been set out
+in this §. are fulfilled, and it is strictly speaking only then that
+one will be able to call the operation multiplication. The principle
+of permanence is everywhere here a principle which is, in the
+merely methodological sense of this word, *analytic*; a series of arbitrary
+assumptions must always be made, which it does not prove, but rather
+[suggests]{.origphrase title="leitet"}. That these assumptions are
+arbitrary follows from the fact that distinct Actual operations can be
+given which all satisfy the general formal rules.
 </p>
 </div>
+
 <div class="parallel">
 <p lang="de">
-
+Ebenso wie man die vorhergehenden Festsetzungen und daraus abgeleiteten
+Folgerungen auf die Geometrie übertragen kann, so kommen sie auch in 
+der Theorie der complexen Zahlen in Anwendung. Einmal enthalten sie die 
+Regeln ihrer Addition und Multiplication und dienen, wie im folgenden
+Abschnitt nachgewiesen werden wird, zur <em>Definition</em> ihres Charakters. 
 </p>
 <p lang="en">...</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
-
+Andererseits aber kann man auch fragen, ob es in einem gegebenen
+Zahlensysteme noch andere Operationen $\Theta, \lambda, ...$ gebe,
+welche diesen Regeln genügen. Die Beantwortung dieser Frage gehört in
+die Theorie der Functionen und hat tiefere Bedeutung nur für den
+<q>calculus of operations</q>; doch wollen wir eine hieher gehörige
+Untersuchung, welche sich auf das gemeine complexe Zahlensystem
+bezieht, wenigstens in ihren Resultaten mittheilen:
 </p>
 <p lang="en">...</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
-
+Eine associative und commutative Function $\Theta(x,y)$ mit dem Modul $m$ 
+wird stets von der Form: 
+$$
+\Theta(x,y) = \phi_1 [\phi(x) + \phi(y) - \phi(m)] 
+$$
+sein, wo $\phi, \phi_1$ zwei inverse Functionen sind, so dass
+$\phi_1(\phi(x)) = x$. Soll eine andere associative und commutative
+Function $\pi$ mit dem Modul $n$,
+$$
+\pi(x,y) = \psi_1 [\psi(x) + \psi(y) - \psi(m)] 
+$$
+mit $\Theta$ durch das distributive Princip 
+$$
+\pi[\Theta(x,y),z] = \Theta[\pi(x,z), \pi(y,z)]
+$$
+verbunden sein, so ergibt sich als allgemeine Form derselben: 
+$$
+\psi(x) = \frac{1}{a}\log{[\phi(x) - \phi(m)]}
+$$
+wo $a$ eine beliebige Constante ist. Setzt man $\phi(x) = x$ so erhält man hieraus 
+die Addition und Multiplication; die Form 
+$$
+\phi(x) = \frac{ax + b}{cx + d}
+$$
+gibt unter gewissen Voraussetzungen über die Stetigkeit der Functionen
+überhaupt, die einzigen eindeutigen Operationen $\Theta, \pi$.
 </p>
 <p lang="en">...</p>
 </div>
-<div class="parallel">
-<p lang="de">
 
-</p>
-<p lang="en">...</p>
-</div>
 </div> <!-- .text-small -->
