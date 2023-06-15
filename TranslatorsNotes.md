@@ -121,16 +121,16 @@ about them:
   (see for example [page 2](#p.2) or [page 18--19](#p.19)).
 
 <i lang="de">verknüpfen; Verknüpfung</i>
-: conjoin, combine; conjunction, combination, operation. Hankel thinks of
-  arithmetical operations like addition as *conjoining* or *putting
+: conjoin, combine; conjunction, combination, operation. Hankel thinks
+  of arithmetical operations like addition as *conjoining* or *putting
   together* two numbers. Thus $1 + 2$ is a conjunction of $1$ and $2$,
   in which the operation $+$ combines these two numbers into one. The
   noun form <i>Verknüpfung</i> exhibits a three-way ambiguity between
   the act of combining, the result of the combination, and the
-  operator which combines them. No single English word suffices to
-  capture all three senses, so I have done my best to pick the
-  relevant one, and left it up to the annotations to make the
-  connection between them clear.
+  operator which combines them (see for example the first paragraph of
+  [§3](#pz3)). No single English word suffices to capture all three
+  senses, so I have done my best to pick the relevant one, and left it
+  up to the annotations to make the connection between them clear.
   
 
 ### Corrections
