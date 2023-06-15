@@ -118,7 +118,10 @@ about them:
   thinking about it). But he does not always distinguish this clearly
   from its converse, the operation's being *functional* (the same
   inputs give the same output), especially in more informal glosses
-  (see for example [page 2](#p.2) or [page 18--19](#p.19)).
+  (see for example [page 2](#S.2) or [page 18--19](#S.19)).
+  He also contrasts <i>eindeutig</i> with <i>vieldeutig</i>
+  ("many-valued"; see [page 20](#S.20)), which counts against
+  translating it with a more general term like "well-defined".
 
 <i lang="de">verknüpfen; Verknüpfung</i>
 : conjoin, combine; conjunction, combination, operation. Hankel thinks of
