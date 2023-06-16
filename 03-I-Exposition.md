@@ -318,7 +318,7 @@ number from the series $1, 2, 3...$.
 Die der Variabilität von $b$ und $c$ wegen scheinbar doppelte 
 Reihe von Zahlen, welche so entsteht, kann leicht auf eine einfache 
 zurückgeführt werden: denkt man sich eine Zahl $0$, welche die 
-Eigenschaft hat, dass $a + 0 = a$ sei, was auch a bedeute, so hat 
+Eigenschaft hat, dass $a + 0 = a$ sei, was auch $a$ bedeute, so hat 
 man $a - a = 0$, und schreibt man nun statt $0 - a$ einfach $-a$, 
 so kann $c - b = -a$ gesetzt werden. 
 </p>
