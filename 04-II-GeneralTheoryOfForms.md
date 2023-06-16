@@ -638,10 +638,9 @@ Verknüpfung directer und inverser Objecte.
 <div class="parallel">
 
 <p lang="de">
-
 Wir haben im Vorstehenden überall die unbeschränkte Ausführbarkeit
 aller Operationen vorausgesetzt, d. h. angenommen, dass es in dem
-betrachteten Gtebiete von Objecten jedesmal ein Object gibt, welches
+betrachteten Gebiete von Objecten jedesmal ein Object gibt, welches
 als Resultat der Operation angesehen werden kann, und insofern mit den
 in die Operation eingehenden Objecten gleichartig ist, als es mit
 letzteren oder auch mit anderen aus ähnlichen
