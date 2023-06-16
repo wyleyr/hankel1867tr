@@ -75,10 +75,10 @@ vollkommen gleich sind, sich also, der Definition des Gleichen zufolge,
 <p lang="en">
 I remark immediately that we want everywhere in this §. to presuppose
 that the lytic and thetic operations, no matter what objects they are
-applied to are possible and
+applied to, are possible and
 [one-valued]{.orig-phrase title="eindeutig"}, that is,
 if $a$ and $b$ are given, then $\Theta(a,b)$ and likewise
-$\lambda(a,b)$ have only one 
+$\lambda(a,b)$ have only a
 <a lang="en" class="origpage" id="p.19" title="Page 19"></a>
 single [interpretation]{.origphrase title="Bedeutung"}, so that all
 objects which may be posited for the result of these
@@ -591,7 +591,7 @@ und aus [(5)](#S.22eq5){.eqref} für $a = n$:
 <div class="parallel text-small">
 <p lang="de">
 Mit Hilfe dieses Begriffes des Inversen lassen sich jetzt die Gleichungen 
-[4](#S.23eq4), [5](#S.23eq5), [6](#S.23eq6)  <!-- TODO: eqref?  -->
+[4](#S.23eq4), [5](#S.23eq5), [6](#S.23eq6) 
 so schreiben: Es ist
 \begin{align}
 \Theta[a, \lambda(b,c)] &= \Theta[a,\Theta(b,c_n)] \\
@@ -625,87 +625,360 @@ Verknüpfung directer und inverser Objecte.
 
 <div class="parallel">
 <p lang="de">
-
+Ist bisher das Resultat der Operation $\Theta(a, b)$ von $\Theta(b, a)$
+als verschieden angesehen worden, so steht doch dem nichts entgegen,
+dass wir neben den Festsetzungen des vorigen §. noch die 
+machen, dass jederzeit 
+$$
+\Theta(a, b) = \Theta(b, a). 
+$$
+Die anderen Formen, welche man dadurch den Gleichungen des 
+vorigen §. geben kann, indem man z. B. statt [(1)](#S.18eq1){.eqref}
+und [(2)](#S.19eq2){.eqref} 
+<span class="numbered" id="S.25eq1*" data-label="1*">
+\begin{equation}
+\Theta\{b, \lambda(a,b)\} = a
+\end{equation}
+</span>
+<span class="numbered" id="S.25eq2*" data-label="2*">
+\begin{equation}
+\lambda\{\Theta(b,a), b\} = a
+\end{equation}
+</span>
+schreibt, führen wir der Leichtigkeit wegen, mit der sie sich ergeben,
+hier nicht weiter an. Nur eine wesentlich neue Gleichung mag hier
+erwähnt werden:
 </p>
 <p lang="en">...</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
-
+Setzt man nämlich 
+$$
+\lambda\{a, \lambda (b, c)\} = x 
+$$
+so hat man nach [(5)](#S.22eq5){.eqref} 
+$$
+\lambda(x, c) = \lambda[\lambda\{a, \lambda(b,c)\}, c]= \lambda [a, \Theta\{c, \lambda(b,c)\}] 
+$$
+Aus der durch Commutation erhaltenen Gleichung [(1*)](#S.25eq1){.eqref} hat man 
+$$
+\Theta\{c, \lambda(b, c)\} = b 
+$$
+also $\lambda(x, c) = \lambda(a, b)$ und daher $x =$ 
+<span class="numbered" id="S.25eq6*" data-label="6*">
+\begin{equation}
+\lambda\{a, \lambda(b, c)\} = \Theta\{\lambda (a, b), c\} 
+\end{equation}
+</span>
+eine Gleichung, welche neben [(6)](#S.22eq6){.eqref} gesetzt werden
+kann, aber eine ausdrückliche Folge der Commutativität ist --- welch
+letztere Voraussetzung in den weiteren Untersuchungen dieses §. immer
+festgehalten werden soll.
 </p>
 <p lang="en">...</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
+Wir haben im Vorstehenden überall die unbeschränkte Ausführbarkeit
+aller Operationen vorausgesetzt, d. h. angenommen, dass es in dem
+betrachteten Gebiete von Objecten jedesmal ein Object gibt, welches
+als Resultat der Operation angesehen werden kann, und insofern mit den
+in die Operation eingehenden Objecten gleichartig ist, als es mit
+letzteren oder auch mit anderen aus ähnlichen
+<!-- Note: page break is actually mid-word, after "ähn-" -->
+<a lang="de" class="origpage" id="S.26" title="Seite 26"></a>
+Operationen hervorgehenden Objecten nach denselben, einmal
+festgesetzten Regeln verknüpft werden kann.
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.26" title="Page 26"></a>
+...
+</p>
+</div>
 
+<div class="parallel">
+<p lang="de">
+Nicht überall aber ist das Gebiet von Anfang an so ausgedehnt;
+vielmehr werden wir Fälle kennenlernen, in welchen die auf eine Reihe
+von Objecten angewandte thetische Operation allerdings jederzeit ein
+Object derselben directen Reihe liefert, während die Lysis nur in
+gewissen Fällen zu einem solchen führt, in anderen aber nicht, somit
+in gewissem Sinne unausführbar ist, und erst ausführbar wird, wenn man
+sich zu der gegebenen Reihe von Objecten eine inverse hinzudenkt, die
+entweder transscendental oder in der Anschauung construirbar ist. ---
+</p>
+<p lang="en">
+But not everywhere is the domain so extended at the start;
+rather we will become acquainted with cases in which the thetic
+operation, applied to a series of objects, always delivers an
+object of the same direct <!-- TODO: trnote about this word -->
+series, while the lytic only leads to such an object in certain cases,
+but not in others, and is thus in a certain sense 
+[not completable]{.origphrase title="unausführbar"}; it only becomes
+completable if one adds in thought to the given series of objects
+an inverse series which is constructible either transcendentally
+or in intuition. --- 
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Wenn $a, b$ Objecte der ursprünglich gegebenen Reihe bezeichnen, so
+wird $\lambda(a, b)$ ein Object dieser neuen Reihe oder auch unter
+bestimmten Bedingungen eines der ursprünglichen Reihe darstellen. Im
+letzteren Falle weiss man nach vorstehenden Regeln mit $\lambda(a, b)$
+zu operiren, es lässt sich dies $\lambda(a, b)$ mit anderen Zeichen
+$\lambda(c, d)$..., welche der ursprünglichen Reihe angehören,
+associativ verknüpfen. Gehört aber $\lambda(a, b)$ dieser alten Reihe
+nicht an, so ist es zunächst unbestimmt, wie dasselbe überhaupt mit
+anderen Objecten $\lambda(c, d)$..., welche ebenfalls in der alten
+Reihe nicht vorhanden sind, oder auch mit denen der alten verknüpft
+werden solle. Hier tritt nun das Princip der Permanenz der Formen ein,
+indem es uns auffordert, die neuen Verknüpfungen so zu definiren, dass
+sie denselben formalen Bedingungen genügen, als die der ursprünglich
+gegebenen Objecte.
+</p>
+<p lang="en">
+If $a$ and $b$ signify objects of the originally given series, then
+$\lambda(a, b)$ will present an object of this new series, or, under
+certain conditions, one of the original series. In the latter case,
+one already knows how to operate with $\lambda(a, b)$ according to the
+previously given rules; this $\lambda(a, b)$ may be associatively
+[conjoined]{.origphrase title="verknüpfen"} with other signs which
+belong to the original series. But if $\lambda(a, b)$ does not belong
+to the original series, then it is not yet determined how it is to be
+conjoined with other objects $\lambda(c, d)$ not present in the old
+series, nor with those of the old. At this point the principle of
+permanence of forms enters by calling upon us to define the new
+[conjunctions]{.origphrase title="Verknüpfungen"} such that they
+satisfy the same formal conditions as those of the originally given
+objects.
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Aus [(4)](#S.22eq4){.eqref} des vorigen §. findet man, wenn alle vorkommenden 
+lytischen Verknüpfungen Objecte der alten Reihe sind: 
+$$
+\Theta[\lambda (a, b), \lambda (c, d)] = \lambda[\Theta(\lambda(a,b),c),d]
+$$
+Vermöge der Commutativität und nach [(4)](#S.22eq4){.eqref} hat man: 
+$$
+\Theta(\lambda (a, b), c) = \Theta(c, \lambda (a, b)) = \lambda(\Theta(c, a), b) 
+$$
+und daher: 
+$$
+\Theta [\lambda (a, b), \lambda (c, d)] = \lambda[\lambda(\Theta (c, a), b), d] 
+$$
+Nach [(5)](#S.22eq5){.eqref} aber ist: 
+$$
+\lambda [\lambda (\Theta(c, a), b),d] = \lambda[\Theta(c, a), \Theta(d, b)] 
+$$
+also schliesslich 
+<span class="numbered" id="S.26eq1" data-label="1">
+\begin{equation}
+\Theta[\lambda (a, b), \lambda (c, d)] = \lambda[\Theta(a, c), \Theta (b, d)] 
+\end{equation}
+</span>
+<a lang="de" class="origpage" id="S.27" title="Seite 27"></a>
+Diese Gleichung nun wollen wir auch im Falle, dass die Verknüpfungen
+$\lambda (a, b), \lambda(c, d)$ nicht beide Objecte der alten Reihe 
+sind, als <em>Definition</em> ihrer thetischen Operation ansehen.
+</p>
+<p lang="en">
+From [(4)](#S.22eq4){.eqref} of the previous §. one finds,
+when all lytic [conjunctions]{.origphrase title="Verknüpfungen"} which
+appear there are objects of the old series:
+$$
+\Theta[\lambda (a, b), \lambda (c, d)] = \lambda[\Theta(\lambda(a,b),c),d]
+$$
+By commutativity and [(4)](#S.22eq4){.eqref} one has: 
+$$
+\Theta(\lambda (a, b), c) = \Theta(c, \lambda (a, b)) = \lambda(\Theta(c, a), b) 
+$$
+and thus: 
+$$
+\Theta [\lambda (a, b), \lambda (c, d)] = \lambda[\lambda(\Theta (c, a), b), d] 
+$$
+But by [(5)](#S.22eq5){.eqref}: 
+$$
+\lambda [\lambda (\Theta(c, a), b),d] = \lambda[\Theta(c, a), \Theta(d, b)] 
+$$
+and thus finally
+<span class="numbered" id="p.26eq1" data-label="1">
+\begin{equation}
+\Theta[\lambda (a, b), \lambda (c, d)] = \lambda[\Theta(a, c), \Theta (b, d)] 
+\end{equation}
+</span>
+<a lang="en" class="origpage" id="p.27" title="Page 27"></a>
+We want now to look at this equation as a <em>definition</em> of the
+thetic [operation]{.origphrase title="Operation"} for the
+[conjunctions]{.origphrase title="Verknüpfungen"} $\lambda(a, b), \lambda(c, d)$,
+including in the case that they are not both objects
+of the old series.
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Aus derselben folgt sofort die Commutativität, denn es ist
+$$
+\Theta[\lambda(c,d), \lambda(a,b)] = \lambda[\Theta(c, a), \Theta(d, b)]
+$$
+ferner auch die Associativität: denn es ist 
+\begin{multline}
+\Theta(\Theta[\lambda(a,b), \lambda(c,d)], \lambda(e,f)) =
+\Theta(\lambda[\Theta(a,c), \Theta(b, d)] \lambda (e,f)) \\ 
+= \lambda(\Theta[\Theta(a,c),e], \Theta[\Theta(b,d), f]) \\
+= \lambda\{\Theta(a,c,e), \Theta(b,d,f)\} 
+\end{multline}
+und 
+\begin{multline}
+\Theta(\lambda(a,b), \Theta[\lambda(c,d), \lambda(e,f)]) =
+\Theta(\lambda(a,b), \lambda[\Theta(c,e), \Theta(d,f)]) \\ 
+= \lambda(\Theta[a, \Theta(c,e)], \Theta[b,\Theta(d, f)]) \\
+= \lambda\{\Theta(a,c,e), \Theta(b,d,f)\} 
+\end{multline}
 </p>
 <p lang="en">...</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
-
+Dass die Thesis zweier Objecte der zweiten Art $\lambda(d,b), \lambda(c,d)$
+immer wieder ein Object derselben Art, welches nämlich in der 
+Form $\lambda(e,f)$ dargestellt werden kann, wo $e$ $f$ mit $a$ $b$ $c$ $d$
+gleichartig sind, geht unmittelbar aus deren Definition hervor. 
 </p>
 <p lang="en">...</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
-
+Es fragt sich aber weiter, ob bei der jener Thesis entsprechenden
+Lysis zweier Objecte der zweiten Art, nicht wiederum neue entstehen;
+es wird hierüber entschieden durch folgende Bemerkungen:
 </p>
 <p lang="en">...</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
-
+Wenn der frühere Modul der Operation jetzt die Eigenschaft 
+hat, mit einem Objecte der neuen sowohl wie der alten 
+Reihe thetisch verbunden, das Object selbst wieder zu erzeugen, so 
+ist nach [(1)](#S.26eq1){.eqref} 
+<span class="numbered" id="S.27eq2" data-label="2">
+\begin{equation}
+\lambda[\Theta(a,x), \Theta(b,x)] = \Theta[\lambda(a,b),\lambda(x,x)] = \lambda(a,b)
+\end{equation}
+</span>
+und daher z. B. 
+<span class="numbered" id="S.27eq3" data-label="3">
+\begin{equation}
+\lambda[\Theta(a,c,d), \Theta(b,c,d)] =  \lambda(a,b).
+\end{equation}
+</span>
 </p>
 <p lang="en">...</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
-
+Die Gleichung [(2)](#S.27eq2){.eqref} gibt uns darüber Aufschluss, in welchem 
+Falle zwei lytische Verbindungen $\lambda(e,f)$ und $\lambda(a,b)$ als gleich 
+anzusehen sind. 
 </p>
 <p lang="en">...</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
+Nach dieser Vorbereitung gehen wir zur Beantwortung der 
+aufgeworfenen Frage, die dahin lautet, ob immer ein Object $x$ von 
+der ersten oder der zweiten Art gefunden werden könne, so dass 
+$$
+x = \lambda[\lambda(a,b), \lambda(c,d)] 
+$$
+<a lang="de" class="origpage" id="S.28" title="Seite 28"></a>
+gesetzt werden kann, also zufolge der Definition der Lysis 
+$$
+\lambda(a, b) = \Theta\{x, \lambda(c, d)\} 
+$$
+ist. Soll $x$ ein solches Object sein, so muss $x = \lambda(y, z)$
+gesetzt werden können, wo $y, z$ Objecte der alten Art sind, also
+$$
+\lambda(a,b) = \Theta\{\lambda(y,z),\lambda(c,d)\} = \lambda\{\Theta(y,c), \Theta(z,d)\}
+$$
+Setzt man nun nach [(3)](#S.27eq3){.eqref}: 
+\begin{multline}
+\lambda (a, b) = \lambda\{\Theta[\Theta(a, d), c], \Theta[\Theta(b, c), d]\}  \\
+= \lambda[\Theta(y,c), \Theta(z, d)] 
+\end{multline}
+so genügen 
+$$
+y = \Theta(a,d), z = \Theta(b,c) 
+$$
+dieser Gleichung und es ist:
+$$
+\lambda[\lambda(a,b), \lambda(c,d)] = \lambda[\Theta(a,d), \Theta(b, c)] 
+$$
+also da $\Theta (a,d), \Theta(b,c)$ Objecte der ersten Art sind, die
+lytische Verbindung von $\lambda(a, b)$ und $\lambda(c, d)$ ein Object
+erster oder zweiter Art.
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.28" title="Page 28"></a>
+...
+</p>
+</div>
 
+<div class="parallel">
+<p lang="de">
+Haben wir nun so erkannt, dass aus unserer Festsetzung über 
+die Bedeutung einer Thesis von Objecten erster und zweiter Art 
+mit einander, oder letzterer untereinander, nothwendig folgt, dass 
+diese Thesis und ihre Lysis wieder auf Objecte dieser beiden Arten 
+führen, und überhaupt für die der zweiten Art dieselben Gesetze 
+der thetischen und lytischen Operationen gelten, als für die der 
+ersten Art, so leuchtet ein, dass jetzt sämmtliche Sätze des vorigen §.
+ohne Weiteres für Objecte erster und zweiter Art in ihrer 
+gegenseitigen Verknüpfung in Anspruch genommen werden können, 
+und noch überdem die Formeln [4](#S.23eq4), [5](#S.23eq5), [6](#S.23eq6) 
+jetzt, wo jede Lysis ausführbar ist, ganz allgemein und ohne jede
+Determination gelten werden.
 </p>
 <p lang="en">...</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
-
+Die Objecte zweiter Art bilden zunächst eine Reihe von der 
+zweifachen Ausdehnung der Reihe, welche die der ersten einnehmen. 
+Indessen kann man sie sämmtlich aus einer Reihe von Objecten, 
+welche eine nicht grössere Ausdehnung als die ursprüngliche hat, 
+durch thetische Verbindung erhalten Führt man nämlich nach 
+dem vorigen §. den Begriff des Inversen 
+$$
+\lambda(n,b) = b_n
+$$
+ein, so ist 
+$$
+\lambda(a,b) = \Theta(a,b_n)
+$$
+<a lang="de" class="origpage" id="S.29" title="Seite 29"></a>
+und diese inversen Objecte bilden eine der Reihe der (directen)
+Objecte erster Art entsprechende Reihe, so dass jedem Gliede der 
+einen Reihe eins der anderen in bestimmter Ordnung entspricht. 
 </p>
-<p lang="en">...</p>
-</div>
-<div class="parallel">
-<p lang="de">
-
+<p lang="en">...
+<a lang="en" class="origpage" id="p.29" title="Page 29"></a>
+...
 </p>
-<p lang="en">...</p>
-</div>
-<div class="parallel">
-<p lang="de">
-
-</p>
-<p lang="en">...</p>
-</div>
-<div class="parallel">
-<p lang="de">
-
-</p>
-<p lang="en">...</p>
-</div>
-<div class="parallel">
-<p lang="de">
-
-</p>
-<p lang="en">...</p>
-</div>
-<div class="parallel">
-<p lang="de">
-
-</p>
-<p lang="en">...</p>
 </div>
 
 ### [§6. Die Addition und Subtraction]{lang="de"} [§6. Addition and subtraction]{lang="en"} {#pz6 .pz}
@@ -804,38 +1077,133 @@ Verknüpfung directer und inverser Objecte.
 <div class="text-small">
 <div class="parallel">
 <p lang="de">
-
+Die in den beiden letzten Paragraphen statuirten formalen Gesetze der
+Addition und Multiplication sind den bekannten und in [§. 1](#pz1),
+[2](#pz2) angeführten Gesetzen der actuellen Addition und
+Multiplication in der Grössenlehre, mit einiger Freiheit (in Bezug auf
+die Commutativität) nachgebildet. Diese Gesetze sind es nun, die wir
+auf die Gebiete der Anschauung, in's Besondere des Raumes im
+Folgenden übertragen werden; und dies ist die eine Seite des
+Principes der Permanenz der formalen Gesetze.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+The formal laws of addition and multiplication established in the
+previous two sections are patterned on the well-known laws of Actual
+addition and multiplication in the theory of magnitude, introduced in
+[§. 1](#pz1), [2](#pz2) --- though with some liberty taken (with
+respect to commutativity). It is these laws which we will now in the
+following carry over to the domain of intuition, in particular the
+domain of space; and this is the one side of the principle of
+permanence of formal laws.
+</p>
 </div>
 <div class="parallel">
 <p lang="de">
-
+Wir werden dabei im Allgemeinen so verfahren: Wenn ein Gebiet von
+Objecten gegeben ist, so wird man zunächst fragen, ob es eine auf sie
+anwendbare Operation gebe, welcher die Eigenschaften der Addition
+zukommen. Eine stricte Methode zur Beantwortung dieser Frage gibt es
+allerdings nicht, vielmehr wird die productive Erfindung sie lösen
+müssen; das Princip der Permanenz leistet dabei gute Dienste. Ist aber
+eine Operation gefunden, welche die Eigenschaften der Addition hat, so
+wird man weiter fragen, ob es eine entsprechende Multiplication gebe;
+um dies zu beantworten, wird man die Principien der Multiplication
+wiederum in mehr oder minder speciellen Fällen benutzen, und so dazu
+gelangen die Multiplication actuell zu definiren. Ist dies geschehen,
+so bleibt es dann noch übrig, in synthetischem Gange nachzuweisen,
+<!-- Note: page break is actually mid-word, after "nach-" -->
+<a lang="de" class="origpage" id="S.34" title="Seite 34"></a>
+dass in der That alle fundamentalen Principien der Operation, wie sie
+in diesem §. gelehrt sind, erfüllt sind, und erst dann wird man die
+Operation streng genommen als Multiplication bezeichnen können. Das
+Princip der Permanenz ist hiebei überall nur ein im methodologischen
+Sinne dieses Wortes, analytisches; es müssen stets eine Reihe von
+arbiträren Annahmen gemacht werden, welche es nicht beweist, sondern
+nur leitet. Dass jene Annahmen arbiträr sind, geht genügend daraus
+hervor, dass verschiedene actuelle Operationen gegeben werden können,
+welche sämmtlich den allgemeinen formalen Regeln genügen.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+As we do so, we will in general proceed as follows: when a domain of
+objects is given, we will first ask whether there is an operation
+applicable to it to which the properties of addition belong.
+There is however no strict method for answering this question; it must
+rather be resolved by productive invention, and the principle of
+permanence performs here an admirable service. If however an operation
+is found which has the properties of addition, we will further ask
+whether there is a corresponding multiplication; in order to answer
+this question, one uses the principles of multiplication in more
+or less specific cases, and thus achieves an Actual definition of
+multiplication. Once this has taken place, it remains to be shown
+[synthetically]{.origphrase title="in synthetischem Gange"} 
+<a lang="en" class="origpage" id="p.34" title="Page 34"></a>
+that in fact all the fundamental principles of the
+[operation]{.origphrase title="Operation"} as they have been set out
+in this §. are fulfilled, and it is strictly speaking only then that
+one will be able to call the operation multiplication. The principle
+of permanence is everywhere here a principle which is, in the
+merely methodological sense of this word, *analytic*; a series of arbitrary
+assumptions must always be made, which it does not prove, but rather
+[suggests]{.origphrase title="leitet"}. That these assumptions are
+arbitrary follows from the fact that distinct Actual operations can be
+given which all satisfy the general formal rules.
+</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
-
+Ebenso wie man die vorhergehenden Festsetzungen und daraus abgeleiteten
+Folgerungen auf die Geometrie übertragen kann, so kommen sie auch in 
+der Theorie der complexen Zahlen in Anwendung. Einmal enthalten sie die 
+Regeln ihrer Addition und Multiplication und dienen, wie im folgenden
+Abschnitt nachgewiesen werden wird, zur <em>Definition</em> ihres Charakters. 
 </p>
 <p lang="en">...</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
-
+Andererseits aber kann man auch fragen, ob es in einem gegebenen
+Zahlensysteme noch andere Operationen $\Theta, \lambda, ...$ gebe,
+welche diesen Regeln genügen. Die Beantwortung dieser Frage gehört in
+die Theorie der Functionen und hat tiefere Bedeutung nur für den
+<q>calculus of operations</q>; doch wollen wir eine hieher gehörige
+Untersuchung, welche sich auf das gemeine complexe Zahlensystem
+bezieht, wenigstens in ihren Resultaten mittheilen:
 </p>
 <p lang="en">...</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
-
+Eine associative und commutative Function $\Theta(x,y)$ mit dem Modul $m$ 
+wird stets von der Form: 
+$$
+\Theta(x,y) = \phi_1 [\phi(x) + \phi(y) - \phi(m)] 
+$$
+sein, wo $\phi, \phi_1$ zwei inverse Functionen sind, so dass
+$\phi_1(\phi(x)) = x$. Soll eine andere associative und commutative
+Function $\pi$ mit dem Modul $n$,
+$$
+\pi(x,y) = \psi_1 [\psi(x) + \psi(y) - \psi(m)] 
+$$
+mit $\Theta$ durch das distributive Princip 
+$$
+\pi[\Theta(x,y),z] = \Theta[\pi(x,z), \pi(y,z)]
+$$
+verbunden sein, so ergibt sich als allgemeine Form derselben: 
+$$
+\psi(x) = \frac{1}{a}\log{[\phi(x) - \phi(m)]}
+$$
+wo $a$ eine beliebige Constante ist. Setzt man $\phi(x) = x$ so erhält man hieraus 
+die Addition und Multiplication; die Form 
+$$
+\phi(x) = \frac{ax + b}{cx + d}
+$$
+gibt unter gewissen Voraussetzungen über die Stetigkeit der Functionen
+überhaupt, die einzigen eindeutigen Operationen $\Theta, \pi$.
 </p>
 <p lang="en">...</p>
 </div>
-<div class="parallel">
-<p lang="de">
 
-</p>
-<p lang="en">...</p>
-</div>
 </div> <!-- .text-small -->
