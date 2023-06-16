@@ -75,10 +75,10 @@ vollkommen gleich sind, sich also, der Definition des Gleichen zufolge,
 <p lang="en">
 I remark immediately that we want everywhere in this §. to presuppose
 that the lytic and thetic operations, no matter what objects they are
-applied to are possible and
+applied to, are possible and
 [one-valued]{.orig-phrase title="eindeutig"}, that is,
 if $a$ and $b$ are given, then $\Theta(a,b)$ and likewise
-$\lambda(a,b)$ have only one 
+$\lambda(a,b)$ have only a
 <a lang="en" class="origpage" id="p.19" title="Page 19"></a>
 single [interpretation]{.origphrase title="Bedeutung"}, so that all
 objects which may be posited for the result of these
@@ -591,7 +591,7 @@ und aus [(5)](#S.22eq5){.eqref} für $a = n$:
 <div class="parallel text-small">
 <p lang="de">
 Mit Hilfe dieses Begriffes des Inversen lassen sich jetzt die Gleichungen 
-[4](#S.23eq4), [5](#S.23eq5), [6](#S.23eq6)  <!-- TODO: eqref?  -->
+[4](#S.23eq4), [5](#S.23eq5), [6](#S.23eq6) 
 so schreiben: Es ist
 \begin{align}
 \Theta[a, \lambda(b,c)] &= \Theta[a,\Theta(b,c_n)] \\
@@ -625,18 +625,62 @@ Verknüpfung directer und inverser Objecte.
 
 <div class="parallel">
 <p lang="de">
-
+Ist bisher das Resultat der Operation $\Theta(a, b)$ von $\Theta(b, a)$
+als verschieden angesehen worden, so steht doch dem nichts entgegen,
+dass wir neben den Festsetzungen des vorigen §. noch die 
+machen, dass jederzeit 
+$$
+\Theta(a, b) = \Theta(b, a). 
+$$
+Die anderen Formen, welche man dadurch den Gleichungen des 
+vorigen §. geben kann, indem man z. B. statt [(1)](#S.18eq1){.eqref}
+und [(2)](#S.19eq2){.eqref} 
+<span class="numbered" id="S.25eq1*" data-label="1*">
+\begin{equation}
+\Theta\{b, \lambda(a,b)\} = a
+\end{equation}
+</span>
+<span class="numbered" id="S.25eq2*" data-label="2*">
+\begin{equation}
+\lambda\{\Theta(b,a), b\} = a
+\end{equation}
+</span>
+schreibt, führen wir der Leichtigkeit wegen, mit der sie sich ergeben,
+hier nicht weiter an. Nur eine wesentlich neue Gleichung mag hier
+erwähnt werden:
 </p>
 <p lang="en">...</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
-
+Setzt man nämlich 
+$$
+\lambda\{a, \lambda (b, c)\} = x 
+$$
+so hat man nach [(5)](#S.22eq5){.eqref} 
+$$
+\lambda(x, c) = \lambda[\lambda\{a, \lambda(b,c)\}, c]= \lambda [a, \Theta\{c, \lambda(b,c)\}] 
+$$
+Aus der durch Commutation erhaltenen Gleichung [(1*)](#S.25eq1){.eqref} hat man 
+$$
+\Theta\{c, \lambda(b, c)\} = b 
+$$
+also $\lambda(x, c) = \lambda(a, b)$ und daher $x =$ 
+<span class="numbered" id="S.25eq6*" data-label="6*">
+\begin{equation}
+\lambda\{a, \lambda(b, c)\} = \Theta\{\lambda (a, b), c\} 
+\end{equation}
+</span>
+eine Gleichung, welche neben [(6)](#S.22eq6){.eqref} gesetzt werden
+kann, aber eine ausdrückliche Folge der Commutativität ist --- welch
+letztere Voraussetzung in den weiteren Untersuchungen dieses §. immer
+festgehalten werden soll.
 </p>
 <p lang="en">...</p>
 </div>
-<div class="parallel">
 
+<div class="parallel">
 <p lang="de">
 Wir haben im Vorstehenden überall die unbeschränkte Ausführbarkeit
 aller Operationen vorausgesetzt, d. h. angenommen, dass es in dem
@@ -714,59 +758,227 @@ satisfy the same formal conditions as those of the originally given
 objects.
 </p>
 </div>
+
 <div class="parallel">
 <p lang="de">
+Aus [(4)](#S.22eq4){.eqref} des vorigen §. findet man, wenn alle vorkommenden 
+lytischen Verknüpfungen Objecte der alten Reihe sind: 
+$$
+\Theta[\lambda (a, b), \lambda (c, d)] = \lambda[\Theta(\lambda(a,b),c),d]
+$$
+Vermöge der Commutativität und nach [(4)](#S.22eq4){.eqref} hat man: 
+$$
+\Theta(\lambda (a, b), c) = \Theta(c, \lambda (a, b)) = \lambda(\Theta(c, a), b) 
+$$
+und daher: 
+$$
+\Theta [\lambda (a, b), \lambda (c, d)] = \lambda[\lambda(\Theta (c, a), b), d] 
+$$
+Nach [(5)](#S.22eq5){.eqref} aber ist: 
+$$
+\lambda [\lambda (\Theta(c, a), b),d] = \lambda[\Theta(c, a), \Theta(d, b)] 
+$$
+also schliesslich 
+<span class="numbered" id="S.26eq1" data-label="1">
+\begin{equation}
+\Theta[\lambda (a, b), \lambda (c, d)] = \lambda[\Theta(a, c), \Theta (b, d)] 
+\end{equation}
+</span>
+<a lang="de" class="origpage" id="S.27" title="Seite 27"></a>
+Diese Gleichung nun wollen wir auch im Falle, dass die Verknüpfungen
+$\lambda (a, b), \lambda(c, d)$ nicht beide Objecte der alten Reihe 
+sind, als <em>Definition</em> ihrer thetischen Operation ansehen.
+</p>
+<p lang="en">
+From [(4)](#S.22eq4){.eqref} of the previous §. one finds,
+when all lytic [conjunctions]{.origphrase title="Verknüpfungen"} which
+appear there are objects of the old series:
+$$
+\Theta[\lambda (a, b), \lambda (c, d)] = \lambda[\Theta(\lambda(a,b),c),d]
+$$
+By commutativity and [(4)](#S.22eq4){.eqref} one has: 
+$$
+\Theta(\lambda (a, b), c) = \Theta(c, \lambda (a, b)) = \lambda(\Theta(c, a), b) 
+$$
+and thus: 
+$$
+\Theta [\lambda (a, b), \lambda (c, d)] = \lambda[\lambda(\Theta (c, a), b), d] 
+$$
+But by [(5)](#S.22eq5){.eqref}: 
+$$
+\lambda [\lambda (\Theta(c, a), b),d] = \lambda[\Theta(c, a), \Theta(d, b)] 
+$$
+and thus finally
+<span class="numbered" id="p.26eq1" data-label="1">
+\begin{equation}
+\Theta[\lambda (a, b), \lambda (c, d)] = \lambda[\Theta(a, c), \Theta (b, d)] 
+\end{equation}
+</span>
+<a lang="en" class="origpage" id="p.27" title="Page 27"></a>
+We want now to look at this equation as a <em>definition</em> of the
+thetic [operation]{.origphrase title="Operation"} for the
+[conjunctions]{.origphrase title="Verknüpfungen"} $\lambda(a, b), \lambda(c, d)$,
+including in the case that they are not both objects
+of the old series.
+</p>
+</div>
 
+<div class="parallel">
+<p lang="de">
+Aus derselben folgt sofort die Commutativität, denn es ist
+$$
+\Theta[\lambda(c,d), \lambda(a,b)] = \lambda[\Theta(c, a), \Theta(d, b)]
+$$
+ferner auch die Associativität: denn es ist 
+\begin{multline}
+\Theta(\Theta[\lambda(a,b), \lambda(c,d)], \lambda(e,f)) =
+\Theta(\lambda[\Theta(a,c), \Theta(b, d)] \lambda (e,f)) \\ 
+= \lambda(\Theta[\Theta(a,c),e], \Theta[\Theta(b,d), f]) \\
+= \lambda\{\Theta(a,c,e), \Theta(b,d,f)\} 
+\end{multline}
+und 
+\begin{multline}
+\Theta(\lambda(a,b), \Theta[\lambda(c,d), \lambda(e,f)]) =
+\Theta(\lambda(a,b), \lambda[\Theta(c,e), \Theta(d,f)]) \\ 
+= \lambda(\Theta[a, \Theta(c,e)], \Theta[b,\Theta(d, f)]) \\
+= \lambda\{\Theta(a,c,e), \Theta(b,d,f)\} 
+\end{multline}
 </p>
 <p lang="en">...</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
-
+Dass die Thesis zweier Objecte der zweiten Art $\lambda(d,b), \lambda(c,d)$
+immer wieder ein Object derselben Art, welches nämlich in der 
+Form $\lambda(e,f)$ dargestellt werden kann, wo $e$ $f$ mit $a$ $b$ $c$ $d$
+gleichartig sind, geht unmittelbar aus deren Definition hervor. 
 </p>
 <p lang="en">...</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
-
+Es fragt sich aber weiter, ob bei der jener Thesis entsprechenden
+Lysis zweier Objecte der zweiten Art, nicht wiederum neue entstehen;
+es wird hierüber entschieden durch folgende Bemerkungen:
 </p>
 <p lang="en">...</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
-
+Wenn der frühere Modul der Operation jetzt die Eigenschaft 
+hat, mit einem Objecte der neuen sowohl wie der alten 
+Reihe thetisch verbunden, das Object selbst wieder zu erzeugen, so 
+ist nach [(1)](#S.26eq1){.eqref} 
+<span class="numbered" id="S.27eq2" data-label="2">
+\begin{equation}
+\lambda[\Theta(a,x), \Theta(b,x)] = \Theta[\lambda(a,b),\lambda(x,x)] = \lambda(a,b)
+\end{equation}
+</span>
+und daher z. B. 
+<span class="numbered" id="S.27eq3" data-label="3">
+\begin{equation}
+\lambda[\Theta(a,c,d), \Theta(b,c,d)] =  \lambda(a,b).
+\end{equation}
+</span>
 </p>
 <p lang="en">...</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
-
+Die Gleichung [(2)](#S.27eq2){.eqref} gibt uns darüber Aufschluss, in welchem 
+Falle zwei lytische Verbindungen $\lambda(e,f)$ und $\lambda(a,b)$ als gleich 
+anzusehen sind. 
 </p>
 <p lang="en">...</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
+Nach dieser Vorbereitung gehen wir zur Beantwortung der 
+aufgeworfenen Frage, die dahin lautet, ob immer ein Object $x$ von 
+der ersten oder der zweiten Art gefunden werden könne, so dass 
+$$
+x = \lambda[\lambda(a,b), \lambda(c,d)] 
+$$
+<a lang="de" class="origpage" id="S.28" title="Seite 28"></a>
+gesetzt werden kann, also zufolge der Definition der Lysis 
+$$
+\lambda(a, b) = \Theta\{x, \lambda(c, d)\} 
+$$
+ist. Soll $x$ ein solches Object sein, so muss $x = \lambda(y, z)$
+gesetzt werden können, wo $y, z$ Objecte der alten Art sind, also
+$$
+\lambda(a,b) = \Theta\{\lambda(y,z),\lambda(c,d)\} = \lambda\{\Theta(y,c), \Theta(z,d)\}
+$$
+Setzt man nun nach [(3)](#S.27eq3){.eqref}: 
+\begin{multline}
+\lambda (a, b) = \lambda\{\Theta[\Theta(a, d), c], \Theta[\Theta(b, c), d]\}  \\
+= \lambda[\Theta(y,c), \Theta(z, d)] 
+\end{multline}
+so genügen 
+$$
+y = \Theta(a,d), z = \Theta(b,c) 
+$$
+dieser Gleichung und es ist:
+$$
+\lambda[\lambda(a,b), \lambda(c,d)] = \lambda[\Theta(a,d), \Theta(b, c)] 
+$$
+also da $\Theta (a,d), \Theta(b,c)$ Objecte der ersten Art sind, die
+lytische Verbindung von $\lambda(a, b)$ und $\lambda(c, d)$ ein Object
+erster oder zweiter Art.
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.28" title="Page 28"></a>
+...
+</p>
+</div>
 
+<div class="parallel">
+<p lang="de">
+Haben wir nun so erkannt, dass aus unserer Festsetzung über 
+die Bedeutung einer Thesis von Objecten erster und zweiter Art 
+mit einander, oder letzterer untereinander, nothwendig folgt, dass 
+diese Thesis und ihre Lysis wieder auf Objecte dieser beiden Arten 
+führen, und überhaupt für die der zweiten Art dieselben Gesetze 
+der thetischen und lytischen Operationen gelten, als für die der 
+ersten Art, so leuchtet ein, dass jetzt sämmtliche Sätze des vorigen §.
+ohne Weiteres für Objecte erster und zweiter Art in ihrer 
+gegenseitigen Verknüpfung in Anspruch genommen werden können, 
+und noch überdem die Formeln [4](#S.23eq4), [5](#S.23eq5), [6](#S.23eq6) 
+jetzt, wo jede Lysis ausführbar ist, ganz allgemein und ohne jede
+Determination gelten werden.
 </p>
 <p lang="en">...</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
-
+Die Objecte zweiter Art bilden zunächst eine Reihe von der 
+zweifachen Ausdehnung der Reihe, welche die der ersten einnehmen. 
+Indessen kann man sie sämmtlich aus einer Reihe von Objecten, 
+welche eine nicht grössere Ausdehnung als die ursprüngliche hat, 
+durch thetische Verbindung erhalten Führt man nämlich nach 
+dem vorigen §. den Begriff des Inversen 
+$$
+\lambda(n,b) = b_n
+$$
+ein, so ist 
+$$
+\lambda(a,b) = \Theta(a,b_n)
+$$
+<a lang="de" class="origpage" id="S.29" title="Seite 29"></a>
+und diese inversen Objecte bilden eine der Reihe der (directen)
+Objecte erster Art entsprechende Reihe, so dass jedem Gliede der 
+einen Reihe eins der anderen in bestimmter Ordnung entspricht. 
 </p>
-<p lang="en">...</p>
-</div>
-<div class="parallel">
-<p lang="de">
-
+<p lang="en">...
+<a lang="en" class="origpage" id="p.29" title="Page 29"></a>
+...
 </p>
-<p lang="en">...</p>
-</div>
-<div class="parallel">
-<p lang="de">
-
-</p>
-<p lang="en">...</p>
 </div>
 
 ### [§6. Die Addition und Subtraction]{lang="de"} [§6. Addition and subtraction]{lang="en"} {#pz6 .pz}
