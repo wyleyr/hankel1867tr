@@ -985,21 +985,143 @@ einen Reihe eins der anderen in bestimmter Ordnung entspricht.
 
 <div class="parallel">
 <p lang="de">
-
+Bezeichnen wir jetzt eine thetische, vollkommen eindeutige, 
+associative Operation $\Theta(a,b)$ durch $(a + b)$ und die entsprechende 
+ebenfalls vollkommen eindeutige lytische Function $\lambda(a, b)$ mit 
+$(a - b)$, wo diese ihrem Begriffe nach in der Beziehung 
+<span class="numbered" id="S.29eq1" data-label="1">
+\begin{equation}
+(a - b) + b = a
+\end{equation}
+</span>
+stehen, nennen erstere Addition, letztere Subtraction, so wird die 
+associative Eigenschaft in der Gleichung 
+<span class="numbered" id="S.29eq3" data-label="3">
+\begin{equation}
+a + (b + c) = (a + b) + c = a + b + c 
+\end{equation}
+</span>
+enthalten sein, aus der dann auch bei mehr als 3 Gliedern auf die 
+gänzliche Gleichgültigkeit der Setzung der Klammern geschlossen 
+werden kann. 
 </p>
 <p lang="en">...</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
-
+Aus der Definition folgt: 
+<span class="numbered" id="S.29eq2" data-label="2">
+\begin{equation}
+(a + b) - b = a
+\end{equation}
+</span>
+nebst den Gleichungen 
+<span class="numbered" id="S.29eq4" data-label="4">
+\begin{equation}
+a + (b - c) = (a + b) - c
+\end{equation}
+</span>
+<span class="numbered" id="S.29eq5" data-label="5">
+\begin{equation}
+(a - b) - c = a - (c + b)
+\end{equation}
+</span>
+<span class="numbered" id="S.29eq6" data-label="6">
+\begin{equation}
+a - (b - c) = (a +  c) -  b
+\end{equation}
+</span>
+nach den ebenso bezifferten Gleichungen des [§. 4](#pz4). 
 </p>
 <p lang="en">...</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
-
+Ist $0$ der Modul der Operation, so dass 
+<span class="numbered" id="S.29eq7" data-label="7">
+\begin{equation}
+a + 0 = a
+\end{equation}
+</span>
+so folgt ebenfalls nach [§. 4](#pz4) 
+<span class="numbered" id="S.29eq8" data-label="8">
+\begin{equation}
+0 + c = c
+\end{equation}
+</span>
+<span class="numbered" id="S.29eq9" data-label="9">
+\begin{equation}
+a - 0 = a
+\end{equation}
+</span>
+<span class="numbered" id="S.29eq10" data-label="10">
+\begin{equation}
+b - b = 0
+\end{equation}
+</span>
+Stehen zwei Objecte $a$ und $b$ in der Beziehung, dass 
+$$
+0 - a = b 
+$$
+so schreibt man: 
+<span class="numbered" id="S.29eq11" data-label="11">
+\begin{equation}
+-a = b
+\end{equation}
+</span>
+<a lang="de" class="origpage" id="S.30" title="Seite 30"></a>
+und nennt $b$ das zu $a$ <dfn>negative</dfn>; dann gelten die Regeln: 
+<span class="numbered" id="S.30eq12" data-label="12">
+\begin{equation}
+-(-c) = c
+\end{equation}
+</span>
+<span class="numbered" id="S.30eq13" data-label="13">
+\begin{equation}
+a - c = a + (-c)
+\end{equation}
+</span>
+<span class="numbered" id="S.30eq14" data-label="14">
+\begin{equation}
+a + c = a -(-c) 
+\end{equation}
+</span>
+<span class="numbered" id="S.30eq15" data-label="15">
+\begin{equation}
+- (b - c) = c - b
+\end{equation}
+</span>
+<span class="numbered" id="S.30eq16" data-label="16">
+\begin{equation}
+- (b + c) = (-c) + (-b)
+\end{equation}
+</span>
+Gilt ausser der Associativität auch die [Commutativität]{.text-sperren}, so hat 
+man nach [§. 5](#pz5) unter anderen die Gleichungen 
+<span class="numbered" id="S.30eq1*" data-label="1*">
+\begin{equation}
+b + (a - b) = a 
+\end{equation}
+</span>
+<span class="numbered" id="S.30eq2*" data-label="2*">
+\begin{equation}
+(b + a) - b = a
+\end{equation}
+</span>
+<span class="numbered" id="S.30eq6*" data-label="6*">
+\begin{equation}
+a - (b - c) = (a - b) + c
+\end{equation}
+</span>
+hinzu zu fugen, wo wir die übrigen, da sie sich durch Vertauschung der
+Glieder sehr leicht ergeben, hier nicht weiter anführen.
 </p>
-<p lang="en">...</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.30" title="Page 30"></a>
+...
+</p>
 </div>
 
 ### [§7. Die Multiplication und Division]{lang="de"} [§7. Multiplication and Division]{lang="en"} {#pz7 .pz}
