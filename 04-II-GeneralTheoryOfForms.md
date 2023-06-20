@@ -1128,70 +1128,310 @@ Glieder sehr leicht ergeben, hier nicht weiter anführen.
 
 <div class="parallel">
 <p lang="de">
-
+Wird eine neue associative, im Allgemeinen vollkommen eindeutige
+Operation, die Multiplication und ihre Lysis, die Division durch die
+Zeichen $a.b$ und $\frac{a}{b}$ dargestellt, so hat man nach [§. 4](#pz4)
+<span class="numbered" id="S.30eq1" data-label="1">
+\begin{equation}
+\frac{a}{b} b = a
+\end{equation}
+</span>
+<span class="numbered" id="S.30eq2" data-label="2">
+\begin{equation}
+\frac{ab}{b} = a
+\end{equation}
+</span>
+<span class="numbered" id="S.30eq3" data-label="3">
+\begin{equation}
+a(bc) = (ab) c = a b c
+\end{equation}
+</span>
+Ferner
+<span class="numbered" id="S.30eq4" data-label="4">
+\begin{equation}
+a\frac{b}{c} = \frac{ab}{c}
+\end{equation}
+</span>
+<span class="numbered" id="S.30eq5" data-label="5">
+\begin{equation}
+\frac{\frac{a}{b}}{c} = \frac{a}{cb}
+\end{equation}
+</span>
+<span class="numbered" id="S.30eq6" data-label="6">
+\begin{equation}
+\frac{a}{\frac{b}{c}} = \frac{ac}{b}
+\end{equation}
+</span>
 </p>
 <p lang="en">...</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
+Nennt man nun 1 den Modul dieser Operation, so dass
+<span class="numbered" id="S.30eq7" data-label="7">
+\begin{equation}
+a.1 = a 
+\end{equation}
+</span>
+<a lang="de" class="origpage" id="S.31" title="Seite 31"></a>
+so folgt 
+<span class="numbered" id="S.31eq8" data-label="8">
+\begin{equation}
+1.c = c
+\end{equation}
+</span>
+<span class="numbered" id="S.31eq9" data-label="9">
+\begin{equation}
+\frac{a}{1} = a
+\end{equation}
+</span>
+<span class="numbered" id="S.31eq10" data-label="10">
+\begin{equation}
+\frac{b}{b} = 1
+\end{equation}
+</span>
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.31" title="Page 31"></a>
+...
+</p>
+</div>
 
+<div class="parallel">
+<p lang="de">
+Für die <dfn>reciproken</dfn> Zahlen $\frac{1}{a}$ gelten dann die
+Regeln:
+<span class="numbered" id="S.31eq12" data-label="12">
+\begin{equation}
+\frac{1}{\frac{1}{c}} = c
+\end{equation}
+</span>
+<span class="numbered" id="S.31eq13" data-label="13">
+\begin{equation}
+\frac{a}{c} = a\frac{1}{c}
+\end{equation}
+</span>
 </p>
 <p lang="en">...</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
-
-</p>
-<p lang="en">...</p>
-</div>
-<div class="parallel">
-<p lang="de">
-
+Wir nennen die jetzige Operation nur dann eine Multiplication, 
+und die des vorigen §. eine Addition, wenn beide mit einander 
+durch das distributive Princip in seinen beiden Theilen 
+<span class="numbered" id="S.31eq17" data-label="17">
+\begin{equation}
+(a + b)c = ac + bc 
+\end{equation}
+</span>
+<span class="numbered" id="S.31eq18" data-label="18">
+\begin{equation}
+a(c + d)= ac + ad 
+\end{equation}
+</span>
+verbunden sind und ausserdem der Modul der Addition die Eigenschaft
+hat, dass
+<span class="numbered" id="S.31eq19" data-label="19">
+\begin{equation}
+a.0 = 0, 0.a = 0 
+\end{equation}
+</span>
+worin unmittelbar ausgesprochen ist, dass, wenn der eine Factor 
+eines Productes Null ist, der andere sich ändern kann, ohne 
+dass der Werth des Productes aufhört, Null zu bleiben. Die Division 
+mit Null ist daher gänzlich unbestimmt. 
 </p>
 <p lang="en">...</p>
 </div>
 
 <div class="parallel text-small">
 <p lang="de">
-
+Ist schon hiedurch die Voraussetzung einer vollkommenen Eindeutigkeit
+der Multiplication und Division durchbrochen, so wollen wir überhaupt
+bei der Division die unbedingte Eindeutigkeit nicht als zu ihrem
+Begriffe nothwendige Eigenschaft ansehen. In der That werden wir in
+später zu behandelnden Systemen, von verschiedene Zahlen antreffen,
+welche insofern den Charakter des Modul an sich tragen, als eine
+Veränderung des anderen Factors in einem Producte, deren einen Factor
+sie abgeben, nicht nothwendig dessen Werth ändert, so dass dann auch
+die Division durch dieselben gänzlich unbestimmt wird (vergl. den
+[VIII. Abschnitt](#Ch.VIII)).
 </p>
 <p lang="en">...</p>
 </div>
 
+<div class="parallel">
+<p lang="de">
+An Stelle der beiden Theile des distributiven Principes kann 
+man eine einzige Formel setzen. Entwickelt man nämlich zunächst nach 
+[(17)](#S.31eq17){.eqref} 
+$$
+(a + b)(c + d) = a(c + d) + b(c + d) 
+$$
+so hat man nach [(18)](#S.31eq18){.eqref},
+<span class="numbered" id="S.31eq20" data-label="20">
+\begin{equation}
+(a + b)(c + d) = ac + ad + bc + bd
+\end{equation}
+</span>
+Wendet man dagegen zunächst [(18)](#S.31eq18){.eqref} an: 
+$$
+(a + b)(c + d) = (a + b)c + (a + b)d 
+$$
+<a lang="de" class="origpage" id="S.32" title="Seite 32"></a>
+und dann [(17)](#S.31eq17){.eqref}, so findet man: 
+$$
+(a + b)(c + d) = ac + bc + ad + bd 
+$$
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.32" title="Page 32"></a>
+...
+</p>
+</div>
 
 <div class="parallel">
 <p lang="de">
+Vergleicht man dies mit [(20)](#S.31eq20){.eqref}, so findet man, dass
+beide in der Aufeinanderfolge der Glieder verschieden sind, und daher:
+$$
+ad + bc = bc + ad
+$$
+oder wenn man $c = 1, d = 1$ setzt 
+$$
+a + b = b + a
+$$
+sein muss, woraus wir den wichtigen Satz ableiten, dass, wenn zwei
+Operationen durch das volle distributive Princip mit einander
+verbunden sind, dann die erste nothwendig die commutative Eigenschaft
+besitzt. Nennen wir nun in der Regel zwei in dieser Weise von einander
+abhängige Operationen, Addition und Multiplication, so folgt aus rein
+formalen Gründen: <em>die Addition ist stets commutativ</em>. Die
+Multiplication aber werden wir im Allgemeinen nicht commutativ
+annehmen.
+</p>
+<p lang="en">
+If we compare this with [(20)](#p.31eq20){.eqref}, we find that they
+differ in the ordering of their terms, and thus it must be that:
+$$
+ad + bc = bc + ad
+$$
+or if one sets $c = 1, d = 1$:
+$$
+a + b = b + a
+$$
+From this we derive the important theorem that, if two
+[operations]{.origphrase title="Operationen"} are connected with one
+another by the full distributive principle, then the first necessarily
+possesses the commutative property. If, as usual, we now call two 
+such [operations]{.origphrase title="Operationen"}
+which are dependent on one another in this way <i>addition</i> and
+<i>multiplication</i>, then it follows on purely formal grounds that
+<em>addition is always commutative</em>. We will not, however, assume
+in general that multiplication is commutative. 
+</p>
+</div>
 
+<div class="parallel">
+<p lang="de">
+Aus den vorstehenden Beziehungen der Addition und Multiplication zu
+einander, lassen sich noch mehrere wichtige Folgerungen ableiten.
 </p>
 <p lang="en">...</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
-
+Aus [(17)](#S.31eq17){.eqref} folgt für $b = -a$, da $a + (-a) = 0$ also: 
+$(a + (-a))c = 0$ ist, $ac + (-a)c = 0$ also 
+<span class="numbered" id="S.32eq21" data-label="21">
+\begin{equation}
+(-a)c = -ac
+\end{equation}
+</span>
+Aus [(17)](#S.31eq18){.eqref} für $d = -c$
+<span class="numbered" id="S.32eq22" data-label="22">
+\begin{equation}
+a(-c) = -ac
+\end{equation}
+</span>
+Setzt man in [(21)](#S.32eq21){.eqref}, $-c$ statt $c$, so wird
+$(-a)(-c) = -a(-c)$ nach [(22)](#S.32eq22){.eqref} $= -(-ac) = +ac$
+also
+<span class="numbered" id="S.32eq23" data-label="23">
+\begin{equation}
+(-a)(-c) = ac
+\end{equation}
+</span>
 </p>
 <p lang="en">...</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
-
+Können so die bekannten Regeln der Multiplication negativer 
+Zahlen aus dem distributiven Princip abgeleitet werden, so wird die 
+entsprechende Aufgabe, die Regeln der Addition reciproker Zahlen 
+oder von Quotienten ohne Commutation zu geben, nicht in der ge wöhnlichen
+Weise gelöst werden können. Denn man hat 
+$$
+\left(\frac{a}{b} + \frac{c}{d}\right)bd = \frac{a}{b}bd + \frac{c}{d}bd = ad + c\frac{1}{d}bd
+$$
+also 
+$$
+\frac{a}{b} + \frac{c}{d} = \frac{ad + c\frac{1}{d}bd}{bd}
+$$
+<a lang="de" class="origpage" id="S.33" title="Seite 33"></a>
+ein Ausdruck, welcher im Allgemeinen nicht weiter reducirt werden 
+kann; nur wenn $b = d$ ist, hat man: 
+$$
+\left(\frac{a}{b} + \frac{c}{b}\right) b = \frac{a}{b} b + \frac{c}{b} b = a + c
+$$
+also
+<span class="numbered" id="S.33eq24" data-label="24">
+\begin{equation}
+\frac{a}{b} + \frac{c}{b} = \frac{a + c}{b}
+\end{equation}
+</span>
+Ist aber die Multiplication commutativ, so findet man: 
+<span class="numbered" id="S.33eq25" data-label="25">
+\begin{equation}
+\frac{a}{b} + \frac{c}{d} = \frac{ad + cb}{bd}
+\end{equation}
+</span>
+Ohne Commutation kann man Ausdrücke, wie: 
+$$
+\frac{a}{b}\frac{c}{d} = a\frac{1}{b}c\frac{1}{d}
+$$
+nicht weiter, etwa auf $\frac{ac}{bd}$ reduciren, und $b\frac{a}{b},
+\frac{ba}{b}$ ist von $a$ im Allgemeinen verschieden.
 </p>
-<p lang="en">...</p>
-</div>
-<div class="parallel">
-<p lang="de">
-
+<p lang="en">...
+<a lang="en" class="origpage" id="p.33" title="Page 33"></a>
+...
 </p>
-<p lang="en">...</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
-
-</p>
-<p lang="en">...</p>
-</div>
-<div class="parallel">
-<p lang="de">
-
+Unter Voraussetzung der Commutativität des Productes aber hat man 
+<span class="numbered" id="S.33eq1*" data-label="1*">
+\begin{equation}
+b\frac{a}{b} = a; 
+\end{equation}
+</span>
+<span class="numbered" id="S.33eq2*" data-label="2*">
+\begin{equation}
+\frac{ba}{b} = a
+\end{equation}
+</span>
+<span class="numbered" id="S.33eq6*" data-label="6*">
+\begin{equation}
+\frac{a}{\frac{b}{c}} = \frac{a}{b} . c
+\end{equation}
+</span>
 </p>
 <p lang="en">...</p>
 </div>
