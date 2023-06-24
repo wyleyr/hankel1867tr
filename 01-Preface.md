@@ -262,16 +262,22 @@ geschrieben sind. Dass in dieser manche Untersuchungen völlig
 ungeniessbar werden können; davon dürfte die Darstellung
 [Hamilton]{.sc}'s an nicht wenigen Stellen seiner
 <cite class="quoted">Lectures</cite>
-(z. B. S. 218 u. ff.) ein eindringliches Beispiel sein.
+(z. B. [S. 218][Hamilton1853p218] u. ff.) ein eindringliches Beispiel sein.
 Diejenigen Leser, welche mit
 der [Möbius]{.sc}'schen Form der sphärischen Trigonometrie u. s. w.
 nicht völlig vertraut sind, verweise ich auf die
-<cite class="quoted">Elemente der Mathematik</cite> von R. Baltzer. ---
+[<cite class="quoted">Elemente der Mathematik</cite>][Baltzer1870]
+von R. [Baltzer]{.sc}. ---
 </p>
 <p lang="en">
 ...
 </p>
 </div>
+
+<!-- This edition post-dates Hankel's text, but I haven't found an earlier one: -->
+[Baltzer1870]: https://archive.org/details/dieelementederm02baltgoog/
+
+[Hamilton1853p218]: https://archive.org/details/bub_gb_TCwPAAAAIAAJ/page/217/mode/2up 
 
 <div class="parallel">
 <p lang="de">
