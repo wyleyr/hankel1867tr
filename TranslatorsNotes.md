@@ -1,5 +1,30 @@
 ## Translator's Notes {#Translators-Notes epub:type="foreword" lang="en"}
 
+This is a difficult book, but I have found that it rewards repeated
+study. It gives us a window onto the context in which modern
+mathematics, modern logic, and analytic philosophy developed. It was
+important to Frege, as well as to Husserl. It is a milestone on the
+road to both the axiomatization of arithmetic and to abstract algebra.
+And it is an early expression of the formalist attitude which many
+mathematicians at least adopt on Sundays, even if they must spend
+Monday through Friday in the coal mines of platonism.
+
+It is a very modern book in some ways, particularly in its abstract
+approach. Yet at the same time, we can see Hankel struggling with
+concepts that modern mathematics takes for granted. He does not yet
+have a conception of a function as an arbitrary mapping, for example;
+he is torn between thinking of an operation computationally, as
+something that can be "carried out" and produces a "result", and
+thinking of it extensionally, as defined just by the relations it
+imposes between its inputs and outputs. We do not usually feel this
+tension today in the context of a single work, but it remains a
+feature of modern mathematics' perspective on functions. Reading
+Hankel is thus a good way to gain insight into our modern perspective:
+not just how we got there, but also what its limitations are, and what
+alternatives there might be.
+
+### Contributing
+
 There is probably no translation that cannot be improved, and in this
 sense, no translation is ever finished. This translation embraces that
 fact: it is a 'living' translation, revised whenever I learn something
@@ -15,10 +40,11 @@ contributions of any sort to the translation. Modern software makes
 this easy: you can create your own copy of the translation, correct
 what's already there, add transcriptions of the German or new
 translations in English, and then send your changes back to me to be
-incorporated here. If there are passages you'd like to
-be translated but aren't able to translate yourself,
-[contact me](https://recursewithless.net) and I will translate them
-as I am able.
+incorporated here---or publish your own version based on this one
+(see [the CC BY-SA license](http://creativecommons.org/licenses/by-sa/4.0/)).
+If there are passages you'd like to be translated but aren't able to
+translate yourself, [contact me](https://recursewithless.net) and I
+will translate them as I am able.
 
 To learn more about how to contribute, see
 [the project page on GitHub](https://github.com/wyleyr/hankel1867tr) and
@@ -118,10 +144,10 @@ about them:
   thinking about it). But he does not always distinguish this clearly
   from its converse, the operation's being *functional* (the same
   inputs give the same output), especially in more informal glosses
-  (see for example [page 2](#S.2) or [page 18--19](#S.19)).
-  He also contrasts <i>eindeutig</i> with <i>vieldeutig</i>
-  ("many-valued"; see [page 20](#S.20)), which counts against
-  translating it with a more general term like "well-defined".
+  (see for example [page 2](#S.2) or [page 18--19](#S.19)). He also
+  contrasts <i>eindeutig</i> with <i>vieldeutig</i> (which he clearly
+  uses to mean "many-valued"; see [page 20](#S.20)), which counts
+  against translating it with a more general term like "well-defined".
 
 <i lang="de">verknüpfen; Verknüpfung</i>
 : conjoin, combine; conjunction, combination, operation. Hankel thinks
