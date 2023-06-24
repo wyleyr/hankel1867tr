@@ -1419,7 +1419,7 @@ nicht weiter, etwa auf $\frac{ac}{bd}$ reduciren, und $b\frac{a}{b},
 Unter Voraussetzung der Commutativität des Productes aber hat man 
 <span class="numbered" id="S.33eq1*" data-label="1*">
 \begin{equation}
-b\frac{a}{b} = a; 
+b\frac{a}{b} = a 
 \end{equation}
 </span>
 <span class="numbered" id="S.33eq2*" data-label="2*">

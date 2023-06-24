@@ -144,7 +144,7 @@ $a$ mal genommen werden soll. Das Resultat dieser Operation, das
 Product $a . b$ kann auch als diejenige Zahl angesehen werden, welche 
 aus $b$ auf dieselbe Weise hervorgeht, wie $a$ aus der numerischen 
 <a lang="de" class="origpage" id="S.3" title="Seite 3"></a>
-Einheit. Bilden wir jetzt ein Product durch $b$maliges Vervielfachen
+Einheit. Bilden wir jetzt ein Product durch $b$ maliges Vervielfachen
 der Ordinalzahl $a$, so ist es keineswegs selbstverständlich, sondern
 bedarf eines Beweises, dass
 $$ a.b = b.a $$
