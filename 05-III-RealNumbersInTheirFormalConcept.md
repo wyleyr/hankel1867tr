@@ -44,13 +44,14 @@ nur sie wird die Uebersichtlichkeit in demselben ermöglichen.
 Up to now objects have been combined, the results of their combination
 furnished with new signs, and so on, but without a definite plan
 having been pursued in the [notation]{.origphrase title="Bezeichnung"}.
-It is manifest that an actual [completion]{.origphrase title="Ausführung"}
+It is manifest that an actual [implementation]{.origphrase title="Ausführung"}
 of the arithmetic operations, i.e., a presentation of the result by means
-of new, [combining]{.origphrase title="zusammenfassende"} signs, is not
+of new, [subsuming]{.origphrase title="zusammenfassende"} signs, is not
 thereby possible. It would only become possible when one obtains a
 system of signs in a consistent manner, so that the result of each
-operation must necessarily be presented through one of the same
-system. Such a system can only be created by starting from certain
+operation <em>must</em> necessarily be presented through one of the same.
+<!-- TODO: tr note about antecedent for "one of the same" -->
+Such a system can only be created by starting from certain
 elements, the units, combining them in every possible way through
 certain operations, and [inscribing]{.origphrase title="signirt"} the
 results of these operations with new signs. These new signs will then
@@ -100,12 +101,12 @@ hienach dahin gegeben werden:
 </p>
 <p lang="en">
 A different definition of the concept of the formal numbers cannot be
-given; every other definition must rely on ideas from
-intuition or experience, which stand in only an accidental relation to
-the concept, and the limitation of which [i.e., of intuition and
-experience] places insurmountable obstacles in the way of a general
-investigation of the arithmetic operations. The definition of a
-formal number can be given therefore as follows:
+given; every other definition must rely on
+[representations]{.origphrase title="Vorstellungen"} from intuition or
+experience, which stand in only an accidental relation to the concept,
+and whose restrictedness places insurmountable obstacles in the way of
+a general investigation of the arithmetic operations. The definition
+of a formal number can be given therefore as follows:
 </p>
 </div>
 
