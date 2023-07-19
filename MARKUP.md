@@ -92,6 +92,9 @@ the other text. These are typographically unadorned in most cases.
 
 The class `.sc` is used for text in small caps, e.g. proper names.
 
+The class `.pname` is used for names of named paragraphs (i.e., inline
+headings).
+
 The class `.text-small` is used for text set in small type.
 
 The class `.text-center` is used for centered text. 
