@@ -55,18 +55,18 @@
 
 <nav class="parallel toc">
 <div lang="de">
-1.  [§8. Begriff eines Zahlensystems](#S.35)
-2.  [§9. Die positiven ganzen Zahlen](#S.36)
-3.  [§10. Die negativen ganzen Zahlen](#S.40)
-4.  [§11. Die Division und die gebrochenen Zahlen](#S.43)
-5.  [§12. Die höheren Operationen und die irrationalen Zahlen](#S.45)
+1.  [§8. Begriff eines Zahlensystems](#pz8)
+2.  [§9. Die positiven ganzen Zahlen](#pz9)
+3.  [§10. Die negativen ganzen Zahlen](#pz10)
+4.  [§11. Die Division und die gebrochenen Zahlen](#pz11)
+5.  [§12. Die höheren Operationen und die irrationalen Zahlen](#pz12)
 </div>
 <div lang="en">
-1.  [§8. The concept of a number system](#p.35)
-2.  [§9. The positive whole numbers](#p.36)
-3.  [§10. The negative whole numbers](#p.40)
-4.  [§11. Division and the rational numbers](#p.43)
-5.  [§12. The higher operations and the irrational numbers](#p.45)
+1.  [§8. The concept of a number system](#pz8)
+2.  [§9. The positive whole numbers](#pz9)
+3.  [§10. The negative whole numbers](#p10)
+4.  [§11. Division and the rational numbers](#p11)
+5.  [§12. The higher operations and the irrational numbers](#p12)
 </div>
 </nav>
 
