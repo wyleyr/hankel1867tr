@@ -91,7 +91,7 @@ cite.quoted::after {
 
 a.origpage {
     border-left: 1px dotted gray;
-    padding: 0 0.25em 0 0.25em;
+    margin: 0 0.25em 0 0.25em;
 }
 
 span.origphrase{
@@ -114,9 +114,4 @@ span.origphrase{
 dfn, em, .text-sperren {
     font-style: normal;
     letter-spacing: 0.15rem;
-}
-
-/* TODO: get pandoc to suppress automatic title output; this is a quick hackaround: */
-h1.title {
-    display: none;
 }
