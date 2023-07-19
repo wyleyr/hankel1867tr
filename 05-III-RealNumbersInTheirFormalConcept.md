@@ -224,7 +224,23 @@ Es ist aber
 also $7 + 2 = 8 + 1 = 9$, $7 + 3 = 9 + 1 = 10$, $7 + 4 = 10 + 1 = 11$, und 
 endlich $7 + 5 = 11 + 1 = 12$. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+In this way, through a recursive process which proceeds without
+intuition and purely mechanically, one finds each sum of two numbers
+unambiguously. To find $(7 + 5)$, for example, we have
+$$
+7 + 5 = 7 + (4 + 1) = (7 + 4) + 1 
+$$
+But then
+\begin{align}
+7 + 4 &= 7 + (3 + 1) &= (7 + 3) + 1 \\
+7 + 3 &= 7 + (2 + 1) &= (7 + 2) + 1 \\
+7 + 2 &= 7 + (1 + 1) &= (7 + 1) + 1 \\
+7 + 1 &= 8 
+\end{align}
+thus $7 + 2 = 8 + 1 = 9$, $7 + 3 = 9 + 1 = 10$, $7 + 4 = 10 + 1 = 11$, and 
+finally $7 + 5 = 11 + 1 = 12$.
+</p>
 </div>
 
 <div class="parallel">
@@ -357,6 +373,240 @@ $$
 </p>
 </div>
 
+<div class="parallel">
+<p lang="de">
+[Multiplication]{.pname} ist eine Operation, für welche 
+<span class="numbered" id="S.38eq5" data-label="5">
+\begin{equation}
+A\cdot 1 = A
+\end{equation}
+</span>
+denn hierin legt die Bedeutung der zur Bildung des Zahlensystems 
+verwendeten Einheit. Die Multiplication im Allgemeinen kann durch 
+die Gleichung 
+<span class="numbered" id="S.38eq6" data-label="6">
+\begin{equation}
+A(B + 1) = AB + A
+\end{equation}
+</span>
+welche einen speciellen Fall des distributiven Gesetzes darstellt, 
+recurrirend definirt werden. Denn hienach ist $A(1 + 1) = A\cdot 1 + A$ 
+also $A\cdot 2 = A + A$, und es ist $A\cdot 2$ bestimmt, da die Addition 
+eine bestimmt ausführbare Operation ist. Ferner ist 
+<a lang="de" class="origpage" id="S.39" title="Seite 39"></a>
+$A(2 + 1) = A\cdot 2 + A$ also $A\cdot 3 = A\cdot 2 + A$,
+und ebenfalls bestimmt u.s.f. 
+Das Product ist eindeutig und ändert seinen Werth, wenn ihn der 
+eine Factor ändert, während der andere constant bleibt. 
+</p>
+<p lang="en">...
+<span class="numbered" id="p.38eq5" data-label="5">
+\begin{equation}
+A\cdot 1 = A
+\end{equation}
+</span>
+...
+<span class="numbered" id="p.38eq6" data-label="6">
+\begin{equation}
+A(B + 1) = AB + A
+\end{equation}
+</span>
+<a lang="en" class="origpage" id="p.39" title="Page 39"></a>
+...
+</p>
+</div>
+
+<div class="parallel text-small">
+<p lang="de">
+Hienach würde sich der Beweis des als Typus eines apodictischen 
+ürtheils gebräuchlichen Satzes 2.2 = 4, so gestalten: 
+$2\cdot 2 = 2 (1 + 1) = 2\cdot 1 + 2 = 2 + 2$,
+und $2 + 2 = 2 + (1 + 1) = (2 + 1) + 1 = 3 + 1 = 4$. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Um nun das distributive Princip in seiner Allgemeinheit darzuthun,
+nehmen wir an, es gelte: 
+<span class="numbered" id="S.39eq7" data-label="7">
+\begin{equation}
+A(B + \Gamma) = AB + A\Gamma 
+\end{equation}
+</span>
+dann ist 
+$$
+A\{B + (\Gamma + 1)\} = A\{(B + \Gamma) + 1\} = A(B + \Gamma) + A
+ = AB + A\Gamma + A
+$$
+wenn man successive [(1)](#S.37eq1){.eqref}, [(6)](#S.38eq6){.eqref},
+[(7)](#S.39eq7){.eqref} anwendet; nach [(6)](#S.38eq6){.eqref} aber
+hat man schliesslich
+$$
+A\{B + (\Gamma + 1)\} = AB + A(\Gamma + 1) 
+$$
+womit denn die Allgemeinheit von [(7)](#S.39eq7){.eqref} erwiesen ist. 
+</p>
+<p lang="en">...
+<span class="numbered" id="p.39eq7" data-label="7">
+\begin{equation}
+A(B + \Gamma) = AB + A\Gamma 
+\end{equation}
+</span>
+[(1)](#p.37eq1){.eqref}
+[(6)](#p.38eq6){.eqref} 
+[(7)](#p.39eq7){.eqref}
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Was die andere Hälfte des distributiven Principes 
+<span class="numbered" id="S.39eq8" data-label="8">
+\begin{equation}
+(A + B)\Gamma = A\Gamma + B\Gamma
+\end{equation}
+</span>
+betrifft, so sei [(8)](#S.39eq8){.eqref} erfüllt; dann ist nach 
+[(6)](#S.38eq6){.eqref}, [(8)](#S.39eq8){.eqref},
+[(4)](#S.38eq4){.eqref}, [(6)](#S.38eq6){.eqref}
+\begin{multline}
+(A+B)(\Gamma + 1) = (A+B)\Gamma + (A+B) = A\Gamma + B\Gamma + A + B \\
+ = A\Gamma + A + B\Gamma + B = A(\Gamma + 1) + B(\Gamma + 1).
+\end{multline}
+Da [(8)](#S.39eq8){.eqref} für $\Gamma = 1$ gilt, so gilt sie
+daher allgemein, und damit das volle distributive Princip.
+</p>
+<p lang="en">...
+<span class="numbered" id="p.39eq8" data-label="8">
+\begin{equation}
+(A + B)\Gamma = A\Gamma + B\Gamma
+\end{equation}
+</span>
+[(8)](#p.39eq8){.eqref}
+[(6)](#p.38eq6){.eqref} 
+[(8)](#p.39eq8){.eqref} 
+[(4)](#p.38eq4){.eqref} 
+[(6)](#p.38eq6){.eqref} 
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Es sei ferner 
+<span class="numbered" id="S.39eq9" data-label="9">
+\begin{equation}
+A(B\Gamma) = (AB)\Gamma
+\end{equation}
+</span>
+so ist successive nach
+[(6)](#S.38eq6){.eqref}, [(7)](#S.39eq7){.eqref}, [(9)](#S.39eq9){.eqref},
+[(6)](#S.38eq6){.eqref}
+$$
+A\{B(\Gamma + 1)\} = A\{B\Gamma + B\} = A(B\Gamma) + AB = (AB)\Gamma + AB
+ = AB(\Gamma + 1)
+$$
+womit [(9)](#S.39eq9){.eqref}, da $A(B\cdot 1) = (A B)\cdot 1$ ist,
+das associative Princip bewiesen ist. 
+</p>
+<p lang="en">...
+<span class="numbered" id="p.39eq9" data-label="9">
+\begin{equation}
+A(B\Gamma) = (AB)\Gamma
+\end{equation}
+</span>
+[(6)](#p.38eq6){.eqref} 
+[(7)](#p.39eq7){.eqref} 
+[(9)](#p.39eq9){.eqref} 
+[(6)](#p.38eq6){.eqref}
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Es sei <span class="numbered" id="S.39eq10" data-label="10">
+\begin{equation}
+1.A = A
+\end{equation}
+</span>
+so ist nach [(6)](#S.38eq6){.eqref}, [(10)](#S.39eq10){.eqref},
+[(6)](#S.38eq6){.eqref}
+$$
+1\cdot (A + 1) = 1\cdot A + A = A\cdot 1 + 1 = (A + 1)\cdot 1
+$$
+und da $1 \cdot 1 = 1$, so gilt [(10)](#S.39eq10){.eqref} allgemein. Wenn ferner 
+<a lang="de" class="origpage" id="S.40" title="Seite 40"></a>
+<span class="numbered" id="S.40eq11" data-label="11">
+\begin{equation}
+A\cdot B = B\cdot A
+\end{equation}
+</span>
+so ist nach [(8)](#S.39eq8){.eqref}, [(11)](#S.40eq11){.eqref},
+[(6)](#S.38eq6){.eqref}
+$$
+(A + 1)B = AB + B = BA + B = B(A + 1)
+$$
+und es gilt die Gleichung [(11)](#S.40eq11){.eqref} allgemein,
+da sie für $A = 1$ gilt, womit das commutative Princip
+in seiner Allgemeinheit erwiesen ist. 
+</p>
+<p lang="en">...
+<span class="numbered" id="p.39eq10" data-label="10">
+\begin{equation}
+1.A = A
+\end{equation}
+</span>
+[(6)](#p.38eq6){.eqref} 
+[(10)](#p.39eq10){.eqref} 
+[(6)](#p.38eq6){.eqref} 
+<a lang="en" class="origpage" id="p.40" title="Page 40"></a>
+<span class="numbered" id="p.40eq11" data-label="11">
+\begin{equation}
+A\cdot B = B\cdot A
+\end{equation}
+</span>
+[(8)](#p.39eq8){.eqref} 
+[(11)](#p.40eq11){.eqref} 
+[(6)](#p.38eq6){.eqref} 
+[(11)](#p.40eq11){.eqref}
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Führt man schliesslich noch den Modul der Addition durch 
+$$
+A + 0 = A 
+$$
+ein, dessen Multiplication durch 
+$$
+A\cdot 0 = 0
+$$
+bestimmt wird, so hat man in den Zeichen $0, 1, 2, 3, 4\ldots$
+ein Zahlensystem, innerhalb dessen solche Operationen,
+denen die charakteristischen Eigenschaften der Addition und
+commutativen Multiplication zukommen, seiner Bildungsweise nach stets
+ausgeführt werden können, ohne dass man aus dieser Zahlenreihe jemals
+herauszutreten hätte.
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel text-small">
+<p lang="de">
+Den Gedanken, die Additions- und Multiplicationsregeln, so wie es hier 
+geschehen ist, abzuleiten, verdankt man im Wesentlichen [Grassmann]{.sc}
+([<cite>Lehrb. d. Arithmetik</cite>][Grassmann1861]). 
+</p>
+<p lang="en">...</p>
+</div>
+
+[Grassmann1861]: https://archive.org/details/lehrbuchderarit00grasgoog/
 
 
 
