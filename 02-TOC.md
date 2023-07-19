@@ -64,9 +64,9 @@
 <div lang="en">
 1.  [§8. The concept of a number system](#pz8)
 2.  [§9. The positive whole numbers](#pz9)
-3.  [§10. The negative whole numbers](#p10)
-4.  [§11. Division and the rational numbers](#p11)
-5.  [§12. The higher operations and the irrational numbers](#p12)
+3.  [§10. The negative whole numbers](#pz10)
+4.  [§11. Division and the rational numbers](#pz11)
+5.  [§12. The higher operations and the irrational numbers](#pz12)
 </div>
 </nav>
 
