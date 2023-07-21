@@ -612,6 +612,249 @@ geschehen ist, abzuleiten, verdankt man im Wesentlichen [Grassmann]{.sc}
 
 
 ### [§10. Die negativen ganzen Zahlen]{lang="de"} [§10. The negative whole numbers]{lang="en"} {#pz10 .pz}
+<div class="parallel">
+<p lang="de">
+Bezeichnet man mit $(B - A)$ eine Zahl, welche der Gleichung 
+<span class="numbered" id="S.40eq1" data-label="1">
+\begin{equation}
+(B - A) + A = B
+\end{equation}
+</span>
+genügt, so ist dieselbe zufolge der Additionseigenschaften eindeutig 
+bestimmt und es ändert sich das Resultat der Subtraction $(B - A)$, 
+wenn sich eines der Glieder ändert, während das andere constant bleibt. 
+</p>
+<p lang="en">...
+<span class="numbered" id="p.40eq1" data-label="1">
+\begin{equation}
+(B-A) + A = B
+\end{equation}
+</span>
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Es gibt jedoch solche Zahlen, welche man $(B-A)$ gleich 
+setzen kann, in unserer bisherigen Reihe der absoluten ganzen 
+Zahlen nur dann, wenn $B$ in der Reihe auf $A$ folgt. Geht $B$
+dagegen $A$ vorher, so ist die Subtraction in diesem Gebiete
+unmöglich; soll daher ein Zahlengebiet geschaffen werden, in welchem 
+jede Subtraction absoluter ganzer Zahlen möglich wird, so müssen 
+wir $(B - A)$ in letzterem Falle als ein neues Zeichen ansehen, 
+dessen Bedeutung in der Art und Weise erkannt wird, in der 
+<a lang="de" class="origpage" id="S.41" title="Seite 41"></a>
+es mit anderen seiner Art oder mit den ganzen Zahlen des [§. 9](#pz9)
+verknüpft wird. Wir definiren die Addition dieser neuen Zeichen unter 
+sich und mit denen des §. 9 durch die Gleichung [(1) des §. 5](#S.26eq1)
+<span class="numbered" id="S.41eq2" data-label="2">
+\begin{equation}
+(A - B) + (\Gamma - \Delta) = (A + \Gamma) - (B + \Delta)
+\end{equation}
+</span>
+Dann gelten, wie in [§. 5](#pz5) gezeigt ist, alle zum Begriffe der Addition 
+gehörigen Rechnungsregeln, und wenn man 
+<span class="numbered" id="S.41eq3" data-label="3">
+\begin{equation}
+(A - B) = -(B - A)
+\end{equation}
+</span>
+setzt, so wird das Gebiet der bisherigen positiven Zahlen
+$+1, +2, +3,\ldots$ erweitert, indem zu ihnen die negativen Zahlen
+$-1, -2, -3,\ldots$ hinzutreten (vgl. [§. 6](#pz6)). 
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.41" title="Page 41"></a>
+<span class="numbered" id="p.41eq2" data-label="2">
+\begin{equation}
+(A - B) + (\Gamma - \Delta) = (A + \Gamma) - (B + \Delta)
+\end{equation}
+</span>
+<span class="numbered" id="p.41eq3" data-label="3">
+\begin{equation}
+(A - B) = -(B - A)
+\end{equation}
+</span>
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Was man unter dem Producte einer negativen und einer positiven,
+oder zweier negativen Zahlen zu verstehen habe, werden wir 
+nach dem Princip der Permanenz bestimmen, indem wir entsprechend
+den Gleichungen [21](#S.32eq21) bis [23](S.32eq23) in [§. 7](#pz7) 
+<span class="numbered" id="S.41eq4" data-label="4">
+\begin{equation}
+(-A)\Gamma = -A\Gamma
+\end{equation}
+</span>
+<span class="numbered" id="S.41eq5" data-label="5">
+\begin{equation}
+A(-\Gamma) = -A\Gamma
+\end{equation}
+</span>
+<span class="numbered" id="S.41eq6" data-label="6">
+\begin{equation}
+(-A)(-\Gamma) = A\Gamma
+\end{equation}
+</span>
+setzen.
+</p>
+<p lang="en">...
+<span class="numbered" id="p.41eq4" data-label="4">
+\begin{equation}
+(-A)\Gamma = -A\Gamma
+\end{equation}
+</span>
+<span class="numbered" id="p.41eq5" data-label="5">
+\begin{equation}
+A(-\Gamma) = -A\Gamma
+\end{equation}
+</span>
+<span class="numbered" id="p.41eq6" data-label="6">
+\begin{equation}
+(-A)(-\Gamma) = A\Gamma
+\end{equation}
+</span>
+...
+</p>
+</div>
+
+<div class="parallel text-small">
+<p lang="de">
+Es kann gegenüber einer sehr allgemein verbreiteten Ansicht nicht
+scharf genug hervorgehoben werden, dass diese Gleichungen in der
+formalen Mathematik nimmermehr <em>bewiesen</em> werden können; es
+sind <em>arbiträre Conventionen</em> zu Gunsten der Erhaltung des
+Formalismus im Calcul. (Betrachtet man dagegen die Zahlen als
+Repräsentanten der Punkte einer Geraden, oder, wie man auch abstracter
+gesagt hat, des Fortschrittes, so kann man freilich, wie bekannt, die
+Gleichungen erweisen.) Sind aber diese Conventionen einmal
+geschlossen, so folgen daraus alle anderen Gesetze der Multiplication
+mit <em>Nothwendigkeit</em>.
+</p>
+<p lang="en">
+It cannot be emphasized sharply enough, in opposition to a very widely
+held view, that these equations in formal mathematics can never
+be *proven*; they are *arbitrary conventions* for the preservation of
+the formalism in the calculus. (If one on the other hand considers the
+numbers as representatives of the points of a line, or, as it has
+sometimes more abstractly been put, of [a progression]{.origphrase
+title="des Fortschrittes"}, then one can indeed prove the equations,
+as is known.) Once these conventions are adopted, however, all other
+laws of multiplication follow with *necessity*.
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Zunächst geht aus diesen Definitionsgleichungen des Productes 
+seine Commutativität hervor. Das distributive Princip wird man 
+ableiten können, wenn man folgende Fälle unterscheidet: 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+1<!-- -->) Ist $A > B$, so ist zufolge des für positive Zahlen geltenden 
+distributiven Gesetzes: 
+$$
+A\Gamma = \{(A - B) + B\}\Gamma = (A - B)\Gamma + B\Gamma
+$$
+also 
+$$
+(A-B)\Gamma = A\Gamma - B\Gamma
+$$
+und somit nach [(4)](#S.41eq4){.eqref}:
+$$
+\{A+(-B)\}\Gamma = A\Gamma + (-B)\Gamma.
+$$
+</p>
+<p lang="en">...
+[(4)](#p.41eq4){.eqref}: 
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+<a lang="de" class="origpage" id="S.42" title="Seite 42"></a>
+2<!-- -->) Ist $A < B$ ist zuvörderst nach (3): 
+$$
+(A - B) = -(B - A)
+$$
+also nach [(4)](#S.41eq4){.eqref}: 
+$$
+(A - B)\Gamma = -(B - A)\Gamma
+$$
+und da, wie im analogen Falle eben gezeigt 
+$$
+(B - A)\Gamma = B\Gamma - A\Gamma
+$$
+so ist 
+$$
+(A - B)\Gamma = -(B\Gamma - A\Gamma) = A\Gamma - B\Gamma
+$$
+oder 
+$$
+\{A + (-B)\}\Gamma = A\Gamma + (-B)\Gamma.
+$$
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.42" title="Page 42"></a>
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+3<!-- -->) Man hat nach [(16)](#S.30eq16){.eqref} in [§. 6](#pz6), 
+$$
+\{(-A) + (-B)\} = -(A + B)
+$$
+also 
+$$
+\{(-A) + (-B)\}\Gamma = -(A + B)\Gamma = -(A\Gamma + B\Gamma).
+$$
+Somit ist das Gesetz: 
+$$
+(a + b)\Gamma = a\Gamma + b\Gamma
+$$
+wenn $a, b$ positive oder negative Zahlen sind, allgemein erwiesen. 
+Daraus folgt weiter: 
+\begin{multline}
+(a+b)(-\Gamma) = -[(a+b)\Gamma] = -[a\Gamma + b\Gamma] \\ 
+  = -a\Gamma -b\Gamma = a(-\Gamma) + b(-\Gamma)
+\end{multline}
+womit denn, da die Grundgleichungen die Existenz der commutativen
+Eigenschaft sofort lehren, das distributive Princip in seinem 
+ganzen Umfange dargethan worden ist. Das associative Princip 
+ist in den verschiedenen Fällen ebenso leicht zu erweisen: Man hat 
+\begin{multline}
+A[B(-\Gamma)] = A[-B\Gamma] = -A[B\Gamma] \\
+  = A - B\Gamma = [AB]\Gamma
+\end{multline}
+ferner: 
+\begin{multline}
+A[(-B)(-\Gamma)] = A[B\Gamma] = AB\Gamma = [-AB](-\Gamma) \\
+  = [A(-B)](-\Gamma) 
+\end{multline}
+schliesslich 
+\begin{multline}
+-A[(-B)(-\Gamma)] = (-A)[B\Gamma] = -AB\Gamma \\
+  = +[AB](-\Gamma) = [(-A)(-B)](-\Gamma)
+\end{multline}
+Dies sind mit Rücksicht auf die Commutativität alle möglichen 
+Fälle. 
+</p>
+<p lang="en">...
+[(16)](#p.30eq16){.eqref}
+</p>
+</div>
 
 ### [§11. Die Division und die gebrochenen Zahlen]{lang="de"} [§11. Division and fractional numbers]{lang="en"} {#pz11 .pz}
 
