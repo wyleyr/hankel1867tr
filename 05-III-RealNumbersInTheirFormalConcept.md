@@ -1044,3 +1044,132 @@ man <dfn>Rechnen</dfn> nennt.
 
 ### [§12. Die höheren Operationen und die irrationalen Zahlen]{lang="de"} [§12. The higher operations and the irrational numbers]{lang="en"} {#pz12 .pz}
 
+<div class="parallel">
+<p lang="de">
+Es fragt sich, ob das Zahlensystem, das wir geschaffen haben, 
+vollständig ist oder nicht. Gewiss ist es insofern vollständig, als es 
+keine Aufgaben aus den 4 Species gibt, welche nicht durch ein Zeichen
+desselben gelöst werden können. Andererseits aber gibt es 
+Aufgaben, welche ihre Lösung in ihm nicht finden, z. B. wenn die 
+Zahl $x$ gesucht wird, so dass $xx = 2$, so wird keioe passende Zahl 
+gefunden werden können, ebensowenig, wenn $xx = -1$ sein soll. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Dass eine diesen Gleichungen genügende Zahl überhaupt unmöglich sei,
+kann (vgl. [S. 6](#S.6)) nicht behauptet werden. Zahlen sind 
+Zeichen, denen etwas Reales entsprechen kann; ob es aber ein solches
+gibt, das mit sich selbst multiplicirt, $+2$ oder $-1$ gibt, kann 
+nur durch die Betrachtung des Realen selbst entschieden werden, 
+unsere Aufgabe kann es hier nur sein, neue Zeichen zu schaffen 
+für jene möglichen oder unmöglichen Realen. Wir bezeichnen die 
+<a lang="de" class="origpage" id="S.46" title="Seite 46"></a>
+Lösung der Gleichung $xx = A$ mit $x = \sqrt{A}$, und nennen sie eine 
+<dfn>irrationale</dfn> Zahl. Es ist dann fraglich, was die Multiplication
+bedeute, d. h. welchen formalen Gesetzen sie genüge. Da eben nur 
+in dem Falle $\sqrt{A}\sqrt{A} = A$ die Bedeutung des Productes bestimmt 
+ist, so steht es in unserer Willkühr, welche Gesetze wir z. B. der 
+Verknüpfung $B\sqrt{A}$ unterlegen wollen, für welche in unserer
+bisherigen Reihe ein Zeichen im Allgemeinen nicht vorhanden ist. Das 
+Princip der Permanenz formaler Gesetze würde uns bei der Festsetzung der
+Bedeutung des Productes zu leiten haben, und es 
+zugleich möglich machen, jenes Zeichen $\sqrt{A}$ auch dann beizubehalten,
+wenn eine Quadratzahl, $\sqrt{A}$ also eine Zahl unserer obigen 
+Reihe ist.
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.46" title="Page 46"></a>
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Hätten wir nun auch so die 4 Grundoperationen solcher Grössen
+$\sqrt{A}$ untersucht, so wäre damit in der That noch nicht viel
+geschehen; denn sogleich entstehen wieder neue Fragen nach den Zahlen,
+welche Gleichungen wie $xx = \sqrt{A}$ genügen, und für welche
+wiederum neue Zeichen gegeben werden müssen, ferner nach den Gesetzen
+der Verbindung aller dieser neuen Zeichen von Irrationalitäten
+untereinander, welche möglicherweise Zahlen aus der oben gebildeten
+Reihe der positiven und negativen ganzen und gebrochenen Zahlen
+ergeben können u.s.w. Es ist klar: Man wird verzichten müssen, alle
+Aufgaben, welche die Einführung neuer Zeichen erfordern würden,
+vollständig und erschöpfend zu betrachten; man würde sich in ein
+ungeheures Labyrinth verirren, wenn man den bisherigen Gesichtspunkt
+der rein formalen Zahlenbildung ausschliesslich festhalten wollte. Es
+stellt sich vielmehr das Bedürfniss ein, den elementaren formalen
+Verknüpfungen der Zahlen eine actuelle Bedeutung unterzulegen, um zu
+sehen, ob es irgend etwas Reales gebe, welches der Auflösung der
+Gleichungen $xx = A$ u.s.f. entsprechen könne.
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="text-small">
+<div class="parallel">
+<p lang="de">
+Das Irrationale, was uns hier entgegengetreten ist, in der rein formalen 
+Mathematik durch den Grenzbegriff dem Rationalen zu interpoliren, scheint 
+mir der Natur der Sache deshalb ganz unangemessen, weil eben ein solcher 
+Grenzbegriff auf der Vorstellung des Kleinen und Grossen, welcher unserer 
+Entwickelung durchaus fremd ist, und der Anordnung unserer Zahlen in eine 
+stetige Keihe beruht, welche schon den Begriff der extensiven Grösse involvirt. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Jeder Versuch, die irrationalen Zahlen formal, und ohne den Begriff der 
+<a lang="de" class="origpage" id="S.47" title="Seite 47"></a>
+Grösse zu behandeln, muss auf höchst abstruse und beschwerliche Künsteleien 
+fähren, die, selbst wenn sie sich in vollkommener Strenge durchführen liessen, 
+wie wir gerechten Grund haben zu bezweifeln, einen höheren wissenschaftlichen
+Werth nicht haben. Denn überall ist es Sache der systematischen 
+Wissenschaft, sich der wahren Grundlagen der natürlichen Entwickelung der 
+Ideen klar und bewusst zu werden, nicht aber den Organismus mit seiner 
+immer frischen Productionskraft durch einen, wenn auch scharfsinnig
+construirten, doch todten und unproductiven Mechanismus ersetzen zu wollen. 
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.47" title="Page 47"></a>
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Ich denke, dass ich mich im Vorstehenden, trotz der Abweichung von dem 
+Gewöhnlichen, nicht dieses Fehlers schuldig gemacht habe. Mein
+Entwickelungsgang ist der Natur der Sache durchaus angemessen. Nachdem die 
+Schwierigkeiten und Paradoxieen, welche die gewöhnliche Ansicht von dem 
+Wesen der Zahlen als Grössen nothwendig mit sich führt, klar und bestimmt 
+fixirt waren, habe ich dem Zwecke gemäss, der zur Einführung des Negativen, 
+Imaginären und allgemein Gomplexen veranlasste, das Princip der Permanenz
+der arithmetischen Gesetze aufgestellt, den natürlichen Ausdruck des 
+im Laufe der Zeit erweiterten Begriffes von Zahlen und Formeln. Mittels 
+dieses Principes war es möglich, an Stelle des zunächst liegenden Begriffs 
+einer Zahl, als des Ausdrucks der actuellen Relationen von Objecten und deren 
+Operationen, den allgemeineren Begriff formaler, bloss im Gebiete des logischen 
+Denkens sich bewegender Operationen und aus der mentalen Verknüpfung von 
+Objecten hervorgehender Zahlen zu setzen, welche zunächst inhaltsleer, rein 
+die <em>abstracten Formen des zuammenfassenden Denkens des Unstetigen</em> sind. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Jetzt aber hat uns der dialectische Process wieder auf unseren Ausgangspunct
+zurückgeführt. Das Irrationale verlangt zu seiner systematischen 
+Fassung den Grössenbegriff. 
+</p>
+<p lang="en">...</p>
+</div>
+
+</div> <!-- .text-small -->
+
