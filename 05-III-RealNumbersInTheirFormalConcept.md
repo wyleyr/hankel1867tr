@@ -856,7 +856,191 @@ Fälle.
 </p>
 </div>
 
+<div class="parallel">
+<a lang="de" class="origpage" id="S.43" title="Seite 43"></a>
+
+<a lang="en" class="origpage" id="p.43" title="Page 43"></a>
+</div>
+
+
 ### [§11. Die Division und die gebrochenen Zahlen]{lang="de"} [§11. Division and fractional numbers]{lang="en"} {#pz11 .pz}
+
+<div class="parallel">
+<p lang="de">
+Die Auflösung der Gleichung 
+$$
+xB = A
+$$
+in der $A, B$ positive oder negative Zahlen sind, bezeichnen wir mit 
+$$
+x = \frac{A}{B} 
+$$
+mag sie eine in unserer Reihe der positiven oder negativen Zahlen 
+vorhandene ganze Zahl sein oder nicht. Im letzteren Falle ist 
+jener Bruch ein Zeichen für ein zu der bisherigen Reihe hinzuzufugendes
+neues Object, eine gebrochene Zahl, deren Operationsregeln in der [§. 5](#pz5)
+auseinandergesetzten Weise gewonnen werden, 
+indem man nach [(1) in §. 5](#S.18eq1) 
+<span class="numbered" id="S.43eq1" data-label="1">
+\begin{equation}
+\frac{A}{B}\frac{\Gamma}{\Delta} = \frac{A\Gamma}{B\Delta}
+\end{equation}
+</span>
+setzt. 
+</p>
+<p lang="en">...
+<span class="numbered" id="p.43eq1" data-label="1">
+\begin{equation}
+\frac{A}{B}\frac{\Gamma}{\Delta} = \frac{A\Gamma}{B\Delta}
+\end{equation}
+</span>
+</p>
+</div>
+
+<div class="parallel text-small">
+<p lang="de">
+Auch hier ist ausdrücklich zu bemerken dass diese Gleichung eine
+conventionelle ist und im Gebiete des rein Formalen nicht bewiesen
+werden kann. Definirt man den Bruch durch die Forderung einer
+actuellen Theilung, so kann dann die Gleichung, wie sich von selbst
+versteht, demonstrirt werden.
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Dass das associative Princip, ebenso wie das commutative erfüllt ist,
+wurde schon in [§. 5](#pz5) nachgewiesen. Auch genügt die Reihe 
+der eingeführten Zeichen, um jede Multiplication und Division von 
+Brüchen möglich zu machen. Denn man hat, nach [S. 28](#S.28) 
+$$
+\frac{(\frac{A}{B})}{(\frac{\Gamma}{\Delta})} = \frac{A\Delta}{B\Gamma}
+$$
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Was die Addition von Brüchen betrifft, so bestimmen wir sie 
+dem distributiven Princip gemäss aus: 
+$$
+(\frac{A}{B} + \frac{\Gamma}{\Delta})B\Delta = A\Delta + \Gamma{}B,
+$$
+einer Gleichung, die wenn $\frac{A}{B}, \frac{\Gamma}{\Delta}$ ganze
+Zahlen sind, ohne Zweifel gilt, und aus der die andere: 
+<span class="numbered" id="S.43eq2" data-label="2">
+\begin{equation}
+\frac{A}{B} + \frac{\Gamma}{\Delta} = \frac{A\Delta + \Gamma{}B}{B\Delta}
+\end{equation}
+</span>
+<a lang="de" class="origpage" id="S.44" title="Seite 44"></a>
+folgt. Es fragt sich dabei, ob die Addition zweier Brüche ein unzweideutiges
+Resultat ergibt. Setzt man nämlich für $\frac{A}{B}$ einen damit
+gleichen Bruch, dessen Zähler und Nenner aber von $A, B$ verschieden ist,
+so muss gezeigt werden, dass jetzt die Summe dennoch 
+dieselbe ist. In der That, es ist 
+$$
+\frac{A}{B} = \frac{M}{N}
+$$
+nur, wenn $M = RA, N = RB$ ist; dann aber ist nach [(2)](#S.43eq2){.eqref}
+$$
+\frac{RA}{RB} + \frac{\Gamma}{\Delta} = \frac{RA\Delta + RB\Gamma}{RB\Delta}
+$$
+und nach dem distributiven Principe 
+$$
+R(A\Delta + B\Gamma) = RA\Delta + RB\Gamma
+$$
+also 
+$$
+\frac{RA}{RB} + \frac{\Gamma}{\Delta} = \frac{A\Delta + B\Gamma}{B\Delta}.
+$$
+</p>
+<p lang="en">...
+<span class="numbered" id="p.43eq2" data-label="2">
+\begin{equation}
+\frac{A}{B} + \frac{\Gamma}{\Delta} = \frac{A\Delta + \Gamma{}B}{B\Delta}
+\end{equation}
+</span>
+<a lang="en" class="origpage" id="p.44" title="Page 44"></a>
+...
+[(2)](#p.43eq2){.eqref}
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Dass die Addition associativ ist, kann leicht gezeigt werden; 
+denn es ist
+\begin{multline}
+\frac{A}{B} + (\frac{\Gamma}{\Delta} + \frac{E}{Z}) =
+  \frac{A}{B} + \frac{\Gamma{}Z + E\Delta}{\Delta{}Z} \\
+  = \frac{A\Delta{}Z + B\Gamma{}Z + B\Delta{}E}{B\Delta{}Z} \\
+(\frac{A}{B} + \frac{\Gamma}{\Delta}) + \frac{E}{Z} =
+  \frac{A\Delta + B\Gamma}{B\Delta} + \frac{E}{Z} \\
+  = \frac{A\Delta{}Z + B\Gamma{}Z + B\Delta{}E}{B\Delta{}Z} \\
+\end{multline}
+Dass ferner allgemein das distributive Princip 
+$$
+(\frac{A}{B} + \frac{\Gamma}{\Delta})\frac{E}{Z} =
+  \frac{A}{B}\cdot\frac{E}{Z} + \frac{\Gamma}{\Delta}\cdot\frac{E}{Z}
+$$
+gilt, ersieht man aus 
+\begin{multline}
+(\frac{A}{B} + \frac{\Gamma}{\Delta})\frac{E}{Z} =
+  \frac{A\Delta + B\Gamma}{B\Delta}\cdot\frac{E}{Z} \\
+  = \frac{A\Delta{}E + B\Gamma{}E}{B\Delta{}Z}
+  = \frac{A\Delta{}E}{B\Delta{}Z} + \frac{B\Gamma{}E}{B\Delta{}Z}
+  = \frac{AE}{BZ} + \frac{\Gamma{}E}{\Delta{}Z}
+\end{multline}
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Die ganze doppelte Reihe der Objecte, welche die gebrochenen 
+Zahlen bezeichnen, kann aus einer einfachen Reihe, der der
+<dfn>reciproken</dfn> durch multiplicative Verbindung mit den durch die ganzen 
+<a lang="de" class="origpage" id="S.45" title="Seite 45"></a>
+Zahlen dargestellten, abgeleitet werden, da aus [13 in §. 7](#S.31eq13)
+hervorgeht, dass 
+$$
+\frac{A}{B} = A\cdot\frac{1}{B}
+$$
+gesetzt werden kann. 
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.45" title="Page 45"></a>
+...
+</p>
+</div>
+
+<div class="parallel text-small">
+<p lang="de">
+Wir haben somit auf eine gesetzmässige Weise eine Reihe von Zeichen, 
+die <dfn>rationalen</dfn> positiven und negativen Zahlen aus der numerischen 
+Einheit durch Addition, Subtraction, Multiplication und Division entwickelt,
+sodass für jede durch diese Operationen geschehende Verknüpfung 
+zweier Zeichen wieder ein zusammenfassendes Zeichen vorhanden ist, welches 
+überall an Stelle der Zeichenverknüpfung selbst gesetzt werden kann. Die 
+ganze Aufgabe des Zahlensystems besteht eben in dieser Zusammenfassung 
+oder, wenn man will, symbolischen Darstellung. Wenn eine Beihe von Objecten
+gegeben ist, auf welche gewisse Operationen angewandt werden können, 
+die den zuvor auseinandergesetzten Kegeln genügen und welche in bestimmter 
+Weise den Zahlen entsprechen, so dass zwei Objecte immer aber auch nur 
+dann gleich sind, wenn in vorstehender Weise die als Zeichen derselben
+dienenden Zahlen einander gleich sind, so können die Zahlen, so lange es sich 
+eben nur um die Verknüpfung jener Objecte --- seien diese Substanzen oder 
+Relationen --- handelt, als Repräsentanten der Objecte selbst angesehen
+werden und es kann an Stelle der in stetem Vorstellen der Objecte selbst
+vorschreitenden Operation, ein Operiren mit Zahlen gesetzt werden, welches
+man <dfn>Rechnen</dfn> nennt. 
+</p>
+<p lang="en">...</p>
+</div>
+
 
 ### [§12. Die höheren Operationen und die irrationalen Zahlen]{lang="de"} [§12. The higher operations and the irrational numbers]{lang="en"} {#pz12 .pz}
 
