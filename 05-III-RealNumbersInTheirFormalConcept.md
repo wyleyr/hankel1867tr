@@ -15,7 +15,7 @@ Verbindung mit neuen Zeichen versehen u. s. f., aber ohne dass
 in der Bezeichnung ein bestimmter Plan verfolgt worden wäre. 
 Es leuchtet ein, dass dabei eine eigentliche Ausführung der Rechnungsöperationen,
 d. h. eine Darstellung des Resultates durch 
-neue, zusammenfassende Zeiehen nicht möglich ist. Eine solche 
+neue, zusammenfassende Zeichen nicht möglich ist. Eine solche 
 wird erst dann möglich werden, wenn man auf eine consequente 
 Weise sich ein Zeichensystem verschafft, so dass man das Resultat
 einer jeden Operation nothwendig durch eines derselben darstellen
@@ -1051,7 +1051,7 @@ vollständig ist oder nicht. Gewiss ist es insofern vollständig, als es
 keine Aufgaben aus den 4 Species gibt, welche nicht durch ein Zeichen
 desselben gelöst werden können. Andererseits aber gibt es 
 Aufgaben, welche ihre Lösung in ihm nicht finden, z. B. wenn die 
-Zahl $x$ gesucht wird, so dass $xx = 2$, so wird keioe passende Zahl 
+Zahl $x$ gesucht wird, so dass $xx = 2$, so wird keine passende Zahl 
 gefunden werden können, ebensowenig, wenn $xx = -1$ sein soll. 
 </p>
 <p lang="en">...</p>
@@ -1127,7 +1127,7 @@ stetige Keihe beruht, welche schon den Begriff der extensiven Grösse involvirt.
 Jeder Versuch, die irrationalen Zahlen formal, und ohne den Begriff der 
 <a lang="de" class="origpage" id="S.47" title="Seite 47"></a>
 Grösse zu behandeln, muss auf höchst abstruse und beschwerliche Künsteleien 
-fähren, die, selbst wenn sie sich in vollkommener Strenge durchführen liessen, 
+führen, die, selbst wenn sie sich in vollkommener Strenge durchführen liessen, 
 wie wir gerechten Grund haben zu bezweifeln, einen höheren wissenschaftlichen
 Werth nicht haben. Denn überall ist es Sache der systematischen 
 Wissenschaft, sich der wahren Grundlagen der natürlichen Entwickelung der 
@@ -1149,7 +1149,7 @@ Entwickelungsgang ist der Natur der Sache durchaus angemessen. Nachdem die
 Schwierigkeiten und Paradoxieen, welche die gewöhnliche Ansicht von dem 
 Wesen der Zahlen als Grössen nothwendig mit sich führt, klar und bestimmt 
 fixirt waren, habe ich dem Zwecke gemäss, der zur Einführung des Negativen, 
-Imaginären und allgemein Gomplexen veranlasste, das Princip der Permanenz
+Imaginären und allgemein Complexen veranlasste, das Princip der Permanenz
 der arithmetischen Gesetze aufgestellt, den natürlichen Ausdruck des 
 im Laufe der Zeit erweiterten Begriffes von Zahlen und Formeln. Mittels 
 dieses Principes war es möglich, an Stelle des zunächst liegenden Begriffs 
@@ -1157,7 +1157,7 @@ einer Zahl, als des Ausdrucks der actuellen Relationen von Objecten und deren
 Operationen, den allgemeineren Begriff formaler, bloss im Gebiete des logischen 
 Denkens sich bewegender Operationen und aus der mentalen Verknüpfung von 
 Objecten hervorgehender Zahlen zu setzen, welche zunächst inhaltsleer, rein 
-die <em>abstracten Formen des zuammenfassenden Denkens des Unstetigen</em> sind. 
+die <em>abstracten Formen des zusammenfassenden Denkens des Unstetigen</em> sind. 
 </p>
 <p lang="en">...</p>
 </div>
