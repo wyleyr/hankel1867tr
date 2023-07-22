@@ -46,7 +46,8 @@ furnished with new signs, and so on, but without a definite plan
 having been pursued in the [notation]{.origphrase title="Bezeichnung"}.
 It is manifest that an actual [implementation]{.origphrase title="Ausführung"}
 of the arithmetic operations, i.e., a presentation of the result by means
-of new, [subsuming]{.origphrase title="zusammenfassende"} signs, is not
+of new, [abbreviating]{.origphrase title="zusammenfassende"} signs, is not
+<!-- TODO: tr note about "zusammenfassende" -->
 thereby possible. It would only become possible when one obtains a
 system of signs in a consistent manner, so that the result of each
 operation <em>must</em> necessarily be presented through one of the same.
@@ -1117,9 +1118,17 @@ Mathematik durch den Grenzbegriff dem Rationalen zu interpoliren, scheint
 mir der Natur der Sache deshalb ganz unangemessen, weil eben ein solcher 
 Grenzbegriff auf der Vorstellung des Kleinen und Grossen, welcher unserer 
 Entwickelung durchaus fremd ist, und der Anordnung unserer Zahlen in eine 
-stetige Keihe beruht, welche schon den Begriff der extensiven Grösse involvirt. 
+stetige Reihe beruht, welche schon den Begriff der extensiven Grösse involvirt. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+It therefore seems to me entirely inappropriate to the nature of the
+thing to interpolate the irrational, which we encounter here, into the
+rational through the concept of limit in formal mathematics, because
+such a concept is based on the [idea]{.origphrase title="Vorstellung"}
+of small and large, which is entirely foreign to our development, and
+on the ordering of our numbers in a continuous series, which already
+involves the concept of extensive magnitude.
+</p>
 </div>
 
 <div class="parallel">
@@ -1135,9 +1144,18 @@ Ideen klar und bewusst zu werden, nicht aber den Organismus mit seiner
 immer frischen Productionskraft durch einen, wenn auch scharfsinnig
 construirten, doch todten und unproductiven Mechanismus ersetzen zu wollen. 
 </p>
-<p lang="en">...
+<p lang="en">
+Every attempt to treat the irrational numbers formally and without the
+concept of
 <a lang="en" class="origpage" id="p.47" title="Page 47"></a>
-...
+magnitude must lead to the most highly abstruse and difficult artificialities,
+which, even if they can be carried out with complete rigor (which we
+have good reason to doubt), do not have a higher scientific value.
+For everywhere it is the [object]{.origphrase title="Sache"} of
+systematic science to become clear and conscious of the true
+foundations of the natural development of ideas, but not to desire to
+replace the organism, with its ever fresh power of production, with a
+dead and unproductive mechanism.
 </p>
 </div>
 
@@ -1159,7 +1177,30 @@ Denkens sich bewegender Operationen und aus der mentalen Verknüpfung von
 Objecten hervorgehender Zahlen zu setzen, welche zunächst inhaltsleer, rein 
 die <em>abstracten Formen des zusammenfassenden Denkens des Unstetigen</em> sind. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+I believe that I have not committed this mistake in the above account,
+despite deviating from what is usual. My method of development is
+thoroughly appropriate to the nature of the thing. After the
+difficulties and paradoxes, which the usual view of numbers as
+magnitudes necessarily carries with it, were clearly and definitely
+fixed, I have, in accordance with the goal which necessitates the
+introduction of the negative, the imaginary and the complex in
+general, set out the principle of permanence of arithmetical laws, the
+natural expression of the concept of numbers and formulae, as it has
+been extended over the course of time. By means of this principle it
+was possible, in place of the
+[most obvious]{.origphrase title="zunächst liegenden"}
+concept of a number as the expression of
+Actual relations of objects and their [operations]{.origphrase title="Operationen"},
+to posit the more general concept of operations
+which [belong purely to]{.origphrase title="bloss...sich bewegen"} the
+domain of logical thought and of numbers which proceed from the mental
+[conjoining]{.origphrase title="Verknüpfung"} of objects, which are at
+first [empty of content]{.origphrase title="inhaltsleer"} and are
+purely the *abstract forms of the
+[abbreviating]{.origphrase title="zusammenfassenden"} thought of the
+[discontinuous]{.origphrase title="Unstetigen"}*.
+</p>
 </div>
 
 <div class="parallel">
@@ -1168,7 +1209,11 @@ Jetzt aber hat uns der dialectische Process wieder auf unseren Ausgangspunct
 zurückgeführt. Das Irrationale verlangt zu seiner systematischen 
 Fassung den Grössenbegriff. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+But now the dialectical process has brought us back again to our
+starting point. A systematic grasp of the irrational requires the
+concept of magnitude.
+</p>
 </div>
 
 </div> <!-- .text-small -->
