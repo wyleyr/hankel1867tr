@@ -612,8 +612,564 @@ geschehen ist, abzuleiten, verdankt man im Wesentlichen [Grassmann]{.sc}
 
 
 ### [§10. Die negativen ganzen Zahlen]{lang="de"} [§10. The negative whole numbers]{lang="en"} {#pz10 .pz}
+<div class="parallel">
+<p lang="de">
+Bezeichnet man mit $(B - A)$ eine Zahl, welche der Gleichung 
+<span class="numbered" id="S.40eq1" data-label="1">
+\begin{equation}
+(B - A) + A = B
+\end{equation}
+</span>
+genügt, so ist dieselbe zufolge der Additionseigenschaften eindeutig 
+bestimmt und es ändert sich das Resultat der Subtraction $(B - A)$, 
+wenn sich eines der Glieder ändert, während das andere constant bleibt. 
+</p>
+<p lang="en">...
+<span class="numbered" id="p.40eq1" data-label="1">
+\begin{equation}
+(B-A) + A = B
+\end{equation}
+</span>
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Es gibt jedoch solche Zahlen, welche man $(B-A)$ gleich 
+setzen kann, in unserer bisherigen Reihe der absoluten ganzen 
+Zahlen nur dann, wenn $B$ in der Reihe auf $A$ folgt. Geht $B$
+dagegen $A$ vorher, so ist die Subtraction in diesem Gebiete
+unmöglich; soll daher ein Zahlengebiet geschaffen werden, in welchem 
+jede Subtraction absoluter ganzer Zahlen möglich wird, so müssen 
+wir $(B - A)$ in letzterem Falle als ein neues Zeichen ansehen, 
+dessen Bedeutung in der Art und Weise erkannt wird, in der 
+<a lang="de" class="origpage" id="S.41" title="Seite 41"></a>
+es mit anderen seiner Art oder mit den ganzen Zahlen des [§. 9](#pz9)
+verknüpft wird. Wir definiren die Addition dieser neuen Zeichen unter 
+sich und mit denen des §. 9 durch die Gleichung [(1) des §. 5](#S.26eq1)
+<span class="numbered" id="S.41eq2" data-label="2">
+\begin{equation}
+(A - B) + (\Gamma - \Delta) = (A + \Gamma) - (B + \Delta)
+\end{equation}
+</span>
+Dann gelten, wie in [§. 5](#pz5) gezeigt ist, alle zum Begriffe der Addition 
+gehörigen Rechnungsregeln, und wenn man 
+<span class="numbered" id="S.41eq3" data-label="3">
+\begin{equation}
+(A - B) = -(B - A)
+\end{equation}
+</span>
+setzt, so wird das Gebiet der bisherigen positiven Zahlen
+$+1, +2, +3,\ldots$ erweitert, indem zu ihnen die negativen Zahlen
+$-1, -2, -3,\ldots$ hinzutreten (vgl. [§. 6](#pz6)). 
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.41" title="Page 41"></a>
+<span class="numbered" id="p.41eq2" data-label="2">
+\begin{equation}
+(A - B) + (\Gamma - \Delta) = (A + \Gamma) - (B + \Delta)
+\end{equation}
+</span>
+<span class="numbered" id="p.41eq3" data-label="3">
+\begin{equation}
+(A - B) = -(B - A)
+\end{equation}
+</span>
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Was man unter dem Producte einer negativen und einer positiven,
+oder zweier negativen Zahlen zu verstehen habe, werden wir 
+nach dem Princip der Permanenz bestimmen, indem wir entsprechend
+den Gleichungen [21](#S.32eq21) bis [23](S.32eq23) in [§. 7](#pz7) 
+<span class="numbered" id="S.41eq4" data-label="4">
+\begin{equation}
+(-A)\Gamma = -A\Gamma
+\end{equation}
+</span>
+<span class="numbered" id="S.41eq5" data-label="5">
+\begin{equation}
+A(-\Gamma) = -A\Gamma
+\end{equation}
+</span>
+<span class="numbered" id="S.41eq6" data-label="6">
+\begin{equation}
+(-A)(-\Gamma) = A\Gamma
+\end{equation}
+</span>
+setzen.
+</p>
+<p lang="en">...
+<span class="numbered" id="p.41eq4" data-label="4">
+\begin{equation}
+(-A)\Gamma = -A\Gamma
+\end{equation}
+</span>
+<span class="numbered" id="p.41eq5" data-label="5">
+\begin{equation}
+A(-\Gamma) = -A\Gamma
+\end{equation}
+</span>
+<span class="numbered" id="p.41eq6" data-label="6">
+\begin{equation}
+(-A)(-\Gamma) = A\Gamma
+\end{equation}
+</span>
+...
+</p>
+</div>
+
+<div class="parallel text-small">
+<p lang="de">
+Es kann gegenüber einer sehr allgemein verbreiteten Ansicht nicht
+scharf genug hervorgehoben werden, dass diese Gleichungen in der
+formalen Mathematik nimmermehr <em>bewiesen</em> werden können; es
+sind <em>arbiträre Conventionen</em> zu Gunsten der Erhaltung des
+Formalismus im Calcul. (Betrachtet man dagegen die Zahlen als
+Repräsentanten der Punkte einer Geraden, oder, wie man auch abstracter
+gesagt hat, des Fortschrittes, so kann man freilich, wie bekannt, die
+Gleichungen erweisen.) Sind aber diese Conventionen einmal
+geschlossen, so folgen daraus alle anderen Gesetze der Multiplication
+mit <em>Nothwendigkeit</em>.
+</p>
+<p lang="en">
+It cannot be emphasized sharply enough, in opposition to a very widely
+held view, that these equations in formal mathematics can never
+be *proven*; they are *arbitrary conventions* for the preservation of
+the formalism in the calculus. (If one on the other hand considers the
+numbers as representatives of the points of a line, or, as it has
+sometimes more abstractly been put, of [a progression]{.origphrase
+title="des Fortschrittes"}, then one can indeed prove the equations,
+as is known.) Once these conventions are adopted, however, all other
+laws of multiplication follow with *necessity*.
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Zunächst geht aus diesen Definitionsgleichungen des Productes 
+seine Commutativität hervor. Das distributive Princip wird man 
+ableiten können, wenn man folgende Fälle unterscheidet: 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+1<!-- -->) Ist $A > B$, so ist zufolge des für positive Zahlen geltenden 
+distributiven Gesetzes: 
+$$
+A\Gamma = \{(A - B) + B\}\Gamma = (A - B)\Gamma + B\Gamma
+$$
+also 
+$$
+(A-B)\Gamma = A\Gamma - B\Gamma
+$$
+und somit nach [(4)](#S.41eq4){.eqref}:
+$$
+\{A+(-B)\}\Gamma = A\Gamma + (-B)\Gamma.
+$$
+</p>
+<p lang="en">...
+[(4)](#p.41eq4){.eqref}: 
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+<a lang="de" class="origpage" id="S.42" title="Seite 42"></a>
+2<!-- -->) Ist $A < B$ ist zuvörderst nach (3): 
+$$
+(A - B) = -(B - A)
+$$
+also nach [(4)](#S.41eq4){.eqref}: 
+$$
+(A - B)\Gamma = -(B - A)\Gamma
+$$
+und da, wie im analogen Falle eben gezeigt 
+$$
+(B - A)\Gamma = B\Gamma - A\Gamma
+$$
+so ist 
+$$
+(A - B)\Gamma = -(B\Gamma - A\Gamma) = A\Gamma - B\Gamma
+$$
+oder 
+$$
+\{A + (-B)\}\Gamma = A\Gamma + (-B)\Gamma.
+$$
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.42" title="Page 42"></a>
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+3<!-- -->) Man hat nach [(16)](#S.30eq16){.eqref} in [§. 6](#pz6), 
+$$
+\{(-A) + (-B)\} = -(A + B)
+$$
+also 
+$$
+\{(-A) + (-B)\}\Gamma = -(A + B)\Gamma = -(A\Gamma + B\Gamma).
+$$
+Somit ist das Gesetz: 
+$$
+(a + b)\Gamma = a\Gamma + b\Gamma
+$$
+wenn $a, b$ positive oder negative Zahlen sind, allgemein erwiesen. 
+Daraus folgt weiter: 
+\begin{multline}
+(a+b)(-\Gamma) = -[(a+b)\Gamma] = -[a\Gamma + b\Gamma] \\ 
+  = -a\Gamma -b\Gamma = a(-\Gamma) + b(-\Gamma)
+\end{multline}
+womit denn, da die Grundgleichungen die Existenz der commutativen
+Eigenschaft sofort lehren, das distributive Princip in seinem 
+ganzen Umfange dargethan worden ist. Das associative Princip 
+ist in den verschiedenen Fällen ebenso leicht zu erweisen: Man hat 
+\begin{multline}
+A[B(-\Gamma)] = A[-B\Gamma] = -A[B\Gamma] \\
+  = A - B\Gamma = [AB]\Gamma
+\end{multline}
+ferner: 
+\begin{multline}
+A[(-B)(-\Gamma)] = A[B\Gamma] = AB\Gamma = [-AB](-\Gamma) \\
+  = [A(-B)](-\Gamma) 
+\end{multline}
+schliesslich 
+\begin{multline}
+-A[(-B)(-\Gamma)] = (-A)[B\Gamma] = -AB\Gamma \\
+  = +[AB](-\Gamma) = [(-A)(-B)](-\Gamma)
+\end{multline}
+Dies sind mit Rücksicht auf die Commutativität alle möglichen 
+Fälle. 
+</p>
+<p lang="en">...
+[(16)](#p.30eq16){.eqref}
+</p>
+</div>
+
+<div class="parallel">
+<a lang="de" class="origpage" id="S.43" title="Seite 43"></a>
+
+<a lang="en" class="origpage" id="p.43" title="Page 43"></a>
+</div>
+
 
 ### [§11. Die Division und die gebrochenen Zahlen]{lang="de"} [§11. Division and fractional numbers]{lang="en"} {#pz11 .pz}
 
+<div class="parallel">
+<p lang="de">
+Die Auflösung der Gleichung 
+$$
+xB = A
+$$
+in der $A, B$ positive oder negative Zahlen sind, bezeichnen wir mit 
+$$
+x = \frac{A}{B} 
+$$
+mag sie eine in unserer Reihe der positiven oder negativen Zahlen 
+vorhandene ganze Zahl sein oder nicht. Im letzteren Falle ist 
+jener Bruch ein Zeichen für ein zu der bisherigen Reihe hinzuzufugendes
+neues Object, eine gebrochene Zahl, deren Operationsregeln in der [§. 5](#pz5)
+auseinandergesetzten Weise gewonnen werden, 
+indem man nach [(1) in §. 5](#S.18eq1) 
+<span class="numbered" id="S.43eq1" data-label="1">
+\begin{equation}
+\frac{A}{B}\frac{\Gamma}{\Delta} = \frac{A\Gamma}{B\Delta}
+\end{equation}
+</span>
+setzt. 
+</p>
+<p lang="en">...
+<span class="numbered" id="p.43eq1" data-label="1">
+\begin{equation}
+\frac{A}{B}\frac{\Gamma}{\Delta} = \frac{A\Gamma}{B\Delta}
+\end{equation}
+</span>
+</p>
+</div>
+
+<div class="parallel text-small">
+<p lang="de">
+Auch hier ist ausdrücklich zu bemerken dass diese Gleichung eine
+conventionelle ist und im Gebiete des rein Formalen nicht bewiesen
+werden kann. Definirt man den Bruch durch die Forderung einer
+actuellen Theilung, so kann dann die Gleichung, wie sich von selbst
+versteht, demonstrirt werden.
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Dass das associative Princip, ebenso wie das commutative erfüllt ist,
+wurde schon in [§. 5](#pz5) nachgewiesen. Auch genügt die Reihe 
+der eingeführten Zeichen, um jede Multiplication und Division von 
+Brüchen möglich zu machen. Denn man hat, nach [S. 28](#S.28) 
+$$
+\frac{(\frac{A}{B})}{(\frac{\Gamma}{\Delta})} = \frac{A\Delta}{B\Gamma}
+$$
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Was die Addition von Brüchen betrifft, so bestimmen wir sie 
+dem distributiven Princip gemäss aus: 
+$$
+(\frac{A}{B} + \frac{\Gamma}{\Delta})B\Delta = A\Delta + \Gamma{}B,
+$$
+einer Gleichung, die wenn $\frac{A}{B}, \frac{\Gamma}{\Delta}$ ganze
+Zahlen sind, ohne Zweifel gilt, und aus der die andere: 
+<span class="numbered" id="S.43eq2" data-label="2">
+\begin{equation}
+\frac{A}{B} + \frac{\Gamma}{\Delta} = \frac{A\Delta + \Gamma{}B}{B\Delta}
+\end{equation}
+</span>
+<a lang="de" class="origpage" id="S.44" title="Seite 44"></a>
+folgt. Es fragt sich dabei, ob die Addition zweier Brüche ein unzweideutiges
+Resultat ergibt. Setzt man nämlich für $\frac{A}{B}$ einen damit
+gleichen Bruch, dessen Zähler und Nenner aber von $A, B$ verschieden ist,
+so muss gezeigt werden, dass jetzt die Summe dennoch 
+dieselbe ist. In der That, es ist 
+$$
+\frac{A}{B} = \frac{M}{N}
+$$
+nur, wenn $M = RA, N = RB$ ist; dann aber ist nach [(2)](#S.43eq2){.eqref}
+$$
+\frac{RA}{RB} + \frac{\Gamma}{\Delta} = \frac{RA\Delta + RB\Gamma}{RB\Delta}
+$$
+und nach dem distributiven Principe 
+$$
+R(A\Delta + B\Gamma) = RA\Delta + RB\Gamma
+$$
+also 
+$$
+\frac{RA}{RB} + \frac{\Gamma}{\Delta} = \frac{A\Delta + B\Gamma}{B\Delta}.
+$$
+</p>
+<p lang="en">...
+<span class="numbered" id="p.43eq2" data-label="2">
+\begin{equation}
+\frac{A}{B} + \frac{\Gamma}{\Delta} = \frac{A\Delta + \Gamma{}B}{B\Delta}
+\end{equation}
+</span>
+<a lang="en" class="origpage" id="p.44" title="Page 44"></a>
+...
+[(2)](#p.43eq2){.eqref}
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Dass die Addition associativ ist, kann leicht gezeigt werden; 
+denn es ist
+\begin{multline}
+\frac{A}{B} + (\frac{\Gamma}{\Delta} + \frac{E}{Z}) =
+  \frac{A}{B} + \frac{\Gamma{}Z + E\Delta}{\Delta{}Z} \\
+  = \frac{A\Delta{}Z + B\Gamma{}Z + B\Delta{}E}{B\Delta{}Z} \\
+(\frac{A}{B} + \frac{\Gamma}{\Delta}) + \frac{E}{Z} =
+  \frac{A\Delta + B\Gamma}{B\Delta} + \frac{E}{Z} \\
+  = \frac{A\Delta{}Z + B\Gamma{}Z + B\Delta{}E}{B\Delta{}Z} \\
+\end{multline}
+Dass ferner allgemein das distributive Princip 
+$$
+(\frac{A}{B} + \frac{\Gamma}{\Delta})\frac{E}{Z} =
+  \frac{A}{B}\cdot\frac{E}{Z} + \frac{\Gamma}{\Delta}\cdot\frac{E}{Z}
+$$
+gilt, ersieht man aus 
+\begin{multline}
+(\frac{A}{B} + \frac{\Gamma}{\Delta})\frac{E}{Z} =
+  \frac{A\Delta + B\Gamma}{B\Delta}\cdot\frac{E}{Z} \\
+  = \frac{A\Delta{}E + B\Gamma{}E}{B\Delta{}Z}
+  = \frac{A\Delta{}E}{B\Delta{}Z} + \frac{B\Gamma{}E}{B\Delta{}Z}
+  = \frac{AE}{BZ} + \frac{\Gamma{}E}{\Delta{}Z}
+\end{multline}
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Die ganze doppelte Reihe der Objecte, welche die gebrochenen 
+Zahlen bezeichnen, kann aus einer einfachen Reihe, der der
+<dfn>reciproken</dfn> durch multiplicative Verbindung mit den durch die ganzen 
+<a lang="de" class="origpage" id="S.45" title="Seite 45"></a>
+Zahlen dargestellten, abgeleitet werden, da aus [13 in §. 7](#S.31eq13)
+hervorgeht, dass 
+$$
+\frac{A}{B} = A\cdot\frac{1}{B}
+$$
+gesetzt werden kann. 
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.45" title="Page 45"></a>
+...
+</p>
+</div>
+
+<div class="parallel text-small">
+<p lang="de">
+Wir haben somit auf eine gesetzmässige Weise eine Reihe von Zeichen, 
+die <dfn>rationalen</dfn> positiven und negativen Zahlen aus der numerischen 
+Einheit durch Addition, Subtraction, Multiplication und Division entwickelt,
+sodass für jede durch diese Operationen geschehende Verknüpfung 
+zweier Zeichen wieder ein zusammenfassendes Zeichen vorhanden ist, welches 
+überall an Stelle der Zeichenverknüpfung selbst gesetzt werden kann. Die 
+ganze Aufgabe des Zahlensystems besteht eben in dieser Zusammenfassung 
+oder, wenn man will, symbolischen Darstellung. Wenn eine Beihe von Objecten
+gegeben ist, auf welche gewisse Operationen angewandt werden können, 
+die den zuvor auseinandergesetzten Kegeln genügen und welche in bestimmter 
+Weise den Zahlen entsprechen, so dass zwei Objecte immer aber auch nur 
+dann gleich sind, wenn in vorstehender Weise die als Zeichen derselben
+dienenden Zahlen einander gleich sind, so können die Zahlen, so lange es sich 
+eben nur um die Verknüpfung jener Objecte --- seien diese Substanzen oder 
+Relationen --- handelt, als Repräsentanten der Objecte selbst angesehen
+werden und es kann an Stelle der in stetem Vorstellen der Objecte selbst
+vorschreitenden Operation, ein Operiren mit Zahlen gesetzt werden, welches
+man <dfn>Rechnen</dfn> nennt. 
+</p>
+<p lang="en">...</p>
+</div>
+
+
 ### [§12. Die höheren Operationen und die irrationalen Zahlen]{lang="de"} [§12. The higher operations and the irrational numbers]{lang="en"} {#pz12 .pz}
+
+<div class="parallel">
+<p lang="de">
+Es fragt sich, ob das Zahlensystem, das wir geschaffen haben, 
+vollständig ist oder nicht. Gewiss ist es insofern vollständig, als es 
+keine Aufgaben aus den 4 Species gibt, welche nicht durch ein Zeichen
+desselben gelöst werden können. Andererseits aber gibt es 
+Aufgaben, welche ihre Lösung in ihm nicht finden, z. B. wenn die 
+Zahl $x$ gesucht wird, so dass $xx = 2$, so wird keioe passende Zahl 
+gefunden werden können, ebensowenig, wenn $xx = -1$ sein soll. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Dass eine diesen Gleichungen genügende Zahl überhaupt unmöglich sei,
+kann (vgl. [S. 6](#S.6)) nicht behauptet werden. Zahlen sind 
+Zeichen, denen etwas Reales entsprechen kann; ob es aber ein solches
+gibt, das mit sich selbst multiplicirt, $+2$ oder $-1$ gibt, kann 
+nur durch die Betrachtung des Realen selbst entschieden werden, 
+unsere Aufgabe kann es hier nur sein, neue Zeichen zu schaffen 
+für jene möglichen oder unmöglichen Realen. Wir bezeichnen die 
+<a lang="de" class="origpage" id="S.46" title="Seite 46"></a>
+Lösung der Gleichung $xx = A$ mit $x = \sqrt{A}$, und nennen sie eine 
+<dfn>irrationale</dfn> Zahl. Es ist dann fraglich, was die Multiplication
+bedeute, d. h. welchen formalen Gesetzen sie genüge. Da eben nur 
+in dem Falle $\sqrt{A}\sqrt{A} = A$ die Bedeutung des Productes bestimmt 
+ist, so steht es in unserer Willkühr, welche Gesetze wir z. B. der 
+Verknüpfung $B\sqrt{A}$ unterlegen wollen, für welche in unserer
+bisherigen Reihe ein Zeichen im Allgemeinen nicht vorhanden ist. Das 
+Princip der Permanenz formaler Gesetze würde uns bei der Festsetzung der
+Bedeutung des Productes zu leiten haben, und es 
+zugleich möglich machen, jenes Zeichen $\sqrt{A}$ auch dann beizubehalten,
+wenn eine Quadratzahl, $\sqrt{A}$ also eine Zahl unserer obigen 
+Reihe ist.
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.46" title="Page 46"></a>
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Hätten wir nun auch so die 4 Grundoperationen solcher Grössen
+$\sqrt{A}$ untersucht, so wäre damit in der That noch nicht viel
+geschehen; denn sogleich entstehen wieder neue Fragen nach den Zahlen,
+welche Gleichungen wie $xx = \sqrt{A}$ genügen, und für welche
+wiederum neue Zeichen gegeben werden müssen, ferner nach den Gesetzen
+der Verbindung aller dieser neuen Zeichen von Irrationalitäten
+untereinander, welche möglicherweise Zahlen aus der oben gebildeten
+Reihe der positiven und negativen ganzen und gebrochenen Zahlen
+ergeben können u.s.w. Es ist klar: Man wird verzichten müssen, alle
+Aufgaben, welche die Einführung neuer Zeichen erfordern würden,
+vollständig und erschöpfend zu betrachten; man würde sich in ein
+ungeheures Labyrinth verirren, wenn man den bisherigen Gesichtspunkt
+der rein formalen Zahlenbildung ausschliesslich festhalten wollte. Es
+stellt sich vielmehr das Bedürfniss ein, den elementaren formalen
+Verknüpfungen der Zahlen eine actuelle Bedeutung unterzulegen, um zu
+sehen, ob es irgend etwas Reales gebe, welches der Auflösung der
+Gleichungen $xx = A$ u.s.f. entsprechen könne.
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="text-small">
+<div class="parallel">
+<p lang="de">
+Das Irrationale, was uns hier entgegengetreten ist, in der rein formalen 
+Mathematik durch den Grenzbegriff dem Rationalen zu interpoliren, scheint 
+mir der Natur der Sache deshalb ganz unangemessen, weil eben ein solcher 
+Grenzbegriff auf der Vorstellung des Kleinen und Grossen, welcher unserer 
+Entwickelung durchaus fremd ist, und der Anordnung unserer Zahlen in eine 
+stetige Keihe beruht, welche schon den Begriff der extensiven Grösse involvirt. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Jeder Versuch, die irrationalen Zahlen formal, und ohne den Begriff der 
+<a lang="de" class="origpage" id="S.47" title="Seite 47"></a>
+Grösse zu behandeln, muss auf höchst abstruse und beschwerliche Künsteleien 
+fähren, die, selbst wenn sie sich in vollkommener Strenge durchführen liessen, 
+wie wir gerechten Grund haben zu bezweifeln, einen höheren wissenschaftlichen
+Werth nicht haben. Denn überall ist es Sache der systematischen 
+Wissenschaft, sich der wahren Grundlagen der natürlichen Entwickelung der 
+Ideen klar und bewusst zu werden, nicht aber den Organismus mit seiner 
+immer frischen Productionskraft durch einen, wenn auch scharfsinnig
+construirten, doch todten und unproductiven Mechanismus ersetzen zu wollen. 
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.47" title="Page 47"></a>
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Ich denke, dass ich mich im Vorstehenden, trotz der Abweichung von dem 
+Gewöhnlichen, nicht dieses Fehlers schuldig gemacht habe. Mein
+Entwickelungsgang ist der Natur der Sache durchaus angemessen. Nachdem die 
+Schwierigkeiten und Paradoxieen, welche die gewöhnliche Ansicht von dem 
+Wesen der Zahlen als Grössen nothwendig mit sich führt, klar und bestimmt 
+fixirt waren, habe ich dem Zwecke gemäss, der zur Einführung des Negativen, 
+Imaginären und allgemein Gomplexen veranlasste, das Princip der Permanenz
+der arithmetischen Gesetze aufgestellt, den natürlichen Ausdruck des 
+im Laufe der Zeit erweiterten Begriffes von Zahlen und Formeln. Mittels 
+dieses Principes war es möglich, an Stelle des zunächst liegenden Begriffs 
+einer Zahl, als des Ausdrucks der actuellen Relationen von Objecten und deren 
+Operationen, den allgemeineren Begriff formaler, bloss im Gebiete des logischen 
+Denkens sich bewegender Operationen und aus der mentalen Verknüpfung von 
+Objecten hervorgehender Zahlen zu setzen, welche zunächst inhaltsleer, rein 
+die <em>abstracten Formen des zuammenfassenden Denkens des Unstetigen</em> sind. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Jetzt aber hat uns der dialectische Process wieder auf unseren Ausgangspunct
+zurückgeführt. Das Irrationale verlangt zu seiner systematischen 
+Fassung den Grössenbegriff. 
+</p>
+<p lang="en">...</p>
+</div>
+
+</div> <!-- .text-small -->
 
