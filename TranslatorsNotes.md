@@ -161,6 +161,16 @@ about them:
   senses, so I have done my best to pick the relevant one, and left it
   up to the annotations to make the connection between them clear.
   
+<i lang="de">zusammenfassen</i>
+: abbreviate. Hankel refers at several points in [Ch. III](#Ch.III) to
+  <i>zusammenfassende Zeichen</i> (<q>abbreviating signs</q>). As I
+  understand this, Hankel is using <i>zusammenfassen</i> more or less
+  literally to evoke an image of two signs <q>fastened together</q>
+  into a single one. Thus $3$ is an abbreviating sign for $1 + 2$,
+  etc. In this sense, <i>zusammenfassen</i> is cognate with Hankel's
+  use of <i>Verknüpfung</i> (see above) in the sense which focuses on
+  the *output* of an operation of conjoining, rather than the inputs
+  or the operation itself.
 
 ### Corrections
 
