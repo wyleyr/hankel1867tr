@@ -812,9 +812,33 @@ Objecte, an denen operirt wird, solche in der Anschauung existirende
 Objecte getreten sind, deren gegenseitige Relationen durch 
 gemeine Zahlen ausgedrückt werden. 
 </p>
-<p lang="en">...
+<p lang="en">
+It is clear that a system of such mental
+[operations]{.origphrase title="Operationen"}
 <a lang="en" class="origpage" id="p.11" title="Page 11"></a>
-...
+can be set up in which the objects and the [operations]{.origphrase
+title="Operationen"} to which they are subjected are defined
+sufficiently, and not more than sufficiently, but which, because it is
+set up without consideration of any subordinate Actual relations,
+remains an empty system, without any interpretation of its results and
+without application.
+In order not to fall into the abstruse, we will subject the
+[operations]{.origphrase title="Operationen"} with mental objects to
+formal rules such that they can contain in themselves as
+[instances]{.origphrase title="untergeordnete"} the Actual operations
+on intuitive objects and on the numbers which express their relations.
+Common arithmetic, which essentially operates with magnitudes of the
+same type, and which as [arithmetica numerosa]{lang="la"} makes use of
+the concrete number-signs, or as [arithmetica universalis]{lang="la"}
+or [speciosa]{lang="la"} of the general signs (species, for
+[Vieta]{.sc}) e.g. of letters, has taught us acquaintance with the
+system of rules above, which in fact have the required character of
+complete independence from each other.
+We will take these as guides and formally determine
+[operations]{.origphrase title="Operationen"} such that the results
+transform into those of the usual arithmetic, if, in place of the
+mental objects operated upon, objects existing in intuition are taken
+whose mutual relations are expressed through common numbers.
 </p>
 </div>
 
