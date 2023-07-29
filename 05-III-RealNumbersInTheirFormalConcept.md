@@ -46,7 +46,7 @@ furnished with new signs, and so on, but without a definite plan
 having been pursued in the [notation]{.origphrase title="Bezeichnung"}.
 It is manifest that an actual [implementation]{.origphrase title="Ausführung"}
 of the arithmetic operations, i.e., a presentation of the result by means
-of new, [abbreviating]{.origphrase title="zusammenfassende"} signs, is not
+of new, [unifying]{.origphrase title="zusammenfassende"} signs, is not
 <!-- TODO: tr note about "zusammenfassende" -->
 thereby possible. It would only become possible when one obtains a
 system of signs in a consistent manner, so that the result of each
@@ -1198,7 +1198,7 @@ domain of logical thought and of numbers which proceed from the mental
 [conjoining]{.origphrase title="Verknüpfung"} of objects, which are at
 first [empty of content]{.origphrase title="inhaltsleer"} and are
 purely the *abstract forms of the
-[abbreviating]{.origphrase title="zusammenfassenden"} thought of the
+[unifying]{.origphrase title="zusammenfassenden"} thought of the
 [discontinuous]{.origphrase title="Unstetigen"}*.
 </p>
 </div>
