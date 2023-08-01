@@ -1359,7 +1359,7 @@ die ideale, von allen Beziehungen von Ursache und Wirkung abstrahirte
 Zeit, da sie die reine Anschauungsform des <em>inneren</em> Sinnes
 nach [Kant]{.sc} (<cite>Kritik der reinen Vernunft</cite>, in der
 [Ausg. v. [Rosenkranz]{.sc} und [Schubert]{.sc}, II. Bd., S.
-40][KantRosenkranzSchubert]) sei, besser geeignet als der Raum, die
+40][KantRosenkranzSchubertS40]) sei, besser geeignet als der Raum, die
 Anschauungsform des <em>äusseren</em> Sinnes, insofern der Begriff des
 Vergangenen, Gegenwärtigen und Zukünftigen früher in dem Geiste
 entstehe, als der des Vorwärts und Rückwärts im Räume; die Algebra ist
@@ -1370,7 +1370,7 @@ ihm die Wissenschaft von der <em>reinen</em> Zeit.
 
 [Hamilton1835]: https://archive.org/details/transactionsofro17iris/page/292/mode/2up
 [Hamilton1853]: https://archive.org/details/bub_gb_TCwPAAAAIAAJ
-[KantRosenkranzSchubert]: https://archive.org/details/bub_gb_KOqgf0Pr1zsC/page/40/mode/2up
+[KantRosenkranzSchubertS40]: https://archive.org/details/bub_gb_KOqgf0Pr1zsC/page/40/mode/2up
 
 <div class="parallel">
 <p lang="de">
