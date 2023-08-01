@@ -345,7 +345,12 @@ deductiv die weiteren mathematischen Lehrsätze abzuleiten, ist überall kein
 Zweifel --- müssen wir auf einen wesentlichen Unterschied zwischen solchen 
 aufmerksam machen. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+To obtain a clear view for ourselves of the essence of principles ---
+for there is nowhere any doubt about the possibility of analytically
+or deductively deriving further mathematical theorems from these ---
+we must call attention to an essential difference between such principles.
+</p>
 </div>
 
 <div class="parallel">
@@ -415,7 +420,14 @@ Missverständniss nach und nach diese drei Postulate an eine falsche
 Stelle gebracht hat, an der sie unbegreiflicher Weise noch heute
 stehen.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+One should think that even the most superficial consideration allows
+two essentially different classes of principles to be distinguished,
+of which one (1--9) refers to relations which are essentially
+connected to the concept of magnitude, while the others (10--12) contain
+geometric truths.
+...
+</p>
 </div>
 
 [Peybard1814]: https://archive.org/details/lesoeuvresdeucli01eucl/page/n5/mode/2up 
