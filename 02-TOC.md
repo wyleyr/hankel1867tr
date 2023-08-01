@@ -70,3 +70,23 @@
 </div>
 </nav>
 
+### [IV. Abschnitt. Die reellen Zahlen in der Grössenlehre](#Ch.IV){lang="de"} [Chapter IV. The real numbers in the theory of magnitude](#Ch.IV){lang="en"} 
+
+<nav class="parallel toc">
+<div lang="de">
+1.  [§13. Begriff der Grösse überhaupt](#pz13)
+2.  [§14. Die ganzen Zahlen in der Grössenlehre](#pz14)
+3.  [§15. Die rationalen Zahlen in der Grössenlehre](#pz15)
+4.  [§16. Die irrationalen Zahlen](#pz16)
+5.  [§17. Die negativen Zahlen in der allgemeinen Grössenlehre](#pz17)
+6.  [§18. Das Operationssystem der Euklid'schen Geometrie](#pz18)
+</div>
+<div lang="en">
+1.  [§13. The concept of magnitude in general](#pz13)
+2.  [§14. The whole numbers in the theory of magnitude](#pz14)
+3.  [§15. The rational numbers in the theory of magnitude](#pz15)
+4.  [§16. The irrational numbers](#pz16)
+5.  [§17. The negative numbers in the general theory of magnitude](#pz17)
+6.  [§18. The system of operations of Euclidean geometry](#pz18)
+</div>
+</nav>
