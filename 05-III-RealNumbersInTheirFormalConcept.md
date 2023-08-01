@@ -1027,7 +1027,7 @@ sodass für jede durch diese Operationen geschehende Verknüpfung
 zweier Zeichen wieder ein zusammenfassendes Zeichen vorhanden ist, welches 
 überall an Stelle der Zeichenverknüpfung selbst gesetzt werden kann. Die 
 ganze Aufgabe des Zahlensystems besteht eben in dieser Zusammenfassung 
-oder, wenn man will, symbolischen Darstellung. Wenn eine Beihe von Objecten
+oder, wenn man will, symbolischen Darstellung. Wenn eine Reihe von Objecten
 gegeben ist, auf welche gewisse Operationen angewandt werden können, 
 die den zuvor auseinandergesetzten Kegeln genügen und welche in bestimmter 
 Weise den Zahlen entsprechen, so dass zwei Objecte immer aber auch nur 
