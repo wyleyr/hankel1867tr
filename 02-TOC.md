@@ -34,7 +34,7 @@
 </div>
 </nav>
 
-### [II. Abschnitt. Allgemeine Formenlehre.](#Ch.II){lang="de"} [Chapter II. General Theory of Forms.](#Ch.II){lang="en"} 
+### [II. Abschnitt. Allgemeine Formenlehre](#Ch.II){lang="de"} [Chapter II. General Theory of Forms](#Ch.II){lang="en"} 
 
 <nav class="parallel toc">
 <div lang="de">
@@ -51,7 +51,7 @@
 </div>
 </nav>
 
-### [III. Abschnitt. Die reellen Zahlen in ihrem formalen Begriffe.](#Ch.III){lang="de"} [Chapter III. The real numbers in their formal concept.](#Ch.III){lang="en"} 
+### [III. Abschnitt. Die reellen Zahlen in ihrem formalen Begriffe](#Ch.III){lang="de"} [Chapter III. The real numbers in their formal concept](#Ch.III){lang="en"} 
 
 <nav class="parallel toc">
 <div lang="de">
