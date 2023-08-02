@@ -242,7 +242,7 @@ gemacht.
 <p lang="de">
 [Bemerkung über die logische Natur der Zahlformeln.]{.pname} 
 Die im §. unter 
-[(1)](#S.49eq1){.eqref}, [(2)](#S.49eq2){.eqref}
+[(1)](#S.49eq1){.eqref}, [(2)](#S.49eq2){.eqref},
 [(3)](#S.49eq3){.eqref}, [(4)](#S.50eq4){.eqref}
 ausgesprochenen Sätze bedürfen noch einer weiteren
 Erläuterung, die ich nicht geben kann, ohne das Grenzgebiet der Mathematik 
@@ -260,7 +260,7 @@ ungemeinen Beifall gefunden haben.
 </p>
 <p lang="en">
 [Remark on the logical nature of numerical formulae.]{.pname}
-Statements [(1)](#S.49eq1){.eqref}, [(2)](#S.49eq2){.eqref}
+Statements [(1)](#S.49eq1){.eqref}, [(2)](#S.49eq2){.eqref},
 [(3)](#S.49eq3){.eqref} and [(4)](#S.50eq4){.eqref} in the above §.
 are still in need of a further elucidation which I cannot give without
 entering the borderlands between mathematics and philosophy.
@@ -271,8 +271,7 @@ the latter science, namely [Kant]{.sc}
 and [John Stuart Mill]{.sc}
 ([<cite>A System of Logic, Ratiocinative and Inductive</cite>][Mill1850],
 fifth edition, which is available in
-[German translation, second ed., 1862][Schiel1862] by [J.
-Schiel]{.sc}),
+[German translation, second ed., 1862][Schiel1862] by [J. Schiel]{.sc}),
 since 
 <a lang="en" class="origpage" id="p.51" title="Page 51"></a>
 logical principles of the latter have found tremendous acclaim,
@@ -432,6 +431,52 @@ geometric truths.
 
 [Peybard1814]: https://archive.org/details/lesoeuvresdeucli01eucl/page/n5/mode/2up 
 
+<div class="parallel">
+<p lang="de">
+Von den Grundsätzen, die aus der geometrischen Anschauung entspringen,
+kann es nicht in Zweifel gezogen werden, dass es <em>synthetische</em>
+in der Ausdrucksweise [Kant]{.sc}'s oder <em>inductive</em> sind, wie
+sie [Stuart Mill]{.sc} nennt: eine weitere Discussion der Natur dieser
+[αἰτήματα]{lang="grc"} ist hier für unsern Zweck ohne directe
+Bedeutung.
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Näher liegt uns die andere Klasse der Grundsätze, die der 
+[χοιναὶ ἔννοιαι]{lang="grc"} (notiones communes),
+deren Unterschied von jenen [Kant]{.sc} wohl bemerkt hat. <q>Einige
+wenige Grundsätze, welche die Geometer voraussetzen, sind zwar
+wirklich analytisch und beruhen auf dem Satze des Widerspruchs; sie
+dienen aber auch nur, wie identische Sätze, zur Kette der Methode und
+nicht als Principien, z. B. der 9. Grundsatz. Und doch auch diese
+selbst, ob sie gleich nach blossen Begriffen gelten, werden in der
+Mathematik nur darum zugelassen, weil sie in der Anschauung können
+dargestellt werden</q> (S. 704, vergl. auch S. 143); und in voller
+üebereinstimmung soweit sie in der Ausdrucksweise zwischen Idealisten
+und Empiriker stattfinden kann sagt [Stuart Mill]{.sc}: <q>Einige
+Axiome Euklid's könnten ohne Zweifel in die Form von Definitionen
+gebracht, oder aus ähnlichen Sätzen abgeleitet werden, wie wenn man
+statt des 8. Axioms die Definition nehmen könnte: Gleiche Grössen sind
+solche, welche so aufeinandergelegt werden können, dass sie sich
+decken und die Axiome 1, 2, 3 können darnach durch ein eingebildetes
+Aufeinanderlegen bewiesen werden... Es gibt indessen auf der Liste der
+Axiome zwei oder drei fundamentale Wahrheiten, welche nicht
+demonstrirt werden können; hieher
+<a lang="de" class="origpage" id="S.53" title="Seite 53"></a>
+gehört der Satz 10, 11...</q> (a. a. O. V, §. 3). <q>Wie andere
+sogenannte Definitionen, so sind dieselben aus zwei Dingen
+zusammengesetzt, aus der Erklärung des Namens und aus der Behauptung
+einer Thatsache, wovon die letzte allein ein erstes Princip oder eine
+Prämisse einer Wissenschaft bilden kann</q> (XXIV, §.5).
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.53" title="Page 53"></a>
+...
+</p>
+</div>
 
 
 </section> 
