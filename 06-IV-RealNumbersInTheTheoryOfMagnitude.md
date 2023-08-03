@@ -478,6 +478,96 @@ Prämisse einer Wissenschaft bilden kann</q> (XXIV, §.5).
 </p>
 </div>
 
+<div class="parallel">
+<p lang="de">
+Mit diesen Erläuterungen des Wesens der notiones communes wird man
+sich im Wesentlichen einverstanden erklären können. Ein solcher
+Grundsatz spricht ein abstract allgemeines und nothwendiges Gesetz
+aus, welches in allen Grössengebieten stattfindet, und ohne seinen
+wesentlichen Charakter aufzugeben, in eine Definition verwandelt
+werden kann, welches ferner einen solchen Grad von Evidenz besitzt,
+dass es durch seine blosse Exposition als unzweifelhaft wahr erkannt
+wird. Dies mag hier, wo nicht die Logik der mathematischen Methode
+überhaupt entwickelt werden soll, genügen. Recht eigentlich aber
+interessirt uns hier die Frage, wie es mit den Urtheilen von der Form
+$2\cdot 2 = 4$ beschaffen sei.
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+[Kant]{.sc} gibt uns hierauf folgende Antwort: <q>dass $7 + 5 = 12$
+sei, ist kein analytischer Satz, denn ich denke weder in der
+Vorstellung von 7, noch von 5, noch in der Vorstellung von der
+Zusammensetzung beider die Zahl 12. ... Ob er aber gleich synthetisch
+ist, so ist er doch nur ein einzelner Satz. ... Dergleichen Sätze muss
+man also nicht Axiome (denn sonst gäbe es deren unendlich viele),
+sondern Zahlformeln nennen</q> (a. a. O. 144). Er belehrt uns dann
+weiter, <q>dass man über die Begriffe von 5 und 7 hinausgehen müsse,
+indem man die Anschauung zu Hilfe nimmt, etwa seine 5 Finger und so
+nach und nach die Einheiten der in der Anschauung gegebenen 5 zu dem
+Begriffe der 7 hinzuthun. ... Der arithmetische Satz ist also
+jederzeit synthetisch, welches man desto deutlicher inne wird, wenn
+man etwas grössere Zahlen nimmt, da es dann klar einleuchtet, dass,
+wir möchten unsere Begriffe drehen und wenden, wie wir wollen, wir
+ohne die Anschauung zu Hilfe zu nehmen, vermittels der blossen
+Zergliederung unserer Begriffe die Summe niemals finden könnten</q>
+(S. 703).
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Die Ansicht, nach welcher das Eins-und-eins sowie das Ein-mal-eins
+eine unbegränzte Reihe von <em>Axiomen</em>, wenn auch [Kant]{.sc} vor
+diesem Namen zurückschreckt --- aufweist, ist so unangemessen und
+paradox, dass man kaum begreift, wie man sich bei ihr beruhigen könne.
+Freilich war [Kant]{.sc}'s Ansicht nicht allein der Ausdruck der von
+ihm wohlgekannten Mathematik seiner Zeit, wo [Kaestner]{.sc} als
+grosser Mann galt; sie ist auch noch der Ausdruck der meisten neueren,
+in anderer Beziehung vortrefflichen Lehrbücher der Arithmetik, in
+denen von einer <em>Begründung</em> der Zahlformeln auf anderem Wege,
+als an den fünf Fingern nicht die Rede ist. Und wenn man auf diese
+Weise auch den Satz $2\cdot 2 = 4$ begründen kann, so wird man,
+obgleich [Kant]{.sc} gerade letzteres vorschlägt, wohl darauf
+verzichten müssen, den Satz, dass $1000 \cdot 1000 = 1000000$ auf
+diese Art zu erweisen. Man rühmt es der Mathematik nach und die
+apodictische Gewissheit ihrer Sätze beruht darauf, dass sie auf einer
+äusserst kleinen Zahl von independenten Grundwahrheiten deductiv
+<a lang="de" class="origpage" id="S.54" title="Seite 54"></a>
+ein unendliches Gebäude errichtet; und hier soll gar eine unendliche
+Anzahl von unter sich unendlich mannigfach verbundenen Pfeilern das
+Gebäude tragen, obgleich nur ein einziges Bindeglied zu wanken
+braucht, um den ganzen stolzen Bau zum Umsturz zu bringen!
+</p>
+<p lang="en">
+The view according to which
+[the facts of addition and multiplication]{.origphrase
+title="das Eins-und-eins sowie das Ein-mal-eins"} <!-- TODO: tr note -->
+manifest an unlimited series of axioms, even if Kant
+shrinks from this name, is so inadequate and paradoxical that one
+hardly understands how one could content oneself with it. True,
+[Kant]{.sc}'s view was not merely the expression of the mathematics of
+his time (which he knew well), where [Kaestner]{.sc} was held to be a
+great man; it is also still the expression of most new and in other
+respects excellent textbooks of arithmetic, in which there is no talk
+of a <em>justification</em> of numerical formulae in any other way
+besides on one's five fingers. And even if one can justify the
+statement $2\cdot 2 = 4$ in this way, one will probably have to
+abstain from demonstrating the statement $1000 \cdot 1000 = 1000000$ in this
+manner, although [Kant]{.sc} recommends the latter. Mathematics
+is praised for, and the apodictic certainty of its statements is based
+upon, the fact that it deductively
+<a lang="en" class="origpage" id="p.54" title="Page 54"></a>
+erects an infinite structure on an extremely small number of
+independent base truths; and here an infinite number of infinitely
+multifarious connected columns are supposed to carry this structure,
+although only one single connection needs to falter to bring the
+entire proud structure to the ground!
+</p>
+</div>
 
 </section> 
 
