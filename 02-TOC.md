@@ -34,7 +34,7 @@
 </div>
 </nav>
 
-### [II. Abschnitt. Allgemeine Formenlehre.](#Ch.II){lang="de"} [Chapter II. General Theory of Forms.](#Ch.II){lang="en"} 
+### [II. Abschnitt. Allgemeine Formenlehre](#Ch.II){lang="de"} [Chapter II. General Theory of Forms](#Ch.II){lang="en"} 
 
 <nav class="parallel toc">
 <div lang="de">
@@ -51,7 +51,7 @@
 </div>
 </nav>
 
-### [III. Abschnitt. Die reellen Zahlen in ihrem formalen Begriffe.](#Ch.III){lang="de"} [Chapter III. The real numbers in their formal concept.](#Ch.III){lang="en"} 
+### [III. Abschnitt. Die reellen Zahlen in ihrem formalen Begriffe](#Ch.III){lang="de"} [Chapter III. The real numbers in their formal concept](#Ch.III){lang="en"} 
 
 <nav class="parallel toc">
 <div lang="de">
@@ -70,3 +70,25 @@
 </div>
 </nav>
 
+### [IV. Abschnitt. Die reellen Zahlen in der Grössenlehre](#Ch.IV){lang="de"} [Chapter IV. The real numbers in the theory of magnitude](#Ch.IV){lang="en"} 
+
+<nav class="parallel toc">
+<div lang="de">
+1.  [§13. Begriff der Grösse überhaupt](#pz13)
+2.  [§14. Die ganzen Zahlen in der Grössenlehre](#pz14)
+3.  [Bemerkung über die logische Natur der Zahlformeln](#Ch.IV-remarks)
+4.  [§15. Die rationalen Zahlen in der Grössenlehre](#pz15)
+5.  [§16. Die irrationalen Zahlen](#pz16)
+6.  [§17. Die negativen Zahlen in der allgemeinen Grössenlehre](#pz17)
+7.  [§18. Das Operationssystem der Euklid'schen Geometrie](#pz18)
+</div>
+<div lang="en">
+1.  [§13. The concept of magnitude in general](#pz13)
+2.  [§14. The whole numbers in the theory of magnitude](#pz14)
+3.  [Remark on the logical nature of arithmetical formulae](#Ch.IV-remarks)
+4.  [§15. The rational numbers in the theory of magnitude](#pz15)
+5.  [§16. The irrational numbers](#pz16)
+6.  [§17. The negative numbers in the general theory of magnitude](#pz17)
+7.  [§18. The system of operations of Euclidean geometry](#pz18)
+</div>
+</nav>
