@@ -548,7 +548,7 @@ The view according to which
 title="das Eins-und-eins sowie das Ein-mal-eins"} <!-- TODO: tr note -->
 manifest an unlimited series of axioms, even if Kant
 shrinks from this name, is so inadequate and paradoxical that one
-hardly understands how one could content oneself with it. True,
+hardly understands how one could content oneself with it. Indeed,
 [Kant]{.sc}'s view was not merely the expression of the mathematics of
 his time (which he knew well), where [Kaestner]{.sc} was held to be a
 great man; it is also still the expression of most new and in other
@@ -567,6 +567,204 @@ multifarious connected columns are supposed to carry this structure,
 although only one single connection needs to falter to bring the
 entire proud structure to the ground!
 </p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Auch bei [Stuart Mill]{.sc} (a. a. O. XXIV, §. 5) <q>ist die in der Definition 
+einer Zahl behauptete Thatsache, eine physikalische Thatsache. ... Wenn 
+wir sagen, dass $12^3 = 1728$, so behaupten wir, dass, wenn wir im Besitz einer 
+hinreichenden Anzahl von Kieseln oder von anderen Gegenständen sind, und 
+sie zu der besonderen Art von Haufen oder Aggregaten zusammenfügen, die 
+man 12 nennt und diese 12 wieder in ähnliche Haufen zusammenbringen und 
+endlich 12 von diesen grösseren Parthien vereinigen: das so gebildete Aggregat 
+ein solches sein wird, welches wir 1728 nennen, das nämlich welches entsteht, 
+wenn wir das 1000 Kiesel genannte Aggregat, das 700, das 20 und das 8 Kiesel 
+genannte zusammenfügen.</q> Dies alles muss zugestanden werden, es ist nur 
+die Frage, wie dies zu beweisen ist, da man es schwerlich auf die Probe mit 
+den Kieseln ankommen lassen wird. Hierauf hat [Stuart Mill]{.sc} die richtige 
+Antwort: <q>Es gibt unendlich viele Entstehungsweisen einer jeden Zahl, aber 
+wenn wir Eine Erzeugungsweise einer jeden kennen, so kann der ganze Rest 
+deductiv bestimmt werden. ... Wenn wir eine Kette von inductiven Wahrheiten,
+welche alle Zahlen der Reihe miteinander verknüpft, gebildet haben, 
+so können wir die Bildung irgend einer dieser Zahlen aus einer anderen
+einfach dadurch bestimmen, dass wir von der einen zur anderen die Kette entlang 
+gehen. ... Was die Arithmetik zum Typus einer deductiven Wissenschaft 
+macht, ist die glückliche Anwendbarkeit von einem so umfassenden Gesetze, 
+wie: die Summen von Gleichen sind gleich, oder: was aus Theilen
+zusammengesetzt ist, ist aus Theilen dieser Theile zusammengesetzt. Diese
+Wahrheit... muss als eine inductive Wahrheit, oder als ein Naturgesetz von der 
+höchsten Ordnung betrachtet werden: ... Es ist bei allen Rechnungen unsere 
+Gewähr. Dass $5 + 2 = 7$ glauben wir auf den Beweis dieses inductiven, mit 
+den Definitionen der Zahlen verbundenen Gesetzes hin. Wir gelangen zu 
+diesem Schluss (wie Alle wissen, die sich erinnern, wie sie ihn zuerst lernten), 
+indem nur die blosse Einheit auf einmal addirt wird, $5 + 1 = 6$, daher 
+$5 + 1 + 1 = 6 + 1 = 7$ und da $1 + 1 = 2$, so ist $5 + 1 + 1 = 5 + 2 = 7$.</q> 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Diese in der That wissenschaftlich einzig und allein zulässige Idee ist 
+dieselbe, welche in vorstehender Entwickelung nicht ein blosses Aperçu
+geblieben, sondern ein systematischer Gedanke geworden ist. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Als Grundsatz bei der Addition ist angenommen worden 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+
+1<!-- -->) $a + (b + c) = (a + b) + c$, d. h.: Wenn $a, b, c$ drei
+Grössen sind, so erhält man dasselbe Resultat, ob man zu $a$ die durch
+Vereinigung von $b$ und $c$ hervorgehende Grösse $(b + c)$ addirt, oder
+zu $a$ erst $b$ und dann zu dieser vereinigten Grösse $(a + b)$ die Grösse
+$c$.
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+2<!-- -->) $a + b = b + a$, d. h.: Man erhält dasselbe Resultat, mag man
+$b$ zu $a$ oder $a$ zu $b$ hinzufügen. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Um die Summen von mehrmals gesetzten Grössen, also ihre Vielfachen zu 
+<a lang="de" class="origpage" id="S.55" title="Seite 55"></a>
+bezeichnen, haben wir ein früher durch formale Verknüpfungsgesetze
+gebildetes Zeichensystem angewandt. Es musste dabei weiter der Satz
+angewandt werden,
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.55" title="Page 55"></a>
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+3<!-- -->) dass, wenn $a = Ae$, $b = Be$, auch $(a + b)$ ein
+bestimmtes von der Natur von $e$ unabhängiges Vielfaches von $e$ ist,
+welches wir als das $(A + B)$-fache bezeichnen konnten, indem wir
+unter dieser Verbindung $(A + B)$ eben vermöge der beiden Grundsätze
+<!-- --> 1) und 2) die in [§. 9](#pz9) formal definirte Addition der
+Grössen verstehen konnten. Diesen Satz kann man in einer deutlicheren
+Sprache so ausdrücken: Ist $a = Ae$, $b = Be$ und $a' = Ae'$, $b' =
+Be'$, so ist $(a + b)$ von $e$ dasselbe Vielfache als $(a' + b')$ von
+$e'$ und in dieser Form wird der Satz von [Euklid]{.sc} V, 2,
+exponirt.
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Diese 3 hier angeführten Grundsätze haben durchaus den Charakter der
+notiones communes. Sie werden durch eine Explication vollkommen
+evident, gelten für alle Grössengebiete nach der reinen Anschauung der
+Grösse, und können, ohne ihren Charakter einzubüssen, in Definitionen
+verwandelt werden, indem man sagt: Unter der Addition von Grössen
+versteht man eine Operation, welche diesen 3 Sätzen genügt.
+</p>
+<p lang="en">
+The three principles given here certainly have the character of common
+notions. They become completely evident through an explication; they
+are valid for all domains of magnitudes according to the pure
+intuition of magnitude; and can, without forfeiting their character,
+be transformed into definitions, in which one says: by the addition of
+magnitudes is understood an operation which satisfies these three
+principles.
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Was nun die Multiplication von Zahlen in der Grössenlehre und insofern 
+sie ein Vervielfachen bezeichnen, angeht, so erfordert sie den Satz
+$A(Be) = (AB)e$; d. h. wenn $b = Be$, $a = Ab$ und $b' = Be'$, $a = Ab'$
+so ist $a$ dasselbe Vielfache von $e$ als $a'$ von $e'$.
+Dies beweist [Euklid]{.sc} V, 3, indem er dabei den Satz benutzt: 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+4<!-- -->) $Ab + Ac = A(b + c)$, der in den Elementen V, 1 explicirt ist. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Sieht man die Beweise der <dfn>Lehrsätze</dfn> V, 1 und 2 bei
+[Euklid]{.sc} genauer an, so wird man sie von wesentlich anderem
+Charakter finden, als er allen übrigen Beweisen seiner Elemente
+zukommt. Es sind gar keine <em>Beweise</em>, denn es fehlt ihnen der
+logische Vordersatz; Folgerungen werden gezogen, die auf keinen
+Grundsatz zurückgeführt werden; es sind keine Deductionen, sondern
+Expositionen oder Inductionen in der Sprachweise der Empiriker.
+Versucht man aber die fehlenden oberen Prämissen zu ergänzen, so
+findet man keine anderen, als die von mir unter 1), 2) angeführten
+associativen und commutativen Principien, die man in versteckter Weise
+wohl in dem 2. Grundsatze des [Euklid]{.sc} enthalten, ansehen kann.
+Ich meine aber, dass eine im Sinne der Alten vollkommen strenge und
+wissenschaftliche Behandlung der Grössenlehre überhaupt, das
+associative und commutative Princip bei der Addition, sei es nun als
+Definition dieser oder als eigentlichen Grundsatz, nicht entbehren
+kann. Beide werden übrigens bei der Behandlung discreter Grössen
+streng genommen in das einzige Axiom
+$$
+Ae + (B + 1)e = (A + B)e + 1e 
+$$
+zusammengefasst werden können (vergl. [§. 9](#pz9)). 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Durch die Annahme dieser beiden Grundsätze würde übrigens die Zahl
+derselben nicht vermehrt werden, da man mit ihrer Hilfe die
+[Euklid]{.sc}'schen Axiome 1--9 theilweise aufeinander reduciren
+kann, was ohne sie aber nicht,
+<a lang="de" class="origpage" id="S.56" title="Seite 56"></a>
+wie man zuweilen gemeint hat (s. z. B. [Mill]{.sc}, a. a. O. XXIV, §. 5),
+möglich ist. 
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.56" title="Page 56"></a>
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Doch muss ich bemerken, dass ich die Untersuchung über die Zahl und
+die Form der Axiome, welche der Grössenlehre noch hinzuzufügen sind,
+mit vorstehenden kurzen Bemerkungen nicht erledigt haben will. Es
+würde die erschöpfende Lösung der Frage uns von unserem Ziele
+allzuweit entfernen, da in diesem Werke die Lehre von den Grössen nur
+insoweit von Interesse ist, als sie in Beziehung mit der rein formalen
+Mathematik tritt. Letztere kennt weder [αἰτήματα]{lang="grc"}, noch
+[χοιναὶ ἔννοιαι]{lang="grc"}; ihre Operationen sind an sich
+willkührlich und die Richtigkeit ihrer Schlüsse hängt von der
+Möglichkeit und Wirklichkeit jener Operationen überall nicht ab.
+</p>
+<p lang="en">...</p>
 </div>
 
 </section> 
