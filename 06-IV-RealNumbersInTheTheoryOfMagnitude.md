@@ -313,7 +313,7 @@ V., VI., XXIV. Capitel.)
 [Kant]{.sc} occupied himself many times with the question of the
 essence and the ground of mathematical methods and with the nature of
 their judgements. Corresponding to his view of mathematics as
-<q>knowledge from the construction of concepts</q>, he holds all
+<q>rational knowledge from the construction of concepts</q>, he holds all
 mathematical judgements to be <em>synthetic</em> (p. 702), thereby
 opposing them to <em>analytic</em> judgements, the latter of which, as
 is familiar, assert a predicate of a subject which lies either openly
@@ -325,7 +325,7 @@ now mathematical judgments are synthetic, it cannot as such interest
 the mathematician whether they are a priori, as Kant wants, because
 they carry with themselves necessity, which cannot be achieved from
 experience, and indeed derive from pure intuition a priori, which is
-encountered before all perception in us as the [condition]{.origphrase
+encountered before all perception in us as the [character]{.origphrase
 title="Beschaffenheit"} [of the disposition]{.origphrase title="des
 Gemüthes"} of [being affected by objects]{.origphrase title="von
 Objecten afficirt zu werden"}---or whether they, as Stuart Mill
@@ -345,7 +345,7 @@ Zweifel --- müssen wir auf einen wesentlichen Unterschied zwischen solchen
 aufmerksam machen. 
 </p>
 <p lang="en">
-To obtain a clear view for ourselves of the essence of principles ---
+To obtain a clear view for ourselves of the essence of the principles ---
 for there is nowhere any doubt about the possibility of analytically
 or deductively deriving further mathematical theorems from these ---
 we must call attention to an essential difference between such principles.
@@ -421,9 +421,9 @@ stehen.
 </p>
 <p lang="en">
 One should think that even the most superficial consideration allows
-two essentially different classes of principles to be distinguished,
+two essentially different classes of principles to be distinguished here,
 of which one (1--9) refers to relations which are essentially
-connected to the concept of magnitude, while the others (10--12) contain
+connected to the concept of magnitude, while the other (10--12) contains
 geometric truths.
 ...
 </p>
@@ -564,8 +564,8 @@ upon, the fact that it deductively
 erects an infinite structure on an extremely small number of
 independent base truths; and here an infinite number of infinitely
 multifarious connected columns are supposed to carry this structure,
-although only one single connection needs to falter to bring the
-entire proud structure to the ground!
+although only one single link needs to falter to bring the
+entire proud construction to the ground!
 </p>
 </div>
 
@@ -680,11 +680,11 @@ verwandelt werden, indem man sagt: Unter der Addition von Grössen
 versteht man eine Operation, welche diesen 3 Sätzen genügt.
 </p>
 <p lang="en">
-The three principles given here certainly have the character of common
+The three principles given here are entirely of the character of common
 notions. They become completely evident through an explication; they
 are valid for all domains of magnitudes according to the pure
-intuition of magnitude; and can, without forfeiting their character,
-be transformed into definitions, in which one says: by the addition of
+intuition of magnitude; and they can, without forfeiting their character,
+be transformed into definitions, by saying: by the addition of
 magnitudes is understood an operation which satisfies these three
 principles.
 </p>
