@@ -774,6 +774,159 @@ Möglichkeit und Wirklichkeit jener Operationen überall nicht ab.
 
 ### [§15. Die rationalen Zahlen in der Grössenlehre]{lang="de"} [§15. The rational numbers in the theory of magnitude]{lang="en"} {#pz15 .pz}
 
+<div class="parallel">
+<p lang="de">
+Sind $a, b$ zwei gleichartige Grössen, d. h. also solche, welche 
+vervielfältigt einander übertreffen können, so fragt es sich, ob man 
+die eine derselben b so vervielfältigen könne, dass ihr Vielfaches 
+<span class="numbered" id="S.56eq1" data-label="1">
+\begin{equation}
+Xb = a
+\end{equation}
+</span>
+wird. Haben $a, b$ ein <dfn>gemeinschaftliches Maass</dfn>, von dem 
+sie Vielfache sind, d. h. ist $a = Me$, $b = Ne$ und ist die Gleichung 
+$$
+XN = M
+$$
+in ganzen Zahlen $X$ auflösbar, so ist auch die Auflösung jener 
+Gleichung [(1)](#S.56eq1){.eqref} oder 
+$$
+XNe = Me 
+$$
+gefunden. Kann aber die Gleichung $XN = M$ nicht in ganzen 
+Zahlen aufgelöst werden, sondern nur durch eine gebrochene Zahl 
+$$
+X=\frac{M}{N} 
+$$
+im Sinne des [§. 11](#pz11), so fragt es sich, was man unter dieser Operation
+$\frac{M}{N}b$ zu verstehen habe. 
+</p>
+<p lang="en">...
+<span class="numbered" id="p.56eq1" data-label="1">
+\begin{equation}
+Xb = a
+\end{equation}
+</span>
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Dazu denken wir uns die Einheit $e$ beliebig, z. B. in $N$ Theile 
+zerlegbar und bezeichnen einen derselben mit $\frac{1}{N}e$, so dass 
+$N\left(\frac{1}{N}e\right) = e$
+oder auch 
+$\frac{1}{N}Ne = e$
+und überhaupt $\frac{1}{N}N = 1$ gesetzt werden darf.
+Unter $M\left(\frac{1}{N} e\right) hat man dann übereinstimmend 
+<a lang="de" class="origpage" id="S.57" title="Seite 57"></a>
+mit unseren Bezeichnungen in [§. 14](#pz14) diese Grösse
+$\frac{1}{N}e$, $M$ mal gesetzt zu verstehen. Dass 
+$$
+M\left(\frac{1}{N}e\right) = \frac{1}{N}(Me)
+$$
+folgt unmittelbar aus der Natur der actuellen Theilung und Vervielfachung,
+und wenn wir 
+$$
+M\left(\frac{1}{N}e\right) = \left(\frac{1}{N}M\right)e = \frac{M}{N}e
+$$
+setzen, so ist, um die üebereinstimmung dieses Zeichens $\frac{M}{N}$
+mit dem in [§.11](#pz11) eingeführten nachzuweisen, nichts weiter
+erforderlich, als dass die allgemeinen Gesetze, welchen diese
+gebrochenen formalen Zahlen unterliegen, jetzt als nothwendige Folgen
+des Theilungsbegriffes dargethan werden.
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.57" title="Page 57"></a>
+...
+</p>
+</div>
+
+<div class="text-small">
+<div class="parallel">
+<p lang="de">
+Man vergleiche in Hinsicht dieses Beweises in's Besondere [Euklid]{.sc} VII. 
+und VIII. Buch, sowie [Grassmann]{.sc}'s Lehrhuch der Arithmetik Art 
+130 u. ff. Ich beschränke mich auf diese Hinweisung, da hier in der That 
+keine irgend welche neuen Principien eintreten, denen höheres wissenschaftliches
+Interesse zukäme, und ich überhaupt darauf verzichtet habe, die Anwendung der
+Zahlen in der Grössenlehre ganz systematisch und der tieferen 
+Natur des Gegenstandes entsprechend, ausführlich zu behandeln. --- 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Man pflegt die Verbindung einer formalen Zahl mit einer Grösse $e, Ae$ 
+als eine Multiplication anzusehen, was dadurch gerechtfertigt ist, dass das 
+distributive Princip zum Theil in den Gleichungen 
+$$
+(A + B)e = Ae + Be,  A(b + c) = Ab + Ac
+$$
+enthalten ist. Ebenso sieht man die Lösung $X = \frac{b}{a}$ der Gleichung $Xa = b$ 
+als einen Quotienten an. Wenn gleich dieser Ausdrucksweise nichts widerspricht,
+so ist sie doch von geringem Werthe, da jener Multiplication keine 
+Addition einer formalen Zahl $A$ und einer Grösse $a$ entspricht; denn $A + a$ 
+hat keine Bedeutung; zu jener Division zweier Grössen aber gibt es im
+<em>Allgemeinen</em> keine entsprechende Multiplication $a\cdot b$.
+</p>
+<p lang="en">...</p>
+</div>
+<div class="parallel">
+
+<p lang="de">
+Man nennt $Ae$ eine <dfn>benannte</dfn> Zahl, ein Ausdruck, den wir
+jedoch um allen Verwechselungen zu entgehen, nicht weiter anwenden
+werden; in unserer Sprachweise würde $Ae$ eine <dfn>actuelle</dfn>
+Zahl heissen, während die Zahl, die man in der Arithmetik gemeiniglich
+als <dfn>absolute</dfn> bezeichnet, in gewissem Sinne mit unserer
+<dfn>formalen</dfn> zusammenfällt.
+</p>
+<p lang="en">
+<!-- TODO: tr note on benannt/unbenannt -->
+One calls $Ae$ a <dfn>named</dfn> number, an expression which we
+however will not use further, in order to avoid confusion; in our way
+of speaking, $Ae$ would be called an <dfn>Actual</dfn> number, while
+the number which in arithmetic is usually designated as
+<dfn>absolute</dfn>, in a certain sense falls in the same category as
+our <dfn>formal</dfn> number.
+</p>
+</div>
+</div> <!-- .text-small -->
+
+<div class="parallel">
+<p lang="de">
+Man sieht, wenn man das bisher erläuterte zusammenfasst: 
+Wenn $A$ irgend eine ganze oder gebrochene rationale formale Zahl 
+<a lang="de" class="origpage" id="S.58" title="Seite 58"></a>
+bezeichnet, so wird durch $Ae$ eine actuelle mit $e$ vorzunehmende 
+Operation angedeutet, welche, wenn die Grösse $e$ eine willkührlich 
+theilbare ist, immer ausgeführt werden kann, und auf eine bestimmte
+neue Grösse führt. Die Operation der realen Addition 
+zweier Grössen $Ae, Be$, sowie das Vervielfachen und Theilen der 
+Grösse $Ae$, können ersetzt werden durch die formale Addition, 
+Multiplication und Division formaler Zahlen, der Coefficienten $A, B$. 
+</p>
+<p lang="en">
+One sees, if one summarizes what's been elucidated so far: if $A$
+signifies any whole or fractional rational formal number,
+<a lang="en" class="origpage" id="p.58" title="Page 58"></a>
+then $Ae$ indicates an Actual [operation]{.origphrase title="Operation"}
+carried out with $e$ which can always be carried out
+when the magnitude $e$ is arbitrarily divisible, and leads to a
+definite new magnitude. The [operation]{.origphrase title="Operation"}
+of the real addition of two magnitudes $Ae, Be$, as well as the
+[multiplication]{.origphrase title="Vervielfachen"} and
+[division]{.origphrase title="Theilen"} of the magnitude $Ae$, can be
+replaced with formal addition,
+[multiplication]{.origphrase title="Multiplication"} and
+[division]{.origphrase title="Division"}
+of formal numbers, of the coefficients $A, B$.
+</p>
+</div>
+
 ### [§16. Die irrationalen Zahlen]{lang="de"} [§16. The irrational numbers]{lang="en"} {#pz16 .pz}
 
 ### [§17. Die negativen Zahlen in der allgemeinen Grössenlehre]{lang="de"} [§17. The negative numbers in the general theory of magnitude]{lang="en"} {#pz17 .pz}
