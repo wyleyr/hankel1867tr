@@ -531,7 +531,7 @@ A(B\Gamma) = (AB)\Gamma
 <p lang="de">
 Es sei <span class="numbered" id="S.39eq10" data-label="10">
 \begin{equation}
-1.A = A
+1\cdot{}A = A
 \end{equation}
 </span>
 so ist nach [(6)](#S.38eq6){.eqref}, [(10)](#S.39eq10){.eqref},
@@ -558,7 +558,7 @@ in seiner Allgemeinheit erwiesen ist.
 <p lang="en">...
 <span class="numbered" id="p.39eq10" data-label="10">
 \begin{equation}
-1.A = A
+1\cdot{}A = A
 \end{equation}
 </span>
 [(6)](#p.38eq6){.eqref} 
