@@ -51,16 +51,16 @@ themselves.
 <p lang="de">Was es heisst, ein Object 1 mal, 2 mal, 3 mal ... denken oder 
 setzen, kann bei der principiellen Einfachheit des Begriffes der 
 Setzung (Position) nicht definirt werden. Eine absolute, ganze Zahl 
-$1, 2, 3...$ sagt aus, es solle ein Object $1, 2, 3...$ mal gesetzt werden,
-und es bedeutet $1e, 2e, 3e...$, das Resultat der wiederholten 
+$1, 2, 3\ldots$ sagt aus, es solle ein Object $1, 2, 3\ldots$ mal gesetzt werden,
+und es bedeutet $1e, 2e, 3e\ldots$, das Resultat der wiederholten 
 Position von $e$. Jenes Object, welches willkührlich bleibt, kann 
 <a lang="de" class="origpage" id="S.2" title="Seite 2"></a>
 Einheit genannt und an seine Stelle die absolute,
 numerische Einheit gesetzt werden,
-die man mit 1 bezeichnet. Man setzt dann $1 . 1, 2 . 1, 
-3 . 1...$ einfach gleich $1, 2, 3, ...$ und drückt so durch die Zahlzeichen 
+die man mit 1 bezeichnet. Man setzt dann $1 \cdot 1, 2 \cdot 1, 
+3 \cdot 1\ldots$ einfach gleich $1, 2, 3,\ldots$ und drückt so durch die Zahlzeichen 
 zwei verschiedene, wenn auch nahe verwandte Begriffe aus. In der 
-ersten Beziehung sind $1, 2, 3, ...$ Cardinalzahlen, indem sie das 
+ersten Beziehung sind $1, 2, 3,\ldots$ Cardinalzahlen, indem sie das 
 <q>wie oft</q> der Position bezeichnen und eine Forderung enthalten, in 
 der zweiten sind sie Ordinalzahlen, welche die Stelle einer gewissen 
 Vielheit in der geordneten Zahlenreihe und das Resultat der Verknüpfung
@@ -71,16 +71,16 @@ Bedeutungen gibt es zwei Verknüpfungsweisen der Zahlen.
 What it means to think or [posit]{.origphrase title="setzen"} an
 object 1 time, 2 times, 3 times... cannot be defined upon the concept
 of positing (<i>Position</i>) in its fundamental simplicity. An
-absolute, whole number $1, 2, 3...$ expresses that an object should be
-posited $1, 2, 3...$ times, and it means $1e, 2e, 3e...$, the result
+absolute, whole number $1, 2, 3\ldots$ expresses that an object should be
+posited $1, 2, 3\ldots$ times, and it means $1e, 2e, 3e\ldots$, the result
 of the repeated positing of $e$. That object, which remains arbitrary, can
 <a lang="en" class="origpage" id="p.2" title="Page 2"></a>
 be called a unit and the absolute numerical unit can be posited in its place,
 which is signified with 1. 
-One then simply [sets]{.origphrase title="setzt"} $1 . 1, 2 . 1, 3 . 1...$
-equal to $1, 2, 3...$ and expresses thus with the number signs two
+One then simply [sets]{.origphrase title="setzt"} $1 \cdot 1, 2 \cdot 1, 3 \cdot 1\ldots$
+equal to $1, 2, 3\ldots$ and expresses thus with the number signs two
 distinct, though closely related, concepts.
-In the first relation, $1, 2, 3...$ are cardinal numbers, in that they
+In the first relation, $1, 2, 3\ldots$ are cardinal numbers, in that they
 signify the <q>how often</q> of the [positing]{.origphrase title="Position"}
 and [contain a postulate]{.origphrase title="eine Forderung enthalten"};
 in the second, they are ordinal numbers, which signify the position of a
@@ -141,18 +141,18 @@ necessary and sufficient to <dfn>formally</dfn> define the operation.
 [Multiplication.]{.pname} Die Multiplication besteht in der Verknüpfung 
 einer Ordinalzahl $b$ mit einer Cardinalzahl $a$ und verlangt, dass $b$ 
 $a$ mal genommen werden soll. Das Resultat dieser Operation, das 
-Product $a . b$ kann auch als diejenige Zahl angesehen werden, welche 
+Product $a \cdot b$ kann auch als diejenige Zahl angesehen werden, welche 
 aus $b$ auf dieselbe Weise hervorgeht, wie $a$ aus der numerischen 
 <a lang="de" class="origpage" id="S.3" title="Seite 3"></a>
 Einheit. Bilden wir jetzt ein Product durch $b$ maliges Vervielfachen
 der Ordinalzahl $a$, so ist es keineswegs selbstverständlich, sondern
 bedarf eines Beweises, dass
-$$ a.b = b.a $$
+$$ a \cdot b = b \cdot a $$
 also das <dfn>commutative</dfn> Gesetz gilt. Dieser Beweis kann durch eine im
 Grunde geometrische Construction in einer Ebene ebenso leicht geführt
 werden[\*)](#S.3n1){#S.3n1ref .fnref}, als im Raume der Beweis für das
 <dfn>associative</dfn> Gesetz:
-$$ a.(b.c) = (a.b).c $$
+$$ a \cdot (b \cdot c) = (a \cdot b) \cdot c $$
 wobei man darauf achten mag, dass bald von dem ordinalen, bald 
 von dem cardinalen Begriffe der Zahl Gebrauch gemacht wird. 
 </p>
@@ -296,20 +296,20 @@ Addition ableiten.
 <p lang="de">
   <a lang="de" class="origpage" id="S.5" title="Seite 5"></a>
 Es liegt auf der Hand, dass es, wenn $b > c$ ist, keine Zahl $x$
-in der Reihe $1, 2, 3...$ gibt, welche die betreffende Aufgabe löst: die
+in der Reihe $1, 2, 3\ldots$ gibt, welche die betreffende Aufgabe löst: die
 Subtraction is dann <em>unmöglich</em>. Nichts hindert uns jedoch, dass wir in
 diesem Falle die Differenz $c - b$ als ein <em>Zeichen</em> ansehen, welches
 die Aufgabe löst und mit welchem genau so zu operiren ist, als wenn es
-eine numerische Zahl aus der Reihe $1, 2, 3...$ wäre.
+eine numerische Zahl aus der Reihe $1, 2, 3\ldots$ wäre.
 </p>
 <p lang="en">
   <a lang="en" class="origpage" id="p.5" title="Page 5"></a>
 It is immediate that, if $b > c$, there is no number in the series
-$1, 2, 3...$ which solves the problem given: the subtraction is then
+$1, 2, 3\ldots$ which solves the problem given: the subtraction is then
 <em>impossible</em>. Nothing hinders us, however, from looking at the
 difference $c - b$ in this case as a <em>sign</em> which solves the problem
 and with which one can operate exactly as if it were a 
-number from the series $1, 2, 3...$.
+number from the series $1, 2, 3\ldots$.
 </p>
 </div>
 
@@ -619,7 +619,7 @@ and was used by Leibniz to describe
 <div class="parallel">
 <p lang="de">
 Die Division besteht in der Aufgabe, aus einer Gleichung 
-$$ x.a = b $$
+$$ x \cdot a = b $$
 das $x$ zu bestimmen, wenn $a, b$ ganze Zahlen sind. Es leuchtet ein,
 dass es nicht immer möglich ist, das $x$, sowie es bis jetzt zulässig
 ist, als ganze Zahl zu bestimmen. Soll also die Division unter jeder
@@ -654,7 +654,7 @@ Bedeutung von $\frac{1}{a} b$ noch nicht bestimmt, und wird es erst,
 wenn wir unter einer solchen Multiplication von $\frac{1}{a}$ in $b$
 die Operation verstehen, durch welche $b$ in $a$ Theile zerlegt wird;
 dann wird in der Anschauung der Beweis geliefert werden können, dass
-$$ \frac{1}{a} . b = b . \frac{1}{a} = \frac{b}{a} $$
+$$ \frac{1}{a} \cdot b = b \cdot \frac{1}{a} = \frac{b}{a} $$
 und daher das commutative Princip gilt.
 Dabei ist aber zu bemerken, dass eine neue Definition der
 Multiplication in letzterem Falle ausdrücklich gegeben werden musste
@@ -985,13 +985,13 @@ den allgemeinen Werth, den das Princip der Permanenz formaler Gesetze
 als ein methodologisches für die ganze Mathematik hat: Ist ein
 complexes Zahlensystem, z.B. das gemeine gegeben, dessen Zahlen $a =
 A + Bi$ sind, so kann man innerhalb desselben gewisse Operationen
-vornehmen, z. B. $aa, aaa, aaaa, ...$ die man mit $a^2, a^3, a^4...$
+vornehmen, z. B. $aa, aaa, aaaa, \ldots$ die man mit $a^2, a^3, a^4\ldots$
 bezeichnet, wo dann, so lange $M, N$ ganze positive Zahlen sind, die
 Gleichung
 $$ a^Ma^N = a^{M+N} $$
 stattfindet. Dies Gesetz, rein formal betrachtet, hat man nun auf alle
 möglichen reellen Werthe von $M$ und $N$ auszudehnen versucht, und gelangte so 
-zu der Bedeutung von $a^{-1}, a^{-2}, ... a^{\frac{1}{2}}, a^{\frac{1}{3}}...$
+zu der Bedeutung von $a^{-1}, a^{-2}, \ldots a^{\frac{1}{2}}, a^{\frac{1}{3}}\ldots$
 Der Fortschritt der Wissenschaft verlangte dann aber eine Erweiterung
 des Begriffes der Potenzirung auf complexe Exponenten; eine Aufgabe,
 die seit der Mitte des vorigen Jahrhunderts unendlich oft angegriffen
