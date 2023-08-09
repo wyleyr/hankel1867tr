@@ -112,7 +112,7 @@ deviant number systems for the sake of a factual proof of the
 possibility of numbers whose units do not follow all the laws of
 <q>arithmetica universalis</q> [\*)](#p.VIn1){#p.VIn1ref .fnref}. I have
 therefore in Chapters VIII and IX presented the theory of quaternions of
-Sir W.R. [Hamilton]{.sc}, which in England is generally known and in
+Sir W.\ R.\ [Hamilton]{.sc}, which in England is generally known and in
 use, but which in Germany has remained almost completely unknown; and I
 believed myself in doing so not to have to limit myself only to that
 which is essential for the purpose, but to earn the thanks of many
@@ -267,7 +267,7 @@ Diejenigen Leser, welche mit
 der [Möbius]{.sc}'schen Form der sphärischen Trigonometrie u.\ s.\ w.
 nicht völlig vertraut sind, verweise ich auf die
 [<cite class="quoted">Elemente der Mathematik</cite>][Baltzer1870]
-von R. [Baltzer]{.sc}. ---
+von R.\ [Baltzer]{.sc}. ---
 </p>
 <p lang="en">
 ...

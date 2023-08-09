@@ -1236,7 +1236,7 @@ Symbolical Algebra</cite> ([Trans. Roy. Soc. Edinburgh. Vol. XIV][Gregory1840],
 <div class="parallel">
 <p lang="de">
 In Deutschland hat eine rein formale Darstellung der arithmetischen
-Operationen [M. Ohm]{.sc} in der ersten Auflage seines
+Operationen [M.\ Ohm]{.sc} in der ersten Auflage seines
 [<cite class="quoted">Versuchs eines vollkommen consequenten Systems der
 Mathematik</cite>][Ohm1822] 1822 gegeben, die er dann in der zweiten
 Auflage von 1828, ohne seine Meinung darüber zu ändern, <q>dass nur
