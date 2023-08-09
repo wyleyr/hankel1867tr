@@ -929,6 +929,194 @@ of formal numbers, of the coefficients $A, B$.
 
 ### [§16. Die irrationalen Zahlen]{lang="de"} [§16. The irrational numbers]{lang="en"} {#pz16 .pz}
 
+<div class="parallel">
+<p lang="de">
+Im Vorstehenden haben wir die Gleichung 
+$$
+Xb = a 
+$$
+unter den Voraussetzung, dass $b$ und $a$ commensurabel sind, aufgelöst.
+Sind aber diese gleichartigen Grössen $a, b$ incommensurabel, so gibt es
+in unserem Systeme überhaupt keine Zahl, welche die Aufgabe löst.
+Man kann dann rationale Zahlen $M, N$ so bestimmen, dass 
+$$
+\frac{M}{N}b - a
+$$
+kleiner als irgend eine gegebene kleine Grösse ist. Die Operation, 
+welche durch $X$ dargestellt wird, kommt also der Theilung und
+Vervielfachung, welche in $\frac{M}{N}$ ausgedrückt ist, im Resultat
+so nahe als man will, ohne jedoch je mit ihr zusammenzufallen. Da $Xb$ 
+als eine, mit $\frac{M}{N}b$ verwandte Operation erscheint, so nennt man $X$ 
+ebenfalls eine Zahl, eine <dfn>irrationale</dfn>, für welche in unserem 
+Systeme kein Zeichen vorhanden ist, und welche eben nur durch 
+$X = \frac{a}{b}$ bezeichnet werden kann. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Ausser dieser Aufgabe, der Division incommensurabler Grössen, gibt es
+noch eine unbegrenzte Anzahl anderer, z. B. Wurzelausziehungen,
+Grenzwerthe von unendlichen Summen, Producten, Kettenbrüchen u.s.w.,
+welche in unserem Systeme der rationalen Zahlen einer Lösung nicht
+fähig sind. Wenn es aber rationale Zahlen gibt, welche der gestellten
+Forderung behebig genau genügen, so wird man die Aufgabe als durch
+eine irrationale Zahl
+<a lang="de" class="origpage" id="S.59" title="Seite 59"></a>
+lösbar ansehen, der an der zu Grunde gelegten Einheit eine Operation
+entspricht, welche Theilungen und Vervielfältigungen wenigstens
+verwandt ist.
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.59" title="Page 59"></a>
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Das Princip der Permanenz wird uns hier sofort die Bedeutung der
+Summe, des Productes von irrationalen Zahlen mit um so grösserer
+Leichtigkeit geben, als das Resultat der Verknüpfung von irrationalen
+Zahlen unter einander oder mit rationalen, dem Resultate der
+entsprechenden Verknüpfung beliebig naher rationaler Zahlen auch immer
+beliebig nahe kommen muss. Eine einfache Exhaustionsmethode, bei deren
+Ausführung wir hier nicht zu verweilen brauchen, gibt dann den Satz,
+dass <em>für irrationale Zahlen genau dieselben Operationsregeln als
+für rationale gelten</em>. Somit ist mit einem Schlage die in
+[§. 12](#pz12) gelassene Lücke ergänzt.
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Die rationalen Zahlen im Verein mit den zwischen sie interpolirten und
+ihre Reihe zu einer stetigen vervollständigenden irrationalen nennt man
+die reellen Zahlen. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="text-small">
+<div class="parallel">
+<p lang="de">
+Die von einer irrationalen Zahl geforderte Operation kann als möglich
+gedacht werden, wenn das System der gleichartigen Grössen, mit dem wir
+operiren, ein stetiges ist. Dann wird es eine Reihe von
+Zahlenoperationen geben, welche, so lange sie noch nicht in's
+unendliche fortgesetzt ist, immer noch von der verlangten abweicht,
+aber ihr immer und unbegrenzt näher kommt. Die verlangte Operation
+kann dann durch die ideale Vollendung einer unendlichen Reihe von
+Zahlenoperationen ausgeführt gesetzt werden. Insofern nun eine solche
+unendliche Fortsetzung eben in ihrer Vollendung unfassbar ist, und
+jederzeit auf einen Widerspruch führt, müssen wir behaupten, dass die
+irrationalen Zahlen unmöglich sind, so lange nicht ein Mittel gefunden
+ist, solche auf andere Weise als durch Theilung und Vervielfachung und
+überhaupt durch <em>Zahlenoperationen</em> darzustellen. Ein solches
+Mittel bietet nun die Geometrie in ihren von jedem Zahlbegriff
+unabhängigen <em>Grössenoperationen</em> dar, aber nur indem sie den
+Begriff des Stetigen, in dem eben jener Widerspruch versteckt ist, als
+einen gegebenen ansieht[.]{.corrected} Das reine, von jeder Anschauung
+losgelöste Denken kann das Unendliche nicht erfassen, die formale
+Zahlenlehre nicht das Irrationale. Die Anschauung aber bedarf des
+Stetigen: Die Geometrie beweist die <em>Existenz</em> des
+Irrationalen.
+</p>
+<p lang="en">
+The [operation]{.origphrase title="Operation"} postulated from an
+irrational number can be conceived as possible if the homogeneous
+system of magnitudes with which we are
+[operating]{.origphrase title="operiren"} is a continuous one.
+Then there will be a series of
+[number operations]{.origphrase title="Zahlenoptionen"} which, so long
+as it is not continued into the infinite, will always deviate from the
+one required, but comes closer to it without limit. The required
+operation can then be supposed to be carried out through the ideal
+completion of an infinite series of number operations. Now insofar as
+such an infinite continuation in its completeness is
+[inconceivable]{.origphrase title="unfassbar"} and leads every time to
+a contradiction, we must claim that the irrational numbers are
+impossible, as long as no means has been found to present them in any
+other way than through [division]{.origphrase title="Theilen"} and
+[multiplication]{.origphrase title="Vervielfachung"} and through
+<em>number operations</em> in general. Geometry presents such a means
+in its <em>magnitude operations</em>, which are independent of every
+concept of number, but only by looking at the concept of continuity,
+in which that very contradiction is hidden, as a given. Pure thought,
+detached from every intuition, cannot grasp the infinite; the formal
+theory of numbers cannot grasp the irrational. Intuition however
+requires the continuous: geometry proves the <em>existence</em> of the
+irrational.
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Während wir die rationalen Zahlen auf eine gesetzmässige Weise aus
+einer Einheit durch Vervielfachen und Theilen bilden, sie dem
+entsprechend principmässig bezeichnen und aus einer geringen Anzahl
+von Zeichen (im dekadischen Zahlensysteme von 10) zusammensetzen
+konnten, so können die irrationalen Zahlen durch ein solches Verfahren
+nicht, sondern nur durch ein
+<a lang="de" class="origpage" id="S.60" title="Seite 60"></a>
+stetiges Operiren an der Einheit gewinnen werden und entziehen sich
+daher, weil sie nicht discret zum Bewusstsein kommen, einer solchen
+<em>systematischen Bezeichnung mit Nothwendigkeit</em>. Nur gewisse
+Klassen von irrationalen Zahlen, z. B. $\sqrt{2}, \sqrt[3]{5},
+\sqrt{2 + \sqrt{2}}, \ldots$ welche in einfachen Beziehungen zu
+rationalen stehen, können wieder nach einem bestimmten Princip
+bezeichnet werden. Im Allgemeinen wird man sich irgend welcher Zeichen
+für irrationale Zahlen bedienen müssen; für gewisse Irrationalen hat
+man in $\pi, e,$ u.s.w. recipirte Zeichen, die erst ihre Bedeutung
+erhalten, indem man z. B. $e$ durch die unendliche Reihe: 
+$$
+e = 1 + \frac{1}{1} + \frac{1}{2} + \frac{1}{2\cdot 3} +
+    \frac{1}{2\cdot 3\cdot 4} + \ldots
+$$
+definirt. Der Begriff der unendlichen Reihe, überhaupt der Grenze,
+ist, nachdem wir den Begriff der Grösse eingeführt haben, welche schon
+eine vollendete an sich ist, und nicht erst durch diesen
+Summationsprocess erzeugt werden soll, nicht mehr unzulässig.
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.60" title="Page 60"></a>
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Die Alten haben die Schwierigkeit, welche es hat, von discreten
+Grössen und deren begrifflichem Ausdruck, den Zahlen als <q>einer aus
+Einheiten bestehenden Menge</q> (deren Eigenschaften im VI.--IX. Buche
+von [Euklid]{.sc}'s Elementen behandelt sind) zu den stetigen Grössen,
+welche in einer dem transscendentalen Schema des Extensiven vollkommen
+adäquaten geometrischen Form und mit besonderer Rücksicht auf
+geometrische Grössen, im V. und X. Buche der Elemente behandelt sind,
+überzugehen, für so gross gehalten, dass sie das Irrationale dem
+Zahlbegriff gar nicht unterordneten, vielmehr ausdrücklich
+behaupteten: <q>Incommensurable Grössen verhalten sich nicht wie
+Zahlen zu einander</q> ([Euklid]{.sc}'s Elem. X, 7, vergl. S. 65). Die
+Aufhebung dieser Beschränkung des Zahlbegriffes, die den Alten
+unmöglich schien, seit dem 16. Jahrhundert aber mit grosser, ja man
+kann wohl sagen, allzugrosser Leichtigkeit und ohne allen Widerstand
+durchgeführt wurde, hat die Functionenlehre und damit die ganze neuere
+Mathematik möglich gemacht und deren Charakter bestimmt. Wenn es wahr
+ist, dass, wie [Whewell]{.sc} meint, das Wesen der Triumphe der
+Wissenschaft und ihres Fortschrittes darin besteht, dass wir
+veranlasst werden, Ansichten, welche unsere Vorfahren für
+unbegreiflich hielten und unfähig waren zu begreifen, für evident und
+nothwendig zu halten, so war die Erweiterung des Zahlenbegriffes auf
+das Irrationale, und wollen wir sogleich hinzufügen, das Imaginäre,
+der grösste Fortschritt, den die reine Mathematik jemals gemacht hat.
+</p>
+<p lang="en">...</p>
+</div>
+</div> <!-- .text-small -->
+
+
 ### [§17. Die negativen Zahlen in der allgemeinen Grössenlehre]{lang="de"} [§17. The negative numbers in the general theory of magnitude]{lang="en"} {#pz17 .pz}
 
 ### [§18. Das Operationssystem der Euklid'schen Geometrie]{lang="de"} [§18. The system of operations of Euclidean geometry]{lang="en"} {#pz18 .pz}
