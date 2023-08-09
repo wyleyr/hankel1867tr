@@ -166,7 +166,7 @@ wenn sich ihr erstes Glied ändert, ebenso leicht ableiten:
 <div class="parallel">
 <p lang="de">
 <a lang="de" class="origpage" id="S.20" title="Seite 20"></a>
-Angenommen nämlich, es wäre $\lambda(a,b)$ vieldeutig, d. h. es gäbe 
+Angenommen nämlich, es wäre $\lambda(a,b)$ vieldeutig, d.\ h.\ es gäbe 
 mehrere unter einander verschiedene Objecte, welche $\lambda(a,b)$ in den 
 Formeln vertreten könnten, so seien $c, c'$ zwei solche; dann wäre: 
 $$
@@ -251,7 +251,7 @@ wie schon gezeigt, die andere Gleichung:
 \lambda\{\Theta(a,b),b\} = a
 \end{equation}
 </span>
-Wir setzen ferner die <dfn>associative</dfn> Eigenschaft voraus, d. h. dass: 
+Wir setzen ferner die <dfn>associative</dfn> Eigenschaft voraus, d.\ h.\ dass: 
 <span class="numbered" id="S.21eq3" data-label="3">
 \begin{equation}
 \Theta[a, \Theta(b,c)] = \Theta[\Theta(a,b), c]
@@ -273,7 +273,7 @@ $$
 $$
 schreiben darf, womit man ausdrückt, dass man immer, und in 
 ganz beliebiger Weise zwei aufeinanderfolgende Objecte paarweise 
-thetisch zu verbinden hat; dann wieder zwei solche u.s.f. Gilt 
+thetisch zu verbinden hat; dann wieder zwei solche u.\ s.\ f. Gilt 
 also das associative Princip bei 3 Gliedern, so gilt es auch bei 4 
 und überhaupt allgemein. 
 </p>
@@ -286,7 +286,7 @@ und überhaupt allgemein.
 <p lang="de">
 Als Beispiele durchaus eindeutiger Thesen, welche associativ sind, können 
 die Addition und Multiplication dienen. Als Beispiele solcher, welche es nicht 
-sind, z.B. $\Theta(a,b) = \frac{a+b}{2}$; denn dann ist
+sind, z.\ B. $\Theta(a,b) = \frac{a+b}{2}$; denn dann ist
 $\Theta(\Theta(a,b),c) = \Theta\left(\frac{a+b}{2},c\right) = \frac{a+b+2c}{4}$;
 $\Theta(a,\Theta(b,c)) = \Theta\left(a, \frac{b+c}{2}\right) = \frac{4a+b+c}{2}.$
 </p>
@@ -633,7 +633,7 @@ $$
 \Theta(a, b) = \Theta(b, a). 
 $$
 Die anderen Formen, welche man dadurch den Gleichungen des 
-vorigen §. geben kann, indem man z. B. statt [(1)](#S.18eq1){.eqref}
+vorigen §. geben kann, indem man z.\ B. statt [(1)](#S.18eq1){.eqref}
 und [(2)](#S.19eq2){.eqref} 
 <span class="numbered" id="S.25eq1*" data-label="1*">
 \begin{equation}
@@ -683,7 +683,7 @@ festgehalten werden soll.
 <div class="parallel">
 <p lang="de">
 Wir haben im Vorstehenden überall die unbeschränkte Ausführbarkeit
-aller Operationen vorausgesetzt, d. h. angenommen, dass es in dem
+aller Operationen vorausgesetzt, d.\ h.\ angenommen, dass es in dem
 betrachteten Gebiete von Objecten jedesmal ein Object gibt, welches
 als Resultat der Operation angesehen werden kann, und insofern mit den
 in die Operation eingehenden Objecten gleichartig ist, als es mit
@@ -877,7 +877,7 @@ ist nach [(1)](#S.26eq1){.eqref}
 \lambda[\Theta(a,x), \Theta(b,x)] = \Theta[\lambda(a,b),\lambda(x,x)] = \lambda(a,b)
 \end{equation}
 </span>
-und daher z. B. 
+und daher z.\ B. 
 <span class="numbered" id="S.27eq3" data-label="3">
 \begin{equation}
 \lambda[\Theta(a,c,d), \Theta(b,c,d)] =  \lambda(a,b).

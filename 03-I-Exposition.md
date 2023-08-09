@@ -102,7 +102,7 @@ $$ a + (b + c) = (a + b) + c = a + b + c $$
 $$ a + b = b + a $$
 unterliegen, von denen das erste als das der <dfn>Associativität</dfn>, 
 das zweite als das der <dfn>Commutativität</dfn> bezeichnet wird. Die 
-Addition ist eine eindeutige Operation, d. h. das Resultat der Addition 
+Addition ist eine eindeutige Operation, d.\ h.\ das Resultat der Addition 
 $(a + b)$ ist ein bestimmtes; sie hat ferner die Eigenschaft, dass 
 wenn ein Summand seinen Werth ändert, während der andere constant bleibt,
 dann sich jedesmal das Resultat der Operation ändert. 
@@ -198,7 +198,7 @@ Diese Namen sind in England seit 1840 vollkommen eingebürgert und
 ich habe daher nicht Anstand genommen, sie auch auf deutschen Boden zu
 verpflanzen; <q>distributiv</q> und <q>commutativ</q> sind von [Servois]{.sc} eingeführt 
 worden ([Gergonne]{.sc}'s Ann. Bd. V. 1814, S. 93), <q>associativ</q> wahrscheinlich 
-zuerst von Sir W. R. [Hamilton]{.sc}. 
+zuerst von Sir W.\ R.\ [Hamilton]{.sc}. 
 </p>
 <p lang="en" id="p.3n2">\*\*)
 ...
@@ -351,9 +351,9 @@ Vorausssetzung nur da Statt, wo [nicht Substanzen]{.text-sperren} (für sich den
 Gegenstände) sondern [Relationen zwischen je zweien Gegenständen]{.text-sperren} das
 Gezählte sind. Postulirt wird dabei, dass diese Gegenstände auf eine
 <a lang="de" class="origpage" id="S.6" title="Seite 6"></a>
-bestimmte Art in eine Reihe geordnet sind, z.B. $A$, $B$, $C$,
+bestimmte Art in eine Reihe geordnet sind, z.\ B. $A$, $B$, $C$,
 $D$..., und dass die Relation des $A$ zu $B$ als der Relation
-des $B$ zu $C$ u.s.w., gleich betrachtet werden kann. Hier gehört
+des $B$ zu $C$ u.\ s.\ w., gleich betrachtet werden kann. Hier gehört
 nun zu dem Begriff der Entgegensetzung nichts weiter als der <em>Umtausch</em>
 der Glieder der Relation, so dass wenn die Relation (oder der
 Uebergang von $A$ zu $B$) als $+1$ gilt, die Relation von $B$
@@ -644,7 +644,7 @@ auftreten, kann in vielen Fällen eine actuelle Bedeutung beigelegt
 werden.
 Denkt man sich nämlich die Einheit $+1$ als in $a$ Theile zerlegbar,
 deren einer $\frac{1}{a}$ ist, so kann der reale Begriff der
-Multiplication, wie er früher für ganze Zahlen, d. h. für wirkliche
+Multiplication, wie er früher für ganze Zahlen, d.\ h.\ für wirkliche
 gesetzte Objecte gegeben war, auf diese neuen Objecte auch angewandt
 werden und man kann unter
 <a lang="de" class="origpage" id="S.9" title="Seite 9"></a>
@@ -802,7 +802,7 @@ Die gemeine Arithmetik,
 die wesentlich mit einfachen gleichartigen Grössen operirt, und sich 
 als arithmetica numerosa der concreten Zahlzeichen oder auch als 
 arithmetica universalis oder speciosa concret allgemeiner Zeichen 
-(species nach [Vieta]{.sc}) z. B. der Buchstaben bedient, hat uns
+(species nach [Vieta]{.sc}) z.\ B. der Buchstaben bedient, hat uns
 vorstehends ein System von Regeln kennen gelehrt, welche in der 
 That den verlangten Charakter der vollkommenen Independenz 
 unter einander haben. Diese werden wir zum Leitfaden nehmen 
@@ -983,9 +983,9 @@ Wir haben bisher nur von dem Beharren der <em>arithmetischen</em>
 Formeln gesprochen. Doch müssen wir hier schon aufmerksam machen auf
 den allgemeinen Werth, den das Princip der Permanenz formaler Gesetze
 als ein methodologisches für die ganze Mathematik hat: Ist ein
-complexes Zahlensystem, z.B. das gemeine gegeben, dessen Zahlen $a =
+complexes Zahlensystem, z.\ B. das gemeine gegeben, dessen Zahlen $a =
 A + Bi$ sind, so kann man innerhalb desselben gewisse Operationen
-vornehmen, z. B. $aa, aaa, aaaa, \ldots$ die man mit $a^2, a^3, a^4\ldots$
+vornehmen, z.\ B. $aa, aaa, aaaa, \ldots$ die man mit $a^2, a^3, a^4\ldots$
 bezeichnet, wo dann, so lange $M, N$ ganze positive Zahlen sind, die
 Gleichung
 $$ a^Ma^N = a^{M+N} $$
@@ -1008,7 +1008,7 @@ complexen Exponenten erhob.
 In ähnlicher Weise ist man neuerdings von der entsprechenden Gleichung
 aus zur Aufstellung des Begriffes negativer, gebrochener
 Differentiationen gelangt; andere Operationen, welche zunächst auch
-nur für ganzzahlige Veränderliche Bedeutung zu haben schienen, z. B.
+nur für ganzzahlige Veränderliche Bedeutung zu haben schienen, z.\ B.
 die numerischen Facultäten, sind von anderen Gleichungen aus erweitert
 worden. Immer ist die Permanenz formaler Gesetze der leitende
 Grundsatz; die Erfindung ist überall nur insofern selbstständig, als
@@ -1114,7 +1114,7 @@ denn (S. 175) wiederum ausdrücklich erklärt: <q lang="fr">L'équation
 $$ \cos(a+b) + \sqrt{-1}\sin(a+b) =
  (\cos a + \sqrt{-1}\sin a)(\cos b + \sqrt{-1}\sin b) $$
 elle-même, prise à la lettre, se trouve inexacte et n'a pas de
-sens</q> u.s.w.
+sens</q> u.\ s.\ w.
 </p>
 <p lang="en">
 Should one undertake to give a critique of this bit of reasoning,
@@ -1154,7 +1154,7 @@ etait une quantite réelle dont le carré fût égal à $-1$.</q> (S. 174)
 <q lang="fr" cite="https://archive.org/details/coursdanalysedel00cauc/page/176/mode/2up">Les
 expressions imaginaires peuvent être soumises, aussi bienque les
 quantités réelles aux diverses Operations de l'algèbre</q> (S. 177)
-u.s.w. Ob dies aber willkührlich, oder nothwendig, und ob es erlaubt
+u.\ s.\ w. Ob dies aber willkührlich, oder nothwendig, und ob es erlaubt
 ist, darüber erfährt man nichts. Eben so oberflächlich als hier das
 Imaginäre behandelt [Cauchy]{.sc} das Negative in der ersten Note der
 Analyse algébrique.
@@ -1216,8 +1216,8 @@ Abhandlungen von [Augustus de Morgan]{.sc}
 [III][deMorganIV], 1847). Ueberhaupt ist mir von der zahlreichen
 Literatur, welche eine von [Peacock]{.sc} ausgehende Cambridger Schule
 über die von ihnen sogenannte <q>symbolische Algebra</q>
-hervorgebracht hat, nur noch eine kurze Abhandlung von [D. F.
-Gregory]{.sc} <cite class="quoted" lang="en">On the Real Nature of
+hervorgebracht hat, nur noch eine kurze Abhandlung von [D.\ F.\ Gregory]{.sc}
+<cite class="quoted" lang="en">On the Real Nature of
 Symbolical Algebra</cite> ([Trans. Roy. Soc. Edinburgh. Vol. XIV][Gregory1840],
 1840, S. 208) zugänglich gewesen.
 </p>
@@ -1376,7 +1376,7 @@ ihm die Wissenschaft von der <em>reinen</em> Zeit.
 <p lang="de">
 Gelangt er so zu den Begriffen der reellen Zahlen und ihrer
 Verknüpfungen, so geht er dann zu Paaren, Ternionen, Quaternionen
-u.s.w. solcher Zahlen über und hat deren formale Verknüpfungen und die
+u.\ s.\ w. solcher Zahlen über und hat deren formale Verknüpfungen und die
 verschiedenen dabei vorhandenen Möglichkeiten ausführlich untersucht
 (s. Vorrede zu den Lectures S. 8--30). Die Auffindung von
 entsprechenden Verknüpfungen räumlicher Gebilde hat ihn auf seine

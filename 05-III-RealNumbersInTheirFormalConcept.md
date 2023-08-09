@@ -11,10 +11,10 @@
 <div class="parallel">
 <p lang="de">
 Bisher sind Objecte verbunden worden, die Resultate ihrer 
-Verbindung mit neuen Zeichen versehen u. s. f., aber ohne dass 
+Verbindung mit neuen Zeichen versehen u.\ s.\ f., aber ohne dass 
 in der Bezeichnung ein bestimmter Plan verfolgt worden wäre. 
 Es leuchtet ein, dass dabei eine eigentliche Ausführung der Rechnungsöperationen,
-d. h. eine Darstellung des Resultates durch 
+d.\ h.\ eine Darstellung des Resultates durch 
 neue, zusammenfassende Zeichen nicht möglich ist. Eine solche 
 wird erst dann möglich werden, wenn man auf eine consequente 
 Weise sich ein Zeichensystem verschafft, so dass man das Resultat
@@ -24,7 +24,7 @@ indem man von gewissen Elementen, den Einheiten ausgeht, diese auf
 alle mögliche Weise durch gewisse Operationen verbindet und die 
 Resultate dieser Operationen mit neuen Zeichen signirt. Diese 
 neuen Zeichen werden dann nach vorstehenden Regeln wiederum 
-zu verknüpfen sein und zu neuen Zeichen Veranlassung geben u. s. f. 
+zu verknüpfen sein und zu neuen Zeichen Veranlassung geben u.\ s.\ f. 
 Fährt man so fort, bis man zu neuen Zeichen nicht mehr gelangt, 
 also die Resultate der neuen Operationen durch die schon vorhandenen
 jedesmal ausgedrückt werden können, so nennt man die gebildete
@@ -211,7 +211,7 @@ A + (B + 1) = (A + B) + 1
 <p lang="de">
 Auf diesem Wege findet man durch ein recurrirendes Verfahren, welches 
 ohne alle Anschauung, rein mechanisch vor sich geht, unzweideutig jede Summe 
-zweier Zahlen, um z. B. $(7 + 5)$ zu finden, haben wir 
+zweier Zahlen, um z.\ B. $(7 + 5)$ zu finden, haben wir 
 $$
 7 + 5 = 7 + (4 + 1) = (7 + 4) + 1 
 $$
@@ -396,7 +396,7 @@ also $A\cdot 2 = A + A$, und es ist $A\cdot 2$ bestimmt, da die Addition
 eine bestimmt ausführbare Operation ist. Ferner ist 
 <a lang="de" class="origpage" id="S.39" title="Seite 39"></a>
 $A(2 + 1) = A\cdot 2 + A$ also $A\cdot 3 = A\cdot 2 + A$,
-und ebenfalls bestimmt u.s.f. 
+und ebenfalls bestimmt u.\ s.\ f. 
 Das Product ist eindeutig und ändert seinen Werth, wenn ihn der 
 eine Factor ändert, während der andere constant bleibt. 
 </p>
@@ -1051,7 +1051,7 @@ Es fragt sich, ob das Zahlensystem, das wir geschaffen haben,
 vollständig ist oder nicht. Gewiss ist es insofern vollständig, als es 
 keine Aufgaben aus den 4 Species gibt, welche nicht durch ein Zeichen
 desselben gelöst werden können. Andererseits aber gibt es 
-Aufgaben, welche ihre Lösung in ihm nicht finden, z. B. wenn die 
+Aufgaben, welche ihre Lösung in ihm nicht finden, z.\ B. wenn die 
 Zahl $x$ gesucht wird, so dass $xx = 2$, so wird keine passende Zahl 
 gefunden werden können, ebensowenig, wenn $xx = -1$ sein soll. 
 </p>
@@ -1070,9 +1070,9 @@ für jene möglichen oder unmöglichen Realen. Wir bezeichnen die
 <a lang="de" class="origpage" id="S.46" title="Seite 46"></a>
 Lösung der Gleichung $xx = A$ mit $x = \sqrt{A}$, und nennen sie eine 
 <dfn>irrationale</dfn> Zahl. Es ist dann fraglich, was die Multiplication
-bedeute, d. h. welchen formalen Gesetzen sie genüge. Da eben nur 
+bedeute, d.\ h.\ welchen formalen Gesetzen sie genüge. Da eben nur 
 in dem Falle $\sqrt{A}\sqrt{A} = A$ die Bedeutung des Productes bestimmt 
-ist, so steht es in unserer Willkühr, welche Gesetze wir z. B. der 
+ist, so steht es in unserer Willkühr, welche Gesetze wir z.\ B. der 
 Verknüpfung $B\sqrt{A}$ unterlegen wollen, für welche in unserer
 bisherigen Reihe ein Zeichen im Allgemeinen nicht vorhanden ist. Das 
 Princip der Permanenz formaler Gesetze würde uns bei der Festsetzung der
@@ -1097,7 +1097,7 @@ wiederum neue Zeichen gegeben werden müssen, ferner nach den Gesetzen
 der Verbindung aller dieser neuen Zeichen von Irrationalitäten
 untereinander, welche möglicherweise Zahlen aus der oben gebildeten
 Reihe der positiven und negativen ganzen und gebrochenen Zahlen
-ergeben können u.s.w. Es ist klar: Man wird verzichten müssen, alle
+ergeben können u.\ s.\ w. Es ist klar: Man wird verzichten müssen, alle
 Aufgaben, welche die Einführung neuer Zeichen erfordern würden,
 vollständig und erschöpfend zu betrachten; man würde sich in ein
 ungeheures Labyrinth verirren, wenn man den bisherigen Gesichtspunkt
@@ -1105,7 +1105,7 @@ der rein formalen Zahlenbildung ausschliesslich festhalten wollte. Es
 stellt sich vielmehr das Bedürfniss ein, den elementaren formalen
 Verknüpfungen der Zahlen eine actuelle Bedeutung unterzulegen, um zu
 sehen, ob es irgend etwas Reales gebe, welches der Auflösung der
-Gleichungen $xx = A$ u.s.f. entsprechen könne.
+Gleichungen $xx = A$ u.\ s.\ f. entsprechen könne.
 </p>
 <p lang="en">...</p>
 </div>

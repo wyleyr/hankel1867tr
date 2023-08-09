@@ -111,7 +111,7 @@ a + b = b + a.
 Denkt man sich ein Object $e$, eine Grösse, einmal gesetzt und 
 bezeichnet dies durch $1e$; dann dasselbe noch einmal gesetzt und 
 mit dem ersten vereinigt, so nennt man das resultirende Object $2e$, 
-vereinigt man damit $e$ noch einmal und nennt dies $3e$ u.s.f., so 
+vereinigt man damit $e$ noch einmal und nennt dies $3e$ u.\ s.\ f., so 
 erhält man die Reihe 
 $$
 1e + 1e = 2e, 2e + 1e = 3e, 3e + 1e = 4e 
@@ -306,7 +306,7 @@ afficirt zu werden --- oder ob sie, wie [Stuart Mill]{.sc} meint,
 <q>physikalische Thatsachen, Resultate der Erfahrung und Beobachtung
 sind, welche auf einer Induction per enumerationem simplicem, auf der
 Thatsache beruhen, das sie immerwährend wahr und kein einzigesmal
-falsch befunden worden sind.</q> (S. a. a. O. hauptsächlich das IV.,
+falsch befunden worden sind.</q> (S.\ a.\ a.\ O. hauptsächlich das IV.,
 V., VI., XXIV. Capitel.)
 </p>
 <p lang="en">
@@ -451,7 +451,7 @@ deren Unterschied von jenen [Kant]{.sc} wohl bemerkt hat. <q>Einige
 wenige Grundsätze, welche die Geometer voraussetzen, sind zwar
 wirklich analytisch und beruhen auf dem Satze des Widerspruchs; sie
 dienen aber auch nur, wie identische Sätze, zur Kette der Methode und
-nicht als Principien, z. B. der 9. Grundsatz. Und doch auch diese
+nicht als Principien, z.\ B. der 9. Grundsatz. Und doch auch diese
 selbst, ob sie gleich nach blossen Begriffen gelten, werden in der
 Mathematik nur darum zugelassen, weil sie in der Anschauung können
 dargestellt werden</q> (S. 704, vergl. auch S. 143); und in voller
@@ -466,7 +466,7 @@ Aufeinanderlegen bewiesen werden... Es gibt indessen auf der Liste der
 Axiome zwei oder drei fundamentale Wahrheiten, welche nicht
 demonstrirt werden können; hieher
 <a lang="de" class="origpage" id="S.53" title="Seite 53"></a>
-gehört der Satz 10, 11...</q> (a. a. O. V, §. 3). <q>Wie andere
+gehört der Satz 10, 11...</q> (a.\ a.\ O. V, §. 3). <q>Wie andere
 sogenannte Definitionen, so sind dieselben aus zwei Dingen
 zusammengesetzt, aus der Erklärung des Namens und aus der Behauptung
 einer Thatsache, wovon die letzte allein ein erstes Princip oder eine
@@ -503,7 +503,7 @@ Vorstellung von 7, noch von 5, noch in der Vorstellung von der
 Zusammensetzung beider die Zahl 12. ... Ob er aber gleich synthetisch
 ist, so ist er doch nur ein einzelner Satz. ... Dergleichen Sätze muss
 man also nicht Axiome (denn sonst gäbe es deren unendlich viele),
-sondern Zahlformeln nennen</q> (a. a. O. 144). Er belehrt uns dann
+sondern Zahlformeln nennen</q> (a.\ a.\ O. 144). Er belehrt uns dann
 weiter, <q>dass man über die Begriffe von 5 und 7 hinausgehen müsse,
 indem man die Anschauung zu Hilfe nimmt, etwa seine 5 Finger und so
 nach und nach die Einheiten der in der Anschauung gegebenen 5 zu dem
@@ -571,7 +571,7 @@ entire proud structure to the ground!
 
 <div class="parallel">
 <p lang="de">
-Auch bei [Stuart Mill]{.sc} (a. a. O. XXIV, §. 5) <q>ist die in der Definition 
+Auch bei [Stuart Mill]{.sc} (a.\ a.\ O. XXIV, §. 5) <q>ist die in der Definition 
 einer Zahl behauptete Thatsache, eine physikalische Thatsache. ... Wenn 
 wir sagen, dass $12^3 = 1728$, so behaupten wir, dass, wenn wir im Besitz einer 
 hinreichenden Anzahl von Kieseln oder von anderen Gegenständen sind, und 
@@ -623,7 +623,7 @@ Als Grundsatz bei der Addition ist angenommen worden
 <div class="parallel">
 <p lang="de">
 
-1<!-- -->) $a + (b + c) = (a + b) + c$, d. h.: Wenn $a, b, c$ drei
+1<!-- -->) $a + (b + c) = (a + b) + c$, d.\ h.: Wenn $a, b, c$ drei
 Grössen sind, so erhält man dasselbe Resultat, ob man zu $a$ die durch
 Vereinigung von $b$ und $c$ hervorgehende Grösse $(b + c)$ addirt, oder
 zu $a$ erst $b$ und dann zu dieser vereinigten Grösse $(a + b)$ die Grösse
@@ -634,7 +634,7 @@ $c$.
 
 <div class="parallel">
 <p lang="de">
-2<!-- -->) $a + b = b + a$, d. h.: Man erhält dasselbe Resultat, mag man
+2<!-- -->) $a + b = b + a$, d.\ h.: Man erhält dasselbe Resultat, mag man
 $b$ zu $a$ oder $a$ zu $b$ hinzufügen. 
 </p>
 <p lang="en">...</p>
@@ -694,7 +694,7 @@ principles.
 <p lang="de">
 Was nun die Multiplication von Zahlen in der Grössenlehre und insofern 
 sie ein Vervielfachen bezeichnen, angeht, so erfordert sie den Satz
-$A(Be) = (AB)e$; d. h. wenn $b = Be$, $a = Ab$ und $b' = Be'$, $a = Ab'$
+$A(Be) = (AB)e$; d.\ h.\ wenn $b = Be$, $a = Ab$ und $b' = Be'$, $a = Ab'$
 so ist $a$ dasselbe Vielfache von $e$ als $a'$ von $e'$.
 Dies beweist [Euklid]{.sc} V, 3, indem er dabei den Satz benutzt: 
 </p>
@@ -742,7 +742,7 @@ derselben nicht vermehrt werden, da man mit ihrer Hilfe die
 [Euklid]{.sc}'schen Axiome 1--9 theilweise aufeinander reduciren
 kann, was ohne sie aber nicht,
 <a lang="de" class="origpage" id="S.56" title="Seite 56"></a>
-wie man zuweilen gemeint hat (s. z. B. [Mill]{.sc}, a. a. O. XXIV, §. 5),
+wie man zuweilen gemeint hat (s. z.\ B. [Mill]{.sc}, a.\ a.\ O. XXIV, §. 5),
 möglich ist. 
 </p>
 <p lang="en">...

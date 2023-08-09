@@ -75,7 +75,7 @@ complexen Zahlen, zum factischen Beweise der Möglichkeit von Zahlen,
 deren Einheiten nicht allen Gesetzen der <q>arithmetica
 universalis</q>[\*)](#S.VIn1){#S.VIn1ref .fnref} folgen, wenigstens einige
 abweichende Zahlensysteme zu behandeln. Ich habe deshalb im VIII. und
-IX. Abschnitt die Theorie der Quaternionen Sir W. R. [Hamilton]{.sc}'s,
+IX. Abschnitt die Theorie der Quaternionen Sir W.\ R.\ [Hamilton]{.sc}'s,
 die in England allgemein bekannt und gebraucht, in Deutschland aber
 bisher fast ganz unbekannt geblieben sind, dargestellt, und glaubte mich
 dabei nicht nur auf das für den angezogenen Zweck nöthigste beschränken
@@ -256,15 +256,15 @@ angewandt hat. Diese Principien geben den Formeln und Sätzen eine von
 allen speciellen Lagen-Verhältnissen durchaus unabhängige und deshalb
 höchst elegante Gestalt, die man, einmal an sie gewöhnt, nur sehr ungern
 vermisst. Man muss es bedauern, dass dieselben noch so wenig allgemeine
-Verbreitung gefunden haben, wie denn z. B. [Hamilton]{.sc}'s Schriften
+Verbreitung gefunden haben, wie denn z.\ B. [Hamilton]{.sc}'s Schriften
 über die Quaternionen (s. unten [S. 195](#S.195)) in der älteren Form
 geschrieben sind. Dass in dieser manche Untersuchungen völlig
 ungeniessbar werden können; davon dürfte die Darstellung
 [Hamilton]{.sc}'s an nicht wenigen Stellen seiner
 <cite class="quoted">Lectures</cite>
-(z. B. [S. 218][Hamilton1853p218] u. ff.) ein eindringliches Beispiel sein.
+(z.\ B. [S. 218][Hamilton1853p218] u. ff.) ein eindringliches Beispiel sein.
 Diejenigen Leser, welche mit
-der [Möbius]{.sc}'schen Form der sphärischen Trigonometrie u. s. w.
+der [Möbius]{.sc}'schen Form der sphärischen Trigonometrie u.\ s.\ w.
 nicht völlig vertraut sind, verweise ich auf die
 [<cite class="quoted">Elemente der Mathematik</cite>][Baltzer1870]
 von R. [Baltzer]{.sc}. ---
@@ -283,7 +283,7 @@ von R. [Baltzer]{.sc}. ---
 <p lang="de">
 In dem vorliegenden I. Theile habe ich mich auf die Entwickelung
 der Grundeigenschaften der verschiedenen Zahlensysteme beschränkt,
-d. h. auf die vier Fundamentaloperationen 
+d.\ h.\ auf die vier Fundamentaloperationen 
 der Addition, Subtraction, Multiplication und Division, die zur 
 <a lang="de" class="origpage" id="S.IX" title="Seite IX"></a>
 vollständigen Charakterisirung des Wesens jener Systeme nothwendig
@@ -304,7 +304,7 @@ Grundbegriffe streng und eingehend zu begründen, soweit dies bei dem
 heutigen Stande der Wissenschaft möglich sein wird. Ich werde mich fast
 ausschliesslich auf die Functionen gemeiner complexer Veränderlicher
 beschränken und ausser den Grundlehren, dem [Dirichlet]{.sc}'schen
-Principe, dem [Taylor]{.sc}'schen Satze u. s. w., besonders die Theorie
+Principe, dem [Taylor]{.sc}'schen Satze u.\ s.\ w., besonders die Theorie
 der Integrale mit complexen Integrationswegen, die hypergeometrische
 Reihe, die elliptischen und, soweit es der Raum gestattet, die
 [Abel]{.sc}'schen Functionen behandeln. Doch wird auch die Theorie der
