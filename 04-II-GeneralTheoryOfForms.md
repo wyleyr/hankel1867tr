@@ -194,7 +194,7 @@ $\Theta(a,b) = ab$ so ist $\lambda(a,b) = \frac{a}{b}$. Da erstere
 Operation, wenn $a, b$ gemeine Zahlen sind, eindeutig ist und sich im
 Allgemeinen das Product ändert, wenn sich ein Factor ändert, so hat
 auch $\frac{a}{b}$ dieselben Eigenschaften. Da aber das Product diese
-Eigenschaft nicht hat, wenn $b = 0$, indem $a . 0 = 0$, $a' . 0 = 0$,
+Eigenschaft nicht hat, wenn $b = 0$, indem $a \cdot 0 = 0$, $a' \cdot 0 = 0$,
 so ist auch die umgekehrte Operation nämlich $\frac{a}{0}$ nicht
 eindeutig.
 </p>
@@ -1130,7 +1130,7 @@ Glieder sehr leicht ergeben, hier nicht weiter anführen.
 <p lang="de">
 Wird eine neue associative, im Allgemeinen vollkommen eindeutige
 Operation, die Multiplication und ihre Lysis, die Division durch die
-Zeichen $a.b$ und $\frac{a}{b}$ dargestellt, so hat man nach [§. 4](#pz4)
+Zeichen $a\cdot b$ und $\frac{a}{b}$ dargestellt, so hat man nach [§. 4](#pz4)
 <span class="numbered" id="S.30eq1" data-label="1">
 \begin{equation}
 \frac{a}{b} b = a
@@ -1171,14 +1171,14 @@ a\frac{b}{c} = \frac{ab}{c}
 Nennt man nun 1 den Modul dieser Operation, so dass
 <span class="numbered" id="S.30eq7" data-label="7">
 \begin{equation}
-a.1 = a 
+a\cdot 1 = a 
 \end{equation}
 </span>
 <a lang="de" class="origpage" id="S.31" title="Seite 31"></a>
 so folgt 
 <span class="numbered" id="S.31eq8" data-label="8">
 \begin{equation}
-1.c = c
+1\cdot c = c
 \end{equation}
 </span>
 <span class="numbered" id="S.31eq9" data-label="9">
@@ -1235,7 +1235,7 @@ verbunden sind und ausserdem der Modul der Addition die Eigenschaft
 hat, dass
 <span class="numbered" id="S.31eq19" data-label="19">
 \begin{equation}
-a.0 = 0, 0.a = 0 
+a\cdot 0 = 0, 0\cdot a = 0 
 \end{equation}
 </span>
 worin unmittelbar ausgesprochen ist, dass, wenn der eine Factor 
@@ -1429,7 +1429,7 @@ b\frac{a}{b} = a
 </span>
 <span class="numbered" id="S.33eq6*" data-label="6*">
 \begin{equation}
-\frac{a}{\frac{b}{c}} = \frac{a}{b} . c
+\frac{a}{\frac{b}{c}} = \frac{a}{b} \cdot c
 \end{equation}
 </span>
 </p>
