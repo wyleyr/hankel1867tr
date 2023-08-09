@@ -253,7 +253,7 @@ Hauptvertreter letzterer Wissenschaft beziehen, auf [Kant]{.sc}
 und auf [John Stuart Mill]{.sc}
 ([<cite>A System of Logic, Ratiocinative and Inductive</cite>][Mill1850],
 5. Ausg., die in [deutscher Uebersetzung, 2. Auflage, 1862][Schiel1862]
-von [J. Schiel]{.sc}, vorliegt), da des letzteren
+von [J.\ Schiel]{.sc}, vorliegt), da des letzteren
 <a lang="de" class="origpage" id="S.51" title="Seite 51"></a>
 logische Principien besonders bei den Männern exacter Forschung 
 ungemeinen Beifall gefunden haben.
@@ -405,7 +405,7 @@ Unterschied von den meisten Mathematikern ganz übersehen worden, wie
 schon genugsam der Umstand beweist, dass man beide unter dem einen
 Namen der Axiome zusammengeworfen hat, den Euklid gar nicht kennt,
 denn er hat diesen Unterschied auf das schärfste erkannt: <em>In allen
-Manuscripten</em>, welche [F. Peybard]{.sc} zum Zwecke seiner
+Manuscripten</em>, welche [F.\ Peybard]{.sc} zum Zwecke seiner
 vortrefflichen Ausgabe des Euklid ([<cite lang="fr">Les oeuvres
 d'[Euclide]{.sc}, trad. en latin et en français</cite>. I. Bd.
 1814][Peybard1814], s. Varianten S. 454) verglichen hat, <em>befindet
