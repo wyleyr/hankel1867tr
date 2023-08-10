@@ -163,7 +163,7 @@ about them:
   
 <i lang="de">zusammenfassen</i>
 : unify. Hankel refers at several points in [Ch. III](#Ch.III) to
-  <i>zusammenfassende Zeichen</i> (<q>abbreviating signs</q>). As I
+  <i>zusammenfassende Zeichen</i> (<q>unifying signs</q>). As I
   understand this, Hankel is using <i>zusammenfassen</i> more or less
   literally to evoke an image of two signs <q>fastened together</q>
   into a single one. Thus $3$ is a unifying sign for $1 + 2$,
