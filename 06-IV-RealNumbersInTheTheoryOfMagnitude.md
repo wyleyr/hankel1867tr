@@ -1289,13 +1289,314 @@ können, welchen Gesichtspunkt der Operationscalcul weiter zu verfolgen hat
 <p lang="en">...</p>
 </div>
 
-
-
 </div> <!-- .text-small -->
 
 
 
 ### [§18. Das Operationssystem der Euklid'schen Geometrie]{lang="de"} [§18. The system of operations of Euclidean geometry]{lang="en"} {#pz18 .pz}
+
+<div class="parallel">
+<p lang="de">
+Der Begriff der stetigen Grösse, mit dem wir bisher operirt 
+haben, findet sein anschaulichstes Substrat in geometrischen Gebilden,
+der Strecke, dem Flächenraum, dem körperlichen Inhalt. 
+Ein System von Operationen, welches dem der gemeinen arithmetischen
+4 Species genau entspricht, und uns überdem in den Stand 
+setzt, auch die Multiplication, die im Allgemeinen in anderen 
+Grössengebieten nicht ausführbar ist, an jenen geometrischen 
+Grössen mit gewissen Beschränkungen zu vollziehen, liefert uns die 
+Geometrie des [Euklid]{.sc}: 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Unter einer Summe zweier Strecken $a, b$ versteht man die 
+Strecke $c$, welche durch deren Aneinanderlegen in gerader Linie 
+und so, dass eine Strecke ganz ausserhalb der anderen liegt, entsteht.
+Es leuchtet ein, dass dann: 
+$$
+a + b = b + a, a + (b + c) = (a + b) + c.
+$$
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Unter $a - b$ versteht man die Strecke, welche übrig bleibt, 
+wenn man $b$ von einem Endpunkte des $a$ an so abträgt, dass $b$ 
+innerhalb $a$ liegt; diese Operation ist nur möglich, wenn $a > b$. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel text-small">
+<p lang="de">
+Wie man die Addition und Subtraction auszuführen habe, lehrt
+[Euklid]{.sc} (Elemente I, 2 und 3). Es scheint mir, die
+Commutativität und Associativität der Addition der Strecken hätten in
+strenger Entwickelung als <em>Lehrsätze</em> aufgeführt werden sollen.
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Ehe man aber vorstehende Operationen definitiv mit jenen Namen
+bezeichnen darf, muss eine der Multiplication entsprechende Operation
+definirt werden können.
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Unter dem Producte $a\cdot b$ verstehen wir das Rechteck, welches 
+die Strecken $a, b$ zu Seiten hat, und zwar seiner Fläche nach. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<a lang="de" class="origpage" id="S.64" title="Seite 64"></a>
+
+<a lang="en" class="origpage" id="p.64" title="Page 64"></a>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Die distributive Eigenschaft 
+$$
+a(b + c) = ab + ac
+$$
+beweist [Euklid]{.sc} II, 1 und da man in diesem Sinne ohne weiteres 
+$$ 
+a b = b a 
+$$
+setzt, also die Fläche nur insofern berücksichtigt, als sie von den 
+Strecken selbst, nicht von ihrer Reihenfolge abhängig ist, so hat 
+man auch 
+$$
+(a + b)c = ac + bc
+$$
+und es sind somit die Multiplicationsgesetze erwiesen, wenn noch 
+$$
+a(bc) = (ab)c. 
+$$
+Es folgt aber diese associative Eigenschaft sofort aus der
+Festsetzung, dass $a(bc) = (ab)c = abc$ ein rechtwinkliges
+Parallelepipedum mit den Seitenlängen $a, b, c$ seinem Inhalte nach
+bezeichnet. Dass dann auch bei 3 Factoren das commutative Princip
+erfüllt ist und dass ebenso das distributive Princip gilt, ist ohne
+Weiteres klar, wenn man sich noch erinnert, dass man ([Euklid]{.sc} I,
+42, 43, 44) ein Rechteck stets in ein anderes von gegebener Grundlinie
+verwandeln und daher eine Summe von Rechtecken stets wieder als ein
+solches darstellen kann. Ein Product von 4 Strecken hat keine
+geometrische Bedeutung.
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Der Quotient $\frac{a}{b}$ zweier Strecken muss der Gleichung 
+$$
+\frac{a}{b}b = a
+$$
+genügen, kann daher nichts anderes bedeuten, als eine gewisse 
+Verkleinerung oder Vergrösserung der Strecke $b$, so dass eben $a$ 
+aus ihr hervorgeht, und ist also keine Grösse.--- 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Stellt man durch Vervielfachen und Theilen aus einer Strecke $e$ 
+alle anderen dar, so wird man jede solche 
+$$
+a = Ae 
+$$
+setzen können, wo $A$ eine rationale Zahl ist; zwischen den so
+erhaltenen Strecken liegen noch andere, die mit $e$ incommensurabel 
+sind und durch $Ae$ mit irrationalem $A$ dargestellt werden. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Ist nun eine solche Darstellung der Strecken durch Zahlen 
+möglich, so fragt es sich doch, ob das, was wir Summe und Product 
+zweier Strecken genannt haben, sich auch durch Addition und 
+Multiplication jener Zahlen ausdrücken lässt. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<a lang="de" class="origpage" id="S.65" title="Seite 65"></a>
+
+<a lang="en" class="origpage" id="p.65" title="Page 65"></a>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Dass dies bei der Addition der Fall ist, bedarf keiner Erörterung. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+So lange $A, B$ rational sind, kann man leicht zeigen, dass das 
+Product der Strecken im obigen Sinne: 
+$$
+ab = Ae \cdot Be = (AB)ee 
+$$
+ist, und man schliesst daraus auch auf Gültigkeit dieser Gleichung 
+für Strecken, die gegen $e$ incommensurabel sind. Ebenso ist immer: 
+$$
+abc = AB\Gamma\cdot eee 
+$$
+und obige Definition des Quotienten liefert den Satz, dass 
+$$
+\frac{a}{b} = \frac{Ae}{Be} = \frac{A}{B}.
+$$
+Die den allgemeinen formalen Bedingungen der Addition und
+Multiplication genügenden [Euklid]{.sc}'schen geometrischen
+Operationen können somit, wenn die Strecken durch $Ae$ dargestellt
+werden, wo $A$ eine positive Zahl bedeutet, durch die gewöhnlichen
+arithmetischen entsprechenden Operationen ersetzt werden: In einem
+Producte von 2 oder 3 Grössen sind die Factoren $e$ mit ihren
+Zahlencoefficienten jederzeit vertauschbar. Das System der reellen
+positiven Zahlen mit seinen Operationen kann das ganze System von
+Strecken mit seinen Operationen vollkommen vertreten.
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="text-small">
+<div class="parallel">
+<p lang="de">
+Ich habe mich hier der heute gewöhnlichen Darstellung, welche die
+irrationalen Zahlen als Grenzfälle der rationalen behandelt,
+anschliessen zu sollen geglaubt und zwar einzig aus dem Grunde, um
+nicht ein Kapitel einschalten zu müssen, welches, den Elementen der
+Geometrie entlehnt, allerdings in einem vollkommen strengen Systeme
+der Mathematik nicht fehlen darf, welches aber in diesem Werke nicht
+von wesentlicher Bedeutung wäre. Doch können wir die Bemerkung nicht
+unterdrücken, dass die heut zu Tage [übliche]{.corrected} Behandlung
+der irrationalen Grössen in der Geometrie eine der Sache nicht
+adäquate ist, insofern sie in der unnatürlichsten Weise das
+Zusammengehörige trennt und das Stetige, als welches ein geometrisches
+Gebilde seinem Wesen nach erscheint, in die Fessel des Discreten
+zwingt, welche es dennoch jeden Augenblick wieder zerreisst. Es gibt
+nur <em>einen</em> wissenschaftlichen Weg, die Lehre von der
+Aehnlichkeit, die heute auf die Darstellung der Strecken in der Form
+$a = Ae$ und auf die Rechnungsregeln der Zahlen gegründet zu werden
+pflegt, zu behandeln und dieser ist der von [Euklid]{.sc} 
+im 5. und 6. Buche seiner Elemente eingeschlagene---ein Weg, der seit
+lange nicht anerkannt, ja sogar meistens vollständig missverstanden
+worden ist, der aber an Strenge, Eleganz und Sachgemässheit nicht
+übertroffen werden kann. Auf diesem erscheint das Irrationale als dem
+Rationalen vollkommen gleichartig;
+<a lang="de" class="origpage" id="S.66" title="Seite 66"></a>
+die Aehnlichkeitslehre beruht auf einer Definition der Proportion,
+welche von jenem Unterschiede gänzlich abstrahirt und abstrahiren
+muss, weil sie die Grössen bereits als fertige und nicht durch einen
+unstetigen Process zerstückte ansieht. Erst aus der Aehnlichkeitslehre
+ergibt sich der wahre Begriff der Zahl $A$, welche in der Verbindung
+$Ae$ eine <em>Streckung der Einheit $e$ in einem gegebenen
+Verhältnisse ausdrückt</em>.
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.66" title="Page 66"></a>
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+
+Zufolge der Lehre von der [Aehnlichkeit]{.corrected} muss jede
+Relation zwischen Strecken $a, b,\ldots$ ihren Producten und
+Quotienten unabhängig von der Einheits-Strecke $e$ sein, durche welche
+alle Strecken $a = Ae, b = Be,\ldots$ ausgedrückt werden, muss also
+zwischen den Zahlen $A, B,\ldots$ selbst stattfinden. <em>Hierauf
+[beruht]{.corrected} die Möglichkeit der [Berechnung]{.corrected}</em>
+geometrisch zusammenhängender Gebilde auseinander und daher die
+Möglichkeit der <em>Anwendung arithmetischer und algebraischer Sätze
+auf die Geometrie</em>. Wenn [Legendre]{.sc .corrected}
+([<cite lang="fr">Éléments de Géom.</cite>][LegendreElem] II. Note)
+umgekehrt aus der vorausgesetzten Anwendbarkeit der Algebra auf die
+Geometrie die Aehnlichkeitslehre ableiten will, so ist dies ein
+[ὒστερον πρότερον]{lang="grc"} vor welchem das Studium des [Euklid]{.sc} die
+Wissenschaft hätte [bewahren]{.corrected} können (vgl. [Möbius]{.sc}
+[<cite><abbr title="Der barycentrische">baryc.</abbr> Calcul</cite>][MoebiusBC]
+S. 190 und [Brewster]{.sc}
+[Uebersetzung der Éléments [Legendre]{.sc}'s Note II][BrewsterLegendreElemNII]).
+</p>
+<p lang="en">...</p>
+</div>
+
+[LegendreElem]: https://archive.org/details/lmentsdegomtrie02legegoog
+[MoebiusBC]: https://archive.org/details/gesammeltewerke01mbgoog/page/n25/mode/1up
+[BrewsterLegendreElem]: https://archive.org/details/elementsgeometr01brewgoog/
+[BrewsterLegendreElemNII]: https://archive.org/details/elementsgeometr01brewgoog/page/n264/mode/2up?view=theater
+
+<div class="parallel">
+<p lang="de">
+Verliert die Aehnlichkeitslehre ihre Richtigkeit, so ist die
+Grössenbeziehung von gesetzmässig [auseinander construirten]{.corrected}
+Strecken nicht mehr unabhängig von der zu Grunde gelegten Einheit,
+[reducirt]{.corrected} sich also nicht auf eine [Zahlenbeziehung]{.corrected}.
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Dieser Fall mit allen seinen paradoxen Forderungen tritt aber ein, wenn 
+das [Euklid]{.sc}'sche Postulat der Parallelentheorie nicht mehr gilt,
+in der <dfn>transscendentalen</dfn> Geometrie, wie sie von [Gauss]{.sc}
+(bereits im Jahre 1792, s. Briefwechsel mit [Schumacher]{.sc},
+[Bd. II][GaussSchumacherII], S. 269
+und S. 431, [Bd. V][GaussSchumacherV], S. 47), von [Johann Bolyai]{.sc}
+([<cite>Tentamen juventutem stud. in elementa math.
+... introducendi</cite>][Bolyai1832], Maros Vasarhelyini 1832, Bd. I. Appendix)
+und [Lobatschewsky]{.sc}
+([<cite>Geom. Unters. z. Theorie der Parallellinien</cite>][Lobatschewsky1887],
+Berlin 1840) entwickelt worden ist. <q>In dieser Geometrie gibt es gar
+keine ähnliche Figuren ohne Gleichheit, z. B. die Winkel eines
+gleichseitigen Dreiecks sind nicht blos von $\frac{2}{3}R, sondern
+auch nach Massgabe der Grösse der Seite unter sich verschieden und
+können, wenn die Seite über alle Grenzen wächst, so klein werden, wie
+man will. ... Hierin ist aber nichts Widersprechendes, wenn der
+endliche Mensch sich nicht vermisst, etwas Unendliches als etwas
+Gegebenes und von ihm mit seiner gewohnten Anschauung zu Umspannendes
+betrachten zu wollen. --- Sie sehen, dass hier in der That der
+Fragepunkt unmittelbar an die Metaphysik streift.</q> (Gauss, Brief
+von 1831, a.\ a.\ O., Bd. II, S. 269).
+</p>
+<p lang="en">...</p>
+</div>
+
+[GaussSchumacherII]: https://archive.org/details/bub_gb_szEDAAAAQAAJ/
+[GaussSchumacherV]: https://archive.org/details/bub_gb_bH0_AQAAIAAJ/
+[Bolyai1832]: https://archive.org/details/tentamenjuventut01boly
+<!-- TODO: this is a later reprint; haven't found the 1840 edition: -->
+[Lobatschewsky1887]: https://archive.org/details/geometrischeunt00loba/
+
+</div> <!-- .text-small -->
+
+
+
+
+
+
 
 
 
