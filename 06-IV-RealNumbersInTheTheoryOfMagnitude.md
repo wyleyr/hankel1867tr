@@ -248,8 +248,8 @@ ausgesprochenen Sätze bedürfen noch einer weiteren
 Erläuterung, die ich nicht geben kann, ohne das Grenzgebiet der Mathematik 
 und Philosophie zu betreten. Um kurz zu sein, werde ich mich nur auf zwei 
 Hauptvertreter letzterer Wissenschaft beziehen, auf [Kant]{.sc}
-(<cite>Kritik der reinen Vernunft</cite>,
-[Ausg. von Rosenkranz und Schubert, Bd. II][KantRosenkranzSchubert])
+([<cite>Kritik der reinen Vernunft</cite>,
+Ausg. von Rosenkranz und Schubert, Bd. II][KantRosenkranzSchubertKrV])
 und auf [John Stuart Mill]{.sc}
 ([<cite>A System of Logic, Ratiocinative and Inductive</cite>][Mill1850],
 5. Ausg., die in [deutscher Uebersetzung, 2. Auflage, 1862][Schiel1862]
@@ -266,8 +266,8 @@ are still in need of a further elucidation which I cannot give without
 entering the borderlands between mathematics and philosophy.
 To be short, I will refer to just two of the main representatives of
 the latter science, namely [Kant]{.sc}
-(<cite>Critique of Pure Reason</cite>,
-[Edition by Rosenkranz and Schubert, Vol. II][KantRosenkranzSchubert])
+([<cite>Critique of Pure Reason</cite>,
+Edition by Rosenkranz and Schubert, Vol. II][KantRosenkranzSchubertKrV])
 and [John Stuart Mill]{.sc}
 ([<cite>A System of Logic, Ratiocinative and Inductive</cite>][Mill1850],
 fifth edition, which is available in
@@ -279,7 +279,7 @@ especially among men of exact science.
 </p>
 </div>
 
-[KantRosenkranzSchubert]: https://archive.org/details/bub_gb_KOqgf0Pr1zsC/
+[KantRosenkranzSchubertKrV]: https://archive.org/details/bub_gb_KOqgf0Pr1zsC/
 [Mill1850]: https://archive.org/details/asystemlogicrat19millgoog/
 [Schiel1862]: https://archive.org/details/bub_gb__MUAAAAAcAAJ/
 
@@ -1118,6 +1118,182 @@ der grösste Fortschritt, den die reine Mathematik jemals gemacht hat.
 
 
 ### [§17. Die negativen Zahlen in der allgemeinen Grössenlehre]{lang="de"} [§17. The negative numbers in the general theory of magnitude]{lang="en"} {#pz17 .pz}
+
+<div class="parallel">
+<p lang="de">
+Haben wir nun im Vorstehenden die Division vorgenommen, 
+und wurden wir durch die Absicht, sie allgemein auszuführen, auf 
+<a lang="de" class="origpage" id="S.61" title="Seite 61"></a>
+die gebrochenen Zahlen geführt, so gehen wir jetzt über auf die 
+Lysis der Addition von gleichartigen Grössen, welche durch $Ae, Be\ldots$
+dargestellt werden können, wo $A, B$ positive Zahlen sind. 
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.61" title="Page 61"></a>
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Die Gleichung 
+$$
+x + Be = Ae 
+$$
+wird stets auflösbar sein, wenn $Be < Ae$ und gibt $x = (A - B)e$, 
+wo nun diese Differenz ganz den früheren, formal entwickelten 
+Regeln genügt, und 
+$$
+x = (A - B)e = Ae - Be 
+$$
+gesetzt werden kann. Die Differenz $(Ae - Be)$ wird durch die 
+actuelle Operation des Wegnehmens der $B$ Einheiten von den $A$ 
+realisirt. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Enthält aber $Be$ mehr Einheiten als $Ae$, so ist ein solches 
+Wegnehmen im eigentlichen Sinne nicht mehr zulässig, wenigstens 
+dann nicht, wenn man unter $e$ eine eigentliche Substanz versteht. 
+Bedeutet aber $e$, dessen Inhalt bis jetzt keinen Bestimmungen 
+unterlogen hat, eine Relation (zwischen Objecten), deren positive
+Setzung ein conträres Gegentheil in der negativen Setzung 
+hat, so dass eine $A$malige positive Setzung sich mit der $A$maligen 
+negativen im Resultate gänzlich aufhebt, d. h. eine Relation eines 
+Objectes zu sich selbst gibt, so kann die Subtraction allgemein
+ausgeführt werden (vergl. [S. 5](#S.5)). 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Bezeichnet man die zu $e$ entgegengesetzte Relation mit $(-e)$ 
+und deren $B$malige Wiederholung mit $B(-e)$, während die 
+ursprüngliche Relation mit $+e$ bezeichnet werden kann, so wird 
+die Gleichung 
+$$
+x + Be = Ae 
+$$
+durch $x = Ae + B(-e)$ in dem Falle, dass $Be > Ae$ ist gelöst.
+Bezeichnet man aber die Lösung der Gleichung ganz allgemein mit
+$Ae - Be$, so hat man $B(-e) = -Be$ oder $= (-B)e$ 
+zu setzen, wo man im letzteren Falle das negative auf das $B$
+übertragen hat. Hienach darf denn $x = (A - B)e$ als allgemeine 
+Lösung jener Gleichung angesehen werden, wenn die Differenz 
+$(A - B)$ ganz die in [§. 10](#pz10) formaliter dargestellten 
+Eigenschaften besitzt, und zwar auch die auf die Multiplication
+bezüglichen. Denn mag $A$ eine positive oder negative Zahl sein,
+die Sätze über die 
+<a lang="de" class="origpage" id="S.62" title="Seite 62"></a>
+wiederholte Setzung, das associative und distributive Princip wie sie
+in [§. 14](#pz14) für die absolute Setzung angenommen werden mussten,
+gelten jetzt unverändert.
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.62" title="Page 62"></a>
+...
+</p>
+</div>
+
+<div class="text-small">
+<div class="parallel">
+<p lang="de">
+Wenn auch der Begriff des Negativen auf vielerlei Arten von Grössen angewandt
+werden kann (vergl. hierüber den interessanten Aufsatz von [Kant]{.sc}: 
+[<cite>Versuch den Begriff der negativen Grössen in die Weltweisheit
+einzuführen.</cite>
+Sämmtliche Werke von [Rosenkranz]{.sc} und [Schubert]{.sc}
+Bd. I, S. 113][KantRosenkranzSchubertNM]),
+so sind doch vor allen Dingen die räumlichen und die zeitlichen
+Vorstellungen geeignet, ihn zur klaren Anschauung zu bringen.
+Namentlich bietet er sich in dem Begriffe der Zeit am natürlichsten
+dar. Wenn jedoch [Hamilton]{.sc} (vergl. oben [S. 17](#S.17)) meint,
+man müsse deshalb die ganze Lehre von den Zahlen auf die Phoronomie
+basiren, so scheint mir doch, wenn man einmal das abstracte Fundament
+aufgeben will, die Geometrie viel geeigneter, dies zu liefern; denn
+schon das Irrationale, noch viel mehr aber das Imaginäre, ist in der
+Zeit etwas durchaus nicht Anschauliches, von den vielen anderen
+Vorzügen der räumlichen Anschauung hier ganz abzusehen.
+</p>
+<p lang="en">...</p>
+</div>
+
+[KantRosenkranzSchubertNM]: https://archive.org/details/immanuelkantssm00schugoog/page/113/mode/2up
+
+<div class="parallel">
+<p lang="de">
+[Anmerkung]{.pname} zu den [§§. 14](#pz14)--[17](#pz17).
+Es ist von grosser Wichtigkeit zu bemerken, dass die erwähnten §§.
+keine Eigenschaft enthalten und enthalten können, welche ein,
+algebraisch gesprochen, additives Setzen von einem multiplicativen
+unterschieden; oder abstracter, das Zeichen $Ae$ bedeutet nichts
+weiter als eine gewisse an $e$ vorzunehmende Operation, welche
+gewissen Gesetzen genügt. Es hat daher nichts Widersprechendes, wenn
+wir statt $Ae$ das Zeichen $e^A$ gebrauchen, d.\ h.\ wenn wir unter
+$e^A$, $A$ Factoren $e$ verstehen; denn wenn man die Zahlen
+$1, 2, 3,\ldots$ durch die Reihe: 
+$$
+e^1e^1 = e^2, e^2e^1 = e^3, \ldots
+$$
+bildet, so darf man 
+$$
+e^{A+B} = e^Ae^B
+$$
+setzen, wo unter $(A + B)$ die Summe in dem Sinne des [§. 9](#pz9)
+zu verstehen ist. Bringt man die Operation $B$ an $e^A$ an, so ist 
+$$
+(e^A)^B = e^{(AB)}
+$$
+zu setzen. Denn die distributive Eigenschaft ist in den Formeln 
+\begin{align*}
+(e^A)^(B+\Gamma) &= e^{AB}e^{A\Gamma} \\
+[e^{(A + B)}]^\Gamma &= e^{A\Gamma}e^{B\Gamma} 
+\end{align*}
+erfüllt. Es ist hienach klar, wie die Gleichung 
+$$
+(e^B)^X = e^A
+$$
+aufgelöst werden kann, und wie auch negative Exponenten zulässig sind, um 
+$e^{A-B}$ in jedem Falle ausführbar zu machen. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Man sieht hieraus, dass es in der That nicht genau war (s. [S. 57](#S.57)),
+$Ae$ als Product anzusehen. Denn wenn die Bezeichnung $e^A$ dafür
+angewandt, und was leidit geschehen kann, eine diesem Zeichen in
+seiner algebraischen Bedeutung
+<a lang="de" class="origpage" id="S.63" title="Seite 63"></a>
+entsprechende reale Operation untergelegt wird, so würde jene Verknüpfung
+ganz anderer Natur sein, obgleich sie genau denselben Gesetzen unterliegt. 
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.63" title="Page 63"></a>
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Es liegt hierin zugleich ein Beispiel vor, wie die formalen Zahlen zur
+Bezeichnung von höheren Operationen in einem gewissen Zahlengebiet dienen 
+können, welchen Gesichtspunkt der Operationscalcul weiter zu verfolgen hat 
+(vergl. [S. 13](#S.13)). 
+</p>
+<p lang="en">...</p>
+</div>
+
+
+
+</div> <!-- .text-small -->
+
+
 
 ### [§18. Das Operationssystem der Euklid'schen Geometrie]{lang="de"} [§18. The system of operations of Euclidean geometry]{lang="en"} {#pz18 .pz}
 
