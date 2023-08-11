@@ -898,16 +898,27 @@ als <dfn>absolute</dfn> bezeichnet, in gewissem Sinne mit unserer
 <dfn>formalen</dfn> zusammenfällt.
 </p>
 <p lang="en">
-<!-- TODO: tr note on benannt/unbenannt -->
-One calls $Ae$ a <dfn>named</dfn> number, an expression which we
-however will not use further, in order to avoid confusion; in our way
-of speaking, $Ae$ would be called an <dfn>Actual</dfn> number, while
-the number which in arithmetic is usually designated as
-<dfn>absolute</dfn>, in a certain sense falls in the same category as
-our <dfn>formal</dfn> number.
+One calls $Ae$ a <dfn>named</dfn><sup>[A](#p.57nA){#p.57nAref .trnref}</sup>
+number, an expression which we however will not use further, in order
+to avoid confusion; in our way of speaking, $Ae$ would be called an
+<dfn>Actual</dfn> number, while the number which in arithmetic is
+usually designated as <dfn>absolute</dfn>, in a certain sense falls in
+the same category as our <dfn>formal</dfn> number.
 </p>
 </div>
 </div> <!-- .text-small -->
+
+<aside class="parallel footnote trnote">
+<p lang="de"></p>
+<p lang="en" id="p.57nA">A\)
+The distinction between "named" (<i lang="de">benannt</i>) and
+"unnamed" (<i lang="de">unbenannt</i>) numbers was an established
+idiom that expressed a distinction between numbers as used in applied
+vs. pure arithmetic. The terminology appears to derive from the fact
+that in applying arithmetic, one names the unit of the quantity to
+which a number applies: three 'apples', 14.8 'degrees', etc.
+</p>
+</aside>
 
 <div class="parallel">
 <p lang="de">
