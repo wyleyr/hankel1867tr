@@ -248,12 +248,12 @@ ausgesprochenen Sätze bedürfen noch einer weiteren
 Erläuterung, die ich nicht geben kann, ohne das Grenzgebiet der Mathematik 
 und Philosophie zu betreten. Um kurz zu sein, werde ich mich nur auf zwei 
 Hauptvertreter letzterer Wissenschaft beziehen, auf [Kant]{.sc}
-(<cite>Kritik der reinen Vernunft</cite>,
-[Ausg. von Rosenkranz und Schubert, Bd. II][KantRosenkranzSchubert])
+([<cite>Kritik der reinen Vernunft</cite>,
+Ausg. von Rosenkranz und Schubert, Bd. II][KantRosenkranzSchubertKrV])
 und auf [John Stuart Mill]{.sc}
 ([<cite>A System of Logic, Ratiocinative and Inductive</cite>][Mill1850],
 5. Ausg., die in [deutscher Uebersetzung, 2. Auflage, 1862][Schiel1862]
-von [J. Schiel]{.sc}, vorliegt), da des letzteren
+von [J.\ Schiel]{.sc}, vorliegt), da des letzteren
 <a lang="de" class="origpage" id="S.51" title="Seite 51"></a>
 logische Principien besonders bei den Männern exacter Forschung 
 ungemeinen Beifall gefunden haben.
@@ -266,8 +266,8 @@ are still in need of a further elucidation which I cannot give without
 entering the borderlands between mathematics and philosophy.
 To be short, I will refer to just two of the main representatives of
 the latter science, namely [Kant]{.sc}
-(<cite>Critique of Pure Reason</cite>,
-[Edition by Rosenkranz and Schubert, Vol. II][KantRosenkranzSchubert])
+([<cite>Critique of Pure Reason</cite>,
+Edition by Rosenkranz and Schubert, Vol. II][KantRosenkranzSchubertKrV])
 and [John Stuart Mill]{.sc}
 ([<cite>A System of Logic, Ratiocinative and Inductive</cite>][Mill1850],
 fifth edition, which is available in
@@ -279,7 +279,7 @@ especially among men of exact science.
 </p>
 </div>
 
-[KantRosenkranzSchubert]: https://archive.org/details/bub_gb_KOqgf0Pr1zsC/
+[KantRosenkranzSchubertKrV]: https://archive.org/details/bub_gb_KOqgf0Pr1zsC/
 [Mill1850]: https://archive.org/details/asystemlogicrat19millgoog/
 [Schiel1862]: https://archive.org/details/bub_gb__MUAAAAAcAAJ/
 
@@ -313,7 +313,7 @@ V., VI., XXIV. Capitel.)
 [Kant]{.sc} occupied himself many times with the question of the
 essence and the ground of mathematical methods and with the nature of
 their judgements. Corresponding to his view of mathematics as
-<q>knowledge from the construction of concepts</q>, he holds all
+<q>rational knowledge from the construction of concepts</q>, he holds all
 mathematical judgements to be <em>synthetic</em> (p. 702), thereby
 opposing them to <em>analytic</em> judgements, the latter of which, as
 is familiar, assert a predicate of a subject which lies either openly
@@ -325,7 +325,7 @@ now mathematical judgments are synthetic, it cannot as such interest
 the mathematician whether they are a priori, as Kant wants, because
 they carry with themselves necessity, which cannot be achieved from
 experience, and indeed derive from pure intuition a priori, which is
-encountered before all perception in us as the [condition]{.origphrase
+encountered before all perception in us as the [character]{.origphrase
 title="Beschaffenheit"} [of the disposition]{.origphrase title="des
 Gemüthes"} of [being affected by objects]{.origphrase title="von
 Objecten afficirt zu werden"}---or whether they, as Stuart Mill
@@ -345,7 +345,7 @@ Zweifel --- müssen wir auf einen wesentlichen Unterschied zwischen solchen
 aufmerksam machen. 
 </p>
 <p lang="en">
-To obtain a clear view for ourselves of the essence of principles ---
+To obtain a clear view for ourselves of the essence of the principles ---
 for there is nowhere any doubt about the possibility of analytically
 or deductively deriving further mathematical theorems from these ---
 we must call attention to an essential difference between such principles.
@@ -405,10 +405,10 @@ Unterschied von den meisten Mathematikern ganz übersehen worden, wie
 schon genugsam der Umstand beweist, dass man beide unter dem einen
 Namen der Axiome zusammengeworfen hat, den Euklid gar nicht kennt,
 denn er hat diesen Unterschied auf das schärfste erkannt: <em>In allen
-Manuscripten</em>, welche [F. Peybard]{.sc} zum Zwecke seiner
+Manuscripten</em>, welche [F.\ Peybard]{.sc} zum Zwecke seiner
 vortrefflichen Ausgabe des Euklid ([<cite lang="fr">Les oeuvres
-d'[Euclide]{.sc}, trad. en latin et en français</cite>. I. Bd.
-1814][Peybard1814], s. Varianten S. 454) verglichen hat, <em>befindet
+d'[Euclide]{.sc}, trad. en latin et en français</cite>.
+I. Bd.][Peybard1814] 1814, s. Varianten S. 454) verglichen hat, <em>befindet
 sich der berühmte 11. Grundsatz der Parallelentheorie mit den Sätzen
 vom Gleichen und Ungleichen nicht in einer Kategorie der [χοιναὶ
 ἔννοιαι]{lang="grc"}</em>, sondern figurirt als 5tes <em>Postulat</em>
@@ -421,9 +421,9 @@ stehen.
 </p>
 <p lang="en">
 One should think that even the most superficial consideration allows
-two essentially different classes of principles to be distinguished,
+two essentially different classes of principles to be distinguished here,
 of which one (1--9) refers to relations which are essentially
-connected to the concept of magnitude, while the others (10--12) contain
+connected to the concept of magnitude, while the other (10--12) contains
 geometric truths.
 ...
 </p>
@@ -564,8 +564,8 @@ upon, the fact that it deductively
 erects an infinite structure on an extremely small number of
 independent base truths; and here an infinite number of infinitely
 multifarious connected columns are supposed to carry this structure,
-although only one single connection needs to falter to bring the
-entire proud structure to the ground!
+although only one single link needs to falter to bring the
+entire proud construction to the ground!
 </p>
 </div>
 
@@ -680,11 +680,11 @@ verwandelt werden, indem man sagt: Unter der Addition von Grössen
 versteht man eine Operation, welche diesen 3 Sätzen genügt.
 </p>
 <p lang="en">
-The three principles given here certainly have the character of common
+The three principles given here are entirely of the character of common
 notions. They become completely evident through an explication; they
 are valid for all domains of magnitudes according to the pure
-intuition of magnitude; and can, without forfeiting their character,
-be transformed into definitions, in which one says: by the addition of
+intuition of magnitude; and they can, without forfeiting their character,
+be transformed into definitions, by saying: by the addition of
 magnitudes is understood an operation which satisfies these three
 principles.
 </p>
@@ -774,11 +774,828 @@ Möglichkeit und Wirklichkeit jener Operationen überall nicht ab.
 
 ### [§15. Die rationalen Zahlen in der Grössenlehre]{lang="de"} [§15. The rational numbers in the theory of magnitude]{lang="en"} {#pz15 .pz}
 
+<div class="parallel">
+<p lang="de">
+Sind $a, b$ zwei gleichartige Grössen, d. h. also solche, welche 
+vervielfältigt einander übertreffen können, so fragt es sich, ob man 
+die eine derselben b so vervielfältigen könne, dass ihr Vielfaches 
+<span class="numbered" id="S.56eq1" data-label="1">
+\begin{equation}
+Xb = a
+\end{equation}
+</span>
+wird. Haben $a, b$ ein <dfn>gemeinschaftliches Maass</dfn>, von dem 
+sie Vielfache sind, d. h. ist $a = Me$, $b = Ne$ und ist die Gleichung 
+$$
+XN = M
+$$
+in ganzen Zahlen $X$ auflösbar, so ist auch die Auflösung jener 
+Gleichung [(1)](#S.56eq1){.eqref} oder 
+$$
+XNe = Me 
+$$
+gefunden. Kann aber die Gleichung $XN = M$ nicht in ganzen 
+Zahlen aufgelöst werden, sondern nur durch eine gebrochene Zahl 
+$$
+X=\frac{M}{N} 
+$$
+im Sinne des [§. 11](#pz11), so fragt es sich, was man unter dieser Operation
+$\frac{M}{N}b$ zu verstehen habe. 
+</p>
+<p lang="en">...
+<span class="numbered" id="p.56eq1" data-label="1">
+\begin{equation}
+Xb = a
+\end{equation}
+</span>
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Dazu denken wir uns die Einheit $e$ beliebig, z. B. in $N$ Theile 
+zerlegbar und bezeichnen einen derselben mit $\frac{1}{N}e$, so dass 
+$N\left(\frac{1}{N}e\right) = e$
+oder auch 
+$\frac{1}{N}Ne = e$
+und überhaupt $\frac{1}{N}N = 1$ gesetzt werden darf.
+Unter $M\left(\frac{1}{N} e\right)$ hat man dann übereinstimmend 
+<a lang="de" class="origpage" id="S.57" title="Seite 57"></a>
+mit unseren Bezeichnungen in [§. 14](#pz14) diese Grösse
+$\frac{1}{N}e$, $M$ mal gesetzt zu verstehen. Dass 
+$$
+M\left(\frac{1}{N}e\right) = \frac{1}{N}(Me)
+$$
+folgt unmittelbar aus der Natur der actuellen Theilung und Vervielfachung,
+und wenn wir 
+$$
+M\left(\frac{1}{N}e\right) = \left(\frac{1}{N}M\right)e = \frac{M}{N}e
+$$
+setzen, so ist, um die üebereinstimmung dieses Zeichens $\frac{M}{N}$
+mit dem in [§.11](#pz11) eingeführten nachzuweisen, nichts weiter
+erforderlich, als dass die allgemeinen Gesetze, welchen diese
+gebrochenen formalen Zahlen unterliegen, jetzt als nothwendige Folgen
+des Theilungsbegriffes dargethan werden.
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.57" title="Page 57"></a>
+...
+</p>
+</div>
+
+<div class="text-small">
+<div class="parallel">
+<p lang="de">
+Man vergleiche in Hinsicht dieses Beweises in's Besondere [Euklid]{.sc} VII. 
+und VIII. Buch, sowie [Grassmann]{.sc}'s Lehrhuch der Arithmetik Art 
+130 u. ff. Ich beschränke mich auf diese Hinweisung, da hier in der That 
+keine irgend welche neuen Principien eintreten, denen höheres wissenschaftliches
+Interesse zukäme, und ich überhaupt darauf verzichtet habe, die Anwendung der
+Zahlen in der Grössenlehre ganz systematisch und der tieferen 
+Natur des Gegenstandes entsprechend, ausführlich zu behandeln. --- 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Man pflegt die Verbindung einer formalen Zahl mit einer Grösse $e, Ae$ 
+als eine Multiplication anzusehen, was dadurch gerechtfertigt ist, dass das 
+distributive Princip zum Theil in den Gleichungen 
+$$
+(A + B)e = Ae + Be,  A(b + c) = Ab + Ac
+$$
+enthalten ist. Ebenso sieht man die Lösung $X = \frac{b}{a}$ der Gleichung $Xa = b$ 
+als einen Quotienten an. Wenn gleich dieser Ausdrucksweise nichts widerspricht,
+so ist sie doch von geringem Werthe, da jener Multiplication keine 
+Addition einer formalen Zahl $A$ und einer Grösse $a$ entspricht; denn $A + a$ 
+hat keine Bedeutung; zu jener Division zweier Grössen aber gibt es im
+<em>Allgemeinen</em> keine entsprechende Multiplication $a\cdot b$.
+</p>
+<p lang="en">...</p>
+</div>
+<div class="parallel">
+
+<p lang="de">
+Man nennt $Ae$ eine <dfn>benannte</dfn> Zahl, ein Ausdruck, den wir
+jedoch um allen Verwechselungen zu entgehen, nicht weiter anwenden
+werden; in unserer Sprachweise würde $Ae$ eine <dfn>actuelle</dfn>
+Zahl heissen, während die Zahl, die man in der Arithmetik gemeiniglich
+als <dfn>absolute</dfn> bezeichnet, in gewissem Sinne mit unserer
+<dfn>formalen</dfn> zusammenfällt.
+</p>
+<p lang="en">
+<!-- TODO: tr note on benannt/unbenannt -->
+One calls $Ae$ a <dfn>named</dfn> number, an expression which we
+however will not use further, in order to avoid confusion; in our way
+of speaking, $Ae$ would be called an <dfn>Actual</dfn> number, while
+the number which in arithmetic is usually designated as
+<dfn>absolute</dfn>, in a certain sense falls in the same category as
+our <dfn>formal</dfn> number.
+</p>
+</div>
+</div> <!-- .text-small -->
+
+<div class="parallel">
+<p lang="de">
+Man sieht, wenn man das bisher erläuterte zusammenfasst: 
+Wenn $A$ irgend eine ganze oder gebrochene rationale formale Zahl 
+<a lang="de" class="origpage" id="S.58" title="Seite 58"></a>
+bezeichnet, so wird durch $Ae$ eine actuelle mit $e$ vorzunehmende 
+Operation angedeutet, welche, wenn die Grösse $e$ eine willkührlich 
+theilbare ist, immer ausgeführt werden kann, und auf eine bestimmte
+neue Grösse führt. Die Operation der realen Addition 
+zweier Grössen $Ae, Be$, sowie das Vervielfachen und Theilen der 
+Grösse $Ae$, können ersetzt werden durch die formale Addition, 
+Multiplication und Division formaler Zahlen, der Coefficienten $A, B$. 
+</p>
+<p lang="en">
+One sees, if one summarizes what's been elucidated so far: if $A$
+signifies any whole or fractional rational formal number,
+<a lang="en" class="origpage" id="p.58" title="Page 58"></a>
+then $Ae$ indicates an Actual [operation]{.origphrase title="Operation"}
+carried out with $e$ which can always be carried out
+when the magnitude $e$ is arbitrarily divisible, and leads to a
+definite new magnitude. The [operation]{.origphrase title="Operation"}
+of the real addition of two magnitudes $Ae, Be$, as well as the
+[multiplication]{.origphrase title="Vervielfachen"} and
+[division]{.origphrase title="Theilen"} of the magnitude $Ae$, can be
+replaced with formal addition,
+[multiplication]{.origphrase title="Multiplication"} and
+[division]{.origphrase title="Division"}
+of formal numbers, of the coefficients $A, B$.
+</p>
+</div>
+
 ### [§16. Die irrationalen Zahlen]{lang="de"} [§16. The irrational numbers]{lang="en"} {#pz16 .pz}
+
+<div class="parallel">
+<p lang="de">
+Im Vorstehenden haben wir die Gleichung 
+$$
+Xb = a 
+$$
+unter den Voraussetzung, dass $b$ und $a$ commensurabel sind, aufgelöst.
+Sind aber diese gleichartigen Grössen $a, b$ incommensurabel, so gibt es
+in unserem Systeme überhaupt keine Zahl, welche die Aufgabe löst.
+Man kann dann rationale Zahlen $M, N$ so bestimmen, dass 
+$$
+\frac{M}{N}b - a
+$$
+kleiner als irgend eine gegebene kleine Grösse ist. Die Operation, 
+welche durch $X$ dargestellt wird, kommt also der Theilung und
+Vervielfachung, welche in $\frac{M}{N}$ ausgedrückt ist, im Resultat
+so nahe als man will, ohne jedoch je mit ihr zusammenzufallen. Da $Xb$ 
+als eine, mit $\frac{M}{N}b$ verwandte Operation erscheint, so nennt man $X$ 
+ebenfalls eine Zahl, eine <dfn>irrationale</dfn>, für welche in unserem 
+Systeme kein Zeichen vorhanden ist, und welche eben nur durch 
+$X = \frac{a}{b}$ bezeichnet werden kann. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Ausser dieser Aufgabe, der Division incommensurabler Grössen, gibt es
+noch eine unbegrenzte Anzahl anderer, z. B. Wurzelausziehungen,
+Grenzwerthe von unendlichen Summen, Producten, Kettenbrüchen u.s.w.,
+welche in unserem Systeme der rationalen Zahlen einer Lösung nicht
+fähig sind. Wenn es aber rationale Zahlen gibt, welche der gestellten
+Forderung behebig genau genügen, so wird man die Aufgabe als durch
+eine irrationale Zahl
+<a lang="de" class="origpage" id="S.59" title="Seite 59"></a>
+lösbar ansehen, der an der zu Grunde gelegten Einheit eine Operation
+entspricht, welche Theilungen und Vervielfältigungen wenigstens
+verwandt ist.
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.59" title="Page 59"></a>
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Das Princip der Permanenz wird uns hier sofort die Bedeutung der
+Summe, des Productes von irrationalen Zahlen mit um so grösserer
+Leichtigkeit geben, als das Resultat der Verknüpfung von irrationalen
+Zahlen unter einander oder mit rationalen, dem Resultate der
+entsprechenden Verknüpfung beliebig naher rationaler Zahlen auch immer
+beliebig nahe kommen muss. Eine einfache Exhaustionsmethode, bei deren
+Ausführung wir hier nicht zu verweilen brauchen, gibt dann den Satz,
+dass <em>für irrationale Zahlen genau dieselben Operationsregeln als
+für rationale gelten</em>. Somit ist mit einem Schlage die in
+[§. 12](#pz12) gelassene Lücke ergänzt.
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Die rationalen Zahlen im Verein mit den zwischen sie interpolirten und
+ihre Reihe zu einer stetigen vervollständigenden irrationalen nennt man
+die reellen Zahlen. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="text-small">
+<div class="parallel">
+<p lang="de">
+Die von einer irrationalen Zahl geforderte Operation kann als möglich
+gedacht werden, wenn das System der gleichartigen Grössen, mit dem wir
+operiren, ein stetiges ist. Dann wird es eine Reihe von
+Zahlenoperationen geben, welche, so lange sie noch nicht in's
+unendliche fortgesetzt ist, immer noch von der verlangten abweicht,
+aber ihr immer und unbegrenzt näher kommt. Die verlangte Operation
+kann dann durch die ideale Vollendung einer unendlichen Reihe von
+Zahlenoperationen ausgeführt gesetzt werden. Insofern nun eine solche
+unendliche Fortsetzung eben in ihrer Vollendung unfassbar ist, und
+jederzeit auf einen Widerspruch führt, müssen wir behaupten, dass die
+irrationalen Zahlen unmöglich sind, so lange nicht ein Mittel gefunden
+ist, solche auf andere Weise als durch Theilung und Vervielfachung und
+überhaupt durch <em>Zahlenoperationen</em> darzustellen. Ein solches
+Mittel bietet nun die Geometrie in ihren von jedem Zahlbegriff
+unabhängigen <em>Grössenoperationen</em> dar, aber nur indem sie den
+Begriff des Stetigen, in dem eben jener Widerspruch versteckt ist, als
+einen gegebenen ansieht[.]{.corrected} Das reine, von jeder Anschauung
+losgelöste Denken kann das Unendliche nicht erfassen, die formale
+Zahlenlehre nicht das Irrationale. Die Anschauung aber bedarf des
+Stetigen: Die Geometrie beweist die <em>Existenz</em> des
+Irrationalen.
+</p>
+<p lang="en">
+The [operation]{.origphrase title="Operation"} postulated from an
+irrational number can be conceived as possible if the homogeneous
+system of magnitudes with which we are
+[operating]{.origphrase title="operiren"} is a continuous one.
+Then there will be a series of
+[number operations]{.origphrase title="Zahlenoptionen"} which, so long
+as it is not continued into the infinite, will always deviate from the
+one required, but comes closer to it without limit. The required
+operation can then be supposed to be carried out through the ideal
+completion of an infinite series of number operations. Now insofar as
+such an infinite continuation in its completeness is
+[inconceivable]{.origphrase title="unfassbar"} and leads every time to
+a contradiction, we must claim that the irrational numbers are
+impossible, as long as no means has been found to present them in any
+other way than through [division]{.origphrase title="Theilen"} and
+[multiplication]{.origphrase title="Vervielfachung"} and through
+<em>number operations</em> in general. Geometry presents such a means
+in its <em>magnitude operations</em>, which are independent of every
+concept of number, but only by looking at the concept of continuity,
+in which that very contradiction is hidden, as a given. Pure thought,
+detached from every intuition, cannot grasp the infinite; the formal
+theory of numbers cannot grasp the irrational. Intuition however
+requires the continuous: geometry proves the <em>existence</em> of the
+irrational.
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Während wir die rationalen Zahlen auf eine gesetzmässige Weise aus
+einer Einheit durch Vervielfachen und Theilen bilden, sie dem
+entsprechend principmässig bezeichnen und aus einer geringen Anzahl
+von Zeichen (im dekadischen Zahlensysteme von 10) zusammensetzen
+konnten, so können die irrationalen Zahlen durch ein solches Verfahren
+nicht, sondern nur durch ein
+<a lang="de" class="origpage" id="S.60" title="Seite 60"></a>
+stetiges Operiren an der Einheit gewinnen werden und entziehen sich
+daher, weil sie nicht discret zum Bewusstsein kommen, einer solchen
+<em>systematischen Bezeichnung mit Nothwendigkeit</em>. Nur gewisse
+Klassen von irrationalen Zahlen, z. B. $\sqrt{2}, \sqrt[3]{5},
+\sqrt{2 + \sqrt{2}}, \ldots$ welche in einfachen Beziehungen zu
+rationalen stehen, können wieder nach einem bestimmten Princip
+bezeichnet werden. Im Allgemeinen wird man sich irgend welcher Zeichen
+für irrationale Zahlen bedienen müssen; für gewisse Irrationalen hat
+man in $\pi, e,$ u.s.w. recipirte Zeichen, die erst ihre Bedeutung
+erhalten, indem man z. B. $e$ durch die unendliche Reihe: 
+$$
+e = 1 + \frac{1}{1} + \frac{1}{2} + \frac{1}{2\cdot 3} +
+    \frac{1}{2\cdot 3\cdot 4} + \ldots
+$$
+definirt. Der Begriff der unendlichen Reihe, überhaupt der Grenze,
+ist, nachdem wir den Begriff der Grösse eingeführt haben, welche schon
+eine vollendete an sich ist, und nicht erst durch diesen
+Summationsprocess erzeugt werden soll, nicht mehr unzulässig.
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.60" title="Page 60"></a>
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Die Alten haben die Schwierigkeit, welche es hat, von discreten
+Grössen und deren begrifflichem Ausdruck, den Zahlen als <q>einer aus
+Einheiten bestehenden Menge</q> (deren Eigenschaften im VI.--IX. Buche
+von [Euklid]{.sc}'s Elementen behandelt sind) zu den stetigen Grössen,
+welche in einer dem transscendentalen Schema des Extensiven vollkommen
+adäquaten geometrischen Form und mit besonderer Rücksicht auf
+geometrische Grössen, im V. und X. Buche der Elemente behandelt sind,
+überzugehen, für so gross gehalten, dass sie das Irrationale dem
+Zahlbegriff gar nicht unterordneten, vielmehr ausdrücklich
+behaupteten: <q>Incommensurable Grössen verhalten sich nicht wie
+Zahlen zu einander</q> ([Euklid]{.sc}'s Elem. X, 7, vergl. S. 65). Die
+Aufhebung dieser Beschränkung des Zahlbegriffes, die den Alten
+unmöglich schien, seit dem 16. Jahrhundert aber mit grosser, ja man
+kann wohl sagen, allzugrosser Leichtigkeit und ohne allen Widerstand
+durchgeführt wurde, hat die Functionenlehre und damit die ganze neuere
+Mathematik möglich gemacht und deren Charakter bestimmt. Wenn es wahr
+ist, dass, wie [Whewell]{.sc} meint, das Wesen der Triumphe der
+Wissenschaft und ihres Fortschrittes darin besteht, dass wir
+veranlasst werden, Ansichten, welche unsere Vorfahren für
+unbegreiflich hielten und unfähig waren zu begreifen, für evident und
+nothwendig zu halten, so war die Erweiterung des Zahlenbegriffes auf
+das Irrationale, und wollen wir sogleich hinzufügen, das Imaginäre,
+der grösste Fortschritt, den die reine Mathematik jemals gemacht hat.
+</p>
+<p lang="en">...</p>
+</div>
+</div> <!-- .text-small -->
+
 
 ### [§17. Die negativen Zahlen in der allgemeinen Grössenlehre]{lang="de"} [§17. The negative numbers in the general theory of magnitude]{lang="en"} {#pz17 .pz}
 
+<div class="parallel">
+<p lang="de">
+Haben wir nun im Vorstehenden die Division vorgenommen, 
+und wurden wir durch die Absicht, sie allgemein auszuführen, auf 
+<a lang="de" class="origpage" id="S.61" title="Seite 61"></a>
+die gebrochenen Zahlen geführt, so gehen wir jetzt über auf die 
+Lysis der Addition von gleichartigen Grössen, welche durch $Ae, Be\ldots$
+dargestellt werden können, wo $A, B$ positive Zahlen sind. 
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.61" title="Page 61"></a>
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Die Gleichung 
+$$
+x + Be = Ae 
+$$
+wird stets auflösbar sein, wenn $Be < Ae$ und gibt $x = (A - B)e$, 
+wo nun diese Differenz ganz den früheren, formal entwickelten 
+Regeln genügt, und 
+$$
+x = (A - B)e = Ae - Be 
+$$
+gesetzt werden kann. Die Differenz $(Ae - Be)$ wird durch die 
+actuelle Operation des Wegnehmens der $B$ Einheiten von den $A$ 
+realisirt. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Enthält aber $Be$ mehr Einheiten als $Ae$, so ist ein solches 
+Wegnehmen im eigentlichen Sinne nicht mehr zulässig, wenigstens 
+dann nicht, wenn man unter $e$ eine eigentliche Substanz versteht. 
+Bedeutet aber $e$, dessen Inhalt bis jetzt keinen Bestimmungen 
+unterlogen hat, eine Relation (zwischen Objecten), deren positive
+Setzung ein conträres Gegentheil in der negativen Setzung 
+hat, so dass eine $A$malige positive Setzung sich mit der $A$maligen 
+negativen im Resultate gänzlich aufhebt, d. h. eine Relation eines 
+Objectes zu sich selbst gibt, so kann die Subtraction allgemein
+ausgeführt werden (vergl. [S. 5](#S.5)). 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Bezeichnet man die zu $e$ entgegengesetzte Relation mit $(-e)$ 
+und deren $B$malige Wiederholung mit $B(-e)$, während die 
+ursprüngliche Relation mit $+e$ bezeichnet werden kann, so wird 
+die Gleichung 
+$$
+x + Be = Ae 
+$$
+durch $x = Ae + B(-e)$ in dem Falle, dass $Be > Ae$ ist gelöst.
+Bezeichnet man aber die Lösung der Gleichung ganz allgemein mit
+$Ae - Be$, so hat man $B(-e) = -Be$ oder $= (-B)e$ 
+zu setzen, wo man im letzteren Falle das negative auf das $B$
+übertragen hat. Hienach darf denn $x = (A - B)e$ als allgemeine 
+Lösung jener Gleichung angesehen werden, wenn die Differenz 
+$(A - B)$ ganz die in [§. 10](#pz10) formaliter dargestellten 
+Eigenschaften besitzt, und zwar auch die auf die Multiplication
+bezüglichen. Denn mag $A$ eine positive oder negative Zahl sein,
+die Sätze über die 
+<a lang="de" class="origpage" id="S.62" title="Seite 62"></a>
+wiederholte Setzung, das associative und distributive Princip wie sie
+in [§. 14](#pz14) für die absolute Setzung angenommen werden mussten,
+gelten jetzt unverändert.
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.62" title="Page 62"></a>
+...
+</p>
+</div>
+
+<div class="text-small">
+<div class="parallel">
+<p lang="de">
+Wenn auch der Begriff des Negativen auf vielerlei Arten von Grössen angewandt
+werden kann (vergl. hierüber den interessanten Aufsatz von [Kant]{.sc}: 
+[<cite>Versuch den Begriff der negativen Grössen in die Weltweisheit
+einzuführen.</cite>
+Sämmtliche Werke von [Rosenkranz]{.sc} und [Schubert]{.sc}
+Bd. I, S. 113][KantRosenkranzSchubertNM]),
+so sind doch vor allen Dingen die räumlichen und die zeitlichen
+Vorstellungen geeignet, ihn zur klaren Anschauung zu bringen.
+Namentlich bietet er sich in dem Begriffe der Zeit am natürlichsten
+dar. Wenn jedoch [Hamilton]{.sc} (vergl. oben [S. 17](#S.17)) meint,
+man müsse deshalb die ganze Lehre von den Zahlen auf die Phoronomie
+basiren, so scheint mir doch, wenn man einmal das abstracte Fundament
+aufgeben will, die Geometrie viel geeigneter, dies zu liefern; denn
+schon das Irrationale, noch viel mehr aber das Imaginäre, ist in der
+Zeit etwas durchaus nicht Anschauliches, von den vielen anderen
+Vorzügen der räumlichen Anschauung hier ganz abzusehen.
+</p>
+<p lang="en">...</p>
+</div>
+
+[KantRosenkranzSchubertNM]: https://archive.org/details/immanuelkantssm00schugoog/page/113/mode/2up
+
+<div class="parallel">
+<p lang="de">
+[Anmerkung]{.pname} zu den [§§. 14](#pz14)--[17](#pz17).
+Es ist von grosser Wichtigkeit zu bemerken, dass die erwähnten §§.
+keine Eigenschaft enthalten und enthalten können, welche ein,
+algebraisch gesprochen, additives Setzen von einem multiplicativen
+unterschieden; oder abstracter, das Zeichen $Ae$ bedeutet nichts
+weiter als eine gewisse an $e$ vorzunehmende Operation, welche
+gewissen Gesetzen genügt. Es hat daher nichts Widersprechendes, wenn
+wir statt $Ae$ das Zeichen $e^A$ gebrauchen, d.\ h.\ wenn wir unter
+$e^A$, $A$ Factoren $e$ verstehen; denn wenn man die Zahlen
+$1, 2, 3,\ldots$ durch die Reihe: 
+$$
+e^1e^1 = e^2, e^2e^1 = e^3, \ldots
+$$
+bildet, so darf man 
+$$
+e^{A+B} = e^Ae^B
+$$
+setzen, wo unter $(A + B)$ die Summe in dem Sinne des [§. 9](#pz9)
+zu verstehen ist. Bringt man die Operation $B$ an $e^A$ an, so ist 
+$$
+(e^A)^B = e^{(AB)}
+$$
+zu setzen. Denn die distributive Eigenschaft ist in den Formeln 
+\begin{align*}
+(e^A)^(B+\Gamma) &= e^{AB}e^{A\Gamma} \\
+[e^{(A + B)}]^\Gamma &= e^{A\Gamma}e^{B\Gamma} 
+\end{align*}
+erfüllt. Es ist hienach klar, wie die Gleichung 
+$$
+(e^B)^X = e^A
+$$
+aufgelöst werden kann, und wie auch negative Exponenten zulässig sind, um 
+$e^{A-B}$ in jedem Falle ausführbar zu machen. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Man sieht hieraus, dass es in der That nicht genau war (s. [S. 57](#S.57)),
+$Ae$ als Product anzusehen. Denn wenn die Bezeichnung $e^A$ dafür
+angewandt, und was leidit geschehen kann, eine diesem Zeichen in
+seiner algebraischen Bedeutung
+<a lang="de" class="origpage" id="S.63" title="Seite 63"></a>
+entsprechende reale Operation untergelegt wird, so würde jene Verknüpfung
+ganz anderer Natur sein, obgleich sie genau denselben Gesetzen unterliegt. 
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.63" title="Page 63"></a>
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Es liegt hierin zugleich ein Beispiel vor, wie die formalen Zahlen zur
+Bezeichnung von höheren Operationen in einem gewissen Zahlengebiet dienen 
+können, welchen Gesichtspunkt der Operationscalcul weiter zu verfolgen hat 
+(vergl. [S. 13](#S.13)). 
+</p>
+<p lang="en">...</p>
+</div>
+
+</div> <!-- .text-small -->
+
+
+
 ### [§18. Das Operationssystem der Euklid'schen Geometrie]{lang="de"} [§18. The system of operations of Euclidean geometry]{lang="en"} {#pz18 .pz}
+
+<div class="parallel">
+<p lang="de">
+Der Begriff der stetigen Grösse, mit dem wir bisher operirt 
+haben, findet sein anschaulichstes Substrat in geometrischen Gebilden,
+der Strecke, dem Flächenraum, dem körperlichen Inhalt. 
+Ein System von Operationen, welches dem der gemeinen arithmetischen
+4 Species genau entspricht, und uns überdem in den Stand 
+setzt, auch die Multiplication, die im Allgemeinen in anderen 
+Grössengebieten nicht ausführbar ist, an jenen geometrischen 
+Grössen mit gewissen Beschränkungen zu vollziehen, liefert uns die 
+Geometrie des [Euklid]{.sc}: 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Unter einer Summe zweier Strecken $a, b$ versteht man die 
+Strecke $c$, welche durch deren Aneinanderlegen in gerader Linie 
+und so, dass eine Strecke ganz ausserhalb der anderen liegt, entsteht.
+Es leuchtet ein, dass dann: 
+$$
+a + b = b + a, a + (b + c) = (a + b) + c.
+$$
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Unter $a - b$ versteht man die Strecke, welche übrig bleibt, 
+wenn man $b$ von einem Endpunkte des $a$ an so abträgt, dass $b$ 
+innerhalb $a$ liegt; diese Operation ist nur möglich, wenn $a > b$. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel text-small">
+<p lang="de">
+Wie man die Addition und Subtraction auszuführen habe, lehrt
+[Euklid]{.sc} (Elemente I, 2 und 3). Es scheint mir, die
+Commutativität und Associativität der Addition der Strecken hätten in
+strenger Entwickelung als <em>Lehrsätze</em> aufgeführt werden sollen.
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Ehe man aber vorstehende Operationen definitiv mit jenen Namen
+bezeichnen darf, muss eine der Multiplication entsprechende Operation
+definirt werden können.
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Unter dem Producte $a\cdot b$ verstehen wir das Rechteck, welches 
+die Strecken $a, b$ zu Seiten hat, und zwar seiner Fläche nach. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<a lang="de" class="origpage" id="S.64" title="Seite 64"></a>
+
+<a lang="en" class="origpage" id="p.64" title="Page 64"></a>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Die distributive Eigenschaft 
+$$
+a(b + c) = ab + ac
+$$
+beweist [Euklid]{.sc} II, 1 und da man in diesem Sinne ohne weiteres 
+$$ 
+a b = b a 
+$$
+setzt, also die Fläche nur insofern berücksichtigt, als sie von den 
+Strecken selbst, nicht von ihrer Reihenfolge abhängig ist, so hat 
+man auch 
+$$
+(a + b)c = ac + bc
+$$
+und es sind somit die Multiplicationsgesetze erwiesen, wenn noch 
+$$
+a(bc) = (ab)c. 
+$$
+Es folgt aber diese associative Eigenschaft sofort aus der
+Festsetzung, dass $a(bc) = (ab)c = abc$ ein rechtwinkliges
+Parallelepipedum mit den Seitenlängen $a, b, c$ seinem Inhalte nach
+bezeichnet. Dass dann auch bei 3 Factoren das commutative Princip
+erfüllt ist und dass ebenso das distributive Princip gilt, ist ohne
+Weiteres klar, wenn man sich noch erinnert, dass man ([Euklid]{.sc} I,
+42, 43, 44) ein Rechteck stets in ein anderes von gegebener Grundlinie
+verwandeln und daher eine Summe von Rechtecken stets wieder als ein
+solches darstellen kann. Ein Product von 4 Strecken hat keine
+geometrische Bedeutung.
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Der Quotient $\frac{a}{b}$ zweier Strecken muss der Gleichung 
+$$
+\frac{a}{b}b = a
+$$
+genügen, kann daher nichts anderes bedeuten, als eine gewisse 
+Verkleinerung oder Vergrösserung der Strecke $b$, so dass eben $a$ 
+aus ihr hervorgeht, und ist also keine Grösse.--- 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Stellt man durch Vervielfachen und Theilen aus einer Strecke $e$ 
+alle anderen dar, so wird man jede solche 
+$$
+a = Ae 
+$$
+setzen können, wo $A$ eine rationale Zahl ist; zwischen den so
+erhaltenen Strecken liegen noch andere, die mit $e$ incommensurabel 
+sind und durch $Ae$ mit irrationalem $A$ dargestellt werden. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Ist nun eine solche Darstellung der Strecken durch Zahlen 
+möglich, so fragt es sich doch, ob das, was wir Summe und Product 
+zweier Strecken genannt haben, sich auch durch Addition und 
+Multiplication jener Zahlen ausdrücken lässt. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<a lang="de" class="origpage" id="S.65" title="Seite 65"></a>
+
+<a lang="en" class="origpage" id="p.65" title="Page 65"></a>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Dass dies bei der Addition der Fall ist, bedarf keiner Erörterung. 
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+So lange $A, B$ rational sind, kann man leicht zeigen, dass das 
+Product der Strecken im obigen Sinne: 
+$$
+ab = Ae \cdot Be = (AB)ee 
+$$
+ist, und man schliesst daraus auch auf Gültigkeit dieser Gleichung 
+für Strecken, die gegen $e$ incommensurabel sind. Ebenso ist immer: 
+$$
+abc = AB\Gamma\cdot eee 
+$$
+und obige Definition des Quotienten liefert den Satz, dass 
+$$
+\frac{a}{b} = \frac{Ae}{Be} = \frac{A}{B}.
+$$
+Die den allgemeinen formalen Bedingungen der Addition und
+Multiplication genügenden [Euklid]{.sc}'schen geometrischen
+Operationen können somit, wenn die Strecken durch $Ae$ dargestellt
+werden, wo $A$ eine positive Zahl bedeutet, durch die gewöhnlichen
+arithmetischen entsprechenden Operationen ersetzt werden: In einem
+Producte von 2 oder 3 Grössen sind die Factoren $e$ mit ihren
+Zahlencoefficienten jederzeit vertauschbar. Das System der reellen
+positiven Zahlen mit seinen Operationen kann das ganze System von
+Strecken mit seinen Operationen vollkommen vertreten.
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="text-small">
+<div class="parallel">
+<p lang="de">
+Ich habe mich hier der heute gewöhnlichen Darstellung, welche die
+irrationalen Zahlen als Grenzfälle der rationalen behandelt,
+anschliessen zu sollen geglaubt und zwar einzig aus dem Grunde, um
+nicht ein Kapitel einschalten zu müssen, welches, den Elementen der
+Geometrie entlehnt, allerdings in einem vollkommen strengen Systeme
+der Mathematik nicht fehlen darf, welches aber in diesem Werke nicht
+von wesentlicher Bedeutung wäre. Doch können wir die Bemerkung nicht
+unterdrücken, dass die heut zu Tage [übliche]{.corrected} Behandlung
+der irrationalen Grössen in der Geometrie eine der Sache nicht
+adäquate ist, insofern sie in der unnatürlichsten Weise das
+Zusammengehörige trennt und das Stetige, als welches ein geometrisches
+Gebilde seinem Wesen nach erscheint, in die Fessel des Discreten
+zwingt, welche es dennoch jeden Augenblick wieder zerreisst. Es gibt
+nur <em>einen</em> wissenschaftlichen Weg, die Lehre von der
+Aehnlichkeit, die heute auf die Darstellung der Strecken in der Form
+$a = Ae$ und auf die Rechnungsregeln der Zahlen gegründet zu werden
+pflegt, zu behandeln und dieser ist der von [Euklid]{.sc} 
+im 5. und 6. Buche seiner Elemente eingeschlagene---ein Weg, der seit
+lange nicht anerkannt, ja sogar meistens vollständig missverstanden
+worden ist, der aber an Strenge, Eleganz und Sachgemässheit nicht
+übertroffen werden kann. Auf diesem erscheint das Irrationale als dem
+Rationalen vollkommen gleichartig;
+<a lang="de" class="origpage" id="S.66" title="Seite 66"></a>
+die Aehnlichkeitslehre beruht auf einer Definition der Proportion,
+welche von jenem Unterschiede gänzlich abstrahirt und abstrahiren
+muss, weil sie die Grössen bereits als fertige und nicht durch einen
+unstetigen Process zerstückte ansieht. Erst aus der Aehnlichkeitslehre
+ergibt sich der wahre Begriff der Zahl $A$, welche in der Verbindung
+$Ae$ eine <em>Streckung der Einheit $e$ in einem gegebenen
+Verhältnisse ausdrückt</em>.
+</p>
+<p lang="en">...
+<a lang="en" class="origpage" id="p.66" title="Page 66"></a>
+...
+</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+
+Zufolge der Lehre von der [Aehnlichkeit]{.corrected} muss jede
+Relation zwischen Strecken $a, b,\ldots$ ihren Producten und
+Quotienten unabhängig von der Einheits-Strecke $e$ sein, durche welche
+alle Strecken $a = Ae, b = Be,\ldots$ ausgedrückt werden, muss also
+zwischen den Zahlen $A, B,\ldots$ selbst stattfinden. <em>Hierauf
+[beruht]{.corrected} die Möglichkeit der [Berechnung]{.corrected}</em>
+geometrisch zusammenhängender Gebilde auseinander und daher die
+Möglichkeit der <em>Anwendung arithmetischer und algebraischer Sätze
+auf die Geometrie</em>. Wenn [Legendre]{.sc .corrected}
+([<cite lang="fr">Éléments de Géom.</cite>][LegendreElem] II. Note)
+umgekehrt aus der vorausgesetzten Anwendbarkeit der Algebra auf die
+Geometrie die Aehnlichkeitslehre ableiten will, so ist dies ein
+[ὒστερον πρότερον]{lang="grc"} vor welchem das Studium des [Euklid]{.sc} die
+Wissenschaft hätte [bewahren]{.corrected} können (vgl. [Möbius]{.sc}
+[<cite><abbr title="Der barycentrische">baryc.</abbr> Calcul</cite>][MoebiusBC]
+S. 190 und [Brewster]{.sc}
+[Uebersetzung der Éléments [Legendre]{.sc}'s Note II][BrewsterLegendreElemNII]).
+</p>
+<p lang="en">...</p>
+</div>
+
+[LegendreElem]: https://archive.org/details/lmentsdegomtrie02legegoog
+[MoebiusBC]: https://archive.org/details/gesammeltewerke01mbgoog/page/n25/mode/1up
+[BrewsterLegendreElemNII]: https://archive.org/details/elementsgeometr01brewgoog/page/n264/mode/2up?view=theater
+
+<div class="parallel">
+<p lang="de">
+Verliert die Aehnlichkeitslehre ihre Richtigkeit, so ist die
+Grössenbeziehung von gesetzmässig [auseinander construirten]{.corrected}
+Strecken nicht mehr unabhängig von der zu Grunde gelegten Einheit,
+[reducirt]{.corrected} sich also nicht auf eine [Zahlenbeziehung]{.corrected}.
+</p>
+<p lang="en">...</p>
+</div>
+
+<div class="parallel">
+<p lang="de">
+Dieser Fall mit allen seinen paradoxen Forderungen tritt aber ein, wenn 
+das [Euklid]{.sc}'sche Postulat der Parallelentheorie nicht mehr gilt,
+in der <dfn>transscendentalen</dfn> Geometrie, wie sie von [Gauss]{.sc}
+(bereits im Jahre 1792, s. Briefwechsel mit [Schumacher]{.sc},
+[Bd. II][GaussSchumacherII], S. 269
+und S. 431, [Bd. V][GaussSchumacherV], S. 47), von [Johann Bolyai]{.sc}
+([<cite>Tentamen juventutem stud. in elementa math.
+... introducendi</cite>][Bolyai1832], Maros Vasarhelyini 1832, Bd. I. Appendix)
+und [Lobatschewsky]{.sc}
+([<cite>Geom. Unters. z. Theorie der Parallellinien</cite>][Lobatschewsky1887],
+Berlin 1840) entwickelt worden ist. <q>In dieser Geometrie gibt es gar
+keine ähnliche Figuren ohne Gleichheit, z. B. die Winkel eines
+gleichseitigen Dreiecks sind nicht blos von $\frac{2}{3}R$, sondern
+auch nach Massgabe der Grösse der Seite unter sich verschieden und
+können, wenn die Seite über alle Grenzen wächst, so klein werden, wie
+man will. ... Hierin ist aber nichts Widersprechendes, wenn der
+endliche Mensch sich nicht vermisst, etwas Unendliches als etwas
+Gegebenes und von ihm mit seiner gewohnten Anschauung zu Umspannendes
+betrachten zu wollen. --- Sie sehen, dass hier in der That der
+Fragepunkt unmittelbar an die Metaphysik streift.</q> (Gauss, Brief
+von 1831, a.\ a.\ O., Bd. II, S. 269).
+</p>
+<p lang="en">...</p>
+</div>
+
+[GaussSchumacherII]: https://archive.org/details/bub_gb_szEDAAAAQAAJ/
+[GaussSchumacherV]: https://archive.org/details/bub_gb_bH0_AQAAIAAJ/
+[Bolyai1832]: https://archive.org/details/tentamenjuventut01boly
+<!-- TODO: this is a later reprint; haven't found the 1840 edition: -->
+[Lobatschewsky1887]: https://archive.org/details/geometrischeunt00loba/
+
+</div> <!-- .text-small -->
+
+
+
+
+
+
 
 
 
