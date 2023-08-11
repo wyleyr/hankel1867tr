@@ -30,14 +30,16 @@ I am hoping to make the work more accessible to an English-speaking
 audience (and their search engines and browsers).
 
 I am also using the project to experiment with the possibilities of
-publishing a translation in a "hypertext-first" format. HTML offers a
-lot of possibilities which scholars have so far not made much use of.
-This is partly because digital texts are hard to cite by traditional
-means (e.g. with page numbers); thus I am taking care to encode the
-features of the original text in the markup (see [MARKUP.md](./MARKUP.md)).
+publishing a translation in a "hypertext-first" format: linking to
+works Hankel cites, representing his formulas in MathML, showing the
+original phrase for certain translations in mouse-over text, and so
+on. Because digital texts are hard to cite by traditional means (e.g.
+with page numbers), I am also taking care to encode the features of
+the original text in the markup. See [MARKUP.md](./MARKUP.md) for more
+information about how these features are represented.
 
 At the moment, it is not my goal to translate the whole book, which is
-mostly just a mathematics textbook that is by now quite outdated. Its
+mostly just a mathematics textbook that is by now outdated. Its
 interest lies mainly in its historical importance and in the
 philosophical approach to the foundations of mathematics which Hankel
 sets out in the initial chapters of the book. The translation is
