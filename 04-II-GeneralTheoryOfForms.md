@@ -80,7 +80,7 @@ applied to, are possible and
 if $a$ and $b$ are given, then $\Theta(a,b)$ and likewise
 $\lambda(a,b)$ have only a
 <a lang="en" class="origpage" id="p.19" title="Page 19"></a>
-single [interpretation]{.origphrase title="Bedeutung"}, so that all
+single [meaning]{.origphrase title="Bedeutung"}, so that all
 objects which may be posited for the result of these
 [combinations]{.origphrase title="Verbindungen"} are among themselves
 [entirely equal]{.origphrase title="vollkommen gleich"} and can thus

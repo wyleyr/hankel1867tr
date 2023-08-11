@@ -693,13 +693,13 @@ verwandelt werden, indem man sagt: Unter der Addition von Grössen
 versteht man eine Operation, welche diesen 3 Sätzen genügt.
 </p>
 <p lang="en">
-The three principles given here are entirely of the character of common
-notions. They become completely evident through an explication; they
-are valid for all domains of magnitudes according to the pure
-intuition of magnitude; and they can, without forfeiting their character,
-be transformed into definitions, by saying: by the addition of
-magnitudes is understood an operation which satisfies these three
-principles.
+The three principles given here are entirely of the character of
+common notions. They become completely evident through an explication;
+they are valid for all domains of magnitudes according to the pure
+intuition of magnitude; and they can, without forfeiting their
+character, be transformed into definitions, by saying: one understands
+by 'addition of magnitudes' an operation which satisfies these three
+statements.
 </p>
 </div>
 

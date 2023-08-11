@@ -741,7 +741,7 @@ mit <em>Nothwendigkeit</em>.
 It cannot be emphasized sharply enough, in opposition to a very widely
 held view, that these equations in formal mathematics can never
 be *proven*; they are *arbitrary conventions* for the preservation of
-the formalism in the calculus. (If one on the other hand considers the
+the formalism in the calculus. (If on the other hand one considers the
 numbers as representatives of the points of a line, or, as it has
 sometimes more abstractly been put, of [a progression]{.origphrase
 title="des Fortschrittes"}, then one can indeed prove the equations,
