@@ -545,7 +545,7 @@ braucht, um den ganzen stolzen Bau zum Umsturz zu bringen!
 <p lang="en">
 The view according to which
 [the facts of addition and multiplication]{.origphrase
-title="das Eins-und-eins sowie das Ein-mal-eins"} <!-- TODO: tr note -->
+title="das Eins-und-eins sowie das Ein-mal-eins"}<sup>[A](#p.53nA){#p.53nAref .trnref}</sup>
 manifest an unlimited series of axioms, even if Kant
 shrinks from this name, is so inadequate and paradoxical that one
 hardly understands how one could content oneself with it. Indeed,
@@ -568,6 +568,19 @@ although only one single link needs to falter to bring the
 entire proud construction to the ground!
 </p>
 </div>
+
+<aside class="parallel footnote trnote">
+<p lang="de"></p>
+<p lang="en" id="p.53nA">A\)
+Hankel's expression <i lang="de">das Ein-mal-eins</i> is still used in German
+to refer to the
+[elementary multiplication tables](https://de.wikipedia.org/wiki/Einmaleins).
+The parallel expression <i lang="de">das Ein-und-eins</i> does not seem to have
+been widely used, but it is clear from the context that Hankel is
+using the two expressions to refer to the facts of elementary arithmetic.
+</p>
+</aside>
+
 
 <div class="parallel">
 <p lang="de">
