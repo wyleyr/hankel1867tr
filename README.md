@@ -2,11 +2,13 @@
 
 # A Translation of Hankel's *Vorlesungen*
 
-This is a work-in-progress English translation of Hermann Hankel's 1867
-*Vorlesungen über die complexen Zahlen und ihre Functionen*
-("Lectures on complex numbers and their functions"), a textbook on complex 
-analysis that played an important role in the transition to modern mathematics
-in nineteenth century Germany.
+This is a work-in-progress English translation of Hermann Hankel's
+1867 *Vorlesungen über die complexen Zahlen und ihre Functionen, I.
+Theil: Theorie der Complexen Zahlensysteme* ("Lectures on complex
+numbers and their functions, Part I: Theory of Complex Number
+Systems"), a textbook on complex analysis that played an important
+role in the transition to modern mathematics in nineteenth century
+Germany.
 
 You can view the translation in its present state
 [here](https://wyleyr.github.io/hankel1867tr/).
