@@ -13,8 +13,10 @@
 
     "license": "CC-BY-SA-4.0",
 
-    "title": "Vorlesungen über die complexen Zahlen und ihre Functionen / Lectures on Complex Numbers and their Functions",
+    "title": "Lectures on Complex Numbers and their Functions, Part I: Theory of Complex Number Systems",
 
+    "description": "A transcription and translation of Hermann Hankel's 1867 <i>Vorlesungen über die complexen Zahlen und ihre Functionen, I. Theil: Theorie der Complexen Zahlensysteme</i>, a textbook on complex analysis that played an important role in the transition to modern mathematics in nineteenth century Germany.",
+    
     "related_identifiers": [
         {
             "identifier": "10.15173/jhap.v9i11.5007",
