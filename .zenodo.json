@@ -19,6 +19,11 @@
     
     "related_identifiers": [
         {
+            "identifier": "https://github.com/wyleyr/hankel1867tr/",
+            "relation": "isIdenticalTo",
+            "resource_type": "publication-book"
+        },
+        {
             "identifier": "10.15173/jhap.v9i11.5007",
             "relation": "isDescribedBy",
             "resource_type": "publication-article"
