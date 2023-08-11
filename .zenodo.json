@@ -1,12 +1,13 @@
 {
     "creators": [
         {
+            "gnd": "116453788",
+            "name": "Hankel, Hermann"
+        },
+        {
             "orcid": "0000-0001-6633-0246",
             "affiliation": "Universität Wien",
             "name": "Lawrence, Richard"
-        },
-        {
-            "name": "Hankel, Hermann"
         }
     ],
 
