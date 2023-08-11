@@ -407,8 +407,8 @@ Namen der Axiome zusammengeworfen hat, den Euklid gar nicht kennt,
 denn er hat diesen Unterschied auf das schärfste erkannt: <em>In allen
 Manuscripten</em>, welche [F.\ Peybard]{.sc} zum Zwecke seiner
 vortrefflichen Ausgabe des Euklid ([<cite lang="fr">Les oeuvres
-d'[Euclide]{.sc}, trad. en latin et en français</cite>. I. Bd.
-1814][Peybard1814], s. Varianten S. 454) verglichen hat, <em>befindet
+d'[Euclide]{.sc}, trad. en latin et en français</cite>.
+I. Bd.][Peybard1814] 1814, s. Varianten S. 454) verglichen hat, <em>befindet
 sich der berühmte 11. Grundsatz der Parallelentheorie mit den Sätzen
 vom Gleichen und Ungleichen nicht in einer Kategorie der [χοιναὶ
 ἔννοιαι]{lang="grc"}</em>, sondern figurirt als 5tes <em>Postulat</em>
@@ -819,7 +819,7 @@ $N\left(\frac{1}{N}e\right) = e$
 oder auch 
 $\frac{1}{N}Ne = e$
 und überhaupt $\frac{1}{N}N = 1$ gesetzt werden darf.
-Unter $M\left(\frac{1}{N} e\right) hat man dann übereinstimmend 
+Unter $M\left(\frac{1}{N} e\right)$ hat man dann übereinstimmend 
 <a lang="de" class="origpage" id="S.57" title="Seite 57"></a>
 mit unseren Bezeichnungen in [§. 14](#pz14) diese Grösse
 $\frac{1}{N}e$, $M$ mal gesetzt zu verstehen. Dass 
@@ -1544,7 +1544,6 @@ S. 190 und [Brewster]{.sc}
 
 [LegendreElem]: https://archive.org/details/lmentsdegomtrie02legegoog
 [MoebiusBC]: https://archive.org/details/gesammeltewerke01mbgoog/page/n25/mode/1up
-[BrewsterLegendreElem]: https://archive.org/details/elementsgeometr01brewgoog/
 [BrewsterLegendreElemNII]: https://archive.org/details/elementsgeometr01brewgoog/page/n264/mode/2up?view=theater
 
 <div class="parallel">
@@ -1571,7 +1570,7 @@ und [Lobatschewsky]{.sc}
 ([<cite>Geom. Unters. z. Theorie der Parallellinien</cite>][Lobatschewsky1887],
 Berlin 1840) entwickelt worden ist. <q>In dieser Geometrie gibt es gar
 keine ähnliche Figuren ohne Gleichheit, z. B. die Winkel eines
-gleichseitigen Dreiecks sind nicht blos von $\frac{2}{3}R, sondern
+gleichseitigen Dreiecks sind nicht blos von $\frac{2}{3}R$, sondern
 auch nach Massgabe der Grösse der Seite unter sich verschieden und
 können, wenn die Seite über alle Grenzen wächst, so klein werden, wie
 man will. ... Hierin ist aber nichts Widersprechendes, wenn der
