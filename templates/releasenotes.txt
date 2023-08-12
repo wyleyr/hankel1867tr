@@ -1,0 +1,13 @@
+
+A transcription and translation of Hermann Hankel's 1867 *Vorlesungen
+über die complexen Zahlen und ihre Functionen, I. Theil: Theorie der
+Complexen Zahlensysteme*, a textbook on complex analysis that played
+an important role in the transition to modern mathematics in
+nineteenth century Germany.
+
+This version ($version$, released $date$) contains
+...
+
+The translation is a collaborative project and contributions of all
+kinds are welcome! Please see https://github.com/wyleyr/hankel1867tr/
+to contribute.

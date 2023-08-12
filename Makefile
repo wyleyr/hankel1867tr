@@ -35,3 +35,9 @@ CITATION.cff: templates/CITATION.cff
 		--template=templates/CITATION.cff \
 		-V version=${VERSION} \
 		-V date=${DATE} < /dev/null
+
+prep_release: gh_pages CITATION.cff templates/releasenotes.txt
+	pandoc -t plain \
+		--template=templates/releasenotes.txt \
+		-V version=${VERSION} \
+		-V date=${DATE} < /dev/null
