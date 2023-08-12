@@ -420,7 +420,7 @@ A(B + 1) = AB + A
 <div class="parallel text-small">
 <p lang="de">
 Hienach würde sich der Beweis des als Typus eines apodictischen 
-ürtheils gebräuchlichen Satzes 2.2 = 4, so gestalten: 
+ürtheils gebräuchlichen Satzes $2\cdot 2 = 4$, so gestalten: 
 $2\cdot 2 = 2 (1 + 1) = 2\cdot 1 + 2 = 2 + 2$,
 und $2 + 2 = 2 + (1 + 1) = (2 + 1) + 1 = 3 + 1 = 4$. 
 </p>
