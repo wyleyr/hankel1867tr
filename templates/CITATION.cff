@@ -1,0 +1,36 @@
+type: dataset
+abstract: "A transcription and translation of Hermann Hankel's 1867 Vorlesungen über die complexen Zahlen und ihre Functionen, I. Theil: Theorie der Complexen Zahlensysteme, a textbook on complex analysis that played an important role in the transition to modern mathematics in nineteenth century Germany."
+authors:
+  - family-names: Hankel
+    given-names: Hermann
+  - family-names: Lawrence
+    given-names: Richard
+    orcid: https://orcid.org/0000-0001-6633-0246
+cff-version: 1.2.0
+message: "Please cite this translation using these metadata."
+keywords:
+  - philosophy of mathematics
+  - history of mathematics
+  - mathematical formalism
+  - Gottlob Frege
+title: "Lectures on Complex Numbers and their Functions, Part I: Theory of Complex Number Systems"
+version: $version$
+date-released: "$date$"
+license: CC-BY-SA-4.0
+identifiers:
+  - description: "This is the collection of archived snapshots of all versions of the translation"
+    type: doi
+    value: 10.5281/zenodo.8016825
+  - description: "This is the archived snapshot of version 1.0.1 of the translation"
+    type: doi
+    value: 10.5281/zenodo.8016826
+references:
+  - authors:
+    - family-names: Hankel
+      given-names: Hermann
+    title: "Vorlesungen über die complexen Zahlen und ihre Functionen, I. Theil: Theorie der Complexen Zahlensysteme"
+    url: https://archive.org/details/vorlesungenberd01hankgoog/
+    date-published: 1867
+    publisher:
+    - name: Leopold Voss
+      city: Leipzig

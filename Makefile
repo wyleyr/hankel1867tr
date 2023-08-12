@@ -1,4 +1,5 @@
-VERSION="1.1" # version for next release
+VERSION="1.2-pre" # version for next release
+DATE=$(shell date -I) # date for release
 
 build/parallel.html: parallel.css 00-Titlepage.md 01-Preface.md 02-TOC.md 03-I-Exposition.md 04-II-GeneralTheoryOfForms.md 05-III-RealNumbersInTheirFormalConcept.md 06-IV-RealNumbersInTheTheoryOfMagnitude.md
 	pandoc -o build/parallel.html\
@@ -27,3 +28,10 @@ docs/index.html: build/parallel.html build/parallel.css
 gh_pages: docs/index.html
 	git add docs && \
 	echo "New version staged"
+
+CITATION.cff: templates/CITATION.cff
+	pandoc -o CITATION.cff \
+		-t plain \
+		--template=templates/CITATION.cff \
+		-V version=${VERSION} \
+		-V date=${DATE} < /dev/null
