@@ -981,8 +981,8 @@ $X = \frac{a}{b}$ bezeichnet werden kann.
 <div class="parallel">
 <p lang="de">
 Ausser dieser Aufgabe, der Division incommensurabler Grössen, gibt es
-noch eine unbegrenzte Anzahl anderer, z. B. Wurzelausziehungen,
-Grenzwerthe von unendlichen Summen, Producten, Kettenbrüchen u.s.w.,
+noch eine unbegrenzte Anzahl anderer, z.\ B. Wurzelausziehungen,
+Grenzwerthe von unendlichen Summen, Producten, Kettenbrüchen u.\ s.\ w.,
 welche in unserem Systeme der rationalen Zahlen einer Lösung nicht
 fähig sind. Wenn es aber rationale Zahlen gibt, welche der gestellten
 Forderung behebig genau genügen, so wird man die Aufgabe als durch
@@ -1093,7 +1093,7 @@ Klassen von irrationalen Zahlen, z. B. $\sqrt{2}, \sqrt[3]{5},
 rationalen stehen, können wieder nach einem bestimmten Princip
 bezeichnet werden. Im Allgemeinen wird man sich irgend welcher Zeichen
 für irrationale Zahlen bedienen müssen; für gewisse Irrationalen hat
-man in $\pi, e,$ u.s.w. recipirte Zeichen, die erst ihre Bedeutung
+man in $\pi, e,$ u.\ s.\ w. recipirte Zeichen, die erst ihre Bedeutung
 erhalten, indem man z. B. $e$ durch die unendliche Reihe: 
 $$
 e = 1 + \frac{1}{1} + \frac{1}{2} + \frac{1}{2\cdot 3} +
