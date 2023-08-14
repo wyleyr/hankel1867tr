@@ -959,7 +959,7 @@ Im Vorstehenden haben wir die Gleichung
 $$
 Xb = a 
 $$
-unter den Voraussetzung, dass $b$ und $a$ commensurabel sind, aufgelöst.
+unter der Voraussetzung, dass $b$ und $a$ commensurabel sind, aufgelöst.
 Sind aber diese gleichartigen Grössen $a, b$ incommensurabel, so gibt es
 in unserem Systeme überhaupt keine Zahl, welche die Aufgabe löst.
 Man kann dann rationale Zahlen $M, N$ so bestimmen, dass 
