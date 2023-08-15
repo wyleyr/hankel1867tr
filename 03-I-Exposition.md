@@ -505,7 +505,7 @@ which are impossible in this sense cannot
 <a lang="en" class="origpage" id="p.7" title="Page 7"></a>
 be admitted needs no proof. If however the numbers under consideration
 are logically possible, their concept clear and determinately defined
-for us and thus without contradiction, that question can only come to
+and thus without contradiction, that question can only come to
 this: whether there is in the domain of the real or of the actual in
 intuition, of the Actual, a substrate for them;
 whether there are objects in which the numbers, i.e. intellectual
