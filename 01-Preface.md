@@ -270,7 +270,25 @@ nicht völlig vertraut sind, verweise ich auf die
 von R.\ [Baltzer]{.sc}. ---
 </p>
 <p lang="en">
-...
+In the geometric presentation of the common and higher complex numbers
+and their operations, I have made thorough use of the general ideas about
+the sense of segments, angles, [planar spaces]{.origphrase title="Flächenräume"}
+and [volumes]{.origphrase title="Körperinhalten"}, as [Möbius]{.sc} first
+consistently applied them. These principles give to the formulae and statements
+a form which is completely independent from all particular
+[positional relations]{.origphrase title="Lagen-Verhältnisse"}
+and therefore highly elegant, and which one, having gotten used to them,
+only reluctantly gives up. One must regret that these same principles still
+have found so little acceptance, as e.g. [Hamilton]{.sc}'s writings about
+quaternions (see [p. 195](#p.195) below) are written in the older form.
+That many investigations in this form can become completely unenjoyable
+--- of this may [Hamilton]{.sc}'s presentation at not a few places in his
+<cite class="quoted">Lectures</cite> (e.g. [p. 218][Hamilton1853p218] and ff.)
+serve as a penetrating example. I refer those readers who are not completely
+familiar with the [Möbius]{.sc}ian form of spherical trigonometry, etc.
+to the 
+[<cite class="quoted">Elements of Mathematics</cite>][Baltzer1870]
+by R.\ [Baltzer]{.sc}. ---
 </p>
 </div>
 
@@ -290,9 +308,13 @@ vollständigen Charakterisirung des Wesens jener Systeme nothwendig
 und hinreichend sind. 
 </p>
 <p lang="en">
-...
+In the present first Part, I have limited myself to the development
+of the fundamental properties of the various number systems,
+i.e. to the four fundamental operations of addition, subtraction,
+multiplication and division, which 
 <a lang="en" class="origpage" id="p.IX" title="Page IX"></a>
-...
+are necessary and sufficient for the complete characerization of the
+essence of those systems.
 </p>
 </div>
 
@@ -311,7 +333,16 @@ Reihe, die elliptischen und, soweit es der Raum gestattet, die
 Functionen von Quaternionen gebührende Berücksichtigung finden.
 </p>
 <p lang="en">
-...
+The second Part of this work will contain the theory of functions of
+complex variables, and here too I intend to establish the basic
+concepts strictly and penetratingly, insofar as this will be possible
+in the present state of the science. I will limit myself almost
+exclusively to the functions of common complex variables, and besides
+the basic theory, [Dirichlet]{.sc}'s Principle, [Taylor]{.sc}'s
+Theorem etc., treat especially the theory of integrals with complex
+integral paths, the hypergeometric series, the elliptical and, as far
+as space allows, the [Abel]{.sc}ian functions. The theory of functions
+of quaternions will however receive due consideration.
 </p>
 </div>
 
@@ -332,7 +363,18 @@ Angemessenheit meines, von dem gewöhnlichen zuweilen wesentlich
 abweichenden Gedankenganges gewesen.
 </p>
 <p lang="en">
-...
+The presentation of such a fundamental discipline as that treated here
+must always presuppose not only significant knowledge in the highest
+parts of mathematics but also a certain sensitivity and freedom from
+prejudice---in general, a thinking reader. Such readers will not judge
+the present work by the aphoristic perusal of individual passages
+which, when torn out of context, can easily appear alien or remain
+incomprehensible. The ease with which the apparently so heterogenous
+material joins itself to the systematic ideas which run through
+everything as the common thread, and the consistent connectedness of
+all the individual parts, has been for me the surest guarantee of the
+correctness and appropriateness of my thought process, although it
+occasionally deviates essentially from the usual one.
 </p>
 </div>
 
@@ -353,9 +395,18 @@ gewissen Umkreise zu befriedigen, hat auf mich bei Abfassung
 des vorliegenden Werkes einen wesentlichen Einfluss ausgeübt. 
 </p>
 <p lang="en">
-...
+Recent times in the natural sciences have witnessed a determined striving
+to climb from the world of empirical details to the great principles
+which govern all individual things and unite them under higher points
+of view into a whole:
 <a lang="en" class="origpage" id="p.X" title="Page X"></a>
-...
+the striving toward a philosophy of nature which is not forced from
+outside, but rather flows from the thing itself. In the domain of
+mathematics, too, a related need, which has always been alive in
+England, appears in our time to be making itself ever more generally
+felt. The desire to awaken this need and at least within a certain
+circumscribed area to gratify it has exerted on me an essential
+influence in the composition of the present work.
 </p>
 </div>
 
