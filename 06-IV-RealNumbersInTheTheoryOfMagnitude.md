@@ -80,7 +80,7 @@ neue Grösse, welche aus ihrer Synthesis als Resultat hervorgeht
 und jene beiden in sich enthält. Wir bezeichnen sie mit $(a + b)$, 
 wo jetzt das + Zeichen eine actuelle Operation ausdrückt und mit 
 dem früheren formalen $+$ zunächst nicht verwechselt werden darf.
-Die Summe hat (vergl. [S. 54](#S.49)) die Eigenschaften 
+Die Summe hat (vergl. [S. 54](#S.54)) die Eigenschaften 
 <span class="numbered" id="S.49eq1" data-label="1">
 \begin{equation}
 a + (b + c) = (a + b) + c
