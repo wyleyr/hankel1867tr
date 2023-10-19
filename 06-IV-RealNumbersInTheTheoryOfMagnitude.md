@@ -15,7 +15,11 @@ unmittelbar gegeben. Er bedarf daher nicht einer metaphysischen,
 sein Wesen vollkommen erfassenden Definition, sondern nur einer 
 Exposition. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+The relational concept <q>magnitude</q> is immediately given in pure
+intuition. It is therefore not in need of a metaphysical definition
+grasping its essence, but only an exposition.
+</p>
 </div>
 
 <div class="text-small">
@@ -27,11 +31,22 @@ des zu Erklärenden anzugeben, welche zur weiteren Entwickelung und zur
 Verknüpfung seines Begriffes mit anderen nothwendig erscheinen und
 sind daher trotz ihrer, häufig den logischen Gesetzen einer guten
 Erklärung zuwiderlaufenden Form (s. in [Euklid]{.sc}'s Elem. besonders
-die Definitionen I, 1, 2,. 5; V, 4, 5), zulässig, auch wenn sie die
+die Definitionen I, 1, 2, 5; V, 4, 5), zulässig, auch wenn sie die
 Kategorie, zu welcher der Begriff des zu Erklärenden gehört, nicht
 genauer bezeichnen.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Mathematical definitions, insofar as they do not concern the fixing of
+the use of language, have to specify just those essential properties
+of [what is being defined]{.origphrase title="des zu Erklärenden"}
+which appear necessary for the further development of its concept and
+for the [combination]{.origphrase title="Verknüpfung"} of its concept
+with others, and are therefore admissible, in spite of their
+frequently being in a form contrary to the logical laws of a good
+definition (see in [Euclid]{.sc}'s Elem. especially the definitions I,
+1, 2, 5; V, 4, 5), even if they do not more exactly signify the
+category to which the concept of what is being defined belongs.
+</p>
 </div>
 
 <div class="parallel">
@@ -44,18 +59,55 @@ einer Festsetzung. Eine Analyse des Gebrauches, den [Euklid]{.sc}, der
 unübertreffliche Altmeister strenger mathematischer Methode, von dem
 Begriffe des Grossen macht, gibt folgende Definition:
 </p>
-<p lang="en">...</p>
+<p lang="en">
+With respect to the concept of magnitude, we will accordingly not need
+to define the concept of [quantity]{.origphrase title="Quantität"}, but
+rather that of [quantum]{.origphrase
+title="Quantum"}<sup>[A](#p.48nA){#p.48nAref .trnref}</sup> --- the
+two are unified with one another in the word <q>magnitude</q>.
+For us, it is not what [magnitude]{.origphrase title="Grösse"} is, but rather what
+<q>[sizeable]{.origphrase title="gross"}</q><sup>[B](#p.48nB){#p.48nBref .trnref}</sup> is,
+which is in need of a determination.
+An analysis of the usage which [Euclid]{.sc}, the unbeatable old
+master of rigorous mathematical method, makes of the concept of the sizeable,
+yields the following definition:
+</p>
 </div>
 </div> <!-- .text-small -->
 
+<aside class="parallel footnote trnote">
+<p lang="de"></p>
+<p lang="en" id="p.48nA">A\)
+See [the note on p. 10 above](#p.10nA) for this distinction.
+</p>
+</aside>
+
+<aside class="parallel footnote trnote">
+<p lang="de"></p>
+<p lang="en" id="p.48nB">B\)
+The English words <q>sizeable</q> and <q>magnitude</q> unfortunately
+do not capture the etymological connection between Hankel's words <i
+lang="de">gross</i> (which normally means <i>large</i>, but is here
+used as an adjectival form of "magnitude") and <i lang="de">Grösse</i>
+(which, outside of the technical mathematical context of the theory of
+magnitude, might also be translated <i>size</i> or <i>quantity</i>).
+</p>
+</aside>
+
 <div class="parallel text-sperren">
 <p lang="de">
-Grösse heisst ein Object, wenn es grösser, kleiner als ein anderes,
+<dfn>Grösse</dfn> heisst ein Object, wenn es grösser, kleiner als ein anderes,
 oder ihm gleich ist, und in letzterem Falle ihm überall substituirt
 werden kann; wenn es ausserdem durch wiederholte Position vervielfacht
 (und getheilt) werden kann.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+An object is called a <dfn>magnitude</dfn> when it is larger or smaller than
+another, or equal to it, and in the latter case can substitute for it
+everywhere; when it moreover through repeated [positing]{.origphrase
+title="Position"} can be [multiplied]{.origphrase title="vervielfacht"}
+(and divided). 
+</p>
 </div>
 
 <div class="parallel">
@@ -66,7 +118,7 @@ andere übertreffen kann.
 </p>
 <p lang="en">
 <a lang="en" class="origpage" id="p.49" title="Page 49"></a>
-...
+Magnitudes are of the same type when one can exceed the other when multiplied. 
 </p>
 </div>
 
