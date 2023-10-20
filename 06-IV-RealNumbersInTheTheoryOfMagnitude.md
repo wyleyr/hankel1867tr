@@ -286,7 +286,13 @@ Grössen bedeuten, auf die formalen des [§. 9](#pz9) zurückgeführt, und
 somit die erste Anwendung der formalen Zahlen auf actuelle Objecte
 gemacht.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+With this, the usual rules of addition and multiplication, which refer
+to numbers insofar as they [designate]{.origphrase title="bedeuten"}
+magnitudes, would be derived from the formal rules of [§. 9](#pz9),
+and thus the first application of the formal numbers to Actual objects
+made.
+</p>
 </div>
 
 <section class="unnumbered text-small" id="Ch.IV-remarks">
