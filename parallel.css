@@ -93,6 +93,13 @@ a.origpage {
     border-left: 1px dotted gray;
     margin: 0 0.25em 0 0.25em;
 }
+a.origpage::after {
+    content: attr(id);
+    color: gray;
+    font-size: 0.7em;
+    font-variant-position: super;
+    padding-left: 0.3em;
+}
 
 span.origphrase{
     border-bottom: 1px dotted gray;
