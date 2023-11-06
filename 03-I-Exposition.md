@@ -857,8 +857,8 @@ The guiding principle contained herein can be referred to as the
 <dfn>Principle of Permanence of Formal Laws</dfn> and consists in the following:
 if two forms expressed in the general signs of arithmetica universalis
 are equal to one another, then they shall also remain equal to each
-other when the signs cease to signify simple magnitudes and as a
-result the operations acquire some other content.
+other whenever the signs cease to signify simple magnitudes, and thus
+the operations also acquire some other content.
 </p>
 </div>
 
