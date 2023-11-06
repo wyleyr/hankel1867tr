@@ -767,20 +767,20 @@ happens in a law-like way and is subject to
 certain rules, then one sees from the beginning that between the
 results of different [operations]{.origphrase title="Verknüpfungen"}
 new relations can take place which
-are the consequences of those originally set out, and can be derived
+are the consequences of those originally posited, and can be derived
 from the latter via logical inferences which are completely
 independent of the nature of the objects [conjoined]{.origphrase title="verknüpft"}.
 How we define the rules of purely formal [operations]{.origphrase title="Verknüpfungen"}, 
 i.e., of carrying out [operations]{.origphrase title="Operationen"} with mental objects, is
 our arbitrary choice, except that one essential condition must be
-adhered to: namely that any logical contradiction may not be implied
+adhered to: namely that no logical contradiction may be implicated
 in these same rules.
-In order to be convinced that such a contradiction cannot appear in
+In order to be convinced that such a contradiction cannot arise from
 any [combination]{.origphrase title="Zusammensetzung"}
 of these [operations]{.origphrase title="Verknüpfungen"},
-we will have to keep the rules independent of each other, so that no
-rule overlaps another: we will have to limit ourselves to the absolute
-minimum that suffices. 
+we will have to keep the rules independent of each other in such a way that no
+rule [interferes with]{.origphrase title="übergreift"} another:
+we will have to limit ourselves to the absolute minimum that suffices. 
 </p>
 </div>
 
