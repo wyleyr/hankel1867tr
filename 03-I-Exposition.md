@@ -877,8 +877,17 @@ zu betrachten, welche allen Regeln der arithmetischen Multiplication
 nur mit Ausnahme jener entsprechen. 
 </p>
 <p lang="en">
-...
-<a lang="en" class="origpage" id="p.12" title="Page 12"></a> ...
+This principle will guide our steps in the following; it may not,
+however, be applied everywhere in its complete generality and without
+qualification; we will only be allowed to apply it to the definition
+of the necessary and sufficient rules, insofar as these are
+independent of one another. We will however not allow ourselves to be
+restricted by this principle, and in particular will not necessarily
+presuppose the commutativity of our operations, since it has proven to
+be a scientific necessity to consider operations
+<a lang="en" class="origpage" id="p.12" title="Page 12"></a>
+which correspond to all the rules of arithmetical multiplication
+with the exception of that one. 
 </p>
 </div>
 
@@ -886,7 +895,7 @@ nur mit Ausnahme jener entsprechen.
 <div class="parallel">
 <p lang="de">
 Die rein formale Mathematik, deren Principien wir hier dargelegt
-haben, bestellt nach eben diesen nicht in einer Verallgemeinerung der
+haben, besteht nach eben diesen nicht in einer Verallgemeinerung der
 gewöhnlichen Arithmetik; sie ist eine durchaus neue Wissenschaft,
 deren Regeln durch letztere nicht <em>bewiesen</em>,
 sondern nur <em>exemplificirt</em>
@@ -897,7 +906,18 @@ Definitionen der Operationen ihre Regeln, in ersterer die Regeln den
 Sinn der Operationen, oder anders zu reden, sie geben die Anweisung zu
 ihrer Interpretation und ihrem Gebrauch.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Pure mathematics, whose principles we have presented here, does not 
+according to these principles consist in a generalization of the usual
+arithmetic; it is a completely new science, whose rules are not
+<em>proven</em> by the latter, but only <em>exemplified</em> in it, in
+that the formal operations, applied to Actual numbers, give the same
+results as the intuitive operations of common arithmetic. In the
+latter, the definitions of the operations determine its rules; in
+the former, the rules determine the sense of the operations, or put
+differently, they give the instructions for their interpretation and
+their use. 
+</p>
 </div>
 
 <div class="parallel">
@@ -908,7 +928,13 @@ negativen und imaginären Grössen zu erläutern und streng zu deduciren,
 sondern sie erweist sich mit ihrem Principe der Permanenz zugleich als
 eminent fruchtbar für den ganzen Organismus der Mathematik.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+The theory of forms does not merely have the narrow goal of elucidating
+and rigorously deducing the usual arithmetica universalis with its
+whole, rational, irrational, negative and imaginary magnitudes;
+rather, with its Principle of Permanence it shows itself at the same
+time to be eminently fruitful for the entire organism of mathematics.
+</p>
 </div>
 
 <div class="parallel">
@@ -917,21 +943,34 @@ Es ist schwierig schon an dieser Stelle die ganze Wichtigkeit jenes
 Principes nachzuweisen; doch mag wenigstens einiges hier angedeutet
 werden:
 </p>
-<p lang="en">...</p>
+<p lang="en">
+It is difficult to make the entire importance of that principle
+evident at this early stage; but at least a few points can be
+indicated here: 
+</p>
 </div>
 
 <div class="parallel">
 <p lang="de">
 Die reine Theorie der complexen Zahlen beruht auf diesem Princip, das
 uns zur Statuirung der an sich willkührlichen Verknüpfungs-Gesetze
-solcher einen Leitfaden liefert. Der unterschied der complexen
+solcher einen Leitfaden liefert. Der Unterschied der complexen
 Zahlensysteme beruht auf particulären, neben den allgemeinen Gesetzen
 zulässigen Bestimmungen, in denen eben der Charakter des
 Zahlensystemes ausgesprochen ist. Doch können wir auf weitere
 allgemeine Erörterung dieses Punktes hier um so leichter verzichten,
 als das ganze vorliegende Werk seiner Entwickelung gewidmet ist.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+The pure theory of the complex numbers is based on this principle,
+which provides a guideline to us for the determining their
+[laws of operation]{.origphrase title="Verknüpfungs-Gesetze"}.
+The distinction between complex number systems is based on particular
+determinations, admissible alongside the general laws, in which the
+character of the number system is expressed. But here we can refrain
+from further discussion of this point, as the entire present work is
+dedicated to its development.
+</p>
 </div>
 
 <div class="parallel">
@@ -942,7 +981,12 @@ gemeinen Arithmetik entsprechen, und die sich in überraschender Weise
 den natürlichen Gesetzen räumlicher Transformationen und Bewegungen
 anschliessen.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+But further: one can apply operations to spatial objects (points,
+segments, surfaces and solids) which correspond to those of common
+arithmetic, and which couple themselves in a surprising way to the
+natural laws of spatial transformations and motions.
+</p>
 </div>
 
 <div class="parallel">
@@ -954,7 +998,13 @@ natürliche, nothwendige Ausdruck mechanischer Beziehungen
 (Zusammensetzung von Kräften, Kräftepaaren, in der Ebene und dem
 Räume) gefunden wird.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Even mechanics is subordinate to the pure theory of forms, not only
+insofar as its objects (forces, pairs of forces, momenta) can be
+subjected to its operations, but also in that the natural, necessary
+expression of mechanical relations (combination of forces, pairs of
+forces, in the plane and in space) is found in them.
+</p>
 </div>
 
 <div class="parallel">
@@ -972,8 +1022,19 @@ Lehre von der Verknüpfung der Grössen in abstracto, als derer in der
 räumlichen Anschauung, als der mechanischen Grössen subordinirt ist.
 </p>
 <p lang="en">
-...
-<a lang="en" class="origpage" id="p.13" title="Page 13"></a> ...
+Thus, as the course of our developments will demonstrate in detail, the
+formal laws show themselves, in how they display the arithmetical operations, 
+to be of wide-ranging significance. The Principle of Permanence shows
+itself to be not merely a special or [guiding]{.origphrase title="hodegetisches"} 
+principle, but a metaphysical one, which is [conjoined]{.origphrase
+title="verknüpft"} in the closest possible way with the whole of our intuition.
+Formal mathematics, however, to which we ascend from those elementary
+operations by means of this principle, proves itself to be a
+fundamental discipline, to which the
+<a lang="en" class="origpage" id="p.13" title="Page 13"></a> 
+theory of [combination]{.origphrase title="Verknüpfung"} of magnitudes
+in abstracto, as well as of magnitudes in spatial intuition, and of
+mechanical magnitudes, are all equally subordinate.
 </p>
 </div>
  
@@ -1000,7 +1061,29 @@ vollkommene Lösung aber erst [Abel]{.sc} gab, indem er obiges formales
 Gesetz als Functionalgleichung zur <em>Definition</em> der Potenz mit
 complexen Exponenten erhob.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+We have up to now only spoken of the [preservation]{.origphrase
+title="Beharren"} of the <em>arithmetical</em> formulae. But already
+here we must draw attention to the general value which the Principle
+of Permanence of Formal Laws has as a methodological principle for all
+of mathematics. If a complex number system is given, e.g. the common
+one in which the numbers are $a = A + Bi$, then one can carry out
+certain operations within this system, e.g. $aa, aaa, aaaa, \ldots$,
+which one signifies with $a^2, a^3, a^4\ldots$, where, so long as $M,
+N$ are positive whole numbers, the equation
+$$ a^Ma^N = a^{M+N} $$ holds. 
+Attempts were made to extend this law, considered purely formally,
+to all possible real values of $M$ and $N$,
+and thus the meaning of $a^{-1}, a^{-2}, \ldots a^{\frac{1}{2}},
+a^{\frac{1}{3}}\ldots$ was reached.
+The progress of science then demanded a broadening of the concept of
+exponentiation to complex exponents---a problem which was attacked
+unceasingly since the middle of the last century and treated with more
+or less clarity, but whose final, complete solution was first given 
+by [Abel]{.sc}, by elevating the above formal law as a [functional
+equation]{.origphrase title="Functionalgleichung"} to a
+<em>definition</em> of exponeniation with complex exponents.
+</p>
 </div>
 
 <div class="parallel">
@@ -1014,8 +1097,18 @@ worden. Immer ist die Permanenz formaler Gesetze der leitende
 Grundsatz; die Erfindung ist überall nur insofern selbstständig, als
 sie diejenigen Gesetze auszuwählen hat, die man für permanent erklärt.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+In a similar way, starting from the corresponding equation, 
+the concept of negative, fractional derivatives was established;
+other operations, which at first only appeared to have a meaning for
+whole number variables, e.g. numerical factorials, were extended
+starting from other equations. The Principle of Permanence of Formal
+Laws is always the guiding [principle]{.origphrase title="Grundsatz"};
+the invention is everywhere only independent insofar as it is able to
+choose those laws which are declared to be permanent.
+</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
 Solche formale Gesetze, die von den gemeinen arithmetischen immerhin
@@ -1031,7 +1124,20 @@ Disciplin zusammenfallen. Hierauf und auf den Nutzen, welchen dieser
 Calcul der Theorie der Functionen leistet, näher einzugehen, liegt
 nicht in dem Zwecke des vorliegenden Werkes.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Such formal laws, which anyway may be entirely different from the
+common arithmetical ones, can only be subordinated to a particular
+propadeutical investigation which abstracts entirely from the Actual
+meaning of the operations, and this will then show itself to be
+especially appropriate when the same laws repeatedly reappear in
+different disciplines with different content. This formal mathematics
+would then fall together with the discipline under the name of the
+<q>calculus of Operations</q> or <q>symbols</q>, which recently has
+been cared for by the English with particular predilection. A closer
+investigation into this and into the uses to which this calculus of
+the theory of functions is put does not lie within the aim of the
+present work.
+</p>
 </div>
 </div> <!-- .text-small -->
 
@@ -1053,8 +1159,16 @@ liessen, nur an der von [Cauchy]{.sc}
 aufgestellten und sehr allgemein verbreiteten Theorie des Imaginären
 dargethan werden:
 </p>
-<p lang="en">...
-  <a lang="en" class="origpage" id="p.14" title="Page 14"></a>
+<p lang="en">That a more general concept must take the place of that
+of the concept of absolute magnitude with which arithmetic exclusively
+operates, has been recognized as a necessity and been pronounced with more
+or less decisiveness since the imaginary magnitudes 
+<a lang="en" class="origpage" id="p.14" title="Page 14"></a>
+achieved a secure place in algebra and analysis. 
+But in which wonderful ways is was believed to be possible to satisfy
+this need may be illustrated, among innumerable examples which might be brought
+forward here, with just the very widespread theory established by [Cauchy]{.sc}
+([<cite>Analyse algébrique</cite>][Cauchy1821], 1821, p. 173 ff.):
 </p>
 </div>
 
