@@ -10,12 +10,17 @@
 
 <div class="parallel">
 <p lang="de">
-Es sei eine Anzahl von Objecten $a, b, c, d...$ gegeben, welche
+Es sei eine Anzahl von Objecten $a, b, c, d\ldots$ gegeben, welche
 gewissen Verknüpfungen, deren formale Eigenschaften im Folgenden der
 Reihe nach festgesetzt werden, in gleicher Weise unterworfen werden
 sollen.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Let a [number]{.origphrase title="Anzahl"} of objects $a, b, c, d\ldots$
+be given, which shall all be subjected in the same way to certain
+[operations]{.origphrase title="Verknüpfungen"} whose formal
+properties will be laid down in sequence in the following.
+</p>
 </div>
 
 <div class="parallel">
@@ -693,9 +698,17 @@ letzteren oder auch mit anderen aus ähnlichen
 Operationen hervorgehenden Objecten nach denselben, einmal
 festgesetzten Regeln verknüpft werden kann.
 </p>
-<p lang="en">...
+<p lang="en">
+In the foregoing we have everywhere presupposed the unrestricted
+[completability]{.origphrase title="Ausführbarkeit"} of all
+operations, i.e. assumed that in the domain of objects under
+consideration, there is always an object which can be seen as the
+result of the operation, and insofar as it is of the same type as the
+objects which go into the operation, it can be [conjoined]{.origphrase
+title="verknüpft"} with the latter or with other objects which result
+from similar
 <a lang="en" class="origpage" id="p.26" title="Page 26"></a>
-...
+operations according to the same rules previously laid down.
 </p>
 </div>
 
@@ -708,7 +721,7 @@ Object derselben directen Reihe liefert, während die Lysis nur in
 gewissen Fällen zu einem solchen führt, in anderen aber nicht, somit
 in gewissem Sinne unausführbar ist, und erst ausführbar wird, wenn man
 sich zu der gegebenen Reihe von Objecten eine inverse hinzudenkt, die
-entweder transscendental oder in der Anschauung construirbar ist. ---
+entweder transscendental oder in der Anschauung construirbar ist.\ ---
 </p>
 <p lang="en">
 But not everywhere is the domain so extended at the start;
@@ -720,7 +733,7 @@ but not in others, and is thus in a certain sense
 [not completable]{.origphrase title="unausführbar"}; it only becomes
 completable if one adds in thought to the given series of objects
 an inverse series which is constructible either transcendentally
-or in intuition. --- 
+or in intuition.\ --- 
 </p>
 </div>
 
