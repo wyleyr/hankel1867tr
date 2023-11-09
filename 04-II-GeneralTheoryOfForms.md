@@ -210,7 +210,7 @@ eindeutig.
 <p lang="de">
 Ist etwa ferner $\Theta(a,b) = (ab)^2$, so ist
 $\lambda(a,b) = \frac{\sqrt{a}}{b}$ da
-$\Theta\left(\lambda(a,b),b\right) = \Theta\left(\frac{\sqrt{a}}{b}\right) = a$;
+$\Theta\left(\lambda(a,b),b\right) = \Theta\left(\frac{\sqrt{a}}{b},b\right) = a$;
 es ist aber $\lambda(a,b)$ zweideutig, weil sich in dem eindeutigen 
 Resultate $\Theta(a,b)$, das $a$ ändern, nämlich in das entgegengesetzte
 übergehen kann, ohne dass sich das Resultat ändert.
