@@ -3585,7 +3585,28 @@ wir der Leichtigkeit wegen, mit der sie sich ergeben, hier nicht weiter
 an. Nur eine wesentlich neue Gleichung mag hier erwähnt werden:
 </p>
 <p lang="en">
-…
+Even if up to now the result of
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">\Theta(a, b)</annotation></semantics></math>
+has been see as distinct from
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>b</mi><mo>,</mo><mi>a</mi><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">\Theta(b, a)</annotation></semantics></math>,
+nothing stands in the way of us making the determination, alongside
+those of the previous §., that in every case
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>=</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>b</mi><mo>,</mo><mi>a</mi><mo stretchy="true" form="postfix">)</mo></mrow><mi>.</mi></mrow><annotation encoding="application/x-tex">
+\Theta(a, b) = \Theta(b, a). 
+</annotation></semantics></math> The other forms which one can give to
+the equations of the previous §., by writing e.g.  instead of <a
+href="#p.18eq1" class="eqref">(1)</a> and <a href="#p.19eq2"
+class="eqref">(2)</a> <span id="p.25eq1*" class="numbered"
+data-label="1*">
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>Θ</mi><mo stretchy="false" form="prefix">{</mo><mi>b</mi><mo>,</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo stretchy="false" form="postfix">}</mo><mo>=</mo><mi>a</mi></mrow><annotation encoding="application/x-tex">\begin{equation}
+\Theta\{b, \lambda(a,b)\} = a
+\end{equation}</annotation></semantics></math> </span> <span
+id="p.25eq2*" class="numbered" data-label="2*">
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>λ</mi><mo stretchy="false" form="prefix">{</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>b</mi><mo>,</mo><mi>a</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>,</mo><mi>b</mi><mo stretchy="false" form="postfix">}</mo><mo>=</mo><mi>a</mi></mrow><annotation encoding="application/x-tex">\begin{equation}
+\lambda\{\Theta(b,a), b\} = a
+\end{equation}</annotation></semantics></math> </span> we will not
+further enumerate here, due to the simplicity with which they can be
+derived. Only one essentially new equation may be mentioned here:
 </p>
 </div>
 <div class="parallel">
@@ -3610,12 +3631,33 @@ und daher
 \lambda\{a, \lambda(b, c)\} = \Theta\{\lambda (a, b), c\} 
 \end{equation}</annotation></semantics></math> </span> eine Gleichung,
 welche neben <a href="#S.22eq6" class="eqref">(6)</a> gesetzt werden
-kann, aber eine ausdrückliche Folge der Commutativität ist — welch
+kann, aber eine ausdrückliche Folge der Commutativität ist — welch
 letztere Voraussetzung in den weiteren Untersuchungen dieses §. immer
 festgehalten werden soll.
 </p>
 <p lang="en">
-…
+If one sets
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>λ</mi><mo stretchy="false" form="prefix">{</mo><mi>a</mi><mo>,</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>b</mi><mo>,</mo><mi>c</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo stretchy="false" form="postfix">}</mo><mo>=</mo><mi>x</mi></mrow><annotation encoding="application/x-tex">
+\lambda\{a, \lambda (b, c)\} = x 
+</annotation></semantics></math> then one has by <a href="#p.22eq5"
+class="eqref">(5)</a>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>x</mi><mo>,</mo><mi>c</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>=</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">[</mo><mi>λ</mi><mo stretchy="false" form="prefix">{</mo><mi>a</mi><mo>,</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>b</mi><mo>,</mo><mi>c</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo stretchy="false" form="postfix">}</mo><mo>,</mo><mi>c</mi><mo stretchy="true" form="postfix">]</mo></mrow><mo>=</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">[</mo><mi>a</mi><mo>,</mo><mi>Θ</mi><mo stretchy="false" form="prefix">{</mo><mi>c</mi><mo>,</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>b</mi><mo>,</mo><mi>c</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo stretchy="false" form="postfix">}</mo><mo stretchy="true" form="postfix">]</mo></mrow></mrow><annotation encoding="application/x-tex">
+\lambda(x, c) = \lambda[\lambda\{a, \lambda(b,c)\}, c]= \lambda [a, \Theta\{c, \lambda(b,c)\}] 
+</annotation></semantics></math> From the equation <a href="#p.25eq1"
+class="eqref">(1*)</a>, obtained by commutativity, one has
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>Θ</mi><mo stretchy="false" form="prefix">{</mo><mi>c</mi><mo>,</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>b</mi><mo>,</mo><mi>c</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo stretchy="false" form="postfix">}</mo><mo>=</mo><mi>b</mi></mrow><annotation encoding="application/x-tex">
+\Theta\{c, \lambda(b, c)\} = b 
+</annotation></semantics></math> thus
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>x</mi><mo>,</mo><mi>c</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>=</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">\lambda(x, c) = \lambda(a, b)</annotation></semantics></math>
+and therefore
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>x</mi><mo>=</mo></mrow><annotation encoding="application/x-tex">x =</annotation></semantics></math>
+<span id="p.25eq6*" class="numbered" data-label="6*">
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>λ</mi><mo stretchy="false" form="prefix">{</mo><mi>a</mi><mo>,</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>b</mi><mo>,</mo><mi>c</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo stretchy="false" form="postfix">}</mo><mo>=</mo><mi>Θ</mi><mo stretchy="false" form="prefix">{</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>,</mo><mi>c</mi><mo stretchy="false" form="postfix">}</mo></mrow><annotation encoding="application/x-tex">\begin{equation}
+\lambda\{a, \lambda(b, c)\} = \Theta\{\lambda (a, b), c\} 
+\end{equation}</annotation></semantics></math> </span> an equation which
+may be set alongside <a href="#p.22eq6" class="eqref">(6)</a>, but which
+is an explicit consequence of commutativity — a presupposition which, in
+the further investigations of this §, shall always hold.
 </p>
 </div>
 <div class="parallel">
@@ -3801,14 +3843,30 @@ ist
 \end{multline}</annotation></semantics></math>
 </p>
 <p lang="en">
-…
+From the same, its commutativity follows immediately, for
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">[</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>c</mi><mo>,</mo><mi>d</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>,</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo stretchy="true" form="postfix">]</mo></mrow><mo>=</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">[</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>c</mi><mo>,</mo><mi>a</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>,</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>d</mi><mo>,</mo><mi>b</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo stretchy="true" form="postfix">]</mo></mrow></mrow><annotation encoding="application/x-tex">
+\Theta[\lambda(c,d), \lambda(a,b)] = \lambda[\Theta(c, a), \Theta(d, b)]
+</annotation></semantics></math> and further its associativity: for
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable><mtr><mtd columnalign="center" style="text-align: center"><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">[</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>,</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>c</mi><mo>,</mo><mi>d</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo stretchy="true" form="postfix">]</mo></mrow><mo>,</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>e</mi><mo>,</mo><mi>f</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo stretchy="true" form="postfix">)</mo></mrow><mo>=</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">[</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>c</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>,</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>b</mi><mo>,</mo><mi>d</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo stretchy="true" form="postfix">]</mo></mrow><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>e</mi><mo>,</mo><mi>f</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo stretchy="true" form="postfix">)</mo></mrow></mtd></mtr><mtr><mtd columnalign="center" style="text-align: center"><mo>=</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">[</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>c</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>,</mo><mi>e</mi><mo stretchy="true" form="postfix">]</mo></mrow><mo>,</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">[</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>b</mi><mo>,</mo><mi>d</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>,</mo><mi>f</mi><mo stretchy="true" form="postfix">]</mo></mrow><mo stretchy="true" form="postfix">)</mo></mrow></mtd></mtr><mtr><mtd columnalign="center" style="text-align: center"><mo>=</mo><mi>λ</mi><mo stretchy="false" form="prefix">{</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>c</mi><mo>,</mo><mi>e</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>,</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>b</mi><mo>,</mo><mi>d</mi><mo>,</mo><mi>f</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo stretchy="false" form="postfix">}</mo></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{multline}
+\Theta(\Theta[\lambda(a,b), \lambda(c,d)], \lambda(e,f)) =
+\Theta(\lambda[\Theta(a,c), \Theta(b, d)] \lambda (e,f)) \\ 
+= \lambda(\Theta[\Theta(a,c),e], \Theta[\Theta(b,d), f]) \\
+= \lambda\{\Theta(a,c,e), \Theta(b,d,f)\} 
+\end{multline}</annotation></semantics></math> and
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable><mtr><mtd columnalign="center" style="text-align: center"><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>,</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">[</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>c</mi><mo>,</mo><mi>d</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>,</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>e</mi><mo>,</mo><mi>f</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo stretchy="true" form="postfix">]</mo></mrow><mo stretchy="true" form="postfix">)</mo></mrow><mo>=</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>,</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">[</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>c</mi><mo>,</mo><mi>e</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>,</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>d</mi><mo>,</mo><mi>f</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo stretchy="true" form="postfix">]</mo></mrow><mo stretchy="true" form="postfix">)</mo></mrow></mtd></mtr><mtr><mtd columnalign="center" style="text-align: center"><mo>=</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">[</mo><mi>a</mi><mo>,</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>c</mi><mo>,</mo><mi>e</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo stretchy="true" form="postfix">]</mo></mrow><mo>,</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">[</mo><mi>b</mi><mo>,</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>d</mi><mo>,</mo><mi>f</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo stretchy="true" form="postfix">]</mo></mrow><mo stretchy="true" form="postfix">)</mo></mrow></mtd></mtr><mtr><mtd columnalign="center" style="text-align: center"><mo>=</mo><mi>λ</mi><mo stretchy="false" form="prefix">{</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>c</mi><mo>,</mo><mi>e</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>,</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>b</mi><mo>,</mo><mi>d</mi><mo>,</mo><mi>f</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo stretchy="false" form="postfix">}</mo></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{multline}
+\Theta(\lambda(a,b), \Theta[\lambda(c,d), \lambda(e,f)]) =
+\Theta(\lambda(a,b), \lambda[\Theta(c,e), \Theta(d,f)]) \\ 
+= \lambda(\Theta[a, \Theta(c,e)], \Theta[b,\Theta(d, f)]) \\
+= \lambda\{\Theta(a,c,e), \Theta(b,d,f)\} 
+\end{multline}</annotation></semantics></math>
 </p>
 </div>
 <div class="parallel">
 <p lang="de">
 Dass die Thesis zweier Objecte der zweiten Art
 <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>d</mi><mo>,</mo><mi>b</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>,</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>c</mi><mo>,</mo><mi>d</mi><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">\lambda(d,b), \lambda(c,d)</annotation></semantics></math>
-immer wieder ein Object derselben Art, welches nämlich in der Form
+immer wieder ein Object derselben Art <span
+class="corrected">ist</span>, welches nämlich in der Form
 <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>e</mi><mo>,</mo><mi>f</mi><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">\lambda(e,f)</annotation></semantics></math>
 dargestellt werden kann, wo
 <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>e</mi><annotation encoding="application/x-tex">e</annotation></semantics></math>
@@ -3821,7 +3879,20 @@ mit
 gleichartig sind, geht unmittelbar aus deren Definition hervor.
 </p>
 <p lang="en">
-…
+That the thesis of two objects of the second type
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>d</mi><mo>,</mo><mi>b</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>,</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>c</mi><mo>,</mo><mi>d</mi><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">\lambda(d,b), \lambda(c,d)</annotation></semantics></math>
+is always an object of the same type, which can always be presented in
+the form
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>e</mi><mo>,</mo><mi>f</mi><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">\lambda(e,f)</annotation></semantics></math>,
+where
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>e</mi><annotation encoding="application/x-tex">e</annotation></semantics></math>
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>f</mi><annotation encoding="application/x-tex">f</annotation></semantics></math>
+are of the same type as
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>a</mi><annotation encoding="application/x-tex">a</annotation></semantics></math>
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>b</mi><annotation encoding="application/x-tex">b</annotation></semantics></math>
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>c</mi><annotation encoding="application/x-tex">c</annotation></semantics></math>
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>d</mi><annotation encoding="application/x-tex">d</annotation></semantics></math>,
+follows immediately from its definition.
 </p>
 </div>
 <div class="parallel">
@@ -3831,7 +3902,9 @@ zweier Objecte der zweiten Art, nicht wiederum neue entstehen; es wird
 hierüber entschieden durch folgende Bemerkungen:
 </p>
 <p lang="en">
-…
+It may further be asked whether through the lysis, corresponding to that
+thesis, of two objects of the second type new objects again arise; this
+shall be decided through the following remarks:
 </p>
 </div>
 <div class="parallel">
@@ -3850,7 +3923,19 @@ data-label="2">
 \end{equation}</annotation></semantics></math> </span>
 </p>
 <p lang="en">
-…
+When the earlier modulus of the operation now has the property that,
+when it is thetically <span class="origphrase"
+title="verbunden">conjoined</span> with an object of either the new or
+the old series, it produces the object itself again, then by <a
+href="#p.26eq1" class="eqref">(1)</a> <span id="p.27eq2"
+class="numbered" data-label="2">
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>λ</mi><mrow><mo stretchy="true" form="prefix">[</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>x</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>,</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>b</mi><mo>,</mo><mi>x</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo stretchy="true" form="postfix">]</mo></mrow><mo>=</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">[</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>,</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>x</mi><mo>,</mo><mi>x</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo stretchy="true" form="postfix">]</mo></mrow><mo>=</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">\begin{equation}
+\lambda[\Theta(a,x), \Theta(b,x)] = \Theta[\lambda(a,b),\lambda(x,x)] = \lambda(a,b)
+\end{equation}</annotation></semantics></math> </span> and therefore
+e.g.  <span class="numbered" id="p.27eq3" data-label="3">
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>λ</mi><mrow><mo stretchy="true" form="prefix">[</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>c</mi><mo>,</mo><mi>d</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>,</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>b</mi><mo>,</mo><mi>c</mi><mo>,</mo><mi>d</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo stretchy="true" form="postfix">]</mo></mrow><mo>=</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo stretchy="true" form="postfix">)</mo></mrow><mi>.</mi></mrow><annotation encoding="application/x-tex">\begin{equation}
+\lambda[\Theta(a,c,d), \Theta(b,c,d)] =  \lambda(a,b).
+\end{equation}</annotation></semantics></math>
 </p>
 </div>
 <div class="parallel">
@@ -3863,7 +3948,13 @@ und
 als gleich anzusehen sind.
 </p>
 <p lang="en">
-…
+The equation <a href="#S.27eq2" class="eqref">(2)</a> informs us in
+which circumstance two lytic <span class="origphrase"
+title="Verbindungen">conjunctions</span>
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>e</mi><mo>,</mo><mi>f</mi><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">\lambda(e,f)</annotation></semantics></math>
+and
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">\lambda(a,b)</annotation></semantics></math>
+should be seen as equal.
 </p>
 </div>
 <div class="parallel">
@@ -3908,7 +3999,45 @@ und
 ein Object erster oder zweiter Art.
 </p>
 <p lang="en">
-… <a lang="en" class="origpage" id="p.28" title="Page 28"></a> …
+With this preparation, let us proceed to answer the question raised
+earlier, which asks whether an object
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>x</mi><annotation encoding="application/x-tex">x</annotation></semantics></math>
+of the first or the second type can always be found, so that
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>x</mi><mo>=</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">[</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>,</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>c</mi><mo>,</mo><mi>d</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo stretchy="true" form="postfix">]</mo></mrow></mrow><annotation encoding="application/x-tex">
+x = \lambda[\lambda(a,b), \lambda(c,d)] 
+</annotation></semantics></math>
+<a lang="en" class="origpage" id="p.28" title="Page 28"></a> can always
+be posited, hence as a consequence of the definition of the lysis
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>=</mo><mi>Θ</mi><mo stretchy="false" form="prefix">{</mo><mi>x</mi><mo>,</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>c</mi><mo>,</mo><mi>d</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo stretchy="false" form="postfix">}</mo><mi>.</mi></mrow><annotation encoding="application/x-tex">
+\lambda(a, b) = \Theta\{x, \lambda(c, d)\}.
+</annotation></semantics></math> Should
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>x</mi><annotation encoding="application/x-tex">x</annotation></semantics></math>
+be such an object, then it must be possible to set
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>x</mi><mo>=</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>y</mi><mo>,</mo><mi>z</mi><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">x = \lambda(y, z)</annotation></semantics></math>,
+where
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>y</mi><mo>,</mo><mi>z</mi></mrow><annotation encoding="application/x-tex">y, z</annotation></semantics></math>
+are objects of the old type, hence
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>=</mo><mi>Θ</mi><mo stretchy="false" form="prefix">{</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>y</mi><mo>,</mo><mi>z</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>,</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>c</mi><mo>,</mo><mi>d</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo stretchy="false" form="postfix">}</mo><mo>=</mo><mi>λ</mi><mo stretchy="false" form="prefix">{</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>y</mi><mo>,</mo><mi>c</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>,</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>z</mi><mo>,</mo><mi>d</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo stretchy="false" form="postfix">}</mo></mrow><annotation encoding="application/x-tex">
+\lambda(a,b) = \Theta\{\lambda(y,z),\lambda(c,d)\} = \lambda\{\Theta(y,c), \Theta(z,d)\}
+</annotation></semantics></math> If one now posits, according to <a
+href="#p.27eq3" class="eqref">(3)</a>:
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable><mtr><mtd columnalign="center" style="text-align: center"><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>=</mo><mi>λ</mi><mo stretchy="false" form="prefix">{</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">[</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>d</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>,</mo><mi>c</mi><mo stretchy="true" form="postfix">]</mo></mrow><mo>,</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">[</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>b</mi><mo>,</mo><mi>c</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>,</mo><mi>d</mi><mo stretchy="true" form="postfix">]</mo></mrow><mo stretchy="false" form="postfix">}</mo></mtd></mtr><mtr><mtd columnalign="center" style="text-align: center"><mo>=</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">[</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>y</mi><mo>,</mo><mi>c</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>,</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>z</mi><mo>,</mo><mi>d</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo stretchy="true" form="postfix">]</mo></mrow></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{multline}
+\lambda (a, b) = \lambda\{\Theta[\Theta(a, d), c], \Theta[\Theta(b, c), d]\}  \\
+= \lambda[\Theta(y,c), \Theta(z, d)] 
+\end{multline}</annotation></semantics></math> then
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>y</mi><mo>=</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>d</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>,</mo><mi>z</mi><mo>=</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>b</mi><mo>,</mo><mi>c</mi><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">
+y = \Theta(a,d), z = \Theta(b,c) 
+</annotation></semantics></math> satisfy this equation and:
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>λ</mi><mrow><mo stretchy="true" form="prefix">[</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>,</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>c</mi><mo>,</mo><mi>d</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo stretchy="true" form="postfix">]</mo></mrow><mo>=</mo><mi>λ</mi><mrow><mo stretchy="true" form="prefix">[</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>d</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>,</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>b</mi><mo>,</mo><mi>c</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo stretchy="true" form="postfix">]</mo></mrow></mrow><annotation encoding="application/x-tex">
+\lambda[\lambda(a,b), \lambda(c,d)] = \lambda[\Theta(a,d), \Theta(b, c)] 
+</annotation></semantics></math> Thus, since
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>d</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>,</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>b</mi><mo>,</mo><mi>c</mi><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">\Theta (a,d), \Theta(b,c)</annotation></semantics></math>
+are objects of the first type, the lytic <span class="origphrase"
+title="Verbindung">conjunction</span> of
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">\lambda(a, b)</annotation></semantics></math>
+and
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>c</mi><mo>,</mo><mi>d</mi><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">\lambda(c, d)</annotation></semantics></math>
+is an object of the first or the second type.
 </p>
 </div>
 <div class="parallel">
@@ -3927,7 +4056,20 @@ ausführbar ist, ganz allgemein und ohne jede Determination gelten
 werden.
 </p>
 <p lang="en">
-…
+If we have now recognized that from our determination about the <span
+class="origphrase" title="Bedeutung">meaning</span> of a thesis of
+objects of the first and second type with one another, or of the latter
+among themselves, it necessarily follows that this thesis and its lysis
+lead again to objects of these two types, and in general, the same laws
+of the thetic and lytic operations are valid for those of the second
+type as for those of the first type, then it is manifest that now all
+the theorems of the previous §. can be asserted without further
+qualification for objects of the first and second type in their mutual
+<span class="origphrase" title="Verknüpfung">conjunction</span>, and
+still beyond this the formulae <a href="#S.23eq4">4</a>, <a
+href="#S.23eq5">5</a>, <a href="#S.23eq6">6</a> will now be valid where
+every lysis can be carried out, entirely generally and without any
+determination.
 </p>
 </div>
 <div class="parallel">
@@ -3936,7 +4078,8 @@ Die Objecte zweiter Art bilden zunächst eine Reihe von der zweifachen
 Ausdehnung der Reihe, welche die der ersten einnehmen. Indessen kann man
 sie sämmtlich aus einer Reihe von Objecten, welche eine nicht grössere
 Ausdehnung als die ursprüngliche hat, durch thetische Verbindung
-erhalten Führt man nämlich nach dem vorigen §. den Begriff des Inversen
+erhalten<span class="corrected">.</span> Führt man nämlich nach dem
+vorigen §. den Begriff des Inversen
 <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>n</mi><mo>,</mo><mi>b</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>=</mo><msub><mi>b</mi><mi>n</mi></msub></mrow><annotation encoding="application/x-tex">
 \lambda(n,b) = b_n
 </annotation></semantics></math> ein, so ist
@@ -3949,7 +4092,22 @@ entsprechende Reihe, so dass jedem Gliede der einen Reihe eins der
 anderen in bestimmter Ordnung entspricht.
 </p>
 <p lang="en">
-… <a lang="en" class="origpage" id="p.29" title="Page 29"></a> …
+The objects of the second type at first form a series of the twofold
+extension of the series which those of the first occupy. Nevertheless,
+one can obtain them via a thetic <span class="origphrase"
+title="Verbindung">conjunction</span> entirely from a series of objects
+which has an extension not larger than the original. In particular, if
+one introduces, following the previous §, the concept of the inverse
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>n</mi><mo>,</mo><mi>b</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>=</mo><msub><mi>b</mi><mi>n</mi></msub></mrow><annotation encoding="application/x-tex">
+\lambda(n,b) = b_n
+</annotation></semantics></math> then
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>λ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo stretchy="true" form="postfix">)</mo></mrow><mo>=</mo><mi>Θ</mi><mrow><mo stretchy="true" form="prefix">(</mo><mi>a</mi><mo>,</mo><msub><mi>b</mi><mi>n</mi></msub><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">
+\lambda(a,b) = \Theta(a,b_n)
+</annotation></semantics></math>
+<a lang="en" class="origpage" id="p.29" title="Page 29"></a> and these
+inverse objects form a series corresponding to the series of (direct)
+objects of the first type, so that to every term of the first series
+corresponds one of the other in a definite order.
 </p>
 </div>
 </section>
