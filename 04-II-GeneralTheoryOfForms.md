@@ -10,12 +10,17 @@
 
 <div class="parallel">
 <p lang="de">
-Es sei eine Anzahl von Objecten $a, b, c, d...$ gegeben, welche
+Es sei eine Anzahl von Objecten $a, b, c, d\ldots$ gegeben, welche
 gewissen Verknüpfungen, deren formale Eigenschaften im Folgenden der
 Reihe nach festgesetzt werden, in gleicher Weise unterworfen werden
 sollen.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Let a [number]{.origphrase title="Anzahl"} of objects $a, b, c, d\ldots$
+be given, which shall all be subjected in the same way to certain
+[operations]{.origphrase title="Verknüpfungen"} whose formal
+properties will be laid down in sequence in the following.
+</p>
 </div>
 
 <div class="parallel">
@@ -99,7 +104,16 @@ $$
 da aber $\Theta\{\lambda(a,b),b\} = a$, $\Theta\{\lambda(a',b),b\} = a'$,
 so ist dies unmöglich. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+One can immediately draw consequences from this:
+namely, if it were the case that $\lambda(a,b) = \lambda(a',b)$ without
+it being the case that $a = a'$, then it would also be that: 
+$$
+\Theta\{\lambda(a,b),b\} = \Theta\{\lambda(a',b),b\}
+$$
+But since $\Theta\{\lambda(a,b),b\} = a$, $\Theta\{\lambda(a',b),b\} = a'$,
+this is impossible. 
+</p>
 </div>
 
 <div class="parallel">
@@ -107,7 +121,11 @@ so ist dies unmöglich.
 Aendert sich also $a$ in $\lambda(a,b)$ bei constantem $b$, so ändert
 sich nothwendig auch das Resultat der Verknüpfung.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+So if the $a$ in $\lambda(a,b)$ changes while $b$ remains constant,
+the result of the [operation]{.origphrase title="Verknüpfung"}
+necessarily changes as well. 
+</p>
 </div>
 
 <div class="parallel">
@@ -134,7 +152,29 @@ $$
 $$
 das widersinnige Resultat $a = a'$. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+The equation $\lambda(x,b) = a$ accordingly has only one solution,
+which one finds by thetically conjoining both sides with $b$:
+$$
+\Theta\{\lambda(x,b),b\} = \Theta(a,b)
+$$
+Thus $x = \Theta(a,b)$, through which one finds the identity:
+<span class="numbered" id="p.19eq2" data-label="2">
+\begin{equation}
+\lambda\{\Theta(a,b),b\} = a
+\end{equation}
+</span>
+Further, it follows that when
+$$
+\Theta(a,b) = \Theta(a',b)
+$$
+it must also necessarily be that $a = a'$. For if this were not the
+case, one would have from the equation
+$$
+\lambda\{\Theta(a,b),b\} = \lambda\{\Theta(a',b),b\}
+$$
+the contradictory result $a = a'$.
+</p>
 </div>
 
 <div class="parallel">
@@ -149,8 +189,19 @@ $$
 $$
 stets $a = a'$ geschlossen werden kann. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Thus it follows from the above presupposition of the one-valuedness of
+the lytic and thetic operations that when in $\lambda(a,b)$ and
+$\Theta(a,b)$ the *first* term changes, while the second remains
+constant, the result of the [operation]{.origphrase title="Verknüpfung"} 
+changes at the same time; thus from each of the equations:
+$$
+\lambda(a,b) = \lambda(a',b),  \Theta(a,b) = \Theta(a',b)
+$$
+$a = a'$ can always be inferred.
+</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
 Nimmt man statt der obigen Voraussetzungen an, dass die 
@@ -185,8 +236,8 @@ das Gesetz, dass sich $\lambda(a,b)$ jedesmal mit $a$ ändert.
 <div class="parallel">
 <p lang="de">
 Zur Erläuterung dieser Bemerkungen nehmen wir die gemeinen reellen
-Zahlen und ihre Rechnungsregeln hier als bekannt an. Dann kann man z.
-B. $\Theta(a,b) = a+b$ setzen, wo beide eben angenommene Eigenschaften
+Zahlen und ihre Rechnungsregeln hier als bekannt an. Dann kann man z.\ B.
+$\Theta(a,b) = a+b$ setzen, wo beide eben angenommene Eigenschaften
 erfüllt sind. Dann ist $\lambda(a,b) = a-b$; denn es ist
 $\Theta\left(\lambda(a,b),b\right) = \Theta(a-b,b) = (a-b)+b = a$ wie verlangt,
 und in der That ist $\lambda$ eindeutig. Setzen wir ferner
@@ -198,20 +249,43 @@ Eigenschaft nicht hat, wenn $b = 0$, indem $a \cdot 0 = 0$, $a' \cdot 0 = 0$,
 so ist auch die umgekehrte Operation nämlich $\frac{a}{0}$ nicht
 eindeutig.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+To elucidate these remarks, let us take the the common real numbers
+and their rules of calculation as known. Then one can e.g. set
+$\Theta(a,b) = a+b$, where both assumed properties are fulfilled. Then
+$\lambda(a,b) = a-b$; for
+$\Theta\left(\lambda(a,b),b\right) = \Theta(a-b,b) = (a-b)+b = a$
+as required, and $\lambda$ is indeed one-valued. If we further set
+$\Theta(a,b) = ab$, then $\lambda(a,b) = \frac{a}{b}$. Because the
+former operation is one-valued when $a, b$ are common numbers, and the
+product changes in general when one factor changes, $\frac{a}{b}$ has
+the same properties. But because the product does not have this
+property when $b = 0$, since $a \cdot 0 = 0$, $a' \cdot 0 = 0$, the
+inverse operation, namely $\frac{a}{0}$, is also not one-valued.
+</p>
 </div>
 
 <div class="parallel">
 <p lang="de">
 Ist etwa ferner $\Theta(a,b) = (ab)^2$, so ist
 $\lambda(a,b) = \frac{\sqrt{a}}{b}$ da
-$\Theta\left(\lambda(a,b),b\right) = \Theta\left(\frac{\sqrt{a}}{b}\right) = a$;
+$\Theta\left(\lambda(a,b),b\right) = \Theta\left(\frac{\sqrt{a}}{b},b\right) = a$;
 es ist aber $\lambda(a,b)$ zweideutig, weil sich in dem eindeutigen 
 Resultate $\Theta(a,b)$, das $a$ ändern, nämlich in das entgegengesetzte
 übergehen kann, ohne dass sich das Resultat ändert.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+If further 
+$\Theta(a,b) = (ab)^2$, then
+$\lambda(a,b) = \frac{\sqrt{a}}{b}$, since
+$\Theta\left(\lambda(a,b),b\right) = \Theta\left(\frac{\sqrt{a}}{b},b\right) = a$;
+but in this case $\lambda(a,b)$ is two-valued,
+because the $a$ can change in the one-valued result $\Theta(a,b)$,
+namely into [its opposite]{.origphrase title="das entgegengesetzte"},
+without changing the result.
+</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
 Ist $\Theta(a,b) = a^b$, so ist $\Theta(c,b) = c^b = a$ wenn $c = \lambda(a,b)$;
@@ -220,8 +294,17 @@ eine bekanntlich unendlich vieldeutige Zahl; dies steht damit im Zusammenhange,
 dass $a^b$ sich nicht jedesmal ändert, wenn $a$ einen anderen Werth annimmt,
 sondern unverändert bleibt, wenn es den Factor $e^{\frac{2\pi i}{b}}$ erhält. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+If $\Theta(a,b) = a^b$, then $\Theta(c,b) = c^b = a$ if $c = \lambda(a,b)$;
+but from $c^b = e^{b\log c} = a$ follows $c = \lambda(a,b) = e^{\frac{\log a}{b}}$,
+a number known to be infinitely many-valued;
+this is related to the fact that $a^b$ does not always change
+when $a$ assumes another value,
+but rather remains unchanged when it receives
+the factor $e^{\frac{2\pi i}{b}}$. 
+</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
 Es mag hier sogleich bemerkt werden, dass es, allgemein zu reden, zu 
@@ -231,7 +314,13 @@ wenn $\Theta(a,b) = e^{b\log a}$ gesetzt wird $x = e^{\frac{\log a}{b}}$,
 die andere $x = \frac{\log a}{\log b}$. Beide können 
 nur zusammenfallen, wenn $\Theta(a,b) = \Theta(b,a)$.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+It may immediately be remarked here that, speaking generally, for every
+thetic operation $\Theta(a,b)$ there are two lytic operations; 
+the first solves the problem $\Theta(x,b) = a$, the other $\Theta(b,x) = a$.
+When $\Theta(a,b) = e^{b\log a}$, the first is $x = e^{\frac{\log a}{b}}$,
+the other is $x = \frac{\log a}{\log b}$.
+</p>
 </div>
 </div> <!-- .text-small -->
 
@@ -693,9 +782,17 @@ letzteren oder auch mit anderen aus ähnlichen
 Operationen hervorgehenden Objecten nach denselben, einmal
 festgesetzten Regeln verknüpft werden kann.
 </p>
-<p lang="en">...
+<p lang="en">
+In the foregoing we have everywhere presupposed the unrestricted
+[completability]{.origphrase title="Ausführbarkeit"} of all
+operations, i.e. assumed that in the domain of objects under
+consideration, there is always an object which can be seen as the
+result of the operation, and insofar as it is of the same type as the
+objects which go into the operation, it can be [conjoined]{.origphrase
+title="verknüpft"} with the latter or with other objects which result
+from similar
 <a lang="en" class="origpage" id="p.26" title="Page 26"></a>
-...
+operations according to the same rules previously laid down.
 </p>
 </div>
 
@@ -708,7 +805,7 @@ Object derselben directen Reihe liefert, während die Lysis nur in
 gewissen Fällen zu einem solchen führt, in anderen aber nicht, somit
 in gewissem Sinne unausführbar ist, und erst ausführbar wird, wenn man
 sich zu der gegebenen Reihe von Objecten eine inverse hinzudenkt, die
-entweder transscendental oder in der Anschauung construirbar ist. ---
+entweder transscendental oder in der Anschauung construirbar ist.\ ---
 </p>
 <p lang="en">
 But not everywhere is the domain so extended at the start;
@@ -720,7 +817,7 @@ but not in others, and is thus in a certain sense
 [not completable]{.origphrase title="unausführbar"}; it only becomes
 completable if one adds in thought to the given series of objects
 an inverse series which is constructible either transcendentally
-or in intuition. --- 
+or in intuition.\ --- 
 </p>
 </div>
 
