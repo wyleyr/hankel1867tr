@@ -211,7 +211,14 @@ kann man hieraus, die beiden Eigenschaften der entsprechenden
 lytischen $\lambda$, eindeutig zu sein und sich zu verändern,
 wenn sich ihr erstes Glied ändert, ebenso leicht ableiten: 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+If, instead of the presuppositions above, one instead assumes that the
+operation $\Theta(a,b)$ is one-valued and has the property that its
+result always changes when its first term changes, then one can just
+as easily derive the two properties of the corresponding lytic
+operation $\lambda$---that it is one-valued, and changes when its
+first term changes: 
+</p>
 </div>
 
 <div class="parallel">
@@ -229,7 +236,17 @@ das Gesetz, dass sich $\lambda(a,b)$ jedesmal mit $a$ ändert.
 </p>
 <p lang="en">
 <a lang="en" class="origpage" id="p.20" title="Page 20"></a>
-...</p>
+Assuming then that $\lambda(a,b)$ is many-valued, i.e. that there are several
+distinct objects which $\lambda(a,b)$ can represent in formulas, 
+let $c, c'$ be two such objects; then it would be that:
+$$
+\Theta\{\lambda(a,b), b\} = \Theta(c,b) = \Theta(c',b) = a.
+$$
+By the assumption that $\Theta(c,b) = \Theta(c',b)$ can only be the
+case if $c = c'$, it follows that the $\lambda$ operation is
+one-valued, and from this further follows the law that $\lambda(a,b)$
+changes with every change in $a$.
+</p>
 </div>
 
 <div class="text-small">
