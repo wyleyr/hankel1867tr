@@ -1055,7 +1055,32 @@ schreibt, führen wir der Leichtigkeit wegen, mit der sie sich ergeben,
 hier nicht weiter an. Nur eine wesentlich neue Gleichung mag hier
 erwähnt werden:
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Even if up to now the result of $\Theta(a, b)$ has been see as
+distinct from $\Theta(b, a)$, nothing stands in the way of us
+making the determination, alongside those of the previous §., that
+in every case
+$$
+\Theta(a, b) = \Theta(b, a). 
+$$
+The other forms which one can give to the equations of the
+previous §., by writing e.g. 
+instead of [(1)](#p.18eq1){.eqref}
+and [(2)](#p.19eq2){.eqref} 
+<span class="numbered" id="p.25eq1*" data-label="1*">
+\begin{equation}
+\Theta\{b, \lambda(a,b)\} = a
+\end{equation}
+</span>
+<span class="numbered" id="p.25eq2*" data-label="2*">
+\begin{equation}
+\lambda\{\Theta(b,a), b\} = a
+\end{equation}
+</span>
+we will not further enumerate here, due to the simplicity with which
+they can be derived. Only one essentially new equation may be
+mentioned here:
+</p>
 </div>
 
 <div class="parallel">
@@ -1079,11 +1104,35 @@ also $\lambda(x, c) = \lambda(a, b)$ und daher $x =$
 \end{equation}
 </span>
 eine Gleichung, welche neben [(6)](#S.22eq6){.eqref} gesetzt werden
-kann, aber eine ausdrückliche Folge der Commutativität ist --- welch
+kann, aber eine ausdrückliche Folge der Commutativität ist\ --- welch
 letztere Voraussetzung in den weiteren Untersuchungen dieses §. immer
 festgehalten werden soll.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+If one sets
+$$
+\lambda\{a, \lambda (b, c)\} = x 
+$$
+then one has by [(5)](#p.22eq5){.eqref} 
+$$
+\lambda(x, c) = \lambda[\lambda\{a, \lambda(b,c)\}, c]= \lambda [a, \Theta\{c, \lambda(b,c)\}] 
+$$
+From the equation [(1*)](#p.25eq1){.eqref}, obtained by commutativity, 
+one has
+$$
+\Theta\{c, \lambda(b, c)\} = b 
+$$
+thus $\lambda(x, c) = \lambda(a, b)$ and therefore $x =$ 
+<span class="numbered" id="p.25eq6*" data-label="6*">
+\begin{equation}
+\lambda\{a, \lambda(b, c)\} = \Theta\{\lambda (a, b), c\} 
+\end{equation}
+</span>
+an equation which may be set alongside [(6)](#p.22eq6){.eqref},
+but which is an explicit consequence of commutativity\ ---
+a presupposition which, in the further investigations
+of this §, shall always hold. 
+</p>
 </div>
 
 <div class="parallel">
@@ -1258,17 +1307,42 @@ und
 = \lambda\{\Theta(a,c,e), \Theta(b,d,f)\} 
 \end{multline}
 </p>
-<p lang="en">...</p>
+<p lang="en">
+From the same, its commutativity follows immediately, for 
+$$
+\Theta[\lambda(c,d), \lambda(a,b)] = \lambda[\Theta(c, a), \Theta(d, b)]
+$$
+and further its associativity: for
+\begin{multline}
+\Theta(\Theta[\lambda(a,b), \lambda(c,d)], \lambda(e,f)) =
+\Theta(\lambda[\Theta(a,c), \Theta(b, d)] \lambda (e,f)) \\ 
+= \lambda(\Theta[\Theta(a,c),e], \Theta[\Theta(b,d), f]) \\
+= \lambda\{\Theta(a,c,e), \Theta(b,d,f)\} 
+\end{multline}
+and 
+\begin{multline}
+\Theta(\lambda(a,b), \Theta[\lambda(c,d), \lambda(e,f)]) =
+\Theta(\lambda(a,b), \lambda[\Theta(c,e), \Theta(d,f)]) \\ 
+= \lambda(\Theta[a, \Theta(c,e)], \Theta[b,\Theta(d, f)]) \\
+= \lambda\{\Theta(a,c,e), \Theta(b,d,f)\} 
+\end{multline}
+</p>
 </div>
 
 <div class="parallel">
 <p lang="de">
 Dass die Thesis zweier Objecte der zweiten Art $\lambda(d,b), \lambda(c,d)$
-immer wieder ein Object derselben Art, welches nämlich in der 
+immer wieder ein Object derselben Art [ist]{.corrected}, welches nämlich in der 
 Form $\lambda(e,f)$ dargestellt werden kann, wo $e$ $f$ mit $a$ $b$ $c$ $d$
 gleichartig sind, geht unmittelbar aus deren Definition hervor. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+That the thesis of two objects of the second type $\lambda(d,b), \lambda(c,d)$
+is always an object of the same type,
+which can always be presented in the form $\lambda(e,f)$, where 
+$e$ $f$ are of the same type as $a$ $b$ $c$ $d$,
+follows immediately from its definition.
+</p>
 </div>
 
 <div class="parallel">
@@ -1277,7 +1351,11 @@ Es fragt sich aber weiter, ob bei der jener Thesis entsprechenden
 Lysis zweier Objecte der zweiten Art, nicht wiederum neue entstehen;
 es wird hierüber entschieden durch folgende Bemerkungen:
 </p>
-<p lang="en">...</p>
+<p lang="en">
+It may further be asked whether through the lysis, corresponding to that
+thesis, of two objects of the second type new objects again arise;
+this shall be decided through the following remarks: 
+</p>
 </div>
 
 <div class="parallel">
@@ -1298,7 +1376,22 @@ und daher z.\ B.
 \end{equation}
 </span>
 </p>
-<p lang="en">...</p>
+<p lang="en">
+When the earlier modulus of the operation now has the property
+that, when it is thetically [conjoined]{.origphrase title="verbunden"} with an
+object of either the new or the old series, 
+it produces the object itself again, then by [(1)](#p.26eq1){.eqref} 
+<span class="numbered" id="p.27eq2" data-label="2">
+\begin{equation}
+\lambda[\Theta(a,x), \Theta(b,x)] = \Theta[\lambda(a,b),\lambda(x,x)] = \lambda(a,b)
+\end{equation}
+</span>
+and therefore e.g. 
+<span class="numbered" id="p.27eq3" data-label="3">
+\begin{equation}
+\lambda[\Theta(a,c,d), \Theta(b,c,d)] =  \lambda(a,b).
+\end{equation}
+</p>
 </div>
 
 <div class="parallel">
@@ -1307,7 +1400,11 @@ Die Gleichung [(2)](#S.27eq2){.eqref} gibt uns darüber Aufschluss, in welchem
 Falle zwei lytische Verbindungen $\lambda(e,f)$ und $\lambda(a,b)$ als gleich 
 anzusehen sind. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+The equation [(2)](#S.27eq2){.eqref} informs us in which circumstance two
+lytic [conjunctions]{.origphrase title="Verbindungen"} $\lambda(e,f)$
+and $\lambda(a,b)$ should be seen as equal.
+</p>
 </div>
 
 <div class="parallel">
@@ -1345,9 +1442,40 @@ also da $\Theta (a,d), \Theta(b,c)$ Objecte der ersten Art sind, die
 lytische Verbindung von $\lambda(a, b)$ und $\lambda(c, d)$ ein Object
 erster oder zweiter Art.
 </p>
-<p lang="en">...
+<p lang="en">
+With this preparation, let us proceed to answer the question raised
+earlier, which asks whether an object $x$ of the first or the second
+type can always be found, so that
+$$
+x = \lambda[\lambda(a,b), \lambda(c,d)] 
+$$
 <a lang="en" class="origpage" id="p.28" title="Page 28"></a>
-...
+can always be posited, hence as a consequence of the definition of the lysis
+$$
+\lambda(a, b) = \Theta\{x, \lambda(c, d)\}.
+$$
+Should $x$ be such an object, then it must be possible to set 
+$x = \lambda(y, z)$, where $y, z$ are objects of the old type, hence
+$$
+\lambda(a,b) = \Theta\{\lambda(y,z),\lambda(c,d)\} = \lambda\{\Theta(y,c), \Theta(z,d)\}
+$$
+If one now posits, according to [(3)](#p.27eq3){.eqref}: 
+\begin{multline}
+\lambda (a, b) = \lambda\{\Theta[\Theta(a, d), c], \Theta[\Theta(b, c), d]\}  \\
+= \lambda[\Theta(y,c), \Theta(z, d)] 
+\end{multline}
+then
+$$
+y = \Theta(a,d), z = \Theta(b,c) 
+$$
+satisfy this equation and:
+$$
+\lambda[\lambda(a,b), \lambda(c,d)] = \lambda[\Theta(a,d), \Theta(b, c)] 
+$$
+Thus, since $\Theta (a,d), \Theta(b,c)$ are objects of the first type,
+the lytic [conjunction]{.origphrase title="Verbindung"}
+of $\lambda(a, b)$ and $\lambda(c, d)$
+is an object of the first or the second type.
 </p>
 </div>
 
@@ -1366,7 +1494,21 @@ und noch überdem die Formeln [4](#S.23eq4), [5](#S.23eq5), [6](#S.23eq6)
 jetzt, wo jede Lysis ausführbar ist, ganz allgemein und ohne jede
 Determination gelten werden.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+If we have now recognized that from our determination about the
+[meaning]{.origphrase title="Bedeutung"} of a thesis of objects of the
+first and second type with one another, or of the latter among
+themselves, it necessarily follows that this thesis and its lysis lead
+again to objects of these two types, and in general, the same laws of
+the thetic and lytic operations are valid for those of the second type
+as for those of the first type, then it is manifest that now all the
+theorems of the previous §. can be asserted without further
+qualification for objects of the first and second type in their mutual
+[conjunction]{.origphrase title="Verknüpfung"}, and still beyond this
+the formulae [4](#S.23eq4), [5](#S.23eq5), [6](#S.23eq6) will now be
+valid where every lysis can be carried out, entirely generally and
+without any determination.
+</p>
 </div>
 
 <div class="parallel">
@@ -1375,7 +1517,7 @@ Die Objecte zweiter Art bilden zunächst eine Reihe von der
 zweifachen Ausdehnung der Reihe, welche die der ersten einnehmen. 
 Indessen kann man sie sämmtlich aus einer Reihe von Objecten, 
 welche eine nicht grössere Ausdehnung als die ursprüngliche hat, 
-durch thetische Verbindung erhalten Führt man nämlich nach 
+durch thetische Verbindung erhalten[.]{.corrected} Führt man nämlich nach 
 dem vorigen §. den Begriff des Inversen 
 $$
 \lambda(n,b) = b_n
@@ -1389,9 +1531,24 @@ und diese inversen Objecte bilden eine der Reihe der (directen)
 Objecte erster Art entsprechende Reihe, so dass jedem Gliede der 
 einen Reihe eins der anderen in bestimmter Ordnung entspricht. 
 </p>
-<p lang="en">...
+<p lang="en">
+The objects of the second type at first form a series of the twofold
+extension of the series which those of the first occupy.
+Nevertheless, one can obtain them via a thetic
+[conjunction]{.origphrase title="Verbindung"} entirely from a series of objects
+which has an extension not larger than the original. In particular, if
+one introduces, following the previous §, the concept of the inverse
+$$
+\lambda(n,b) = b_n
+$$
+then 
+$$
+\lambda(a,b) = \Theta(a,b_n)
+$$
 <a lang="en" class="origpage" id="p.29" title="Page 29"></a>
-...
+and these inverse objects form a series corresponding to the series of
+(direct) objects of the first type, so that to every term of the first
+series corresponds one of the other in a definite order. 
 </p>
 </div>
 
