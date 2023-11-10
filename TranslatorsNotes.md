@@ -145,9 +145,10 @@ about them:
   from its converse, the operation's being *functional* (the same
   inputs give the same output), especially in more informal glosses
   (see for example [page 2](#S.2) or [page 18--19](#S.19)). He also
-  contrasts <i>eindeutig</i> with <i>vieldeutig</i> (which he clearly
-  uses to mean "many-valued"; see [page 20](#S.20)), which counts
-  against translating it with a more general term like "well-defined".
+  contrasts <i>eindeutig</i> with <i>zweideutig</i> and <i>vieldeutig</i>
+  (which he clearly uses to mean "two-valued" and "many-valued"; see
+  [page 20](#S.20)), which counts against translating it with a more
+  general term like "well-defined".
 
 <i lang="de">verknüpfen; Verknüpfung</i>
 : conjoin, combine; conjunction, combination, operation. Hankel thinks
