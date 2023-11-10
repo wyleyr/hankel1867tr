@@ -104,7 +104,16 @@ $$
 da aber $\Theta\{\lambda(a,b),b\} = a$, $\Theta\{\lambda(a',b),b\} = a'$,
 so ist dies unmöglich. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+One can immediately draw consequences from this:
+namely, if it were the case that $\lambda(a,b) = \lambda(a',b)$ without
+it being the case that $a = a'$, then it would also be that: 
+$$
+\Theta\{\lambda(a,b),b\} = \Theta\{\lambda(a',b),b\}
+$$
+But since $\Theta\{\lambda(a,b),b\} = a$, $\Theta\{\lambda(a',b),b\} = a'$,
+this is impossible. 
+</p>
 </div>
 
 <div class="parallel">
@@ -112,7 +121,11 @@ so ist dies unmöglich.
 Aendert sich also $a$ in $\lambda(a,b)$ bei constantem $b$, so ändert
 sich nothwendig auch das Resultat der Verknüpfung.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+So if the $a$ in $\lambda(a,b)$ changes while $b$ remains constant,
+the result of the [operation]{.origphrase title="Verknüpfung"}
+necessarily changes as well. 
+</p>
 </div>
 
 <div class="parallel">
@@ -139,7 +152,29 @@ $$
 $$
 das widersinnige Resultat $a = a'$. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+The equation $\lambda(x,b) = a$ accordingly has only one solution,
+which one finds by thetically conjoining both sides with $b$:
+$$
+\Theta\{\lambda(x,b),b\} = \Theta(a,b)
+$$
+Thus $x = \Theta(a,b)$, through which one finds the identity:
+<span class="numbered" id="p.19eq2" data-label="2">
+\begin{equation}
+\lambda\{\Theta(a,b),b\} = a
+\end{equation}
+</span>
+Further, it follows that when
+$$
+\Theta(a,b) = \Theta(a',b)
+$$
+it must also necessarily be that $a = a'$. For if this were not the
+case, one would have from the equation
+$$
+\lambda\{\Theta(a,b),b\} = \lambda\{\Theta(a',b),b\}
+$$
+the contradictory result $a = a'$.
+</p>
 </div>
 
 <div class="parallel">
@@ -154,8 +189,19 @@ $$
 $$
 stets $a = a'$ geschlossen werden kann. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Thus it follows from the above presupposition of the one-valuedness of
+the lytic and thetic operations that when in $\lambda(a,b)$ and
+$\Theta(a,b)$ the *first* term changes, while the second remains
+constant, the result of the [operation]{.origphrase title="Verknüpfung"} 
+changes at the same time; thus from each of the equations:
+$$
+\lambda(a,b) = \lambda(a',b),  \Theta(a,b) = \Theta(a',b)
+$$
+$a = a'$ can always be inferred.
+</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
 Nimmt man statt der obigen Voraussetzungen an, dass die 
@@ -190,8 +236,8 @@ das Gesetz, dass sich $\lambda(a,b)$ jedesmal mit $a$ ändert.
 <div class="parallel">
 <p lang="de">
 Zur Erläuterung dieser Bemerkungen nehmen wir die gemeinen reellen
-Zahlen und ihre Rechnungsregeln hier als bekannt an. Dann kann man z.
-B. $\Theta(a,b) = a+b$ setzen, wo beide eben angenommene Eigenschaften
+Zahlen und ihre Rechnungsregeln hier als bekannt an. Dann kann man z.\ B.
+$\Theta(a,b) = a+b$ setzen, wo beide eben angenommene Eigenschaften
 erfüllt sind. Dann ist $\lambda(a,b) = a-b$; denn es ist
 $\Theta\left(\lambda(a,b),b\right) = \Theta(a-b,b) = (a-b)+b = a$ wie verlangt,
 und in der That ist $\lambda$ eindeutig. Setzen wir ferner
@@ -203,7 +249,20 @@ Eigenschaft nicht hat, wenn $b = 0$, indem $a \cdot 0 = 0$, $a' \cdot 0 = 0$,
 so ist auch die umgekehrte Operation nämlich $\frac{a}{0}$ nicht
 eindeutig.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+To elucidate these remarks, let us take the the common real numbers
+and their rules of calculation as known. Then one can e.g. set
+$\Theta(a,b) = a+b$, where both assumed properties are fulfilled. Then
+$\lambda(a,b) = a-b$; for
+$\Theta\left(\lambda(a,b),b\right) = \Theta(a-b,b) = (a-b)+b = a$
+as required, and $\lambda$ is indeed one-valued. If we further set
+$\Theta(a,b) = ab$, then $\lambda(a,b) = \frac{a}{b}$. Because the
+former operation is one-valued when $a, b$ are common numbers, and the
+product changes in general when one factor changes, $\frac{a}{b}$ has
+the same properties. But because the product does not have this
+property when $b = 0$, since $a \cdot 0 = 0$, $a' \cdot 0 = 0$, the
+inverse operation, namely $\frac{a}{0}$, is also not one-valued.
+</p>
 </div>
 
 <div class="parallel">
@@ -215,8 +274,18 @@ es ist aber $\lambda(a,b)$ zweideutig, weil sich in dem eindeutigen
 Resultate $\Theta(a,b)$, das $a$ ändern, nämlich in das entgegengesetzte
 übergehen kann, ohne dass sich das Resultat ändert.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+If further 
+$\Theta(a,b) = (ab)^2$, then
+$\lambda(a,b) = \frac{\sqrt{a}}{b}$, since
+$\Theta\left(\lambda(a,b),b\right) = \Theta\left(\frac{\sqrt{a}}{b},b\right) = a$;
+but in this case $\lambda(a,b)$ is two-valued,
+because the $a$ can change in the one-valued result $\Theta(a,b)$,
+namely into [its opposite]{.origphrase title="das entgegengesetzte"},
+without changing the result.
+</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
 Ist $\Theta(a,b) = a^b$, so ist $\Theta(c,b) = c^b = a$ wenn $c = \lambda(a,b)$;
@@ -225,8 +294,17 @@ eine bekanntlich unendlich vieldeutige Zahl; dies steht damit im Zusammenhange,
 dass $a^b$ sich nicht jedesmal ändert, wenn $a$ einen anderen Werth annimmt,
 sondern unverändert bleibt, wenn es den Factor $e^{\frac{2\pi i}{b}}$ erhält. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+If $\Theta(a,b) = a^b$, then $\Theta(c,b) = c^b = a$ if $c = \lambda(a,b)$;
+but from $c^b = e^{b\log c} = a$ follows $c = \lambda(a,b) = e^{\frac{\log a}{b}}$,
+a number known to be infinitely many-valued;
+this is related to the fact that $a^b$ does not always change
+when $a$ assumes another value,
+but rather remains unchanged when it receives
+the factor $e^{\frac{2\pi i}{b}}$. 
+</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
 Es mag hier sogleich bemerkt werden, dass es, allgemein zu reden, zu 
@@ -236,7 +314,13 @@ wenn $\Theta(a,b) = e^{b\log a}$ gesetzt wird $x = e^{\frac{\log a}{b}}$,
 die andere $x = \frac{\log a}{\log b}$. Beide können 
 nur zusammenfallen, wenn $\Theta(a,b) = \Theta(b,a)$.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+It may immediately be remarked here that, speaking generally, for every
+thetic operation $\Theta(a,b)$ there are two lytic operations; 
+the first solves the problem $\Theta(x,b) = a$, the other $\Theta(b,x) = a$.
+When $\Theta(a,b) = e^{b\log a}$, the first is $x = e^{\frac{\log a}{b}}$,
+the other is $x = \frac{\log a}{\log b}$.
+</p>
 </div>
 </div> <!-- .text-small -->
 
