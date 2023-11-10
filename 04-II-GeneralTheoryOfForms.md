@@ -211,7 +211,14 @@ kann man hieraus, die beiden Eigenschaften der entsprechenden
 lytischen $\lambda$, eindeutig zu sein und sich zu verändern,
 wenn sich ihr erstes Glied ändert, ebenso leicht ableiten: 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+If, instead of the presuppositions above, one instead assumes that the
+operation $\Theta(a,b)$ is one-valued and has the property that its
+result always changes when its first term changes, then one can just
+as easily derive the two properties of the corresponding lytic
+operation $\lambda$---that it is one-valued, and changes when its
+first term changes: 
+</p>
 </div>
 
 <div class="parallel">
@@ -229,7 +236,17 @@ das Gesetz, dass sich $\lambda(a,b)$ jedesmal mit $a$ ändert.
 </p>
 <p lang="en">
 <a lang="en" class="origpage" id="p.20" title="Page 20"></a>
-...</p>
+Assuming then that $\lambda(a,b)$ is many-valued, i.e. that there are several
+distinct objects which $\lambda(a,b)$ can represent in formulas, 
+let $c, c'$ be two such objects; then it would be that:
+$$
+\Theta\{\lambda(a,b), b\} = \Theta(c,b) = \Theta(c',b) = a.
+$$
+By the assumption that $\Theta(c,b) = \Theta(c',b)$ can only be the
+case if $c = c'$, it follows that the $\lambda$ operation is
+one-valued, and from this further follows the law that $\lambda(a,b)$
+changes with every change in $a$.
+</p>
 </div>
 
 <div class="text-small">
@@ -368,7 +385,45 @@ und überhaupt allgemein.
 </p>
 <p lang="en">
 <a lang="en" class="origpage" id="p.21" title="Page 21"></a>
-...</p>
+Under the presupposition of the one-valuedness of both operations, one
+has besides
+<span class="numbered" id="p.21eq1" data-label="1">
+\begin{equation}
+\Theta\{\lambda(a,b),b\} = a
+\end{equation}
+</span>
+as already shown, the other equation:
+<span class="numbered" id="p.21eq2" data-label="2">
+\begin{equation}
+\lambda\{\Theta(a,b),b\} = a
+\end{equation}
+</span>
+We further presuppose the <dfn>associative</dfn> property, i.e. that: 
+<span class="numbered" id="p.21eq3" data-label="3">
+\begin{equation}
+\Theta[a, \Theta(b,c)] = \Theta[\Theta(a,b), c]
+\end{equation}
+</span>
+where one may then write, without [ambiguity]{.origphrase title="Zweideutigkeit"}:
+$$
+= \Theta(a,b,c)
+$$
+Then:
+\begin{multline}
+\Theta[a, \Theta(b,c,d)] = \Theta[a,\Theta\{\Theta(b,c),d\}] \\
+= \Theta[\Theta\{a, \Theta(b,c)\}, d] = \Theta[a,\Theta(b,c),d] \\
+= \Theta[a,\Theta\{b,\Theta(c,d)\}] = \Theta[\Theta(a,b), \Theta(c,d)]
+\end{multline}
+so that one for this may again write:
+$$
+= \Theta(a,b,c,d)
+$$
+with which one expresses that one always, and in a completely arbitrary
+way, thetically connects pairwise two objects following one another, 
+then two more again; etc. 
+If the associative principle is valid for 3 terms, it is also valid for
+4 and in general.
+</p>
 </div>
 
 <div class="parallel text-small">
@@ -379,15 +434,36 @@ sind, z.\ B. $\Theta(a,b) = \frac{a+b}{2}$; denn dann ist
 $\Theta(\Theta(a,b),c) = \Theta\left(\frac{a+b}{2},c\right) = \frac{a+b+2c}{4}$;
 $\Theta(a,\Theta(b,c)) = \Theta\left(a, \frac{b+c}{2}\right) = \frac{4a+b+c}{2}.$
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Addition and multiplication can serve as examples of completely one-valued
+theses<sup>[A](#p.21nA){#p.21nAref .trnref}</sup> which are associative. 
+As examples of theses which are not associative, take e.g. 
+$\Theta(a,b) = \frac{a+b}{2}$; for then 
+$\Theta(\Theta(a,b),c) = \Theta\left(\frac{a+b}{2},c\right) = \frac{a+b+2c}{4}$;
+$\Theta(a,\Theta(b,c)) = \Theta\left(a, \frac{b+c}{2}\right) = \frac{4a+b+c}{2}.$
+</p>
 </div>
+
+<aside class="parallel footnote trnote">
+<p lang="de"></p>
+<p lang="en" id="p.21nA">A\)
+Hankel is here exploiting the Greek root of <i>These</i> to serve as
+the noun corresponding to <i>thetisch</i> (the word translated here as
+<q>thetic</q>). <q>Thesis</q>, the usual translation of <i>These</i>,
+does the same job in English, if one ignores its usual meaning. Hankel
+is referring to thetic *operations*.
+</p>
+</aside>
 
 <div class="parallel">
 <p lang="de">
 Aus den gemachten Voraussetzungen lassen sich nun eine Reihe 
 von wichtigen Transformationen herleiten: 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+A series of important transformations can be derived from the
+presuppositions made above:
+</p>
 </div>
 
 <div class="parallel">
@@ -416,9 +492,30 @@ oder nach [(2)](#S.19eq2){.eqref}  $x =$
 \end{equation}
 </span>
 </p>
-<p lang="en">...
+<p lang="en">
+If one sets
+$$
+x = \Theta[a,\lambda(b,c)]
+$$
+then one has, by [(3)](#p.21eq3){.eqref}
+$$
+\Theta(x,c) = \Theta\{\Theta[a,\lambda(b,c)],c\} = \Theta\{a, \Theta[\lambda(b,c),c]\}
+$$
+and therefore by [(1)](#p.18eq1){.eqref} 
+$$
+\Theta(x,c) = \Theta(a,b)
+$$
 <a lang="en" class="origpage" id="p.22" title="Page 22"></a>
-...
+thus
+$$
+\lambda[\Theta(x,c),c] = \lambda[\Theta(a,b),c]
+$$
+or by [(2)](#p.19eq2){.eqref}  $x =$ 
+<span class="numbered" id="p.22eq4" data-label="4">
+\begin{equation}
+\Theta[a, \lambda(b,c)] = \lambda[\Theta(a,b),c]
+\end{equation}
+</span>
 </p>
 </div>
 
@@ -447,7 +544,30 @@ und somit nach [(2)](#S.19eq2){.eqref}:  $x =$
 \end{equation}
 </span>
 </p>
-<p lang="en">...</p>
+<p lang="en">
+If we further set:
+$$
+x = \lambda[\lambda(a,b),c]
+$$
+then one has, by [(1)](#p.18eq1){.eqref} 
+$$
+\Theta(x,c) = \Theta\{\lambda[\lambda(a,b),c],c\} = \lambda(a,b)
+$$
+thus again by [(1)](#p.18eq1){.eqref} 
+$$
+\Theta[\Theta(x,c),b] = a
+$$
+or by [(3)](#p.21eq3){.eqref}
+$$
+\Theta[x, \Theta(c,b)] = a
+$$
+and therewith by [(2)](#p.19eq2){.eqref}:  $x =$
+<span class="numbered" id="p.22eq5" data-label="5">
+\begin{equation}
+\lambda[a, \Theta(c,b)] = \lambda[\lambda(a,b), c]
+\end{equation}
+</span>
+</p>
 </div>
 
 <div class="parallel">
@@ -484,7 +604,39 @@ vereinigt werden kann und wo, wie in [(5)](#S.22eq5){.eqref},
 die Vertauschung der Ordnung von $c$ und $b$ im mittelsten Gliede
 wohl zu beachten ist. --- 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+One has further, if
+$$
+x = \lambda[\Theta(c,b), b]
+$$
+is posited, by [(1)](#p.18eq1){.eqref} 
+$$
+\Theta(x,b) = \Theta(a,c)
+$$
+and by [(2)](#p.19eq2){.eqref}
+$$
+\lambda[\Theta(x,b), c] = a
+$$
+therefore by [(4)](#p.22eq4){.eqref} 
+$$
+\lambda[\Theta(x,b), c] = \Theta[x, \lambda(b,c)] = a
+$$
+and therewith one finds by [(2)](#p.19eq2){.eqref}, $x =$
+<span class="numbered" id="p.22eq6" data-label="6">
+\begin{equation}
+\lambda[\Theta(a,c), b] = \lambda[a, \lambda(b,c)] = \Theta[a, \lambda(b,c)],
+\end{equation}
+</span>
+an equation which can be united with [(4)](#p.22eq4){.eqref} to:
+<span class="numbered" id="p.22eq4,6" data-label="4, 6">
+\begin{equation}
+\lambda[\Theta(a,c), b] = \lambda[a, \lambda(b,c)] = \Theta[a, \lambda(c,b)],
+\end{equation}
+</span>
+and where, as in [(5)](#p.22eq5){.eqref}, 
+the exchange of the order of $c$ und $b$ in the innermost term 
+is especially to be observed. --- 
+</p>
 </div>
 
 <div class="parallel">
@@ -501,9 +653,19 @@ erste unverändert bleibt, sich das Ergebniss der Verknüpfung
 ändere; dass man also aus $\Theta(\mu,b') = \Theta(\mu, b)$ immer auf $b=b'$ 
 schliessen dürfe. 
 </p>
-<p lang="en">...
+<p lang="en">
+We have above become acquainted with the fact that $\Theta(a,b),
+\lambda(a,b)$ must change when the first term $a$ changes while the
+second term $b$ remains constant as a necessary consequence of the
+presupposed one-valuedness of the lytic and thetic
+[operation]{.origphrase title="Verknüpfung"}. We now assume --- and
+call this entire presupposition that of <dfn>complete
+one-valuedness</dfn> --- that when in $\Theta(a,b)$ the second
+term changes, while the
 <a lang="en" class="origpage" id="p.23" title="Page 23"></a>
-...
+first remains unchanged, the result of the
+[operation]{.origphrase title="Verknüpfung"} changes as well;
+that one may always infer $b=b'$ from $\Theta(\mu,b') = \Theta(\mu, b)$. 
 </p>
 </div>
 
@@ -523,7 +685,21 @@ auch nothwendig $b=b'$ sein muss, sich also auch das Resultat der
 lytischen Verbindung ändert, wenn das zweite Glied ein anderes 
 ist, während das erstere constant bleibt. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+A necessary consequence of this is that when
+$\lambda(a,b)=\lambda(a,b')=\mu$
+and so 
+$$
+\Theta\{\lambda(a,b), b\} = a, \Theta\{\lambda(a, b'), b'\} = a
+$$
+or 
+$$
+\Theta(\mu, b) = \Theta(\mu, b')
+$$
+then it must also necessarily be that $b=b'$; hence the result of the
+lytic [operation]{.origphrase title="Verbindung"} changes as well when
+the second term is different while the first remains constant.
+</p>
 </div>
 
 <div class="parallel">
@@ -549,8 +725,30 @@ und nach der vorausgesetzten Eindeutigkeit
 so dass die Ordnung, in der man den Modul mit dem Objecte verbindet,
 für das Resultat gleichgültig ist. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+We now assume that there is an object $n$, the <dfn>modulus</dfn> of
+the operation, which when thetically [conjoined]{.origphrase title="verknüpft"}
+with every object $a$ yields the same again as result, so that:
+<span class="numbered" id="p.23eq7" data-label="7">
+\begin{equation}
+\Theta(a,n) = a
+\end{equation}
+</span>
+Then by the associative principle one has
+$$
+\Theta\{a, \Theta(n, c)\} = \Theta\{\Theta(a,n), c\} = \Theta(a, c)
+$$
+and by the presupposition of one-valuedness
+<span class="numbered" id="p.23eq8" data-label="8">
+\begin{equation}
+\Theta(n, c) = c
+\end{equation}
+</span>
+so that the order in which one connects the modulus with the object
+has no effect on the result. 
+</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
 Ferner findet man: 
@@ -568,8 +766,24 @@ $$
 \lambda(a, w) = \Theta\{\lambda (a, n), n\} = a 
 $$
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Further, one finds:
+<span class="numbered" id="p.23eq9" data-label="9">
+\begin{equation}
+\lambda(a,n) = a
+\end{equation}
+</span>
+for by [(1)](#p.18eq1){.eqref}, 
+$$
+\Theta\{\lambda(a,n),n\} = a
+$$
+and by [(7)](#p.23eq7){.eqref}, 
+$$
+\lambda(a, w) = \Theta\{\lambda (a, n), n\} = a 
+$$
+</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
 Aus [(2)](#S.19eq2){.eqref}  erhält man ferner für $a = n$ 
@@ -585,8 +799,22 @@ und da $\Theta(n, b) = b$
 so dass der Modul durch die lytische Verknüpfung irgend eines 
 Objectes mit sich selbst, erhalten wird. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+From [(2)](#p.19eq2){.eqref} one furthermore finds, for $a = n$, 
+$$
+\lambda[\Theta(n,b), b] = n
+$$
+and since $\Theta(n, b) = b$,
+<span class="numbered" id="p.23eq10" data-label="10">
+\begin{equation}
+\lambda(b, b) = n
+\end{equation}
+</span>
+so that the lytic [operation]{.origphrase title="Verknüpfung"}
+of any object with itself yields the modulus.
+</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
 Während sich $\Theta(b,n)$, $\Theta(n,b)$, $\lambda(b,n)$ einfach auf
@@ -615,9 +843,32 @@ $\lambda[n, \lambda(n,c)] = \lambda[\Theta(n,c), n]$ ist:
 \end{equation}
 </span>
 </p>
-<p lang="en">...
+<p lang="en">
+While $\Theta(b,n)$, $\Theta(n,b)$, $\lambda(b,n)$ simply reduce to
+$b$, this is not the case with $\lambda(n,b)$. We write:
 <a lang="en" class="origpage" id="p.24" title="Page 24"></a>
-...
+<span class="numbered" id="p.24eq11" data-label="11">
+\begin{equation}
+\lambda(n,b) = b_n
+\end{equation}
+</span>
+and call $b_n$ the object <dfn>inverse</dfn> to $b$, $b$ on the other
+hand the <dfn>direct</dfn> object. 
+Then it can be shown that the object inverse to $b_n$ is again $b$ itself;
+thus $b_n$ and $b$ stand in the contrary opposition of direct and inverse
+(cf. [§. 17](#pz17)).
+In particular, one has, from [(6)](#p.22eq6){.eqref} for $a = n, b = n$: 
+$$
+\lambda [n, \lambda (n, c)] == \lambda[\Theta(n, c), n] 
+$$
+and thus, since by [(8)](#p.23eq8){.eqref} and [(9)](#p.23eq9){.eqref} 
+$\lambda [\Theta (n, c), n] = \lambda (c, n) = c$ and by 
+[(11)](#p.24eq11){.eqref} 
+$\lambda[n, \lambda(n,c)] = \lambda[\Theta(n,c), n]$: 
+<span class="numbered" id="p.24eq12" data-label="12">
+\begin{equation}
+(c_n)_n = c
+\end{equation}
 </p>
 </div>
 
@@ -626,7 +877,11 @@ $\lambda[n, \lambda(n,c)] = \lambda[\Theta(n,c), n]$ ist:
 Durch Einfuhrung dieses Zeichens lässt sich ausserdem jede 
 lytische Verknüpfung in eine thetische und umgekehrt verwandeln. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+In addition, the introduction of this sign permits every lytic
+[conjunction]{.origphrase title="Verknüpfung"} to be transformed into
+a thetic one, and vice versa.
+</p>
 </div>
 
 <div class="parallel">
@@ -652,7 +907,29 @@ oder
 \end{equation}
 </span>
 </p>
-<p lang="en">...</p>
+<p lang="en">
+For one has, for $b = n$, from [(4)](#p.22eq4){.eqref}: 
+$$
+\Theta[a, \lambda(n, c)] = \lambda[\Theta (a, n), c] 
+$$
+or 
+<span class="numbered" id="p.24eq13" data-label="13">
+\begin{equation} 
+\lambda(a,c) = \Theta(a, c_n)
+\end{equation}
+</span>
+and from [(6)](#p.22eq6){.eqref} for $b = n$: 
+$$
+\lambda[a, \lambda(n, c)] = \lambda[\Theta(a, c), n] 
+$$
+or
+<span class="numbered" id="p.24eq14" data-label="14">
+\begin{equation} 
+\Theta(a,c) = \lambda(a, c_n)
+\end{equation}
+</span>
+
+</p>
 </div>
 
 <div class="parallel">
@@ -674,7 +951,24 @@ und aus [(5)](#S.22eq5){.eqref} für $a = n$:
 \end{equation}
 </span>
 </p>
-<p lang="en">...</p>
+<p lang="en">
+From the equation [(4, 6)](#p.22eq4,6){.eqref} 
+$$
+\lambda[a, \lambda(b,c)] = \Theta[a, \lambda(c, b)] 
+$$
+results further for $a = n$ that 
+<span class="numbered" id="p.24eq15" data-label="15">
+\begin{equation} 
+[\lambda(b, c)]_n = \lambda (c, b)
+\end{equation}
+</span>
+and from [(5)](#p.22eq5){.eqref} for $a = n$: 
+<span class="numbered" id="p.24eq16" data-label="16">
+\begin{equation}
+[\Theta(b,c)]_n = \Theta(c_n, b_n)
+\end{equation}
+</span>
+</p>
 </div>
 
 <div class="parallel text-small">
@@ -701,7 +995,30 @@ $$
 und sie sind somit nur Darstellungen des associativen Princips bei der
 Verknüpfung directer und inverser Objecte.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+With the help of this concept of inverse, the equations
+[4](#p.23eq4), [5](#p.23eq5), [6](#p.23eq6) 
+can now be written thus: 
+\begin{align}
+\Theta[a, \lambda(b,c)] &= \Theta[a,\Theta(b,c_n)] \\
+\lambda[\Theta(a,b), c] &= \Theta[\Theta(a,b), c_n]
+\end{align}
+and so [(4)](#p.22eq4){.eqref} gives: 
+$$
+\Theta[a, \Theta(b, c_n)] = \Theta[\Theta(a, b), c_n] 
+$$
+Similarly, [(5)](#p.22eq5){.eqref} gives: 
+$$
+\Theta[a, \Theta(b_n, c_n)] = \Theta[\Theta(a, b_n), c_n]
+$$
+and [(6)](#p.22eq6){.eqref}: 
+$$
+\Theta[a, \Theta(c, b_n)] = \Theta[\Theta(a, c), b_n]
+$$
+and hence they are only presentations of the associative principle
+as applied to the [conjunction]{.origphrase title="Verknüpfung"}
+of direct and inverse objects.
+</p>
 </div>
 
 <div class="parallel">
