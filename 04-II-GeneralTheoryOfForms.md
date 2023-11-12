@@ -1855,7 +1855,42 @@ a\frac{b}{c} = \frac{ab}{c}
 \end{equation}
 </span>
 </p>
-<p lang="en">...</p>
+<p lang="en">
+If a new associative, in general completely one-valued operation,
+multiplication, and its lysis, division, are presented via the the
+signs $a\cdot b$ and $\frac{a}{b}$, then one has, by [§. 4](#pz4):
+<span class="numbered" id="p.30eq1" data-label="1">
+\begin{equation}
+\frac{a}{b} b = a
+\end{equation}
+</span>
+<span class="numbered" id="p.30eq2" data-label="2">
+\begin{equation}
+\frac{ab}{b} = a
+\end{equation}
+</span>
+<span class="numbered" id="p.30eq3" data-label="3">
+\begin{equation}
+a(bc) = (ab) c = a b c
+\end{equation}
+</span>
+Further
+<span class="numbered" id="p.30eq4" data-label="4">
+\begin{equation}
+a\frac{b}{c} = \frac{ab}{c}
+\end{equation}
+</span>
+<span class="numbered" id="p.30eq5" data-label="5">
+\begin{equation}
+\frac{\frac{a}{b}}{c} = \frac{a}{cb}
+\end{equation}
+</span>
+<span class="numbered" id="p.30eq6" data-label="6">
+\begin{equation}
+\frac{a}{\frac{b}{c}} = \frac{ac}{b}
+\end{equation}
+</span>
+</p>
 </div>
 
 <div class="parallel">
@@ -1884,9 +1919,30 @@ so folgt
 \end{equation}
 </span>
 </p>
-<p lang="en">...
+<p lang="en">
+If one now calls the modulus of this operation 1, so that
+<span class="numbered" id="p.30eq7" data-label="7">
+\begin{equation}
+a\cdot 1 = a 
+\end{equation}
+</span>
 <a lang="en" class="origpage" id="p.31" title="Page 31"></a>
-...
+then it follows that
+<span class="numbered" id="p.31eq8" data-label="8">
+\begin{equation}
+1\cdot c = c
+\end{equation}
+</span>
+<span class="numbered" id="p.31eq9" data-label="9">
+\begin{equation}
+\frac{a}{1} = a
+\end{equation}
+</span>
+<span class="numbered" id="p.31eq10" data-label="10">
+\begin{equation}
+\frac{b}{b} = 1
+\end{equation}
+</span>
 </p>
 </div>
 
@@ -1905,7 +1961,20 @@ Regeln:
 \end{equation}
 </span>
 </p>
-<p lang="en">...</p>
+<p lang="en">
+For the <dfn>reciprocal</dfn> numbers $\frac{1}{a}$, the following 
+rules are then valid:
+<span class="numbered" id="p.31eq12" data-label="12">
+\begin{equation}
+\frac{1}{\frac{1}{c}} = c
+\end{equation}
+</span>
+<span class="numbered" id="p.31eq13" data-label="13">
+\begin{equation}
+\frac{a}{c} = a\frac{1}{c}
+\end{equation}
+</span>
+</p>
 </div>
 
 <div class="parallel">
@@ -1935,7 +2004,32 @@ eines Productes Null ist, der andere sich ändern kann, ohne
 dass der Werth des Productes aufhört, Null zu bleiben. Die Division 
 mit Null ist daher gänzlich unbestimmt. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+
+We only call the present operation a *multiplication*, and that of the
+previous §. an *addition*, if they are both connected with one another 
+via the distributive principle in both its parts 
+<span class="numbered" id="p.31eq17" data-label="17">
+\begin{equation}
+(a + b)c = ac + bc 
+\end{equation}
+</span>
+<span class="numbered" id="p.31eq18" data-label="18">
+\begin{equation}
+a(c + d)= ac + ad 
+\end{equation}
+</span>
+and in addition the modulus of the addition has the property that
+<span class="numbered" id="p.31eq19" data-label="19">
+\begin{equation}
+a\cdot 0 = 0, 0\cdot a = 0 
+\end{equation}
+</span>
+in which it is immediately expressed that, if the one factor of a product
+is zero, the other can also change without the value of the product
+ceasing to remain zero. Division by zero is therefore completely
+undetermined.
+</p>
 </div>
 
 <div class="parallel text-small">
@@ -1951,7 +2045,17 @@ sie abgeben, nicht nothwendig dessen Werth ändert, so dass dann auch
 die Division durch dieselben gänzlich unbestimmt wird (vergl. den
 [VIII. Abschnitt](#Ch.VIII)).
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Since the presupposition of complete one-valuedness of multiplication
+and division is thereby broken, we do not want to look at
+unconditional one-valuedness as a necessary property of the concept of
+division. Indeed, in systems to be treated later, we will come upon
+distinct numbers which carry the character of the modulus in themselves,
+insofar as a product to which they give one factor does not
+necessarily change its value when the other factor changes, so that
+then too, division will be entirely undetermined by them (cf. [Chapter
+VIII](#Ch.VIII)).
+</p>
 </div>
 
 <div class="parallel">
@@ -1979,8 +2083,27 @@ $$
 $$
 </p>
 <p lang="en">...
+One can put a
+single formula in place of the two parts of the distributive principle.
+If one develops, namely, by [(17)](#p.31eq17){.eqref} 
+$$
+(a + b)(c + d) = a(c + d) + b(c + d) 
+$$
+then one has by [(18)](#p.31eq18){.eqref},
+<span class="numbered" id="p.31eq20" data-label="20">
+\begin{equation}
+(a + b)(c + d) = ac + ad + bc + bd
+\end{equation}
+</span>
+If on the other hand one first applies [(18)](#p.31eq18){.eqref}: 
+$$
+(a + b)(c + d) = (a + b)c + (a + b)d 
+$$
 <a lang="en" class="origpage" id="p.32" title="Page 32"></a>
-...
+and then [(17)](#p.31eq17){.eqref}, then one finds: 
+$$
+(a + b)(c + d) = ac + bc + ad + bd 
+$$
 </p>
 </div>
 
@@ -2031,7 +2154,10 @@ in general that multiplication is commutative.
 Aus den vorstehenden Beziehungen der Addition und Multiplication zu
 einander, lassen sich noch mehrere wichtige Folgerungen ableiten.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Several important consequences may be derived from the above relations
+of addition and multiplication to each other.
+</p>
 </div>
 
 <div class="parallel">
@@ -2058,7 +2184,29 @@ also
 \end{equation}
 </span>
 </p>
-<p lang="en">...</p>
+<p lang="en">
+From [(17)](#p.31eq17){.eqref} follows, for $b = -a$, since $a + (-a)
+= 0$, so: $(a + (-a))c = 0$, $ac + (-a)c = 0$ and thus 
+<span class="numbered" id="p.32eq21" data-label="21">
+\begin{equation}
+(-a)c = -ac
+\end{equation}
+</span>
+From [(18)](#p.31eq18){.eqref} for $d = -c$
+<span class="numbered" id="p.32eq22" data-label="22">
+\begin{equation}
+a(-c) = -ac
+\end{equation}
+</span>
+If one puts $-c$ instead of $c$ in [(21)](#p.32eq21){.eqref}, then
+it follows by [(22)](#p.32eq22){.eqref} $(-a)(-c) = -a(-c) = -(-ac) = +ac$
+and thus
+<span class="numbered" id="p.32eq23" data-label="23">
+\begin{equation}
+(-a)(-c) = ac
+\end{equation}
+</span>
+</p>
 </div>
 
 <div class="parallel">
@@ -2066,7 +2214,7 @@ also
 Können so die bekannten Regeln der Multiplication negativer 
 Zahlen aus dem distributiven Princip abgeleitet werden, so wird die 
 entsprechende Aufgabe, die Regeln der Addition reciproker Zahlen 
-oder von Quotienten ohne Commutation zu geben, nicht in der ge wöhnlichen
+oder von Quotienten ohne Commutation zu geben, nicht in der gewöhnlichen
 Weise gelöst werden können. Denn man hat 
 $$
 \left(\frac{a}{b} + \frac{c}{d}\right)bd = \frac{a}{b}bd + \frac{c}{d}bd = ad + c\frac{1}{d}bd
@@ -2100,9 +2248,44 @@ $$
 nicht weiter, etwa auf $\frac{ac}{bd}$ reduciren, und $b\frac{a}{b},
 \frac{ba}{b}$ ist von $a$ im Allgemeinen verschieden.
 </p>
-<p lang="en">...
+<p lang="en">
+Though the well-known rules of multiplication of negative number can be
+derived from the distributive principle, the corresponding
+problem, to give the rules of addition of reciprocal numbers
+or of quotients without commutativity, will not be able to be solved
+in the usual way.
+For one has
+$$
+\left(\frac{a}{b} + \frac{c}{d}\right)bd = \frac{a}{b}bd + \frac{c}{d}bd = ad + c\frac{1}{d}bd
+$$
+thus
+$$
+\frac{a}{b} + \frac{c}{d} = \frac{ad + c\frac{1}{d}bd}{bd}
+$$
 <a lang="en" class="origpage" id="p.33" title="Page 33"></a>
-...
+an expression which in general cannot be further reduced; only when $b = d$
+does one have: 
+$$
+\left(\frac{a}{b} + \frac{c}{b}\right) b = \frac{a}{b} b + \frac{c}{b} b = a + c
+$$
+also
+<span class="numbered" id="p.33eq24" data-label="24">
+\begin{equation}
+\frac{a}{b} + \frac{c}{b} = \frac{a + c}{b}
+\end{equation}
+</span>
+If however the multiplication is commutative, one finds:
+<span class="numbered" id="p.33eq25" data-label="25">
+\begin{equation}
+\frac{a}{b} + \frac{c}{d} = \frac{ad + cb}{bd}
+\end{equation}
+</span>
+Without commutativity, one cannot further reduce expressions like:
+$$
+\frac{a}{b}\frac{c}{d} = a\frac{1}{b}c\frac{1}{d}
+$$
+for example to $\frac{ac}{bd}$, and $b\frac{a}{b},
+\frac{ba}{b}$ are in general distinct from $a$.
 </p>
 </div>
 
@@ -2125,7 +2308,24 @@ b\frac{a}{b} = a
 \end{equation}
 </span>
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Under the presupposition of commutativity of the product, however, one has
+<span class="numbered" id="p.33eq1*" data-label="1*">
+\begin{equation}
+b\frac{a}{b} = a 
+\end{equation}
+</span>
+<span class="numbered" id="p.33eq2*" data-label="2*">
+\begin{equation}
+\frac{ba}{b} = a
+\end{equation}
+</span>
+<span class="numbered" id="p.33eq6*" data-label="6*">
+\begin{equation}
+\frac{a}{\frac{b}{c}} = \frac{a}{b} \cdot c
+\end{equation}
+</span>
+</p>
 </div>
 
 <div class="text-small">
