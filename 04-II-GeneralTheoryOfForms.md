@@ -2043,7 +2043,7 @@ $(a + (-a))c = 0$ ist, $ac + (-a)c = 0$ also
 (-a)c = -ac
 \end{equation}
 </span>
-Aus [(17)](#S.31eq18){.eqref} für $d = -c$
+Aus [(18)](#S.31eq18){.eqref} für $d = -c$
 <span class="numbered" id="S.32eq22" data-label="22">
 \begin{equation}
 a(-c) = -ac
