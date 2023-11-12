@@ -1576,7 +1576,27 @@ enthalten sein, aus der dann auch bei mehr als 3 Gliedern auf die
 gänzliche Gleichgültigkeit der Setzung der Klammern geschlossen 
 werden kann. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Let us now designate a thetic, completely one-valued, associative
+operation $\Theta(a,b)$ with $a + b$ and the corresponding, likewise
+completely one-valued lytic function $\lambda(a,b)$ with $(a - b)$,
+where these stand, according to their concept, in the relation
+<span class="numbered" id="p.29eq1" data-label="1">
+\begin{equation}
+(a - b) + b = a
+\end{equation}
+</span>
+and call the former addition, the latter substraction. Then 
+the 
+associative property will be contained in the equation 
+<span class="numbered" id="p.29eq3" data-label="3">
+\begin{equation}
+a + (b + c) = (a + b) + c = a + b + c 
+\end{equation}
+</span>
+from which then it may also be inferred that, even with more than three
+terms, the position of the parentheses is immaterial.
+</p>
 </div>
 
 <div class="parallel">
@@ -1605,7 +1625,31 @@ a - (b - c) = (a +  c) -  b
 </span>
 nach den ebenso bezifferten Gleichungen des [§. 4](#pz4). 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+From the definition follows:
+<span class="numbered" id="p.29eq2" data-label="2">
+\begin{equation}
+(a + b) - b = a
+\end{equation}
+</span>
+along with the equations
+<span class="numbered" id="p.29eq4" data-label="4">
+\begin{equation}
+a + (b - c) = (a + b) - c
+\end{equation}
+</span>
+<span class="numbered" id="p.29eq5" data-label="5">
+\begin{equation}
+(a - b) - c = a - (c + b)
+\end{equation}
+</span>
+<span class="numbered" id="p.29eq6" data-label="6">
+\begin{equation}
+a - (b - c) = (a +  c) -  b
+\end{equation}
+</span>
+by the similarly-numbered equations of [§. 4](#pz4). 
+</p>
 </div>
 
 <div class="parallel">
@@ -1689,9 +1733,86 @@ a - (b - c) = (a - b) + c
 hinzu zu fugen, wo wir die übrigen, da sie sich durch Vertauschung der
 Glieder sehr leicht ergeben, hier nicht weiter anführen.
 </p>
-<p lang="en">...
+<p lang="en">
+If $0$ is the modulus of the operation, so that 
+<span class="numbered" id="p.29eq7" data-label="7">
+\begin{equation}
+a + 0 = a
+\end{equation}
+</span>
+then it follows similarly by [§. 4](#pz4) 
+<span class="numbered" id="p.29eq8" data-label="8">
+\begin{equation}
+0 + c = c
+\end{equation}
+</span>
+<span class="numbered" id="p.29eq9" data-label="9">
+\begin{equation}
+a - 0 = a
+\end{equation}
+</span>
+<span class="numbered" id="p.29eq10" data-label="10">
+\begin{equation}
+b - b = 0
+\end{equation}
+</span>
+If two objects $a$ and $b$ stand in the relation, that
+$$
+0 - a = b 
+$$
+then one writes:
+<span class="numbered" id="p.29eq11" data-label="11">
+\begin{equation}
+-a = b
+\end{equation}
+</span>
 <a lang="en" class="origpage" id="p.30" title="Page 30"></a>
-...
+and calls $b$ the <dfn>negative</dfn> of $a$; then the following rules
+are valid: 
+<span class="numbered" id="p.30eq12" data-label="12">
+\begin{equation}
+-(-c) = c
+\end{equation}
+</span>
+<span class="numbered" id="p.30eq13" data-label="13">
+\begin{equation}
+a - c = a + (-c)
+\end{equation}
+</span>
+<span class="numbered" id="p.30eq14" data-label="14">
+\begin{equation}
+a + c = a -(-c) 
+\end{equation}
+</span>
+<span class="numbered" id="p.30eq15" data-label="15">
+\begin{equation}
+- (b - c) = c - b
+\end{equation}
+</span>
+<span class="numbered" id="p.30eq16" data-label="16">
+\begin{equation}
+- (b + c) = (-c) + (-b)
+\end{equation}
+</span>
+If, besides associativity, [commutativity]{.text-sperren} also holds,
+then, according to [§. 5](#pz5), are to be added to these the equations 
+<span class="numbered" id="p.30eq1*" data-label="1*">
+\begin{equation}
+b + (a - b) = a 
+\end{equation}
+</span>
+<span class="numbered" id="p.30eq2*" data-label="2*">
+\begin{equation}
+(b + a) - b = a
+\end{equation}
+</span>
+<span class="numbered" id="p.30eq6*" data-label="6*">
+\begin{equation}
+a - (b - c) = (a - b) + c
+\end{equation}
+</span>
+among others, though we will not enumerate the remaining ones, since
+they result very easily by exchanging the terms. 
 </p>
 </div>
 
