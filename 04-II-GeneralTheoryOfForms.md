@@ -2091,20 +2091,32 @@ der Theorie der complexen Zahlen in Anwendung. Einmal enthalten sie die
 Regeln ihrer Addition und Multiplication und dienen, wie im folgenden
 Abschnitt nachgewiesen werden wird, zur <em>Definition</em> ihres Charakters. 
 </p>
-<p lang="en">...</p>
+<p lang="en">Just as the preceding determinations and the consequences
+derived from them can be carried over to geometry, they also find
+application in the theory of complex numbers. They contain at once the
+rules of their addition and multiplication and serve, as will be
+proven in the following chapter, as a definition of their character.</p>
 </div>
 
 <div class="parallel">
 <p lang="de">
 Andererseits aber kann man auch fragen, ob es in einem gegebenen
-Zahlensysteme noch andere Operationen $\Theta, \lambda, ...$ gebe,
+Zahlensysteme noch andere Operationen $\Theta, \lambda, \ldots$ gebe,
 welche diesen Regeln genügen. Die Beantwortung dieser Frage gehört in
 die Theorie der Functionen und hat tiefere Bedeutung nur für den
 <q>calculus of operations</q>; doch wollen wir eine hieher gehörige
 Untersuchung, welche sich auf das gemeine complexe Zahlensystem
 bezieht, wenigstens in ihren Resultaten mittheilen:
 </p>
-<p lang="en">...</p>
+<p lang="en">
+On the other hand, one can also ask whether in a given number system
+there are still other operations $\Theta, \lambda, \ldots$ which
+satisfy these rules. The answer to this question belongs in the theory
+of functions and only has a deeper significance for the <q>calculus of
+operations</q>; but we here want to share at least the results of a
+investigation belonging to this domain which refers to the common
+complex number system:
+</p>
 </div>
 
 <div class="parallel">
@@ -2136,7 +2148,34 @@ $$
 gibt unter gewissen Voraussetzungen über die Stetigkeit der Functionen
 überhaupt, die einzigen eindeutigen Operationen $\Theta, \pi$.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+An associative and commutative function $\Theta(x,y)$ with the modulus
+$m$ will always be of the form
+$$
+\Theta(x,y) = \phi_1 [\phi(x) + \phi(y) - \phi(m)] 
+$$
+where $\phi, \phi_1$ are two inverse functions, so that
+$\phi_1(\phi(x)) = x$. Should there be another associative and commutative
+function $\pi$ with modulus $n$,
+$$
+\pi(x,y) = \psi_1 [\psi(x) + \psi(y) - \psi(m)] 
+$$
+connected with $\Theta$ via the distributive principle 
+$$
+\pi[\Theta(x,y),z] = \Theta[\pi(x,z), \pi(y,z)]
+$$
+then the following results as its general form:
+$$
+\psi(x) = \frac{1}{a}\log{[\phi(x) - \phi(m)]}
+$$
+where $a$ is an arbitrary constant. If one sets $\phi(x) = x$,
+one gets addition and multiplication from this;
+$$
+\phi(x) = \frac{ax + b}{cx + d}
+$$
+gives, under certain presuppositions about the continuity of 
+functions in general, the unique one-valued operations $\Theta, \pi$.
+</p>
 </div>
 
 </div> <!-- .text-small -->
