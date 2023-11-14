@@ -1795,7 +1795,8 @@ a + c = a -(-c)
 \end{equation}
 </span>
 If, besides associativity, [commutativity]{.text-sperren} also holds,
-then, according to [§. 5](#pz5), are to be added to these the equations 
+then according to [§. 5](#pz5), the following equations, among others,
+are to be added to these:
 <span class="numbered" id="p.30eq1*" data-label="1*">
 \begin{equation}
 b + (a - b) = a 
@@ -1811,7 +1812,7 @@ b + (a - b) = a
 a - (b - c) = (a - b) + c
 \end{equation}
 </span>
-among others, though we will not enumerate the remaining ones, since
+though we will not enumerate the remaining ones, since
 they result very easily by exchanging the terms. 
 </p>
 </div>
@@ -2082,10 +2083,10 @@ $$
 (a + b)(c + d) = ac + bc + ad + bd 
 $$
 </p>
-<p lang="en">...
-One can put a
-single formula in place of the two parts of the distributive principle.
-If one develops, namely, by [(17)](#p.31eq17){.eqref} 
+<p lang="en">
+One can put a single formula in place of the two parts of the
+distributive principle. If one develops, namely, by
+[(17)](#p.31eq17){.eqref}
 $$
 (a + b)(c + d) = a(c + d) + b(c + d) 
 $$
