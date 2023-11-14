@@ -55,6 +55,13 @@ immediately before the first word of the page indicated, and as
 near as possible to the corresponding position in the English translation.
 (This is why the page break must be marked with *two* anchors.)
 
+It sometimes happens that the page is broken in the German within a
+single (hyphenated) word; in that case the markup for the page break
+is placed *after* the complete word. This is because inserting the
+`<a>` element at the exact position of the original page break would
+prevent text searches from finding that word (e.g., via Ctrl-F in a
+browser).
+
 Where a page break occurs outside any paragraph (e.g. at the start of
 a chapter), the `<a>` are placed by themselves in a `<div class="parallel">`.
 

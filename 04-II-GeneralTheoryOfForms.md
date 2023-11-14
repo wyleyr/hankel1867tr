@@ -10,12 +10,17 @@
 
 <div class="parallel">
 <p lang="de">
-Es sei eine Anzahl von Objecten $a, b, c, d...$ gegeben, welche
+Es sei eine Anzahl von Objecten $a, b, c, d\ldots$ gegeben, welche
 gewissen Verknüpfungen, deren formale Eigenschaften im Folgenden der
 Reihe nach festgesetzt werden, in gleicher Weise unterworfen werden
 sollen.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Let a [number]{.origphrase title="Anzahl"} of objects $a, b, c, d\ldots$
+be given, which shall all be subjected in the same way to certain
+[operations]{.origphrase title="Verknüpfungen"} whose formal
+properties will be laid down in sequence in the following.
+</p>
 </div>
 
 <div class="parallel">
@@ -99,7 +104,16 @@ $$
 da aber $\Theta\{\lambda(a,b),b\} = a$, $\Theta\{\lambda(a',b),b\} = a'$,
 so ist dies unmöglich. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+One can immediately draw consequences from this:
+namely, if it were the case that $\lambda(a,b) = \lambda(a',b)$ without
+it being the case that $a = a'$, then it would also be that: 
+$$
+\Theta\{\lambda(a,b),b\} = \Theta\{\lambda(a',b),b\}
+$$
+But since $\Theta\{\lambda(a,b),b\} = a$, $\Theta\{\lambda(a',b),b\} = a'$,
+this is impossible. 
+</p>
 </div>
 
 <div class="parallel">
@@ -107,7 +121,11 @@ so ist dies unmöglich.
 Aendert sich also $a$ in $\lambda(a,b)$ bei constantem $b$, so ändert
 sich nothwendig auch das Resultat der Verknüpfung.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+So if the $a$ in $\lambda(a,b)$ changes while $b$ remains constant,
+the result of the [operation]{.origphrase title="Verknüpfung"}
+necessarily changes as well. 
+</p>
 </div>
 
 <div class="parallel">
@@ -134,7 +152,29 @@ $$
 $$
 das widersinnige Resultat $a = a'$. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+The equation $\lambda(x,b) = a$ accordingly has only one solution,
+which one finds by thetically conjoining both sides with $b$:
+$$
+\Theta\{\lambda(x,b),b\} = \Theta(a,b)
+$$
+Thus $x = \Theta(a,b)$, through which one finds the identity:
+<span class="numbered" id="p.19eq2" data-label="2">
+\begin{equation}
+\lambda\{\Theta(a,b),b\} = a
+\end{equation}
+</span>
+Further, it follows that when
+$$
+\Theta(a,b) = \Theta(a',b)
+$$
+it must also necessarily be that $a = a'$. For if this were not the
+case, one would have from the equation
+$$
+\lambda\{\Theta(a,b),b\} = \lambda\{\Theta(a',b),b\}
+$$
+the contradictory result $a = a'$.
+</p>
 </div>
 
 <div class="parallel">
@@ -149,8 +189,19 @@ $$
 $$
 stets $a = a'$ geschlossen werden kann. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Thus it follows from the above presupposition of the one-valuedness of
+the lytic and thetic operations that when in $\lambda(a,b)$ and
+$\Theta(a,b)$ the *first* term changes, while the second remains
+constant, the result of the [operation]{.origphrase title="Verknüpfung"} 
+changes at the same time; thus from each of the equations:
+$$
+\lambda(a,b) = \lambda(a',b),  \Theta(a,b) = \Theta(a',b)
+$$
+$a = a'$ can always be inferred.
+</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
 Nimmt man statt der obigen Voraussetzungen an, dass die 
@@ -160,7 +211,14 @@ kann man hieraus, die beiden Eigenschaften der entsprechenden
 lytischen $\lambda$, eindeutig zu sein und sich zu verändern,
 wenn sich ihr erstes Glied ändert, ebenso leicht ableiten: 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+If, instead of the presuppositions above, one instead assumes that the
+operation $\Theta(a,b)$ is one-valued and has the property that its
+result always changes when its first term changes, then one can just
+as easily derive the two properties of the corresponding lytic
+operation $\lambda$---that it is one-valued, and changes when its
+first term changes: 
+</p>
 </div>
 
 <div class="parallel">
@@ -178,15 +236,25 @@ das Gesetz, dass sich $\lambda(a,b)$ jedesmal mit $a$ ändert.
 </p>
 <p lang="en">
 <a lang="en" class="origpage" id="p.20" title="Page 20"></a>
-...</p>
+Assuming then that $\lambda(a,b)$ is many-valued, i.e. that there are several
+distinct objects which $\lambda(a,b)$ can represent in formulas, 
+let $c, c'$ be two such objects; then it would be that:
+$$
+\Theta\{\lambda(a,b), b\} = \Theta(c,b) = \Theta(c',b) = a.
+$$
+By the assumption that $\Theta(c,b) = \Theta(c',b)$ can only be the
+case if $c = c'$, it follows that the $\lambda$ operation is
+one-valued, and from this further follows the law that $\lambda(a,b)$
+changes with every change in $a$.
+</p>
 </div>
 
 <div class="text-small">
 <div class="parallel">
 <p lang="de">
 Zur Erläuterung dieser Bemerkungen nehmen wir die gemeinen reellen
-Zahlen und ihre Rechnungsregeln hier als bekannt an. Dann kann man z.
-B. $\Theta(a,b) = a+b$ setzen, wo beide eben angenommene Eigenschaften
+Zahlen und ihre Rechnungsregeln hier als bekannt an. Dann kann man z.\ B.
+$\Theta(a,b) = a+b$ setzen, wo beide eben angenommene Eigenschaften
 erfüllt sind. Dann ist $\lambda(a,b) = a-b$; denn es ist
 $\Theta\left(\lambda(a,b),b\right) = \Theta(a-b,b) = (a-b)+b = a$ wie verlangt,
 und in der That ist $\lambda$ eindeutig. Setzen wir ferner
@@ -198,20 +266,43 @@ Eigenschaft nicht hat, wenn $b = 0$, indem $a \cdot 0 = 0$, $a' \cdot 0 = 0$,
 so ist auch die umgekehrte Operation nämlich $\frac{a}{0}$ nicht
 eindeutig.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+To elucidate these remarks, let us take the the common real numbers
+and their rules of calculation as known. Then one can e.g. set
+$\Theta(a,b) = a+b$, where both assumed properties are fulfilled. Then
+$\lambda(a,b) = a-b$; for
+$\Theta\left(\lambda(a,b),b\right) = \Theta(a-b,b) = (a-b)+b = a$
+as required, and $\lambda$ is indeed one-valued. If we further set
+$\Theta(a,b) = ab$, then $\lambda(a,b) = \frac{a}{b}$. Because the
+former operation is one-valued when $a, b$ are common numbers, and the
+product changes in general when one factor changes, $\frac{a}{b}$ has
+the same properties. But because the product does not have this
+property when $b = 0$, since $a \cdot 0 = 0$, $a' \cdot 0 = 0$, the
+inverse operation, namely $\frac{a}{0}$, is also not one-valued.
+</p>
 </div>
 
 <div class="parallel">
 <p lang="de">
 Ist etwa ferner $\Theta(a,b) = (ab)^2$, so ist
 $\lambda(a,b) = \frac{\sqrt{a}}{b}$ da
-$\Theta\left(\lambda(a,b),b\right) = \Theta\left(\frac{\sqrt{a}}{b}\right) = a$;
+$\Theta\left(\lambda(a,b),b\right) = \Theta\left(\frac{\sqrt{a}}{b},b\right) = a$;
 es ist aber $\lambda(a,b)$ zweideutig, weil sich in dem eindeutigen 
 Resultate $\Theta(a,b)$, das $a$ ändern, nämlich in das entgegengesetzte
 übergehen kann, ohne dass sich das Resultat ändert.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+If further 
+$\Theta(a,b) = (ab)^2$, then
+$\lambda(a,b) = \frac{\sqrt{a}}{b}$, since
+$\Theta\left(\lambda(a,b),b\right) = \Theta\left(\frac{\sqrt{a}}{b},b\right) = a$;
+but in this case $\lambda(a,b)$ is two-valued,
+because the $a$ can change in the one-valued result $\Theta(a,b)$,
+namely into [its opposite]{.origphrase title="das entgegengesetzte"},
+without changing the result.
+</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
 Ist $\Theta(a,b) = a^b$, so ist $\Theta(c,b) = c^b = a$ wenn $c = \lambda(a,b)$;
@@ -220,8 +311,17 @@ eine bekanntlich unendlich vieldeutige Zahl; dies steht damit im Zusammenhange,
 dass $a^b$ sich nicht jedesmal ändert, wenn $a$ einen anderen Werth annimmt,
 sondern unverändert bleibt, wenn es den Factor $e^{\frac{2\pi i}{b}}$ erhält. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+If $\Theta(a,b) = a^b$, then $\Theta(c,b) = c^b = a$ if $c = \lambda(a,b)$;
+but from $c^b = e^{b\log c} = a$ follows $c = \lambda(a,b) = e^{\frac{\log a}{b}}$,
+a number known to be infinitely many-valued;
+this is related to the fact that $a^b$ does not always change
+when $a$ assumes another value,
+but rather remains unchanged when it receives
+the factor $e^{\frac{2\pi i}{b}}$. 
+</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
 Es mag hier sogleich bemerkt werden, dass es, allgemein zu reden, zu 
@@ -231,7 +331,13 @@ wenn $\Theta(a,b) = e^{b\log a}$ gesetzt wird $x = e^{\frac{\log a}{b}}$,
 die andere $x = \frac{\log a}{\log b}$. Beide können 
 nur zusammenfallen, wenn $\Theta(a,b) = \Theta(b,a)$.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+It may immediately be remarked here that, speaking generally, for every
+thetic operation $\Theta(a,b)$ there are two lytic operations; 
+the first solves the problem $\Theta(x,b) = a$, the other $\Theta(b,x) = a$.
+When $\Theta(a,b) = e^{b\log a}$, the first is $x = e^{\frac{\log a}{b}}$,
+the other is $x = \frac{\log a}{\log b}$.
+</p>
 </div>
 </div> <!-- .text-small -->
 
@@ -279,7 +385,45 @@ und überhaupt allgemein.
 </p>
 <p lang="en">
 <a lang="en" class="origpage" id="p.21" title="Page 21"></a>
-...</p>
+Under the presupposition of the one-valuedness of both operations, one
+has besides
+<span class="numbered" id="p.21eq1" data-label="1">
+\begin{equation}
+\Theta\{\lambda(a,b),b\} = a
+\end{equation}
+</span>
+as already shown, the other equation:
+<span class="numbered" id="p.21eq2" data-label="2">
+\begin{equation}
+\lambda\{\Theta(a,b),b\} = a
+\end{equation}
+</span>
+We further presuppose the <dfn>associative</dfn> property, i.e. that: 
+<span class="numbered" id="p.21eq3" data-label="3">
+\begin{equation}
+\Theta[a, \Theta(b,c)] = \Theta[\Theta(a,b), c]
+\end{equation}
+</span>
+where one may then write, without [ambiguity]{.origphrase title="Zweideutigkeit"}:
+$$
+= \Theta(a,b,c)
+$$
+Then:
+\begin{multline}
+\Theta[a, \Theta(b,c,d)] = \Theta[a,\Theta\{\Theta(b,c),d\}] \\
+= \Theta[\Theta\{a, \Theta(b,c)\}, d] = \Theta[a,\Theta(b,c),d] \\
+= \Theta[a,\Theta\{b,\Theta(c,d)\}] = \Theta[\Theta(a,b), \Theta(c,d)]
+\end{multline}
+so that one for this may again write:
+$$
+= \Theta(a,b,c,d)
+$$
+with which one expresses that one always, and in a completely arbitrary
+way, thetically connects pairwise two objects following one another, 
+then two more again; etc. 
+If the associative principle is valid for 3 terms, it is also valid for
+4 and in general.
+</p>
 </div>
 
 <div class="parallel text-small">
@@ -290,15 +434,36 @@ sind, z.\ B. $\Theta(a,b) = \frac{a+b}{2}$; denn dann ist
 $\Theta(\Theta(a,b),c) = \Theta\left(\frac{a+b}{2},c\right) = \frac{a+b+2c}{4}$;
 $\Theta(a,\Theta(b,c)) = \Theta\left(a, \frac{b+c}{2}\right) = \frac{4a+b+c}{2}.$
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Addition and multiplication can serve as examples of completely one-valued
+theses<sup>[A](#p.21nA){#p.21nAref .trnref}</sup> which are associative. 
+As examples of theses which are not associative, take e.g. 
+$\Theta(a,b) = \frac{a+b}{2}$; for then 
+$\Theta(\Theta(a,b),c) = \Theta\left(\frac{a+b}{2},c\right) = \frac{a+b+2c}{4}$;
+$\Theta(a,\Theta(b,c)) = \Theta\left(a, \frac{b+c}{2}\right) = \frac{4a+b+c}{2}.$
+</p>
 </div>
+
+<aside class="parallel footnote trnote">
+<p lang="de"></p>
+<p lang="en" id="p.21nA">A\)
+Hankel is here exploiting the Greek root of <i>These</i> to serve as
+the noun corresponding to <i>thetisch</i> (the word translated here as
+<q>thetic</q>). <q>Thesis</q>, the usual translation of <i>These</i>,
+does the same job in English, if one ignores its usual meaning. Hankel
+is referring to thetic *operations*.
+</p>
+</aside>
 
 <div class="parallel">
 <p lang="de">
 Aus den gemachten Voraussetzungen lassen sich nun eine Reihe 
 von wichtigen Transformationen herleiten: 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+A series of important transformations can be derived from the
+presuppositions made above:
+</p>
 </div>
 
 <div class="parallel">
@@ -327,9 +492,30 @@ oder nach [(2)](#S.19eq2){.eqref}  $x =$
 \end{equation}
 </span>
 </p>
-<p lang="en">...
+<p lang="en">
+If one sets
+$$
+x = \Theta[a,\lambda(b,c)]
+$$
+then one has, by [(3)](#p.21eq3){.eqref}
+$$
+\Theta(x,c) = \Theta\{\Theta[a,\lambda(b,c)],c\} = \Theta\{a, \Theta[\lambda(b,c),c]\}
+$$
+and therefore by [(1)](#p.18eq1){.eqref} 
+$$
+\Theta(x,c) = \Theta(a,b)
+$$
 <a lang="en" class="origpage" id="p.22" title="Page 22"></a>
-...
+thus
+$$
+\lambda[\Theta(x,c),c] = \lambda[\Theta(a,b),c]
+$$
+or by [(2)](#p.19eq2){.eqref}  $x =$ 
+<span class="numbered" id="p.22eq4" data-label="4">
+\begin{equation}
+\Theta[a, \lambda(b,c)] = \lambda[\Theta(a,b),c]
+\end{equation}
+</span>
 </p>
 </div>
 
@@ -358,7 +544,30 @@ und somit nach [(2)](#S.19eq2){.eqref}:  $x =$
 \end{equation}
 </span>
 </p>
-<p lang="en">...</p>
+<p lang="en">
+If we further set:
+$$
+x = \lambda[\lambda(a,b),c]
+$$
+then one has, by [(1)](#p.18eq1){.eqref} 
+$$
+\Theta(x,c) = \Theta\{\lambda[\lambda(a,b),c],c\} = \lambda(a,b)
+$$
+thus again by [(1)](#p.18eq1){.eqref} 
+$$
+\Theta[\Theta(x,c),b] = a
+$$
+or by [(3)](#p.21eq3){.eqref}
+$$
+\Theta[x, \Theta(c,b)] = a
+$$
+and therewith by [(2)](#p.19eq2){.eqref}:  $x =$
+<span class="numbered" id="p.22eq5" data-label="5">
+\begin{equation}
+\lambda[a, \Theta(c,b)] = \lambda[\lambda(a,b), c]
+\end{equation}
+</span>
+</p>
 </div>
 
 <div class="parallel">
@@ -395,7 +604,39 @@ vereinigt werden kann und wo, wie in [(5)](#S.22eq5){.eqref},
 die Vertauschung der Ordnung von $c$ und $b$ im mittelsten Gliede
 wohl zu beachten ist. --- 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+One has further, if
+$$
+x = \lambda[\Theta(c,b), b]
+$$
+is posited, by [(1)](#p.18eq1){.eqref} 
+$$
+\Theta(x,b) = \Theta(a,c)
+$$
+and by [(2)](#p.19eq2){.eqref}
+$$
+\lambda[\Theta(x,b), c] = a
+$$
+therefore by [(4)](#p.22eq4){.eqref} 
+$$
+\lambda[\Theta(x,b), c] = \Theta[x, \lambda(b,c)] = a
+$$
+and therewith one finds by [(2)](#p.19eq2){.eqref}, $x =$
+<span class="numbered" id="p.22eq6" data-label="6">
+\begin{equation}
+\lambda[\Theta(a,c), b] = \lambda[a, \lambda(b,c)] = \Theta[a, \lambda(b,c)],
+\end{equation}
+</span>
+an equation which can be united with [(4)](#p.22eq4){.eqref} to:
+<span class="numbered" id="p.22eq4,6" data-label="4, 6">
+\begin{equation}
+\lambda[\Theta(a,c), b] = \lambda[a, \lambda(b,c)] = \Theta[a, \lambda(c,b)],
+\end{equation}
+</span>
+and where, as in [(5)](#p.22eq5){.eqref}, 
+the exchange of the order of $c$ und $b$ in the innermost term 
+is especially to be observed. --- 
+</p>
 </div>
 
 <div class="parallel">
@@ -412,9 +653,19 @@ erste unverändert bleibt, sich das Ergebniss der Verknüpfung
 ändere; dass man also aus $\Theta(\mu,b') = \Theta(\mu, b)$ immer auf $b=b'$ 
 schliessen dürfe. 
 </p>
-<p lang="en">...
+<p lang="en">
+We have above become acquainted with the fact that $\Theta(a,b),
+\lambda(a,b)$ must change when the first term $a$ changes while the
+second term $b$ remains constant as a necessary consequence of the
+presupposed one-valuedness of the lytic and thetic
+[operation]{.origphrase title="Verknüpfung"}. We now assume --- and
+call this entire presupposition that of <dfn>complete
+one-valuedness</dfn> --- that when in $\Theta(a,b)$ the second
+term changes, while the
 <a lang="en" class="origpage" id="p.23" title="Page 23"></a>
-...
+first remains unchanged, the result of the
+[operation]{.origphrase title="Verknüpfung"} changes as well;
+that one may always infer $b=b'$ from $\Theta(\mu,b') = \Theta(\mu, b)$. 
 </p>
 </div>
 
@@ -434,7 +685,21 @@ auch nothwendig $b=b'$ sein muss, sich also auch das Resultat der
 lytischen Verbindung ändert, wenn das zweite Glied ein anderes 
 ist, während das erstere constant bleibt. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+A necessary consequence of this is that when
+$\lambda(a,b)=\lambda(a,b')=\mu$
+and so 
+$$
+\Theta\{\lambda(a,b), b\} = a, \Theta\{\lambda(a, b'), b'\} = a
+$$
+or 
+$$
+\Theta(\mu, b) = \Theta(\mu, b')
+$$
+then it must also necessarily be that $b=b'$; hence the result of the
+lytic [operation]{.origphrase title="Verbindung"} changes as well when
+the second term is different while the first remains constant.
+</p>
 </div>
 
 <div class="parallel">
@@ -460,8 +725,30 @@ und nach der vorausgesetzten Eindeutigkeit
 so dass die Ordnung, in der man den Modul mit dem Objecte verbindet,
 für das Resultat gleichgültig ist. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+We now assume that there is an object $n$, the <dfn>modulus</dfn> of
+the operation, which when thetically [conjoined]{.origphrase title="verknüpft"}
+with every object $a$ yields the same again as result, so that:
+<span class="numbered" id="p.23eq7" data-label="7">
+\begin{equation}
+\Theta(a,n) = a
+\end{equation}
+</span>
+Then by the associative principle one has
+$$
+\Theta\{a, \Theta(n, c)\} = \Theta\{\Theta(a,n), c\} = \Theta(a, c)
+$$
+and by the presupposition of one-valuedness
+<span class="numbered" id="p.23eq8" data-label="8">
+\begin{equation}
+\Theta(n, c) = c
+\end{equation}
+</span>
+so that the order in which one connects the modulus with the object
+has no effect on the result. 
+</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
 Ferner findet man: 
@@ -479,8 +766,24 @@ $$
 \lambda(a, w) = \Theta\{\lambda (a, n), n\} = a 
 $$
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Further, one finds:
+<span class="numbered" id="p.23eq9" data-label="9">
+\begin{equation}
+\lambda(a,n) = a
+\end{equation}
+</span>
+for by [(1)](#p.18eq1){.eqref}, 
+$$
+\Theta\{\lambda(a,n),n\} = a
+$$
+and by [(7)](#p.23eq7){.eqref}, 
+$$
+\lambda(a, w) = \Theta\{\lambda (a, n), n\} = a 
+$$
+</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
 Aus [(2)](#S.19eq2){.eqref}  erhält man ferner für $a = n$ 
@@ -496,8 +799,22 @@ und da $\Theta(n, b) = b$
 so dass der Modul durch die lytische Verknüpfung irgend eines 
 Objectes mit sich selbst, erhalten wird. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+From [(2)](#p.19eq2){.eqref} one furthermore finds, for $a = n$, 
+$$
+\lambda[\Theta(n,b), b] = n
+$$
+and since $\Theta(n, b) = b$,
+<span class="numbered" id="p.23eq10" data-label="10">
+\begin{equation}
+\lambda(b, b) = n
+\end{equation}
+</span>
+so that the lytic [operation]{.origphrase title="Verknüpfung"}
+of any object with itself yields the modulus.
+</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
 Während sich $\Theta(b,n)$, $\Theta(n,b)$, $\lambda(b,n)$ einfach auf
@@ -526,9 +843,32 @@ $\lambda[n, \lambda(n,c)] = \lambda[\Theta(n,c), n]$ ist:
 \end{equation}
 </span>
 </p>
-<p lang="en">...
+<p lang="en">
+While $\Theta(b,n)$, $\Theta(n,b)$, $\lambda(b,n)$ simply reduce to
+$b$, this is not the case with $\lambda(n,b)$. We write:
 <a lang="en" class="origpage" id="p.24" title="Page 24"></a>
-...
+<span class="numbered" id="p.24eq11" data-label="11">
+\begin{equation}
+\lambda(n,b) = b_n
+\end{equation}
+</span>
+and call $b_n$ the object <dfn>inverse</dfn> to $b$, $b$ on the other
+hand the <dfn>direct</dfn> object. 
+Then it can be shown that the object inverse to $b_n$ is again $b$ itself;
+thus $b_n$ and $b$ stand in the contrary opposition of direct and inverse
+(cf. [§. 17](#pz17)).
+In particular, one has, from [(6)](#p.22eq6){.eqref} for $a = n, b = n$: 
+$$
+\lambda [n, \lambda (n, c)] == \lambda[\Theta(n, c), n] 
+$$
+and thus, since by [(8)](#p.23eq8){.eqref} and [(9)](#p.23eq9){.eqref} 
+$\lambda [\Theta (n, c), n] = \lambda (c, n) = c$ and by 
+[(11)](#p.24eq11){.eqref} 
+$\lambda[n, \lambda(n,c)] = \lambda[\Theta(n,c), n]$: 
+<span class="numbered" id="p.24eq12" data-label="12">
+\begin{equation}
+(c_n)_n = c
+\end{equation}
 </p>
 </div>
 
@@ -537,7 +877,11 @@ $\lambda[n, \lambda(n,c)] = \lambda[\Theta(n,c), n]$ ist:
 Durch Einfuhrung dieses Zeichens lässt sich ausserdem jede 
 lytische Verknüpfung in eine thetische und umgekehrt verwandeln. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+In addition, the introduction of this sign permits every lytic
+[conjunction]{.origphrase title="Verknüpfung"} to be transformed into
+a thetic one, and vice versa.
+</p>
 </div>
 
 <div class="parallel">
@@ -563,7 +907,29 @@ oder
 \end{equation}
 </span>
 </p>
-<p lang="en">...</p>
+<p lang="en">
+For one has, for $b = n$, from [(4)](#p.22eq4){.eqref}: 
+$$
+\Theta[a, \lambda(n, c)] = \lambda[\Theta (a, n), c] 
+$$
+or 
+<span class="numbered" id="p.24eq13" data-label="13">
+\begin{equation} 
+\lambda(a,c) = \Theta(a, c_n)
+\end{equation}
+</span>
+and from [(6)](#p.22eq6){.eqref} for $b = n$: 
+$$
+\lambda[a, \lambda(n, c)] = \lambda[\Theta(a, c), n] 
+$$
+or
+<span class="numbered" id="p.24eq14" data-label="14">
+\begin{equation} 
+\Theta(a,c) = \lambda(a, c_n)
+\end{equation}
+</span>
+
+</p>
 </div>
 
 <div class="parallel">
@@ -585,7 +951,24 @@ und aus [(5)](#S.22eq5){.eqref} für $a = n$:
 \end{equation}
 </span>
 </p>
-<p lang="en">...</p>
+<p lang="en">
+From the equation [(4, 6)](#p.22eq4,6){.eqref} 
+$$
+\lambda[a, \lambda(b,c)] = \Theta[a, \lambda(c, b)] 
+$$
+results further for $a = n$ that 
+<span class="numbered" id="p.24eq15" data-label="15">
+\begin{equation} 
+[\lambda(b, c)]_n = \lambda (c, b)
+\end{equation}
+</span>
+and from [(5)](#p.22eq5){.eqref} for $a = n$: 
+<span class="numbered" id="p.24eq16" data-label="16">
+\begin{equation}
+[\Theta(b,c)]_n = \Theta(c_n, b_n)
+\end{equation}
+</span>
+</p>
 </div>
 
 <div class="parallel text-small">
@@ -612,7 +995,30 @@ $$
 und sie sind somit nur Darstellungen des associativen Princips bei der
 Verknüpfung directer und inverser Objecte.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+With the help of this concept of inverse, the equations
+[4](#p.23eq4), [5](#p.23eq5), [6](#p.23eq6) 
+can now be written thus: 
+\begin{align}
+\Theta[a, \lambda(b,c)] &= \Theta[a,\Theta(b,c_n)] \\
+\lambda[\Theta(a,b), c] &= \Theta[\Theta(a,b), c_n]
+\end{align}
+and so [(4)](#p.22eq4){.eqref} gives: 
+$$
+\Theta[a, \Theta(b, c_n)] = \Theta[\Theta(a, b), c_n] 
+$$
+Similarly, [(5)](#p.22eq5){.eqref} gives: 
+$$
+\Theta[a, \Theta(b_n, c_n)] = \Theta[\Theta(a, b_n), c_n]
+$$
+and [(6)](#p.22eq6){.eqref}: 
+$$
+\Theta[a, \Theta(c, b_n)] = \Theta[\Theta(a, c), b_n]
+$$
+and hence they are only presentations of the associative principle
+as applied to the [conjunction]{.origphrase title="Verknüpfung"}
+of direct and inverse objects.
+</p>
 </div>
 
 <div class="parallel">
@@ -649,7 +1055,32 @@ schreibt, führen wir der Leichtigkeit wegen, mit der sie sich ergeben,
 hier nicht weiter an. Nur eine wesentlich neue Gleichung mag hier
 erwähnt werden:
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Even if up to now the result of $\Theta(a, b)$ has been see as
+distinct from $\Theta(b, a)$, nothing stands in the way of us
+making the determination, alongside those of the previous §., that
+in every case
+$$
+\Theta(a, b) = \Theta(b, a). 
+$$
+The other forms which one can give to the equations of the
+previous §., by writing e.g. 
+instead of [(1)](#p.18eq1){.eqref}
+and [(2)](#p.19eq2){.eqref} 
+<span class="numbered" id="p.25eq1*" data-label="1*">
+\begin{equation}
+\Theta\{b, \lambda(a,b)\} = a
+\end{equation}
+</span>
+<span class="numbered" id="p.25eq2*" data-label="2*">
+\begin{equation}
+\lambda\{\Theta(b,a), b\} = a
+\end{equation}
+</span>
+we will not further enumerate here, due to the simplicity with which
+they can be derived. Only one essentially new equation may be
+mentioned here:
+</p>
 </div>
 
 <div class="parallel">
@@ -673,11 +1104,35 @@ also $\lambda(x, c) = \lambda(a, b)$ und daher $x =$
 \end{equation}
 </span>
 eine Gleichung, welche neben [(6)](#S.22eq6){.eqref} gesetzt werden
-kann, aber eine ausdrückliche Folge der Commutativität ist --- welch
+kann, aber eine ausdrückliche Folge der Commutativität ist\ --- welch
 letztere Voraussetzung in den weiteren Untersuchungen dieses §. immer
 festgehalten werden soll.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+If one sets
+$$
+\lambda\{a, \lambda (b, c)\} = x 
+$$
+then one has by [(5)](#p.22eq5){.eqref} 
+$$
+\lambda(x, c) = \lambda[\lambda\{a, \lambda(b,c)\}, c]= \lambda [a, \Theta\{c, \lambda(b,c)\}] 
+$$
+From the equation [(1*)](#p.25eq1){.eqref}, obtained by commutativity, 
+one has
+$$
+\Theta\{c, \lambda(b, c)\} = b 
+$$
+thus $\lambda(x, c) = \lambda(a, b)$ and therefore $x =$ 
+<span class="numbered" id="p.25eq6*" data-label="6*">
+\begin{equation}
+\lambda\{a, \lambda(b, c)\} = \Theta\{\lambda (a, b), c\} 
+\end{equation}
+</span>
+an equation which may be set alongside [(6)](#p.22eq6){.eqref},
+but which is an explicit consequence of commutativity\ ---
+a presupposition which, in the further investigations
+of this §, shall always hold. 
+</p>
 </div>
 
 <div class="parallel">
@@ -693,9 +1148,17 @@ letzteren oder auch mit anderen aus ähnlichen
 Operationen hervorgehenden Objecten nach denselben, einmal
 festgesetzten Regeln verknüpft werden kann.
 </p>
-<p lang="en">...
+<p lang="en">
+In the foregoing we have everywhere presupposed the unrestricted
+[completability]{.origphrase title="Ausführbarkeit"} of all
+operations, i.e. assumed that in the domain of objects under
+consideration, there is always an object which can be seen as the
+result of the operation, and insofar as it is of the same type as the
+objects which go into the operation, it can be [conjoined]{.origphrase
+title="verknüpft"} with the latter or with other objects which result
+from similar
 <a lang="en" class="origpage" id="p.26" title="Page 26"></a>
-...
+operations according to the same rules previously laid down.
 </p>
 </div>
 
@@ -708,7 +1171,7 @@ Object derselben directen Reihe liefert, während die Lysis nur in
 gewissen Fällen zu einem solchen führt, in anderen aber nicht, somit
 in gewissem Sinne unausführbar ist, und erst ausführbar wird, wenn man
 sich zu der gegebenen Reihe von Objecten eine inverse hinzudenkt, die
-entweder transscendental oder in der Anschauung construirbar ist. ---
+entweder transscendental oder in der Anschauung construirbar ist.\ ---
 </p>
 <p lang="en">
 But not everywhere is the domain so extended at the start;
@@ -720,7 +1183,7 @@ but not in others, and is thus in a certain sense
 [not completable]{.origphrase title="unausführbar"}; it only becomes
 completable if one adds in thought to the given series of objects
 an inverse series which is constructible either transcendentally
-or in intuition. --- 
+or in intuition.\ --- 
 </p>
 </div>
 
@@ -844,17 +1307,42 @@ und
 = \lambda\{\Theta(a,c,e), \Theta(b,d,f)\} 
 \end{multline}
 </p>
-<p lang="en">...</p>
+<p lang="en">
+From the same, its commutativity follows immediately, for 
+$$
+\Theta[\lambda(c,d), \lambda(a,b)] = \lambda[\Theta(c, a), \Theta(d, b)]
+$$
+and further its associativity: for
+\begin{multline}
+\Theta(\Theta[\lambda(a,b), \lambda(c,d)], \lambda(e,f)) =
+\Theta(\lambda[\Theta(a,c), \Theta(b, d)] \lambda (e,f)) \\ 
+= \lambda(\Theta[\Theta(a,c),e], \Theta[\Theta(b,d), f]) \\
+= \lambda\{\Theta(a,c,e), \Theta(b,d,f)\} 
+\end{multline}
+and 
+\begin{multline}
+\Theta(\lambda(a,b), \Theta[\lambda(c,d), \lambda(e,f)]) =
+\Theta(\lambda(a,b), \lambda[\Theta(c,e), \Theta(d,f)]) \\ 
+= \lambda(\Theta[a, \Theta(c,e)], \Theta[b,\Theta(d, f)]) \\
+= \lambda\{\Theta(a,c,e), \Theta(b,d,f)\} 
+\end{multline}
+</p>
 </div>
 
 <div class="parallel">
 <p lang="de">
 Dass die Thesis zweier Objecte der zweiten Art $\lambda(d,b), \lambda(c,d)$
-immer wieder ein Object derselben Art, welches nämlich in der 
+immer wieder ein Object derselben Art [ist]{.corrected}, welches nämlich in der 
 Form $\lambda(e,f)$ dargestellt werden kann, wo $e$ $f$ mit $a$ $b$ $c$ $d$
 gleichartig sind, geht unmittelbar aus deren Definition hervor. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+That the thesis of two objects of the second type $\lambda(d,b), \lambda(c,d)$
+is always an object of the same type,
+which can always be presented in the form $\lambda(e,f)$, where 
+$e$ $f$ are of the same type as $a$ $b$ $c$ $d$,
+follows immediately from its definition.
+</p>
 </div>
 
 <div class="parallel">
@@ -863,7 +1351,11 @@ Es fragt sich aber weiter, ob bei der jener Thesis entsprechenden
 Lysis zweier Objecte der zweiten Art, nicht wiederum neue entstehen;
 es wird hierüber entschieden durch folgende Bemerkungen:
 </p>
-<p lang="en">...</p>
+<p lang="en">
+It may further be asked whether through the lysis, corresponding to that
+thesis, of two objects of the second type new objects again arise;
+this shall be decided through the following remarks: 
+</p>
 </div>
 
 <div class="parallel">
@@ -884,7 +1376,22 @@ und daher z.\ B.
 \end{equation}
 </span>
 </p>
-<p lang="en">...</p>
+<p lang="en">
+When the earlier modulus of the operation now has the property
+that, when it is thetically [conjoined]{.origphrase title="verbunden"} with an
+object of either the new or the old series, 
+it produces the object itself again, then by [(1)](#p.26eq1){.eqref} 
+<span class="numbered" id="p.27eq2" data-label="2">
+\begin{equation}
+\lambda[\Theta(a,x), \Theta(b,x)] = \Theta[\lambda(a,b),\lambda(x,x)] = \lambda(a,b)
+\end{equation}
+</span>
+and therefore e.g. 
+<span class="numbered" id="p.27eq3" data-label="3">
+\begin{equation}
+\lambda[\Theta(a,c,d), \Theta(b,c,d)] =  \lambda(a,b).
+\end{equation}
+</p>
 </div>
 
 <div class="parallel">
@@ -893,7 +1400,11 @@ Die Gleichung [(2)](#S.27eq2){.eqref} gibt uns darüber Aufschluss, in welchem
 Falle zwei lytische Verbindungen $\lambda(e,f)$ und $\lambda(a,b)$ als gleich 
 anzusehen sind. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+The equation [(2)](#S.27eq2){.eqref} informs us in which circumstance two
+lytic [conjunctions]{.origphrase title="Verbindungen"} $\lambda(e,f)$
+and $\lambda(a,b)$ should be seen as equal.
+</p>
 </div>
 
 <div class="parallel">
@@ -931,9 +1442,40 @@ also da $\Theta (a,d), \Theta(b,c)$ Objecte der ersten Art sind, die
 lytische Verbindung von $\lambda(a, b)$ und $\lambda(c, d)$ ein Object
 erster oder zweiter Art.
 </p>
-<p lang="en">...
+<p lang="en">
+With this preparation, let us proceed to answer the question raised
+earlier, which asks whether an object $x$ of the first or the second
+type can always be found, so that
+$$
+x = \lambda[\lambda(a,b), \lambda(c,d)] 
+$$
 <a lang="en" class="origpage" id="p.28" title="Page 28"></a>
-...
+can always be posited, hence as a consequence of the definition of the lysis
+$$
+\lambda(a, b) = \Theta\{x, \lambda(c, d)\}.
+$$
+Should $x$ be such an object, then it must be possible to set 
+$x = \lambda(y, z)$, where $y, z$ are objects of the old type, hence
+$$
+\lambda(a,b) = \Theta\{\lambda(y,z),\lambda(c,d)\} = \lambda\{\Theta(y,c), \Theta(z,d)\}
+$$
+If one now posits, according to [(3)](#p.27eq3){.eqref}: 
+\begin{multline}
+\lambda (a, b) = \lambda\{\Theta[\Theta(a, d), c], \Theta[\Theta(b, c), d]\}  \\
+= \lambda[\Theta(y,c), \Theta(z, d)] 
+\end{multline}
+then
+$$
+y = \Theta(a,d), z = \Theta(b,c) 
+$$
+satisfy this equation and:
+$$
+\lambda[\lambda(a,b), \lambda(c,d)] = \lambda[\Theta(a,d), \Theta(b, c)] 
+$$
+Thus, since $\Theta (a,d), \Theta(b,c)$ are objects of the first type,
+the lytic [conjunction]{.origphrase title="Verbindung"}
+of $\lambda(a, b)$ and $\lambda(c, d)$
+is an object of the first or the second type.
 </p>
 </div>
 
@@ -952,7 +1494,21 @@ und noch überdem die Formeln [4](#S.23eq4), [5](#S.23eq5), [6](#S.23eq6)
 jetzt, wo jede Lysis ausführbar ist, ganz allgemein und ohne jede
 Determination gelten werden.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+If we have now recognized that from our determination about the
+[meaning]{.origphrase title="Bedeutung"} of a thesis of objects of the
+first and second type with one another, or of the latter among
+themselves, it necessarily follows that this thesis and its lysis lead
+again to objects of these two types, and in general, the same laws of
+the thetic and lytic operations are valid for those of the second type
+as for those of the first type, then it is manifest that now all the
+theorems of the previous §. can be asserted without further
+qualification for objects of the first and second type in their mutual
+[conjunction]{.origphrase title="Verknüpfung"}, and still beyond this
+the formulae [4](#S.23eq4), [5](#S.23eq5), [6](#S.23eq6) will now be
+valid where every lysis can be carried out, entirely generally and
+without any determination.
+</p>
 </div>
 
 <div class="parallel">
@@ -961,7 +1517,7 @@ Die Objecte zweiter Art bilden zunächst eine Reihe von der
 zweifachen Ausdehnung der Reihe, welche die der ersten einnehmen. 
 Indessen kann man sie sämmtlich aus einer Reihe von Objecten, 
 welche eine nicht grössere Ausdehnung als die ursprüngliche hat, 
-durch thetische Verbindung erhalten Führt man nämlich nach 
+durch thetische Verbindung erhalten[.]{.corrected} Führt man nämlich nach 
 dem vorigen §. den Begriff des Inversen 
 $$
 \lambda(n,b) = b_n
@@ -975,9 +1531,24 @@ und diese inversen Objecte bilden eine der Reihe der (directen)
 Objecte erster Art entsprechende Reihe, so dass jedem Gliede der 
 einen Reihe eins der anderen in bestimmter Ordnung entspricht. 
 </p>
-<p lang="en">...
+<p lang="en">
+The objects of the second type at first form a series of the twofold
+extension of the series which those of the first occupy.
+Nevertheless, one can obtain them via a thetic
+[conjunction]{.origphrase title="Verbindung"} entirely from a series of objects
+which has an extension not larger than the original. In particular, if
+one introduces, following the previous §, the concept of the inverse
+$$
+\lambda(n,b) = b_n
+$$
+then 
+$$
+\lambda(a,b) = \Theta(a,b_n)
+$$
 <a lang="en" class="origpage" id="p.29" title="Page 29"></a>
-...
+and these inverse objects form a series corresponding to the series of
+(direct) objects of the first type, so that to every term of the first
+series corresponds one of the other in a definite order. 
 </p>
 </div>
 
@@ -1005,7 +1576,27 @@ enthalten sein, aus der dann auch bei mehr als 3 Gliedern auf die
 gänzliche Gleichgültigkeit der Setzung der Klammern geschlossen 
 werden kann. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Let us now designate a thetic, completely one-valued, associative
+operation $\Theta(a,b)$ with $a + b$ and the corresponding, likewise
+completely one-valued lytic function $\lambda(a,b)$ with $(a - b)$,
+where these stand, according to their concept, in the relation
+<span class="numbered" id="p.29eq1" data-label="1">
+\begin{equation}
+(a - b) + b = a
+\end{equation}
+</span>
+and call the former addition, the latter substraction. Then 
+the 
+associative property will be contained in the equation 
+<span class="numbered" id="p.29eq3" data-label="3">
+\begin{equation}
+a + (b + c) = (a + b) + c = a + b + c 
+\end{equation}
+</span>
+from which then it may also be inferred that, even with more than three
+terms, the position of the parentheses is immaterial.
+</p>
 </div>
 
 <div class="parallel">
@@ -1034,7 +1625,31 @@ a - (b - c) = (a +  c) -  b
 </span>
 nach den ebenso bezifferten Gleichungen des [§. 4](#pz4). 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+From the definition follows:
+<span class="numbered" id="p.29eq2" data-label="2">
+\begin{equation}
+(a + b) - b = a
+\end{equation}
+</span>
+along with the equations
+<span class="numbered" id="p.29eq4" data-label="4">
+\begin{equation}
+a + (b - c) = (a + b) - c
+\end{equation}
+</span>
+<span class="numbered" id="p.29eq5" data-label="5">
+\begin{equation}
+(a - b) - c = a - (c + b)
+\end{equation}
+</span>
+<span class="numbered" id="p.29eq6" data-label="6">
+\begin{equation}
+a - (b - c) = (a +  c) -  b
+\end{equation}
+</span>
+by the similarly-numbered equations of [§. 4](#pz4). 
+</p>
 </div>
 
 <div class="parallel">
@@ -1118,9 +1733,87 @@ a - (b - c) = (a - b) + c
 hinzu zu fugen, wo wir die übrigen, da sie sich durch Vertauschung der
 Glieder sehr leicht ergeben, hier nicht weiter anführen.
 </p>
-<p lang="en">...
+<p lang="en">
+If $0$ is the modulus of the operation, so that 
+<span class="numbered" id="p.29eq7" data-label="7">
+\begin{equation}
+a + 0 = a
+\end{equation}
+</span>
+then it follows similarly by [§. 4](#pz4) 
+<span class="numbered" id="p.29eq8" data-label="8">
+\begin{equation}
+0 + c = c
+\end{equation}
+</span>
+<span class="numbered" id="p.29eq9" data-label="9">
+\begin{equation}
+a - 0 = a
+\end{equation}
+</span>
+<span class="numbered" id="p.29eq10" data-label="10">
+\begin{equation}
+b - b = 0
+\end{equation}
+</span>
+If two objects $a$ and $b$ stand in the relation, that
+$$
+0 - a = b 
+$$
+then one writes:
+<span class="numbered" id="p.29eq11" data-label="11">
+\begin{equation}
+-a = b
+\end{equation}
+</span>
 <a lang="en" class="origpage" id="p.30" title="Page 30"></a>
-...
+and calls $b$ the <dfn>negative</dfn> of $a$; then the following rules
+are valid: 
+<span class="numbered" id="p.30eq12" data-label="12">
+\begin{equation}
+-(-c) = c
+\end{equation}
+</span>
+<span class="numbered" id="p.30eq13" data-label="13">
+\begin{equation}
+a - c = a + (-c)
+\end{equation}
+</span>
+<span class="numbered" id="p.30eq14" data-label="14">
+\begin{equation}
+a + c = a -(-c) 
+\end{equation}
+</span>
+<span class="numbered" id="p.30eq15" data-label="15">
+\begin{equation}
+- (b - c) = c - b
+\end{equation}
+</span>
+<span class="numbered" id="p.30eq16" data-label="16">
+\begin{equation}
+- (b + c) = (-c) + (-b)
+\end{equation}
+</span>
+If, besides associativity, [commutativity]{.text-sperren} also holds,
+then according to [§. 5](#pz5), the following equations, among others,
+are to be added to these:
+<span class="numbered" id="p.30eq1*" data-label="1*">
+\begin{equation}
+b + (a - b) = a 
+\end{equation}
+</span>
+<span class="numbered" id="p.30eq2*" data-label="2*">
+\begin{equation}
+(b + a) - b = a
+\end{equation}
+</span>
+<span class="numbered" id="p.30eq6*" data-label="6*">
+\begin{equation}
+a - (b - c) = (a - b) + c
+\end{equation}
+</span>
+though we will not enumerate the remaining ones, since
+they result very easily by exchanging the terms. 
 </p>
 </div>
 
@@ -1163,7 +1856,42 @@ a\frac{b}{c} = \frac{ab}{c}
 \end{equation}
 </span>
 </p>
-<p lang="en">...</p>
+<p lang="en">
+If a new associative, in general completely one-valued operation,
+multiplication, and its lysis, division, are presented via the the
+signs $a\cdot b$ and $\frac{a}{b}$, then one has, by [§. 4](#pz4):
+<span class="numbered" id="p.30eq1" data-label="1">
+\begin{equation}
+\frac{a}{b} b = a
+\end{equation}
+</span>
+<span class="numbered" id="p.30eq2" data-label="2">
+\begin{equation}
+\frac{ab}{b} = a
+\end{equation}
+</span>
+<span class="numbered" id="p.30eq3" data-label="3">
+\begin{equation}
+a(bc) = (ab) c = a b c
+\end{equation}
+</span>
+Further
+<span class="numbered" id="p.30eq4" data-label="4">
+\begin{equation}
+a\frac{b}{c} = \frac{ab}{c}
+\end{equation}
+</span>
+<span class="numbered" id="p.30eq5" data-label="5">
+\begin{equation}
+\frac{\frac{a}{b}}{c} = \frac{a}{cb}
+\end{equation}
+</span>
+<span class="numbered" id="p.30eq6" data-label="6">
+\begin{equation}
+\frac{a}{\frac{b}{c}} = \frac{ac}{b}
+\end{equation}
+</span>
+</p>
 </div>
 
 <div class="parallel">
@@ -1192,9 +1920,30 @@ so folgt
 \end{equation}
 </span>
 </p>
-<p lang="en">...
+<p lang="en">
+If one now calls the modulus of this operation 1, so that
+<span class="numbered" id="p.30eq7" data-label="7">
+\begin{equation}
+a\cdot 1 = a 
+\end{equation}
+</span>
 <a lang="en" class="origpage" id="p.31" title="Page 31"></a>
-...
+then it follows that
+<span class="numbered" id="p.31eq8" data-label="8">
+\begin{equation}
+1\cdot c = c
+\end{equation}
+</span>
+<span class="numbered" id="p.31eq9" data-label="9">
+\begin{equation}
+\frac{a}{1} = a
+\end{equation}
+</span>
+<span class="numbered" id="p.31eq10" data-label="10">
+\begin{equation}
+\frac{b}{b} = 1
+\end{equation}
+</span>
 </p>
 </div>
 
@@ -1213,7 +1962,20 @@ Regeln:
 \end{equation}
 </span>
 </p>
-<p lang="en">...</p>
+<p lang="en">
+For the <dfn>reciprocal</dfn> numbers $\frac{1}{a}$, the following 
+rules are then valid:
+<span class="numbered" id="p.31eq12" data-label="12">
+\begin{equation}
+\frac{1}{\frac{1}{c}} = c
+\end{equation}
+</span>
+<span class="numbered" id="p.31eq13" data-label="13">
+\begin{equation}
+\frac{a}{c} = a\frac{1}{c}
+\end{equation}
+</span>
+</p>
 </div>
 
 <div class="parallel">
@@ -1243,7 +2005,32 @@ eines Productes Null ist, der andere sich ändern kann, ohne
 dass der Werth des Productes aufhört, Null zu bleiben. Die Division 
 mit Null ist daher gänzlich unbestimmt. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+
+We only call the present operation a *multiplication*, and that of the
+previous §. an *addition*, if they are both connected with one another 
+via the distributive principle in both its parts 
+<span class="numbered" id="p.31eq17" data-label="17">
+\begin{equation}
+(a + b)c = ac + bc 
+\end{equation}
+</span>
+<span class="numbered" id="p.31eq18" data-label="18">
+\begin{equation}
+a(c + d)= ac + ad 
+\end{equation}
+</span>
+and in addition the modulus of the addition has the property that
+<span class="numbered" id="p.31eq19" data-label="19">
+\begin{equation}
+a\cdot 0 = 0, 0\cdot a = 0 
+\end{equation}
+</span>
+in which it is immediately expressed that, if the one factor of a product
+is zero, the other can also change without the value of the product
+ceasing to remain zero. Division by zero is therefore completely
+undetermined.
+</p>
 </div>
 
 <div class="parallel text-small">
@@ -1259,7 +2046,17 @@ sie abgeben, nicht nothwendig dessen Werth ändert, so dass dann auch
 die Division durch dieselben gänzlich unbestimmt wird (vergl. den
 [VIII. Abschnitt](#Ch.VIII)).
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Since the presupposition of complete one-valuedness of multiplication
+and division is thereby broken, we do not want to look at
+unconditional one-valuedness as a necessary property of the concept of
+division. Indeed, in systems to be treated later, we will come upon
+distinct numbers which carry the character of the modulus in themselves,
+insofar as a product to which they give one factor does not
+necessarily change its value when the other factor changes, so that
+then too, division will be entirely undetermined by them (cf. [Chapter
+VIII](#Ch.VIII)).
+</p>
 </div>
 
 <div class="parallel">
@@ -1286,9 +2083,28 @@ $$
 (a + b)(c + d) = ac + bc + ad + bd 
 $$
 </p>
-<p lang="en">...
+<p lang="en">
+One can put a single formula in place of the two parts of the
+distributive principle. If one develops, namely, by
+[(17)](#p.31eq17){.eqref}
+$$
+(a + b)(c + d) = a(c + d) + b(c + d) 
+$$
+then one has by [(18)](#p.31eq18){.eqref},
+<span class="numbered" id="p.31eq20" data-label="20">
+\begin{equation}
+(a + b)(c + d) = ac + ad + bc + bd
+\end{equation}
+</span>
+If on the other hand one first applies [(18)](#p.31eq18){.eqref}: 
+$$
+(a + b)(c + d) = (a + b)c + (a + b)d 
+$$
 <a lang="en" class="origpage" id="p.32" title="Page 32"></a>
-...
+and then [(17)](#p.31eq17){.eqref}, then one finds: 
+$$
+(a + b)(c + d) = ac + bc + ad + bd 
+$$
 </p>
 </div>
 
@@ -1339,7 +2155,10 @@ in general that multiplication is commutative.
 Aus den vorstehenden Beziehungen der Addition und Multiplication zu
 einander, lassen sich noch mehrere wichtige Folgerungen ableiten.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Several important consequences may be derived from the above relations
+of addition and multiplication to each other.
+</p>
 </div>
 
 <div class="parallel">
@@ -1351,7 +2170,7 @@ $(a + (-a))c = 0$ ist, $ac + (-a)c = 0$ also
 (-a)c = -ac
 \end{equation}
 </span>
-Aus [(17)](#S.31eq18){.eqref} für $d = -c$
+Aus [(18)](#S.31eq18){.eqref} für $d = -c$
 <span class="numbered" id="S.32eq22" data-label="22">
 \begin{equation}
 a(-c) = -ac
@@ -1366,7 +2185,29 @@ also
 \end{equation}
 </span>
 </p>
-<p lang="en">...</p>
+<p lang="en">
+From [(17)](#p.31eq17){.eqref} follows, for $b = -a$, since $a + (-a)
+= 0$, so: $(a + (-a))c = 0$, $ac + (-a)c = 0$ and thus 
+<span class="numbered" id="p.32eq21" data-label="21">
+\begin{equation}
+(-a)c = -ac
+\end{equation}
+</span>
+From [(18)](#p.31eq18){.eqref} for $d = -c$
+<span class="numbered" id="p.32eq22" data-label="22">
+\begin{equation}
+a(-c) = -ac
+\end{equation}
+</span>
+If one puts $-c$ instead of $c$ in [(21)](#p.32eq21){.eqref}, then
+it follows by [(22)](#p.32eq22){.eqref} $(-a)(-c) = -a(-c) = -(-ac) = +ac$
+and thus
+<span class="numbered" id="p.32eq23" data-label="23">
+\begin{equation}
+(-a)(-c) = ac
+\end{equation}
+</span>
+</p>
 </div>
 
 <div class="parallel">
@@ -1374,7 +2215,7 @@ also
 Können so die bekannten Regeln der Multiplication negativer 
 Zahlen aus dem distributiven Princip abgeleitet werden, so wird die 
 entsprechende Aufgabe, die Regeln der Addition reciproker Zahlen 
-oder von Quotienten ohne Commutation zu geben, nicht in der ge wöhnlichen
+oder von Quotienten ohne Commutation zu geben, nicht in der gewöhnlichen
 Weise gelöst werden können. Denn man hat 
 $$
 \left(\frac{a}{b} + \frac{c}{d}\right)bd = \frac{a}{b}bd + \frac{c}{d}bd = ad + c\frac{1}{d}bd
@@ -1408,9 +2249,44 @@ $$
 nicht weiter, etwa auf $\frac{ac}{bd}$ reduciren, und $b\frac{a}{b},
 \frac{ba}{b}$ ist von $a$ im Allgemeinen verschieden.
 </p>
-<p lang="en">...
+<p lang="en">
+Though the well-known rules of multiplication of negative number can be
+derived from the distributive principle, the corresponding
+problem, to give the rules of addition of reciprocal numbers
+or of quotients without commutativity, will not be able to be solved
+in the usual way.
+For one has
+$$
+\left(\frac{a}{b} + \frac{c}{d}\right)bd = \frac{a}{b}bd + \frac{c}{d}bd = ad + c\frac{1}{d}bd
+$$
+thus
+$$
+\frac{a}{b} + \frac{c}{d} = \frac{ad + c\frac{1}{d}bd}{bd}
+$$
 <a lang="en" class="origpage" id="p.33" title="Page 33"></a>
-...
+an expression which in general cannot be further reduced; only when $b = d$
+does one have: 
+$$
+\left(\frac{a}{b} + \frac{c}{b}\right) b = \frac{a}{b} b + \frac{c}{b} b = a + c
+$$
+also
+<span class="numbered" id="p.33eq24" data-label="24">
+\begin{equation}
+\frac{a}{b} + \frac{c}{b} = \frac{a + c}{b}
+\end{equation}
+</span>
+If however the multiplication is commutative, one finds:
+<span class="numbered" id="p.33eq25" data-label="25">
+\begin{equation}
+\frac{a}{b} + \frac{c}{d} = \frac{ad + cb}{bd}
+\end{equation}
+</span>
+Without commutativity, one cannot further reduce expressions like:
+$$
+\frac{a}{b}\frac{c}{d} = a\frac{1}{b}c\frac{1}{d}
+$$
+for example to $\frac{ac}{bd}$, and $b\frac{a}{b},
+\frac{ba}{b}$ are in general distinct from $a$.
 </p>
 </div>
 
@@ -1433,7 +2309,24 @@ b\frac{a}{b} = a
 \end{equation}
 </span>
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Under the presupposition of commutativity of the product, however, one has
+<span class="numbered" id="p.33eq1*" data-label="1*">
+\begin{equation}
+b\frac{a}{b} = a 
+\end{equation}
+</span>
+<span class="numbered" id="p.33eq2*" data-label="2*">
+\begin{equation}
+\frac{ba}{b} = a
+\end{equation}
+</span>
+<span class="numbered" id="p.33eq6*" data-label="6*">
+\begin{equation}
+\frac{a}{\frac{b}{c}} = \frac{a}{b} \cdot c
+\end{equation}
+</span>
+</p>
 </div>
 
 <div class="text-small">
@@ -1520,20 +2413,32 @@ der Theorie der complexen Zahlen in Anwendung. Einmal enthalten sie die
 Regeln ihrer Addition und Multiplication und dienen, wie im folgenden
 Abschnitt nachgewiesen werden wird, zur <em>Definition</em> ihres Charakters. 
 </p>
-<p lang="en">...</p>
+<p lang="en">Just as the preceding determinations and the consequences
+derived from them can be carried over to geometry, they also find
+application in the theory of complex numbers. They contain at once the
+rules of their addition and multiplication and serve, as will be
+proven in the following chapter, as a definition of their character.</p>
 </div>
 
 <div class="parallel">
 <p lang="de">
 Andererseits aber kann man auch fragen, ob es in einem gegebenen
-Zahlensysteme noch andere Operationen $\Theta, \lambda, ...$ gebe,
+Zahlensysteme noch andere Operationen $\Theta, \lambda, \ldots$ gebe,
 welche diesen Regeln genügen. Die Beantwortung dieser Frage gehört in
 die Theorie der Functionen und hat tiefere Bedeutung nur für den
 <q>calculus of operations</q>; doch wollen wir eine hieher gehörige
 Untersuchung, welche sich auf das gemeine complexe Zahlensystem
 bezieht, wenigstens in ihren Resultaten mittheilen:
 </p>
-<p lang="en">...</p>
+<p lang="en">
+On the other hand, one can also ask whether in a given number system
+there are still other operations $\Theta, \lambda, \ldots$ which
+satisfy these rules. The answer to this question belongs in the theory
+of functions and only has a deeper significance for the <q>calculus of
+operations</q>; but we here want to share at least the results of a
+investigation belonging to this domain which refers to the common
+complex number system:
+</p>
 </div>
 
 <div class="parallel">
@@ -1565,7 +2470,34 @@ $$
 gibt unter gewissen Voraussetzungen über die Stetigkeit der Functionen
 überhaupt, die einzigen eindeutigen Operationen $\Theta, \pi$.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+An associative and commutative function $\Theta(x,y)$ with the modulus
+$m$ will always be of the form
+$$
+\Theta(x,y) = \phi_1 [\phi(x) + \phi(y) - \phi(m)] 
+$$
+where $\phi, \phi_1$ are two inverse functions, so that
+$\phi_1(\phi(x)) = x$. Should there be another associative and commutative
+function $\pi$ with modulus $n$,
+$$
+\pi(x,y) = \psi_1 [\psi(x) + \psi(y) - \psi(m)] 
+$$
+connected with $\Theta$ via the distributive principle 
+$$
+\pi[\Theta(x,y),z] = \Theta[\pi(x,z), \pi(y,z)]
+$$
+then the following results as its general form:
+$$
+\psi(x) = \frac{1}{a}\log{[\phi(x) - \phi(m)]}
+$$
+where $a$ is an arbitrary constant. If one sets $\phi(x) = x$,
+one gets addition and multiplication from this;
+$$
+\phi(x) = \frac{ax + b}{cx + d}
+$$
+gives, under certain presuppositions about the continuity of 
+functions in general, the unique one-valued operations $\Theta, \pi$.
+</p>
 </div>
 
 </div> <!-- .text-small -->
