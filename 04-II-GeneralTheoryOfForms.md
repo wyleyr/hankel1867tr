@@ -1056,7 +1056,7 @@ hier nicht weiter an. Nur eine wesentlich neue Gleichung mag hier
 erwähnt werden:
 </p>
 <p lang="en">
-Even if up to now the result of $\Theta(a, b)$ has been see as
+Even if up to now the result of $\Theta(a, b)$ has been seen as
 distinct from $\Theta(b, a)$, nothing stands in the way of us
 making the determination, alongside those of the previous §., that
 in every case
@@ -1858,7 +1858,7 @@ a\frac{b}{c} = \frac{ab}{c}
 </p>
 <p lang="en">
 If a new associative, in general completely one-valued operation,
-multiplication, and its lysis, division, are presented via the the
+multiplication, and its lysis, division, are presented via the 
 signs $a\cdot b$ and $\frac{a}{b}$, then one has, by [§. 4](#pz4):
 <span class="numbered" id="p.30eq1" data-label="1">
 \begin{equation}
@@ -2269,7 +2269,7 @@ does one have:
 $$
 \left(\frac{a}{b} + \frac{c}{b}\right) b = \frac{a}{b} b + \frac{c}{b} b = a + c
 $$
-also
+thus
 <span class="numbered" id="p.33eq24" data-label="24">
 \begin{equation}
 \frac{a}{b} + \frac{c}{b} = \frac{a + c}{b}
