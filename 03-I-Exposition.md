@@ -699,7 +699,7 @@ eine von aller Anschauung losgelöste, rein intellectuelle Mathematik,
 eine reine Formenlehre, in welcher nicht Quanta oder ihre Bilder, die
 Zahlen verknüpft werden, sondern intellectuelle Objecte,
 Gedankendinge, denen actuelle Objecte oder Relationen solcher
-entsprechen können, aber nicht müssen. 
+entsprechen <em>können</em>, aber nicht <em>müssen</em>. 
 </p>
 <p lang="en">...
 <a lang="en" class="origpage" id="p.10" title="Page 10"></a>
@@ -709,7 +709,7 @@ intuition, a pure theory of form, in which
 not [quantities]{.origphrase title="Quanta"}<sup>[A](#p.10nA){#p.10nAref .trnref}</sup>
 or their images, the numbers, are conjoined, but rather intellectual objects,
 [thought-things]{.origphrase title="Gedankendinge"},
-to which Actual objects or relations of such objects can, but need not,
+to which Actual objects or relations of such objects *can*, but *need* not
 correspond.
 </p>
 </div>
