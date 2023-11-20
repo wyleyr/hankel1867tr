@@ -692,7 +692,7 @@ Bedingung der Möglichkeit realer Verhältnisse einschliessen,
 transscendentale oder potentielle nennen kann, werden auch nicht an
 realen Objecten, sondern an intellectuellen oder an
 <a lang="de" class="origpage" id="S.10" title="Seite 10"></a>
-Relationen solcher betrachtet weiden müssen, wenn wir uns von
+Relationen solcher betrachtet werden müssen, wenn wir uns von
 der Zufälligkeit des Wirklichen befreien wollen. 
 Die Bedingung zur Aufstellung einer allgemeinen Arithmetik ist daher
 eine von aller Anschauung losgelöste, rein intellectuelle Mathematik,
