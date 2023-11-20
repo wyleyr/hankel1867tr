@@ -635,8 +635,28 @@ Bedeutung der wiederholten Setzung einer gewissen Reihe von Einheiten,
 wenn $x$ keine ganze Zahl ist. Was also ist die Bedeutung 
 der letzten Gleichung? 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Division consists in the problem of determining the $x$ out of an
+equation
+$$ x \cdot a = b $$
+if $a, b$ are whole numbers.
+It is manifest that it is not always possible to determine the $x$,
+as has been admissible so far, as a whole number. So if division should be
+made possible under every condition, then we must extend our domain of
+numbers and accept new numbers into it which are designated by
+$$ x = \frac{b}{a} $$
+so that
+$$ \frac{b}{a} a = b$$
+contains their definition.
+The latter [operation]{.origphrase title="Verknüpfung"}, however,
+through which these signs of an operation which at first cannot be
+carried out are defined, multiplication, now loses entirely the
+meaning earlier laid down of repeated positing of a certain series of
+units, when $x$ is not a whole number. What, then, is the meaning of
+the latter equation?
+</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
 Diesen <dfn>gebrochenen</dfn> Zahlen, welche zunächst als reine Zeichen
@@ -669,7 +689,29 @@ Begriffe nach gar nicht zulassen.
 <p lang="en">
 To these fractional numbers, which appear at first as pure signs, can be
 attached in many cases an Actual meaning. 
-<a lang="en" class="origpage" id="p.9" title="Page 9"></a>...
+If one thinks the unit $+1$ as divisible into $a$ parts,
+of which one is $\frac{1}{a}$, then the [real]{.origphrase title="reale"} concept of
+multiplication, as it was given earlier for whole numbers, i.e. for
+[actual]{.origphrase title="wirkliche"} posited objects, 
+can also be applied to these new objects, and one can understand by
+<a lang="en" class="origpage" id="p.9" title="Page 9"></a>
+$$ b \frac{1}{a} = \frac{b}{a} $$
+the part $\frac{1}{a}$  posited $b$ times.
+The meaning of $\frac{1}{a} b$ is not however not determined by this,
+and will only be determined if we understand by such a multiplication of
+$\frac{1}{a}$ in $b$ that operation through which $b$ is divided in
+$a$ parts; then the proof can be delivered in intuition that 
+$$ \frac{1}{a} \cdot b = b \cdot \frac{1}{a} = \frac{b}{a} $$
+and thus the commutative principle is valid.
+Here is must be remarked that a new definition of multiplication in
+the latter case had to be explicitly given and was so chosen that
+the same laws are valid for the multiplication of fractional numbers
+as earlier for whole numbers. The fractional numbers, because
+these parts correspond to them in such substances or relations which
+are capable of an [actual]{.origphrase title="wirklich"} division,
+have since antiquity been referred to as real, although there are
+innumerable things which according to their concept do not admit of a
+division at all.
 </p>
 </div>
 
@@ -701,9 +743,26 @@ Zahlen verknüpft werden, sondern intellectuelle Objecte,
 Gedankendinge, denen actuelle Objecte oder Relationen solcher
 entsprechen <em>können</em>, aber nicht <em>müssen</em>. 
 </p>
-<p lang="en">...
+<p lang="en">
+Just this circumstance, which endangers the concept of
+the negative in exactly the same way, in that that reversible
+opposition is not present in all domains of physical magnitudes,
+provides sufficient evidence
+that the perspective from which we have so far considered the negative
+and fractional numbers is not one of pure theory which is independent
+of the content of the objects to be conjoined. Those relations capable
+of a real opposition, these real parts of a divisible object, are only
+concrete images corresponding to certain relations, whose existence is
+based on accidental conditions resulting from the specific nature of
+the determinate concrete thing. Those general formal relations whose
+possibility is independent of the limitations of our empirical
+intuition, and which one can call *transcendental* or *potential*
+insofar as they include the condition of the possibility of real
+relations, will need to be considered not in real objects, but rather in 
 <a lang="en" class="origpage" id="p.10" title="Page 10"></a>
-... The condition for the establishment of a general arithmetic is
+relations of such objects, if we want to free ourselves from the
+contingency of the real.
+The condition for the establishment of a general arithmetic is
 therefore a purely intellectual mathematics detached from all
 intuition, a pure theory of form, in which
 not [quantities]{.origphrase title="Quanta"}<sup>[A](#p.10nA){#p.10nAref .trnref}</sup>
