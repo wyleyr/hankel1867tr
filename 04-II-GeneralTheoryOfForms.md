@@ -658,7 +658,7 @@ We have above become acquainted with the fact that $\Theta(a,b),
 \lambda(a,b)$ must change when the first term $a$ changes while the
 second term $b$ remains constant as a necessary consequence of the
 assumed one-valuedness of the lytic and thetic
-[operation]{.origphrase title="Verknüpfung"}. We now assume --- and
+[operations]{.origphrase title="Verknüpfung"}. We now assume --- and
 call this entire assumption that of <dfn>complete
 one-valuedness</dfn> --- that when in $\Theta(a,b)$ the second
 term changes, while the
@@ -1459,7 +1459,7 @@ $x = \lambda(y, z)$, where $y, z$ are objects of the old type, hence
 $$
 \lambda(a,b) = \Theta\{\lambda(y,z),\lambda(c,d)\} = \lambda\{\Theta(y,c), \Theta(z,d)\}
 $$
-If one now posits, according to [(3)](#p.27eq3){.eqref}: 
+If one now, following [(3)](#p.27eq3){.eqref}, sets: 
 \begin{multline}
 \lambda (a, b) = \lambda\{\Theta[\Theta(a, d), c], \Theta[\Theta(b, c), d]\}  \\
 = \lambda[\Theta(y,c), \Theta(z, d)] 
@@ -2050,7 +2050,7 @@ die Division durch dieselben gänzlich unbestimmt wird (vergl. den
 Since the assumption of complete one-valuedness of multiplication
 and division is thereby broken, we do not want to look at
 unconditional one-valuedness as a necessary property of the concept of
-division. Indeed, in systems to be treated later, we will come upon
+division in general. Indeed, in systems to be treated later, we will come upon
 distinct numbers which carry the character of the modulus in themselves,
 insofar as a product to which they give one factor does not
 necessarily change its value when the other factor changes, so that
