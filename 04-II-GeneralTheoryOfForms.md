@@ -1331,13 +1331,13 @@ and
 
 <div class="parallel">
 <p lang="de">
-Dass die Thesis zweier Objecte der zweiten Art $\lambda(d,b), \lambda(c,d)$
+Dass die Thesis zweier Objecte der zweiten Art $\lambda(a,b), \lambda(c,d)$
 immer wieder ein Object derselben Art [ist]{.corrected}, welches nämlich in der 
 Form $\lambda(e,f)$ dargestellt werden kann, wo $e$ $f$ mit $a$ $b$ $c$ $d$
 gleichartig sind, geht unmittelbar aus deren Definition hervor. 
 </p>
 <p lang="en">
-That the thesis of two objects of the second type $\lambda(d,b), \lambda(c,d)$
+That the thesis of two objects of the second type $\lambda(a,b), \lambda(c,d)$
 is always an object of the same type,
 which can always be presented in the form $\lambda(e,f)$, where 
 $e$ $f$ are of the same type as $a$ $b$ $c$ $d$,
