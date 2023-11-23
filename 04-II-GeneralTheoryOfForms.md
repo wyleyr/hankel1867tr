@@ -6,6 +6,8 @@
 
 ## [II. Abschnitt. Allgemeine Formenlehre]{lang="de"} [Chapter II. General theory of forms]{lang="en"} {#Ch.II  epub:type="chapter"}
 
+<!-- TODO: would "algebra" be a better translation of "Algorithmus"? -->
+
 ### [§4. Algorithmus associativer Rechnungsoperationen ohne Commutation]{lang="de"} [§4. Algorithm of associative arithmetic operations without commutativity]{lang="en"} {#pz4 .pz}
 
 <div class="parallel">
