@@ -6,6 +6,8 @@
 
 ## [II. Abschnitt. Allgemeine Formenlehre]{lang="de"} [Chapter II. General theory of forms]{lang="en"} {#Ch.II  epub:type="chapter"}
 
+<!-- TODO: would "algebra" be a better translation of "Algorithmus"? -->
+
 ### [§4. Algorithmus associativer Rechnungsoperationen ohne Commutation]{lang="de"} [§4. Algorithm of associative arithmetic operations without commutativity]{lang="en"} {#pz4 .pz}
 
 <div class="parallel">
@@ -78,7 +80,7 @@ vollkommen gleich sind, sich also, der Definition des Gleichen zufolge,
 überall vertreten können. 
 </p>
 <p lang="en">
-I remark immediately that we want everywhere in this §. to presuppose
+I remark immediately that we want everywhere in this §. to assume
 that the lytic and thetic operations, no matter what objects they are
 applied to, are possible and
 [one-valued]{.orig-phrase title="eindeutig"}, that is,
@@ -190,7 +192,7 @@ $$
 stets $a = a'$ geschlossen werden kann. 
 </p>
 <p lang="en">
-Thus it follows from the above presupposition of the one-valuedness of
+Thus it follows from the above assumption of the one-valuedness of
 the lytic and thetic operations that when in $\lambda(a,b)$ and
 $\Theta(a,b)$ the *first* term changes, while the second remains
 constant, the result of the [operation]{.origphrase title="Verknüpfung"} 
@@ -212,7 +214,7 @@ lytischen $\lambda$, eindeutig zu sein und sich zu verändern,
 wenn sich ihr erstes Glied ändert, ebenso leicht ableiten: 
 </p>
 <p lang="en">
-If, instead of the presuppositions above, one instead assumes that the
+If, instead of the assumptions above, one assumes that the
 operation $\Theta(a,b)$ is one-valued and has the property that its
 result always changes when its first term changes, then one can just
 as easily derive the two properties of the corresponding lytic
@@ -385,7 +387,7 @@ und überhaupt allgemein.
 </p>
 <p lang="en">
 <a lang="en" class="origpage" id="p.21" title="Page 21"></a>
-Under the presupposition of the one-valuedness of both operations, one
+Under the assumption of the one-valuedness of both operations, one
 has besides
 <span class="numbered" id="p.21eq1" data-label="1">
 \begin{equation}
@@ -398,7 +400,7 @@ as already shown, the other equation:
 \lambda\{\Theta(a,b),b\} = a
 \end{equation}
 </span>
-We further presuppose the <dfn>associative</dfn> property, i.e. that: 
+We further assume the <dfn>associative</dfn> property, i.e. that: 
 <span class="numbered" id="p.21eq3" data-label="3">
 \begin{equation}
 \Theta[a, \Theta(b,c)] = \Theta[\Theta(a,b), c]
@@ -462,7 +464,7 @@ von wichtigen Transformationen herleiten:
 </p>
 <p lang="en">
 A series of important transformations can be derived from the
-presuppositions made above:
+assumptions made above:
 </p>
 </div>
 
@@ -657,9 +659,9 @@ schliessen dürfe.
 We have above become acquainted with the fact that $\Theta(a,b),
 \lambda(a,b)$ must change when the first term $a$ changes while the
 second term $b$ remains constant as a necessary consequence of the
-presupposed one-valuedness of the lytic and thetic
-[operation]{.origphrase title="Verknüpfung"}. We now assume --- and
-call this entire presupposition that of <dfn>complete
+assumed one-valuedness of the lytic and thetic
+[operations]{.origphrase title="Verknüpfung"}. We now assume --- and
+call this entire assumption that of <dfn>complete
 one-valuedness</dfn> --- that when in $\Theta(a,b)$ the second
 term changes, while the
 <a lang="en" class="origpage" id="p.23" title="Page 23"></a>
@@ -738,7 +740,7 @@ Then by the associative principle one has
 $$
 \Theta\{a, \Theta(n, c)\} = \Theta\{\Theta(a,n), c\} = \Theta(a, c)
 $$
-and by the presupposition of one-valuedness
+and by the assumption of one-valuedness
 <span class="numbered" id="p.23eq8" data-label="8">
 \begin{equation}
 \Theta(n, c) = c
@@ -928,7 +930,6 @@ or
 \Theta(a,c) = \lambda(a, c_n)
 \end{equation}
 </span>
-
 </p>
 </div>
 
@@ -1056,7 +1057,7 @@ hier nicht weiter an. Nur eine wesentlich neue Gleichung mag hier
 erwähnt werden:
 </p>
 <p lang="en">
-Even if up to now the result of $\Theta(a, b)$ has been see as
+Even if up to now the result of $\Theta(a, b)$ has been seen as
 distinct from $\Theta(b, a)$, nothing stands in the way of us
 making the determination, alongside those of the previous §., that
 in every case
@@ -1130,7 +1131,7 @@ thus $\lambda(x, c) = \lambda(a, b)$ and therefore $x =$
 </span>
 an equation which may be set alongside [(6)](#p.22eq6){.eqref},
 but which is an explicit consequence of commutativity\ ---
-a presupposition which, in the further investigations
+an assumption which, in the further investigations
 of this §, shall always hold. 
 </p>
 </div>
@@ -1149,7 +1150,7 @@ Operationen hervorgehenden Objecten nach denselben, einmal
 festgesetzten Regeln verknüpft werden kann.
 </p>
 <p lang="en">
-In the foregoing we have everywhere presupposed the unrestricted
+In the foregoing we have everywhere assumed the unrestricted
 [completability]{.origphrase title="Ausführbarkeit"} of all
 operations, i.e. assumed that in the domain of objects under
 consideration, there is always an object which can be seen as the
@@ -1331,13 +1332,13 @@ and
 
 <div class="parallel">
 <p lang="de">
-Dass die Thesis zweier Objecte der zweiten Art $\lambda(d,b), \lambda(c,d)$
+Dass die Thesis zweier Objecte der zweiten Art $\lambda(a,b), \lambda(c,d)$
 immer wieder ein Object derselben Art [ist]{.corrected}, welches nämlich in der 
 Form $\lambda(e,f)$ dargestellt werden kann, wo $e$ $f$ mit $a$ $b$ $c$ $d$
 gleichartig sind, geht unmittelbar aus deren Definition hervor. 
 </p>
 <p lang="en">
-That the thesis of two objects of the second type $\lambda(d,b), \lambda(c,d)$
+That the thesis of two objects of the second type $\lambda(a,b), \lambda(c,d)$
 is always an object of the same type,
 which can always be presented in the form $\lambda(e,f)$, where 
 $e$ $f$ are of the same type as $a$ $b$ $c$ $d$,
@@ -1459,7 +1460,7 @@ $x = \lambda(y, z)$, where $y, z$ are objects of the old type, hence
 $$
 \lambda(a,b) = \Theta\{\lambda(y,z),\lambda(c,d)\} = \lambda\{\Theta(y,c), \Theta(z,d)\}
 $$
-If one now posits, according to [(3)](#p.27eq3){.eqref}: 
+If one now, following [(3)](#p.27eq3){.eqref}, sets: 
 \begin{multline}
 \lambda (a, b) = \lambda\{\Theta[\Theta(a, d), c], \Theta[\Theta(b, c), d]\}  \\
 = \lambda[\Theta(y,c), \Theta(z, d)] 
@@ -1858,7 +1859,7 @@ a\frac{b}{c} = \frac{ab}{c}
 </p>
 <p lang="en">
 If a new associative, in general completely one-valued operation,
-multiplication, and its lysis, division, are presented via the the
+multiplication, and its lysis, division, are presented via the 
 signs $a\cdot b$ and $\frac{a}{b}$, then one has, by [§. 4](#pz4):
 <span class="numbered" id="p.30eq1" data-label="1">
 \begin{equation}
@@ -2047,10 +2048,10 @@ die Division durch dieselben gänzlich unbestimmt wird (vergl. den
 [VIII. Abschnitt](#Ch.VIII)).
 </p>
 <p lang="en">
-Since the presupposition of complete one-valuedness of multiplication
+Since the assumption of complete one-valuedness of multiplication
 and division is thereby broken, we do not want to look at
 unconditional one-valuedness as a necessary property of the concept of
-division. Indeed, in systems to be treated later, we will come upon
+division in general. Indeed, in systems to be treated later, we will come upon
 distinct numbers which carry the character of the modulus in themselves,
 insofar as a product to which they give one factor does not
 necessarily change its value when the other factor changes, so that
@@ -2269,7 +2270,7 @@ does one have:
 $$
 \left(\frac{a}{b} + \frac{c}{b}\right) b = \frac{a}{b} b + \frac{c}{b} b = a + c
 $$
-also
+thus
 <span class="numbered" id="p.33eq24" data-label="24">
 \begin{equation}
 \frac{a}{b} + \frac{c}{b} = \frac{a + c}{b}
@@ -2310,7 +2311,7 @@ b\frac{a}{b} = a
 </span>
 </p>
 <p lang="en">
-Under the presupposition of commutativity of the product, however, one has
+Under the assumption of commutativity of the product, however, one has
 <span class="numbered" id="p.33eq1*" data-label="1*">
 \begin{equation}
 b\frac{a}{b} = a 
@@ -2495,7 +2496,7 @@ one gets addition and multiplication from this;
 $$
 \phi(x) = \frac{ax + b}{cx + d}
 $$
-gives, under certain presuppositions about the continuity of 
+gives, under certain assumptions about the continuity of 
 functions in general, the unique one-valued operations $\Theta, \pi$.
 </p>
 </div>
