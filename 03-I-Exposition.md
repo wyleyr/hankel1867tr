@@ -38,7 +38,7 @@ which involve the concept of [magnitude]{.origphrase title="Grösse"},
 of [measure]{.origphrase title="Maass"}, of [number]{.origphrase title="Zahl"}.
 Everywhere where these concepts are applicable,
 mathematics, without changing her character, can and will step into
-the scene, for she [combines]{.origphrase title="verknüpft"} those
+the scene, for it [conjoins]{.origphrase title="verknüpft"} those
 relations of magnitude, of measure, and of number purely with one
 another, independently of the compared objects and substances
 themselves.
@@ -130,7 +130,7 @@ property that if one summand changes its value while the other
 remains constant, then the result of the operation always changes. The
 properties of addition specified here are sufficient to derive all
 further consequences about [sums]{.origphrase title="Summenbildung"},
-without needing to remind oneself of the real meaning of addition in
+without ever needing to remind oneself of the real meaning of addition in
 doing so. In this sense they form the system of conditions which are
 necessary and sufficient to <dfn>formally</dfn> define the operation.
 </p>
@@ -157,10 +157,24 @@ wobei man darauf achten mag, dass bald von dem ordinalen, bald
 von dem cardinalen Begriffe der Zahl Gebrauch gemacht wird. 
 </p>
 <p lang="en">
-[Multiplication.]{.pname} ...
+[Multiplication.]{.pname} Multiplication consists in the
+[conjoining]{.origphrase title="Verknüpfung"} of an ordinal number $b$
+with a cardinal number $a$ and requires that $b$ should be taken $a$ times.
+The result of this operation, the product $a\cdot b$, can also be seen
+as that number which arises out of $b$ in the same way that $a$
+arises out of the numerical
 <a lang="en" class="origpage" id="p.3" title="Page 3"></a>
-exhausted the fundamental properties [of addition and multiplication] and at the
-same time given their formal definition
+unit. If we now form a product via a $b$-many reproduction of the
+ordinal number $a$, then it is in no way obvious, but rather requires
+a proof, that
+$$ a \cdot b = b \cdot a $$
+that is, that the <dfn>commutative</dfn> law is valid.
+This proof can be carried out just as easily through a fundamentally
+geometrical construction in a plane[\*)](#p.3n1){#p.3n1ref .fnref}
+as the proof in space for the <dfn>associative</dfn> law:
+$$ a \cdot (b \cdot c) = (a \cdot b) \cdot c $$
+though it might be noted that use is soon made
+here of the ordinal and of the cardinal concept of number. 
 </p>
 </div>
 
@@ -179,9 +193,7 @@ same time given their formal definition
 <p lang="de">
 Die Multiplication hängt ihrem Begriff nach mit der Addition 
 eng zusammen, denn es ist allgemein: 
-$$
-(b+c)a = ba + ca, a(b+c) = ab + ac;
-$$
+$$ (b+c)a = ba + ca, a(b+c) = ab + ac; $$
 --- eine Eigenschaft, welche man die
 <dfn>distributive</dfn>[\*\*)](#S.3n2){#S.3n2ref .fnref} nennt. Fügen 
 wir noch hinzu, dass $1a = a$ ist und die Multiplication hinsichtlich 
@@ -189,7 +201,17 @@ der Eindeutigkeit ebenso beschaffen ist wie die Addition, so hat man
 ihre fundamentalen Eigenschaften erschöpft, und mit diesen zugleich
 ihre formale Definition gegeben. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Multiplication is, in its concept, closely associated with addition,
+for it is generally so that:
+$$ (b+c)a = ba + ca, a(b+c) = ab + ac; $$
+--- which one calls the
+<dfn>distributive</dfn>[\*\*)](#p.3n2){#p.3n2ref .fnref} property. If
+we add to this that $1a = a$ and that multiplication is constituted in
+the same way as addition with respect to one-valuedness, then one has
+thus exhausted their fundamental properties, and with these at the
+same time given their formal definition.
+</p>
 </div>
 
 <aside class="parallel footnote">
@@ -197,19 +219,28 @@ ihre formale Definition gegeben.
 Diese Namen sind in England seit 1840 vollkommen eingebürgert und
 ich habe daher nicht Anstand genommen, sie auch auf deutschen Boden zu
 verpflanzen; <q>distributiv</q> und <q>commutativ</q> sind von [Servois]{.sc} eingeführt 
-worden ([Gergonne]{.sc}'s Ann. Bd. V. 1814, S. 93), <q>associativ</q> wahrscheinlich 
+worden ([Gergonne]{.sc}'s [<cite>Ann.</cite>][Gergonne1814] [Bd. V.][Gergonne1814v5] 1814, S. 93),
+<q>associativ</q> wahrscheinlich 
 zuerst von Sir W.\ R.\ [Hamilton]{.sc}. 
 </p>
 <p lang="en" id="p.3n2">\*\*)
-...
+These names have been adopted and completely naturalized
+in England since 1840, and I have therefore not made an effort to
+transplant them also into German soil; <q>distributive</q>
+and <q>commmutative</q> were introduced by
+[Servois]{.sc} ([Gergonne]{.sc}'s [<cite>Ann.</cite>][Gergonne1814] [Vol. V.][Gergonne1814v5] 1814, p. 93), 
+<q>associative</q> probably first by Sir W.\ R.\ [Hamilton]{.sc}. 
 </p>
 </aside>
+
+[Gergonne1814]: http://www.numdam.org/item/AMPA/ 
+[Gergonne1814v5]: http://www.numdam.org/volume/AMPA_1814-1815__5_/
 
 <div class="parallel">
 <p lang="de">
 [Potenzirung.]{.pname} Die Potenzirung ist eine Operation, welche aus
 der Multiplication ebenso hervorgeht, wie diese aus der Addition.
-Unter $a^b$ versteht man den Factor $a,$ $b$ mal gesetzt. Was die
+Unter $a^b$ versteht man den Factor $a$, $b$ mal gesetzt. Was die
 Gesetze dieser Operation betrifft, so findet das commutative Princip
 nicht statt, denn $a^b$ ist von $b^a$ im Allgemeinen verschieden; auch
 das associative Gesetz nicht, denn es ist
@@ -222,9 +253,20 @@ $$ a^{b+c} = a^b a^c $$
 und diese Gleichungen repräsentiren das distributive Princip bei 
 dieser Operation. 
 </p>
-<p lang="en">...
+<p lang="en">
+[Exponentiation.]{.pname} Exponentiation is an operation which
+arises in the same way out of multiplication as the latter does out of
+addition. By $a^b$ one understands the factor $a$ posited $b$ times.
+With regard to the laws of this operation, the commutative principle
+does not hold, for $a^b$ is in general distinct from $b^a$; likewise
+the associative law does not hold, for 
+$$ a^(b^c) \mbox{ is distinct from } (a^b)^c $$
+It is however the case that
+$$ (a)^{bc} = (a^b)^c $$
+$$ (bc)^a = b^a c^a $$
+$$ a^{b+c} = a^b a^c $$
 <a lang="en" class="origpage" id="p.4" title="Page 4"></a>
-...
+and these equations represent the distributive principle for this operation.
 </p>
 </div>
 
@@ -242,7 +284,17 @@ so erhält man allgemein $a_b$ als eine neue Operation, deren weitere
 Untersuchung sich indess bis jetzt in der Wissenschaft nicht als 
 nothwendig erwiesen hat. 
 </p>
-<p lang="en">...
+<p lang="en">
+Repetition of exponentiation once again delivers a new operation.
+If one takes $a$, which can also be designated $a_1$, and raises it to
+the $a_1$th power, $a^a$ results, which may be designated $a_2$. If
+one then raises $a$ to the $a_2$th power and calls the result $a_3$,
+so that 
+$$ a_3 = a^{a_2} = a^{(a^a)} $$
+$$ a_4 = a^{a_3} = a^{(a^{(a^a)})} $$
+$$ . . . . . . $$
+one obtains generally $a_b$ as a new operation, the further
+investigation of which has, however, up to now not proven necessary in science.
 </p>
 </div>
 
@@ -406,7 +458,7 @@ relation of one member, arbitrarily chosen as the starting point, to a
 certain other member of the series.</q>[\*)](#p.6n1){#p.6n1ref .fnref}
 Thus one sees that the operation,
 whose expression we earlier looked at as a number, can be understood
-as putting two objects in relation to each other, and the above
+as putting two objects (substances) in relation to each other, and the above
 explanation of number thus becomes:
 </p>
 </div>
@@ -449,8 +501,8 @@ zur Erscheinung kommen.
 The actually quantitative results of such measurements find their
 representation everywhere in the [absolute whole numbers]{.text-sperren};
 but if a number is so constituted that it contains several such
-absolute numbers as elements, it is called a <dfn>combined</dfn> or <dfn>complex</dfn>
-number, which by its combination at the same time [specifies]{.origphrase title="angeben"} 
+absolute numbers as elements, it is called a <dfn>compound</dfn> or <dfn>complex</dfn>
+number, which by its composition at the same time [specifies]{.origphrase title="angeben"} 
 the way these quantitative relationships [make their appearance]{.origphrase title="zur Erscheinung kommen"}
 in the objects and in their relation.
 </p>
