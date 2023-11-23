@@ -289,7 +289,7 @@ gemacht.
 <p lang="en">
 With this, the usual rules of addition and multiplication, which refer
 to numbers insofar as they [designate]{.origphrase title="bedeuten"}
-magnitudes, would be derived from the formal rules of [§. 9](#pz9),
+magnitudes, would be reduced to the formal rules of [§. 9](#pz9),
 and thus the first application of the formal numbers to Actual objects
 made.
 </p>
