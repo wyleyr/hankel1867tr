@@ -38,7 +38,7 @@ which involve the concept of [magnitude]{.origphrase title="Grösse"},
 of [measure]{.origphrase title="Maass"}, of [number]{.origphrase title="Zahl"}.
 Everywhere where these concepts are applicable,
 mathematics, without changing her character, can and will step into
-the scene, for she [combines]{.origphrase title="verknüpft"} those
+the scene, for it [conjoins]{.origphrase title="verknüpft"} those
 relations of magnitude, of measure, and of number purely with one
 another, independently of the compared objects and substances
 themselves.
@@ -130,7 +130,7 @@ property that if one summand changes its value while the other
 remains constant, then the result of the operation always changes. The
 properties of addition specified here are sufficient to derive all
 further consequences about [sums]{.origphrase title="Summenbildung"},
-without needing to remind oneself of the real meaning of addition in
+without ever needing to remind oneself of the real meaning of addition in
 doing so. In this sense they form the system of conditions which are
 necessary and sufficient to <dfn>formally</dfn> define the operation.
 </p>
@@ -157,10 +157,24 @@ wobei man darauf achten mag, dass bald von dem ordinalen, bald
 von dem cardinalen Begriffe der Zahl Gebrauch gemacht wird. 
 </p>
 <p lang="en">
-[Multiplication.]{.pname} ...
+[Multiplication.]{.pname} Multiplication consists in the
+[conjoining]{.origphrase title="Verknüpfung"} of an ordinal number $b$
+with a cardinal number $a$ and requires that $b$ should be taken $a$ times.
+The result of this operation, the product $a\cdot b$, can also be seen
+as that number which arises out of $b$ in the same way that $a$
+arises out of the numerical
 <a lang="en" class="origpage" id="p.3" title="Page 3"></a>
-exhausted the fundamental properties [of addition and multiplication] and at the
-same time given their formal definition
+unit. If we now form a product via a $b$-many reproduction of the
+ordinal number $a$, then it is in no way obvious, but rather requires
+a proof, that
+$$ a \cdot b = b \cdot a $$
+that is, that the <dfn>commutative</dfn> law is valid.
+This proof can be carried out just as easily through a fundamentally
+geometrical construction in a plane[\*)](#p.3n1){#p.3n1ref .fnref}
+as the proof in space for the <dfn>associative</dfn> law:
+$$ a \cdot (b \cdot c) = (a \cdot b) \cdot c $$
+though it might be noted that use is soon made
+here of the ordinal and of the cardinal concept of number. 
 </p>
 </div>
 
@@ -179,9 +193,7 @@ same time given their formal definition
 <p lang="de">
 Die Multiplication hängt ihrem Begriff nach mit der Addition 
 eng zusammen, denn es ist allgemein: 
-$$
-(b+c)a = ba + ca, a(b+c) = ab + ac;
-$$
+$$ (b+c)a = ba + ca, a(b+c) = ab + ac; $$
 --- eine Eigenschaft, welche man die
 <dfn>distributive</dfn>[\*\*)](#S.3n2){#S.3n2ref .fnref} nennt. Fügen 
 wir noch hinzu, dass $1a = a$ ist und die Multiplication hinsichtlich 
@@ -189,7 +201,17 @@ der Eindeutigkeit ebenso beschaffen ist wie die Addition, so hat man
 ihre fundamentalen Eigenschaften erschöpft, und mit diesen zugleich
 ihre formale Definition gegeben. 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Multiplication is, in its concept, closely associated with addition,
+for it is generally so that:
+$$ (b+c)a = ba + ca, a(b+c) = ab + ac; $$
+--- which one calls the
+<dfn>distributive</dfn>[\*\*)](#p.3n2){#p.3n2ref .fnref} property. If
+we add to this that $1a = a$ and that multiplication is constituted in
+the same way as addition with respect to one-valuedness, then one has
+thus exhausted their fundamental properties, and with these at the
+same time given their formal definition.
+</p>
 </div>
 
 <aside class="parallel footnote">
@@ -197,19 +219,28 @@ ihre formale Definition gegeben.
 Diese Namen sind in England seit 1840 vollkommen eingebürgert und
 ich habe daher nicht Anstand genommen, sie auch auf deutschen Boden zu
 verpflanzen; <q>distributiv</q> und <q>commutativ</q> sind von [Servois]{.sc} eingeführt 
-worden ([Gergonne]{.sc}'s Ann. Bd. V. 1814, S. 93), <q>associativ</q> wahrscheinlich 
+worden ([Gergonne]{.sc}'s [<cite>Ann.</cite>][Gergonne1814] [Bd. V.][Gergonne1814v5] 1814, S. 93),
+<q>associativ</q> wahrscheinlich 
 zuerst von Sir W.\ R.\ [Hamilton]{.sc}. 
 </p>
 <p lang="en" id="p.3n2">\*\*)
-...
+These names have been adopted and completely naturalized
+in England since 1840, and I have therefore not made an effort to
+transplant them also into German soil; <q>distributive</q>
+and <q>commmutative</q> were introduced by
+[Servois]{.sc} ([Gergonne]{.sc}'s [<cite>Ann.</cite>][Gergonne1814] [Vol. V.][Gergonne1814v5] 1814, p. 93), 
+<q>associative</q> probably first by Sir W.\ R.\ [Hamilton]{.sc}. 
 </p>
 </aside>
+
+[Gergonne1814]: http://www.numdam.org/item/AMPA/ 
+[Gergonne1814v5]: http://www.numdam.org/volume/AMPA_1814-1815__5_/
 
 <div class="parallel">
 <p lang="de">
 [Potenzirung.]{.pname} Die Potenzirung ist eine Operation, welche aus
 der Multiplication ebenso hervorgeht, wie diese aus der Addition.
-Unter $a^b$ versteht man den Factor $a,$ $b$ mal gesetzt. Was die
+Unter $a^b$ versteht man den Factor $a$, $b$ mal gesetzt. Was die
 Gesetze dieser Operation betrifft, so findet das commutative Princip
 nicht statt, denn $a^b$ ist von $b^a$ im Allgemeinen verschieden; auch
 das associative Gesetz nicht, denn es ist
@@ -222,9 +253,20 @@ $$ a^{b+c} = a^b a^c $$
 und diese Gleichungen repräsentiren das distributive Princip bei 
 dieser Operation. 
 </p>
-<p lang="en">...
+<p lang="en">
+[Exponentiation.]{.pname} Exponentiation is an operation which
+arises in the same way out of multiplication as the latter does out of
+addition. By $a^b$ one understands the factor $a$ posited $b$ times.
+With regard to the laws of this operation, the commutative principle
+does not hold, for $a^b$ is in general distinct from $b^a$; likewise
+the associative law does not hold, for 
+$$ a^(b^c) \mbox{ is distinct from } (a^b)^c $$
+It is however the case that
+$$ (a)^{bc} = (a^b)^c $$
+$$ (bc)^a = b^a c^a $$
+$$ a^{b+c} = a^b a^c $$
 <a lang="en" class="origpage" id="p.4" title="Page 4"></a>
-...
+and these equations represent the distributive principle for this operation.
 </p>
 </div>
 
@@ -242,7 +284,17 @@ so erhält man allgemein $a_b$ als eine neue Operation, deren weitere
 Untersuchung sich indess bis jetzt in der Wissenschaft nicht als 
 nothwendig erwiesen hat. 
 </p>
-<p lang="en">...
+<p lang="en">
+Repetition of exponentiation once again delivers a new operation.
+If one takes $a$, which can also be designated $a_1$, and raises it to
+the $a_1$th power, $a^a$ results, which may be designated $a_2$. If
+one then raises $a$ to the $a_2$th power and calls the result $a_3$,
+so that 
+$$ a_3 = a^{a_2} = a^{(a^a)} $$
+$$ a_4 = a^{a_3} = a^{(a^{(a^a)})} $$
+$$ . . . . . . $$
+one obtains generally $a_b$ as a new operation, the further
+investigation of which has, however, up to now not proven necessary in science.
 </p>
 </div>
 
@@ -406,7 +458,7 @@ relation of one member, arbitrarily chosen as the starting point, to a
 certain other member of the series.</q>[\*)](#p.6n1){#p.6n1ref .fnref}
 Thus one sees that the operation,
 whose expression we earlier looked at as a number, can be understood
-as putting two objects in relation to each other, and the above
+as putting two objects (substances) in relation to each other, and the above
 explanation of number thus becomes:
 </p>
 </div>
@@ -449,8 +501,8 @@ zur Erscheinung kommen.
 The actually quantitative results of such measurements find their
 representation everywhere in the [absolute whole numbers]{.text-sperren};
 but if a number is so constituted that it contains several such
-absolute numbers as elements, it is called a <dfn>combined</dfn> or <dfn>complex</dfn>
-number, which by its combination at the same time [specifies]{.origphrase title="angeben"} 
+absolute numbers as elements, it is called a <dfn>compound</dfn> or <dfn>complex</dfn>
+number, which by its composition at the same time [specifies]{.origphrase title="angeben"} 
 the way these quantitative relationships [make their appearance]{.origphrase title="zur Erscheinung kommen"}
 in the objects and in their relation.
 </p>
@@ -635,8 +687,28 @@ Bedeutung der wiederholten Setzung einer gewissen Reihe von Einheiten,
 wenn $x$ keine ganze Zahl ist. Was also ist die Bedeutung 
 der letzten Gleichung? 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Division consists in the problem of determining the $x$ out of an
+equation
+$$ x \cdot a = b $$
+if $a, b$ are whole numbers.
+It is manifest that it is not always possible to determine the $x$,
+as has been admissible so far, as a whole number. So if division should be
+made possible under every condition, then we must extend our domain of
+numbers and accept new numbers into it which are designated by
+$$ x = \frac{b}{a} $$
+so that
+$$ \frac{b}{a} a = b$$
+contains their definition.
+The latter [operation]{.origphrase title="Verknüpfung"}, however,
+through which these signs of an operation which at first cannot be
+carried out are defined, multiplication, now loses entirely the
+meaning earlier laid down of repeated positing of a certain series of
+units, when $x$ is not a whole number. What, then, is the meaning of
+the latter equation?
+</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
 Diesen <dfn>gebrochenen</dfn> Zahlen, welche zunächst als reine Zeichen
@@ -669,7 +741,29 @@ Begriffe nach gar nicht zulassen.
 <p lang="en">
 To these fractional numbers, which appear at first as pure signs, can be
 attached in many cases an Actual meaning. 
-<a lang="en" class="origpage" id="p.9" title="Page 9"></a>...
+If one thinks the unit $+1$ as divisible into $a$ parts,
+of which one is $\frac{1}{a}$, then the [real]{.origphrase title="reale"} concept of
+multiplication, as it was given earlier for whole numbers, i.e. for
+[actual]{.origphrase title="wirkliche"} posited objects, 
+can also be applied to these new objects, and one can understand by
+<a lang="en" class="origpage" id="p.9" title="Page 9"></a>
+$$ b \frac{1}{a} = \frac{b}{a} $$
+the part $\frac{1}{a}$  posited $b$ times.
+The meaning of $\frac{1}{a} b$ is not however not determined by this,
+and will only be determined if we understand by such a multiplication of
+$\frac{1}{a}$ in $b$ that operation through which $b$ is divided in
+$a$ parts; then the proof can be delivered in intuition that 
+$$ \frac{1}{a} \cdot b = b \cdot \frac{1}{a} = \frac{b}{a} $$
+and thus the commutative principle is valid.
+Here is must be remarked that a new definition of multiplication in
+the latter case had to be explicitly given and was so chosen that
+the same laws are valid for the multiplication of fractional numbers
+as earlier for whole numbers. The fractional numbers, because
+these parts correspond to them in such substances or relations which
+are capable of an [actual]{.origphrase title="wirklich"} division,
+have since antiquity been referred to as real, although there are
+innumerable things which according to their concept do not admit of a
+division at all.
 </p>
 </div>
 
@@ -692,24 +786,41 @@ Bedingung der Möglichkeit realer Verhältnisse einschliessen,
 transscendentale oder potentielle nennen kann, werden auch nicht an
 realen Objecten, sondern an intellectuellen oder an
 <a lang="de" class="origpage" id="S.10" title="Seite 10"></a>
-Relationen solcher betrachtet weiden müssen, wenn wir uns von
+Relationen solcher betrachtet werden müssen, wenn wir uns von
 der Zufälligkeit des Wirklichen befreien wollen. 
 Die Bedingung zur Aufstellung einer allgemeinen Arithmetik ist daher
 eine von aller Anschauung losgelöste, rein intellectuelle Mathematik,
 eine reine Formenlehre, in welcher nicht Quanta oder ihre Bilder, die
 Zahlen verknüpft werden, sondern intellectuelle Objecte,
 Gedankendinge, denen actuelle Objecte oder Relationen solcher
-entsprechen können, aber nicht müssen. 
+entsprechen <em>können</em>, aber nicht <em>müssen</em>. 
 </p>
-<p lang="en">...
+<p lang="en">
+Just this circumstance, which endangers the concept of
+the negative in exactly the same way, in that that reversible
+opposition is not present in all domains of physical magnitudes,
+provides sufficient evidence
+that the perspective from which we have so far considered the negative
+and fractional numbers is not one of pure theory which is independent
+of the content of the objects to be conjoined. Those relations capable
+of a real opposition, these real parts of a divisible object, are only
+concrete images corresponding to certain relations, whose existence is
+based on accidental conditions resulting from the specific nature of
+the determinate concrete thing. Those general formal relations whose
+possibility is independent of the limitations of our empirical
+intuition, and which one can call *transcendental* or *potential*
+insofar as they include the condition of the possibility of real
+relations, will need to be considered not in real objects, but rather in 
 <a lang="en" class="origpage" id="p.10" title="Page 10"></a>
-... The condition for the establishment of a general arithmetic is
+relations of such objects, if we want to free ourselves from the
+contingency of the real.
+The condition for the establishment of a general arithmetic is
 therefore a purely intellectual mathematics detached from all
 intuition, a pure theory of form, in which
 not [quantities]{.origphrase title="Quanta"}<sup>[A](#p.10nA){#p.10nAref .trnref}</sup>
 or their images, the numbers, are conjoined, but rather intellectual objects,
 [thought-things]{.origphrase title="Gedankendinge"},
-to which Actual objects or relations of such objects can, but need not,
+to which Actual objects or relations of such objects *can*, but *need* not
 correspond.
 </p>
 </div>
@@ -767,20 +878,20 @@ happens in a law-like way and is subject to
 certain rules, then one sees from the beginning that between the
 results of different [operations]{.origphrase title="Verknüpfungen"}
 new relations can take place which
-are the consequences of those originally set out, and can be derived
+are the consequences of those originally posited, and can be derived
 from the latter via logical inferences which are completely
 independent of the nature of the objects [conjoined]{.origphrase title="verknüpft"}.
 How we define the rules of purely formal [operations]{.origphrase title="Verknüpfungen"}, 
 i.e., of carrying out [operations]{.origphrase title="Operationen"} with mental objects, is
 our arbitrary choice, except that one essential condition must be
-adhered to: namely that any logical contradiction may not be implied
+adhered to: namely that no logical contradiction may be implicated
 in these same rules.
-In order to be convinced that such a contradiction cannot appear in
+In order to be convinced that such a contradiction cannot arise from
 any [combination]{.origphrase title="Zusammensetzung"}
 of these [operations]{.origphrase title="Verknüpfungen"},
-we will have to keep the rules independent of each other, so that no
-rule overlaps another: we will have to limit ourselves to the absolute
-minimum that suffices. 
+we will have to keep the rules independent of each other in such a way that no
+rule [interferes with]{.origphrase title="übergreift"} another:
+we will have to limit ourselves to the absolute minimum that suffices. 
 </p>
 </div>
 
@@ -857,8 +968,8 @@ The guiding principle contained herein can be referred to as the
 <dfn>Principle of Permanence of Formal Laws</dfn> and consists in the following:
 if two forms expressed in the general signs of arithmetica universalis
 are equal to one another, then they shall also remain equal to each
-other when the signs cease to signify simple magnitudes and as a
-result the operations acquire some other content.
+other whenever the signs cease to signify simple magnitudes, and thus
+the operations also acquire some other content.
 </p>
 </div>
 
@@ -877,8 +988,17 @@ zu betrachten, welche allen Regeln der arithmetischen Multiplication
 nur mit Ausnahme jener entsprechen. 
 </p>
 <p lang="en">
-...
-<a lang="en" class="origpage" id="p.12" title="Page 12"></a> ...
+This principle will guide our steps in the following; it may not,
+however, be applied everywhere in its complete generality and without
+qualification; we will only be allowed to apply it to the definition
+of the necessary and sufficient rules, insofar as these are
+independent of one another. We will however not allow ourselves to be
+restricted by this principle, and in particular will not necessarily
+presuppose the commutativity of our operations, since it has proven to
+be a scientific necessity to consider operations
+<a lang="en" class="origpage" id="p.12" title="Page 12"></a>
+which correspond to all the rules of arithmetical multiplication
+with the exception of that one. 
 </p>
 </div>
 
@@ -886,7 +1006,7 @@ nur mit Ausnahme jener entsprechen.
 <div class="parallel">
 <p lang="de">
 Die rein formale Mathematik, deren Principien wir hier dargelegt
-haben, bestellt nach eben diesen nicht in einer Verallgemeinerung der
+haben, besteht nach eben diesen nicht in einer Verallgemeinerung der
 gewöhnlichen Arithmetik; sie ist eine durchaus neue Wissenschaft,
 deren Regeln durch letztere nicht <em>bewiesen</em>,
 sondern nur <em>exemplificirt</em>
@@ -897,7 +1017,18 @@ Definitionen der Operationen ihre Regeln, in ersterer die Regeln den
 Sinn der Operationen, oder anders zu reden, sie geben die Anweisung zu
 ihrer Interpretation und ihrem Gebrauch.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Pure mathematics, whose principles we have presented here, does not 
+according to these principles consist in a generalization of the usual
+arithmetic; it is a completely new science, whose rules are not
+<em>proven</em> by the latter, but only <em>exemplified</em> in it, in
+that the formal operations, applied to Actual numbers, give the same
+results as the intuitive operations of common arithmetic. In the
+latter, the definitions of the operations determine its rules; in
+the former, the rules determine the sense of the operations, or put
+differently, they give the instructions for their interpretation and
+their use. 
+</p>
 </div>
 
 <div class="parallel">
@@ -908,7 +1039,13 @@ negativen und imaginären Grössen zu erläutern und streng zu deduciren,
 sondern sie erweist sich mit ihrem Principe der Permanenz zugleich als
 eminent fruchtbar für den ganzen Organismus der Mathematik.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+The theory of forms does not merely have the narrow goal of elucidating
+and rigorously deducing the usual arithmetica universalis with its
+whole, rational, irrational, negative and imaginary magnitudes;
+rather, with its Principle of Permanence it shows itself at the same
+time to be eminently fruitful for the entire organism of mathematics.
+</p>
 </div>
 
 <div class="parallel">
@@ -917,21 +1054,34 @@ Es ist schwierig schon an dieser Stelle die ganze Wichtigkeit jenes
 Principes nachzuweisen; doch mag wenigstens einiges hier angedeutet
 werden:
 </p>
-<p lang="en">...</p>
+<p lang="en">
+It is difficult to make the entire importance of that principle
+evident at this early stage; but at least a few points can be
+indicated here: 
+</p>
 </div>
 
 <div class="parallel">
 <p lang="de">
 Die reine Theorie der complexen Zahlen beruht auf diesem Princip, das
 uns zur Statuirung der an sich willkührlichen Verknüpfungs-Gesetze
-solcher einen Leitfaden liefert. Der unterschied der complexen
+solcher einen Leitfaden liefert. Der Unterschied der complexen
 Zahlensysteme beruht auf particulären, neben den allgemeinen Gesetzen
 zulässigen Bestimmungen, in denen eben der Charakter des
 Zahlensystemes ausgesprochen ist. Doch können wir auf weitere
 allgemeine Erörterung dieses Punktes hier um so leichter verzichten,
 als das ganze vorliegende Werk seiner Entwickelung gewidmet ist.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+The pure theory of the complex numbers is based on this principle,
+which provides a guideline to us for the determining their
+[laws of operation]{.origphrase title="Verknüpfungs-Gesetze"}.
+The distinction between complex number systems is based on particular
+determinations, admissible alongside the general laws, in which the
+character of the number system is expressed. But here we can refrain
+from further discussion of this point, as the entire present work is
+dedicated to its development.
+</p>
 </div>
 
 <div class="parallel">
@@ -942,7 +1092,12 @@ gemeinen Arithmetik entsprechen, und die sich in überraschender Weise
 den natürlichen Gesetzen räumlicher Transformationen und Bewegungen
 anschliessen.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+But further: one can apply operations to spatial objects (points,
+segments, surfaces and solids) which correspond to those of common
+arithmetic, and which couple themselves in a surprising way to the
+natural laws of spatial transformations and motions.
+</p>
 </div>
 
 <div class="parallel">
@@ -954,7 +1109,13 @@ natürliche, nothwendige Ausdruck mechanischer Beziehungen
 (Zusammensetzung von Kräften, Kräftepaaren, in der Ebene und dem
 Räume) gefunden wird.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Even mechanics is subordinate to the pure theory of forms, not only
+insofar as its objects (forces, pairs of forces, momenta) can be
+subjected to its operations, but also in that the natural, necessary
+expression of mechanical relations (combination of forces, pairs of
+forces, in the plane and in space) is found in them.
+</p>
 </div>
 
 <div class="parallel">
@@ -972,8 +1133,19 @@ Lehre von der Verknüpfung der Grössen in abstracto, als derer in der
 räumlichen Anschauung, als der mechanischen Grössen subordinirt ist.
 </p>
 <p lang="en">
-...
-<a lang="en" class="origpage" id="p.13" title="Page 13"></a> ...
+Thus, as the course of our developments will demonstrate in detail, the
+formal laws show themselves, in how they display the arithmetical operations, 
+to be of wide-ranging significance. The Principle of Permanence shows
+itself to be not merely a special or [guiding]{.origphrase title="hodegetisches"} 
+principle, but a metaphysical one, which is [conjoined]{.origphrase
+title="verknüpft"} in the closest possible way with the whole of our intuition.
+Formal mathematics, however, to which we ascend from those elementary
+operations by means of this principle, proves itself to be a
+fundamental discipline, to which the
+<a lang="en" class="origpage" id="p.13" title="Page 13"></a> 
+theory of [combination]{.origphrase title="Verknüpfung"} of magnitudes
+in abstracto, as well as of magnitudes in spatial intuition, and of
+mechanical magnitudes, are all equally subordinate.
 </p>
 </div>
  
@@ -1000,7 +1172,29 @@ vollkommene Lösung aber erst [Abel]{.sc} gab, indem er obiges formales
 Gesetz als Functionalgleichung zur <em>Definition</em> der Potenz mit
 complexen Exponenten erhob.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+We have up to now only spoken of the [preservation]{.origphrase
+title="Beharren"} of the <em>arithmetical</em> formulae. But already
+here we must draw attention to the general value which the Principle
+of Permanence of Formal Laws has as a methodological principle for all
+of mathematics. If a complex number system is given, e.g. the common
+one in which the numbers are $a = A + Bi$, then one can carry out
+certain operations within this system, e.g. $aa, aaa, aaaa, \ldots$,
+which one signifies with $a^2, a^3, a^4\ldots$, where, so long as $M,
+N$ are positive whole numbers, the equation
+$$ a^Ma^N = a^{M+N} $$ holds. 
+Attempts were made to extend this law, considered purely formally,
+to all possible real values of $M$ and $N$,
+and thus the meaning of $a^{-1}, a^{-2}, \ldots a^{\frac{1}{2}},
+a^{\frac{1}{3}}\ldots$ was reached.
+The progress of science then demanded a broadening of the concept of
+exponentiation to complex exponents---a problem which was attacked
+unceasingly since the middle of the last century and treated with more
+or less clarity, but whose final, complete solution was first given 
+by [Abel]{.sc}, by elevating the above formal law as a [functional
+equation]{.origphrase title="Functionalgleichung"} to a
+<em>definition</em> of exponeniation with complex exponents.
+</p>
 </div>
 
 <div class="parallel">
@@ -1014,8 +1208,18 @@ worden. Immer ist die Permanenz formaler Gesetze der leitende
 Grundsatz; die Erfindung ist überall nur insofern selbstständig, als
 sie diejenigen Gesetze auszuwählen hat, die man für permanent erklärt.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+In a similar way, starting from the corresponding equation, 
+the concept of negative, fractional derivatives was established;
+other operations, which at first only appeared to have a meaning for
+whole number variables, e.g. numerical factorials, were extended
+starting from other equations. The Principle of Permanence of Formal
+Laws is always the guiding [principle]{.origphrase title="Grundsatz"};
+the invention is everywhere only independent insofar as it is able to
+choose those laws which are declared to be permanent.
+</p>
 </div>
+
 <div class="parallel">
 <p lang="de">
 Solche formale Gesetze, die von den gemeinen arithmetischen immerhin
@@ -1031,7 +1235,20 @@ Disciplin zusammenfallen. Hierauf und auf den Nutzen, welchen dieser
 Calcul der Theorie der Functionen leistet, näher einzugehen, liegt
 nicht in dem Zwecke des vorliegenden Werkes.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Such formal laws, which anyway may be entirely different from the
+common arithmetical ones, can only be subordinated to a particular
+propadeutical investigation which abstracts entirely from the Actual
+meaning of the operations, and this will then show itself to be
+especially appropriate when the same laws repeatedly reappear in
+different disciplines with different content. This formal mathematics
+would then fall together with the discipline under the name of the
+<q>calculus of Operations</q> or <q>symbols</q>, which recently has
+been cared for by the English with particular predilection. A closer
+investigation into this and into the uses to which this calculus of
+the theory of functions is put does not lie within the aim of the
+present work.
+</p>
 </div>
 </div> <!-- .text-small -->
 
@@ -1053,8 +1270,16 @@ liessen, nur an der von [Cauchy]{.sc}
 aufgestellten und sehr allgemein verbreiteten Theorie des Imaginären
 dargethan werden:
 </p>
-<p lang="en">...
-  <a lang="en" class="origpage" id="p.14" title="Page 14"></a>
+<p lang="en">That a more general concept must take the place of that
+of the concept of absolute magnitude with which arithmetic exclusively
+operates, has been recognized as a necessity and been pronounced with more
+or less decisiveness since the imaginary magnitudes 
+<a lang="en" class="origpage" id="p.14" title="Page 14"></a>
+achieved a secure place in algebra and analysis. 
+But in which wonderful ways is was believed to be possible to satisfy
+this need may be illustrated, among innumerable examples which might be brought
+forward here, with just the very widespread theory established by [Cauchy]{.sc}
+([<cite>Analyse algébrique</cite>][Cauchy1821], 1821, p. 173 ff.):
 </p>
 </div>
 
