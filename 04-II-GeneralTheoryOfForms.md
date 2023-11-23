@@ -928,7 +928,6 @@ or
 \Theta(a,c) = \lambda(a, c_n)
 \end{equation}
 </span>
-
 </p>
 </div>
 
