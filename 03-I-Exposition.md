@@ -1018,7 +1018,7 @@ Sinn der Operationen, oder anders zu reden, sie geben die Anweisung zu
 ihrer Interpretation und ihrem Gebrauch.
 </p>
 <p lang="en">
-Pure mathematics, whose principles we have presented here, does not 
+Purely formal mathematics, whose principles we have presented here, does not 
 according to these principles consist in a generalization of the usual
 arithmetic; it is a completely new science, whose rules are not
 <em>proven</em> by the latter, but only <em>exemplified</em> in it, in
@@ -1093,7 +1093,7 @@ den natürlichen Gesetzen räumlicher Transformationen und Bewegungen
 anschliessen.
 </p>
 <p lang="en">
-But further: one can apply operations to spatial objects (points,
+But further: one can also apply operations to spatial objects (points,
 segments, surfaces and solids) which correspond to those of common
 arithmetic, and which couple themselves in a surprising way to the
 natural laws of spatial transformations and motions.
@@ -1210,7 +1210,7 @@ sie diejenigen Gesetze auszuwählen hat, die man für permanent erklärt.
 </p>
 <p lang="en">
 In a similar way, starting from the corresponding equation, 
-the concept of negative, fractional derivatives was established;
+the concept of negative, fractional derivatives was recently established;
 other operations, which at first only appeared to have a meaning for
 whole number variables, e.g. numerical factorials, were extended
 starting from other equations. The Principle of Permanence of Formal
