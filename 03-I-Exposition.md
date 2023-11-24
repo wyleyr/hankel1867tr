@@ -1382,9 +1382,23 @@ quantités réelles aux diverses Operations de l'algèbre</q> (S. 177)
 u.\ s.\ w. Ob dies aber willkührlich, oder nothwendig, und ob es erlaubt
 ist, darüber erfährt man nichts. Eben so oberflächlich als hier das
 Imaginäre behandelt [Cauchy]{.sc} das Negative in der ersten Note der
-Analyse algébrique.
+<cite>Analyse algébrique</cite>.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+The justification of the arithmetical operations is given by him in
+the following way:
+<q>Suppose we multiply the two expressions $(\cos a +
+\sqrt{-1}\sin a)$, $(\cos b + \sqrt{-1}\sin b)$, one by the other,
+operating according to the known rules of algebraic multiplication, as
+if $\sqrt{-1}$ were a real quantity whose square was equal to
+$-1$.</q> (p. 174)
+<q>Imaginary expressions can be subjected to the same operations of
+algebra as real quantities</q> (p. 177) etc.
+But one learns nothing about whether this is arbitrary, or necessary,
+or whether it is allowed. In the preliminary remarks of the <cite>Analyse
+algébrique</cite>, [Cauchy]{.sc} treats the negative just as
+superficially as he here treats the imaginary.
+</p>
 </div>
 
 <div class="parallel">
