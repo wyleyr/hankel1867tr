@@ -365,7 +365,7 @@ abweichenden Gedankenganges gewesen.
 <p lang="en">
 The presentation of such a fundamental discipline as that treated here
 must always presuppose not only significant knowledge in the highest
-parts of mathematics but also a certain sensitivity and freedom from
+parts of mathematics but also a certain receptivity and freedom from
 prejudice---in general, a thinking reader. Such readers will not judge
 the present work by the aphoristic perusal of individual passages
 which, when torn out of context, can easily appear alien or remain
