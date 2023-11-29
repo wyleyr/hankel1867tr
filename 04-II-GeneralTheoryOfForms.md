@@ -1587,7 +1587,7 @@ where these stand, according to their concept, in the relation
 (a - b) + b = a
 \end{equation}
 </span>
-and call the former addition, the latter substraction. Then 
+and call the former addition, the latter subtraction. Then 
 the 
 associative property will be contained in the equation 
 <span class="numbered" id="p.29eq3" data-label="3">
