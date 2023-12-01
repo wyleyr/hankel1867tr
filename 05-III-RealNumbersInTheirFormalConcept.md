@@ -1193,7 +1193,7 @@ was possible, in place of the
 [most obvious]{.origphrase title="zunächst liegenden"}
 concept of a number as the expression of
 Actual relations of objects and their [operations]{.origphrase title="Operationen"},
-to posit the more general concept of operations
+to posit the more general concept of formal operations
 which [belong purely to]{.origphrase title="bloss...sich bewegen"} the
 domain of logical thought and of numbers which proceed from the mental
 [conjoining]{.origphrase title="Verknüpfung"} of objects, which are at
