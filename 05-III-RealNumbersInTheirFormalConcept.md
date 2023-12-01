@@ -120,9 +120,9 @@ Wesen den Character des Zahlensystems ausmacht.
 </p>
 <p lang="en">
 <em>A number is the expression of certain formal relations of arbitrary
-objects to one another; a number system represents a systematically
+objects to one another; a number system presents a systematically
 ordered series of such relations or
-[operations]{.origphrase title="Verknüpfungen"}</em>, whose
+[conjunctions]{.origphrase title="Verknüpfungen"}</em>, whose
 [essence]{.origphrase title="Wesen"} constitutes the character of the
 number system.
 </p>
