@@ -150,6 +150,22 @@ about them:
   [page 20](#S.20)), which counts against translating it with a more
   general term like "well-defined".
 
+<i lang="de">hodegetisch</i>
+: guiding, introductory, heuristic, pedagogical. <i lang="de">Hodegetik</i>,
+  from Greek <i lang="gr">ὃδός</i> (path, way), literally means
+  "pathfinding". Since medieval times it has been used in German to
+  describe pedagogical methods aimed at introducing university
+  students to a given subject matter. The term seems to be rare even
+  in historical German and has (as far as I'm
+  aware) no correlate in English.  Hankel uses it to describe
+  his Principle of Permanence of Formal Laws. It seems to carry the
+  sense that this principle has guided the historical development
+  of mathematics,
+  that we might use this principle to motivate the introduction of 
+  new number systems, especially in a pedagogical setting, 
+  but also that the principle is not exceptionless and is more like a
+  useful rule of thumb than an ironclad law of nature.
+
 <i lang="de">verknüpfen; Verknüpfung</i>
 : conjoin, combine; conjunction, combination, operation. Hankel thinks
   of arithmetical operations like addition as *conjoining* or *putting

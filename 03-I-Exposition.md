@@ -1136,7 +1136,7 @@ räumlichen Anschauung, als der mechanischen Grössen subordinirt ist.
 Thus, as the course of our developments will demonstrate in detail, the
 formal laws show themselves, in how they display the arithmetical operations, 
 to be of wide-ranging significance. The Principle of Permanence shows
-itself to be not merely a special or [guiding]{.origphrase title="hodegetisches"} 
+itself to be not a particular or merely [guiding]{.origphrase title="hodegetisches"} 
 principle, but a metaphysical one, which is [conjoined]{.origphrase
 title="verknüpft"} in the closest possible way with the whole of our intuition.
 Formal mathematics, however, to which we ascend from those elementary
