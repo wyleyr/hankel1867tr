@@ -603,7 +603,7 @@ im Folgenden klar genug herausstellen.
 </p>
 <p lang="en">
 To avoid all unclarity of the concepts, which so easily arises from
-the indeterminateness of [application]{.origphrase title="Benennung"},  one does well to
+the indeterminateness of [nomenclature]{.origphrase title="Benennung"},  one does well to
 call such numbers --- the concept of which is completely determinate,
 but which are not capable of any construction in intuition ---
 transcendent, purely mental, purely intellectual or
@@ -634,7 +634,7 @@ Idealen und Realen haben leider schon eine bestimmte engere Bedeutung.
 </p>
 <p lang="en" id="p.7n1">\*)
 The names most appropriate for signifying these two classes of
-ideal and real numbers unfortunately already have a determined and
+ideal and real numbers unfortunately already have a definite and
 narrower meaning.
 </p>
 </aside>
