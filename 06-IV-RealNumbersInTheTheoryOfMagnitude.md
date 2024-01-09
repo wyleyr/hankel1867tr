@@ -68,7 +68,7 @@ two are unified with one another in the word <q>magnitude</q>.
 For us, it is not what [magnitude]{.origphrase title="Grösse"} is, but rather what
 <q>[sizeable]{.origphrase title="gross"}</q><sup>[B](#p.48nB){#p.48nBref .trnref}</sup> is,
 which is in need of a determination.
-An analysis of the usage which [Euclid]{.sc}, the unbeatable old
+An analysis of the usage which [Euclid]{.sc}, the unsurpassable old
 master of rigorous mathematical method, makes of the concept of the sizeable,
 yields the following definition:
 </p>
