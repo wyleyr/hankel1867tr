@@ -1074,13 +1074,13 @@ als das ganze vorliegende Werk seiner Entwickelung gewidmet ist.
 </p>
 <p lang="en">
 The pure theory of the complex numbers is based on this principle,
-which provides a guideline to us for the determining their
-[laws of operation]{.origphrase title="Verknüpfungs-Gesetze"}.
-The distinction between complex number systems is based on particular
+which provides us with a guideline for determining their [laws of
+combination]{.origphrase title="Verknüpfungs-Gesetze"}. The
+distinction between complex number systems is based on particular
 determinations, admissible alongside the general laws, in which the
 character of the number system is expressed. But here we can refrain
-from further discussion of this point, as the entire present work is
-dedicated to its development.
+all the more easily from further discussion of this point, since the
+entire present work is dedicated to its development.
 </p>
 </div>
 
