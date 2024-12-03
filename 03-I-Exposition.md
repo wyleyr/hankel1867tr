@@ -1446,7 +1446,32 @@ hervorgebracht hat, nur noch eine kurze Abhandlung von [D.\ F.\ Gregory]{.sc}
 Symbolical Algebra</cite> ([Trans. Roy. Soc. Edinburgh. Vol. XIV][Gregory1840],
 1840, S. 208) zugänglich gewesen.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+In England, where there has always been a predilection for
+investigations into the foundational principles of mathematics, and
+where even the most significant mathematicians themselves have not
+shied away from dealing with these in erudite treatises, one should
+name the Cambridge scholar George Peacock, much revered among his
+fellow citizens, as the one who was the first to genuinely recognise
+the necessity of a formal mathematics. The Principle of Permanence is
+deployed in his interesting <cite>Report on Certain Branches of
+Analysis</cite> (in the [<cite lang="en">III. Report of the British
+Assoc. f. the Advanc. of Science</cite>][Peacock1834], London 1834, p.
+185), albeit sometimes too narrowly or without the necessary
+justification. The works in which he further developed this principle,
+the [<cite>Arithmetical Algebra</cite>][Peacock1842] (Cambridge 1842)
+and the [<cite>Symbolical Algebra</cite>][Peacock1845] (ibid. 1845),
+are just as unknown to me as the penetrating treatises of [Augustus de
+Morgan]{.sc} <cite class="quoted">On the Foundation of Algebra</cite>
+(Cambridge Phil. Transact. Vol. [VII, pt. II][deMorganI], 1841 and
+[III][deMorganII], 1842; [VIII, pt. II][deMorganIII], 1844 and
+[III][deMorganIV], 1847). In general, of the voluminous literature
+which the Cambridge school, starting with Peacock, has produced on
+so-called <q>symbolical Algebra</q>, only one short treatise by
+[D.\ F.\ Gregory]{.sc}  has been accessible to me:
+<cite class="quoted">On the Real Nature of Symbolical Algebra</cite>
+([Trans. Roy. Soc. Edinburgh. Vol. XIV][Gregory1840], 1840, p. 208).
+</p>
 </div>
 
 [Peacock1834]: https://archive.org/details/reportofthirdmee34lond/page/184/mode/2up
