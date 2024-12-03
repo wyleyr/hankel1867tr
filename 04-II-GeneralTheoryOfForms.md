@@ -2397,8 +2397,8 @@ that in fact all the fundamental principles of the
 [operation]{.origphrase title="Operation"} as they have been set out
 in this §. are fulfilled, and it is strictly speaking only then that
 one will be able to call the operation multiplication. The principle
-of permanence is everywhere here a principle which is, in the
-merely methodological sense of this word, *analytic*; a series of arbitrary
+of permanence is everywhere here a principle which is only *analytic*
+in the methodological sense of this word; a series of arbitrary
 assumptions must always be made, which it does not prove, but rather
 [suggests]{.origphrase title="leitet"}. That these assumptions are
 arbitrary follows from the fact that distinct Actual operations can be
