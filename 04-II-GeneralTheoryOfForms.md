@@ -1182,9 +1182,9 @@ object of the same direct <!-- TODO: trnote about this word -->
 series, while the lytic only leads to such an object in certain cases,
 but not in others, and is thus in a certain sense 
 [not completable]{.origphrase title="unausführbar"}; it only becomes
-completable if one adds in thought to the given series of objects
-an inverse series which is constructible either transcendentally
-or in intuition.\ --- 
+completable if one [adds in thought]{.origphrase title="hinzudenkt"}
+to the given series of objects an inverse series which is either
+transcendental or constructible in intuition.\ --- 
 </p>
 </div>
 
