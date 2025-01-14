@@ -144,7 +144,13 @@ a + b = b + a.
 \end{equation}
 </span>
 </p>
-<p lang="en">...
+<p lang="en">
+By the sum of two magnitudes $a$ and $b$ we understand a new
+magnitude which proceeds from their synthesis as result and contains
+both of them in itself. We designate it with $(a + b)$,
+where the $+$ sign now expresses an Actual operation and must at first
+not be confused with the earlier formal $+$.
+The sum has the properties (compare [p. 54](#p.54))
 <span class="numbered" id="p.49eq1" data-label="1">
 \begin{equation}
 a + (b + c) = (a + b) + c
@@ -173,7 +179,19 @@ $$
 Ae + 1e = (A + 1)e. 
 $$
 </p>
-<p lang="en">...</p>
+<p lang="en">
+If one thinks an object $e$, a magnitude, posited once, and designates
+this with $1e$, then the same posited again and united with the first,
+calling the resulting object $2e$; then unites $e$ again with this,
+calling it $3e$ and so forth, one arrives in this way at the series 
+$$
+1e + 1e = 2e, 2e + 1e = 3e, 3e + 1e = 4e 
+$$
+and generally
+$$
+Ae + 1e = (A + 1)e. 
+$$
+</p>
 </div>
 
 <div class="parallel">
@@ -212,16 +230,41 @@ $$
 (A + B)e = (B + A)e \mbox{ aus } Ae + Be = Be + Ae. 
 $$
 </p>
-<p lang="en">...
-[(1)](#p.49eq1){.eqref} 
-[(2)](#p.49eq2){.eqref} 
+<p lang="en">
+That one can here make use again in $(A + 1)$ of the signs $1, 2, 3\ldots$ and 
+$+$ used earlier follows from the fact that 
+nothing other than one of the operations subject to the formal laws of
+[§. 9](#pz9) is expressed in these signs.
+But the fact that this law in fact holds for these coefficients
+follows easily from the properties
+[(1)](#p.49eq1){.eqref}, [(2)](#p.49eq2){.eqref} of real addition.
+For, because a certain [multiple]{.origphrase title="Vielfaches"}
+of $e$ arises through the addition of $Ae$ and $Be$, which 
+one can designate with $(A + B)e$:
 <span class="numbered" id="p.49eq3" data-label="3">
 \begin{equation}
 (A + B)e = Ae + Be
 \end{equation}
 </span>
+and by property [(1)](#p.49eq1){.eqref}: 
+$$
+Ae + (Be + \Gamma{}e) = (Ae + Be) + \Gamma{}e 
+$$
+thus is
+$$
+Ae + (B + \Gamma)e = (A + B)e + \Gamma{}e 
+$$
+or
+$$
+[A + (B + \Gamma)]e = [(A + B) + \Gamma]e 
+$$
+so that from the associative property of real addition of 
 <a lang="en" class="origpage" id="p.50" title="Page 50"></a>
-...
+magnitudes the corresponding property of formal addition of signs follows.
+The commutative law follows in the same way:
+$$
+(A + B)e = (B + A)e \mbox{ aus } Ae + Be = Be + Ae. 
+$$
 </p>
 </div>
 
@@ -231,7 +274,10 @@ Ehe wir jedoch die Operation $(A + B)$ mit Recht als eine Addition
 bezeichnen können, muss eine entsprechende Multiplication gefunden
 werden.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Before we can rightly designate the [operation]{.origphrase title="Operation"}
+$(A + B)$ as an addition, however, a corresponding multiplication must be found.
+</p>
 </div>
 
 <div class="parallel">
@@ -269,12 +315,42 @@ A(B + \Gamma{})e = (AB + A\Gamma{})e
 $$
 folgt. 
 </p>
-<p lang="en">...
+<p lang="en">
+If one notices that the Actual operation which
+one designates as 
+[multiply positing]{.origphrase title="mehrmalige Setzung"} or
+[multiplying]{.origphrase title="Vervielfachung"} 
+underlies the sign $Ae$,
+then one must understand by $A(Be)$ a [multiple]{.origphrase title="Vielfaches"}
+of $e$, which one designates with $AB$, so that
+$$
+A(Be) = AB\cdot{}e, 
+$$
+a designation which is therefore allowed because it proceeds from
+the nature of the case that the associative principle:
+$$
+AB\cdot(\Gamma{}e) = A(B\Gamma{}\cdot{}e) = AB\Gamma{}\cdot{}e 
+$$
+is fulfilled; because, further, from $(A + B)c = Ac + Bc$ the one part 
+of the distributive principle 
+$$
+(A + B)\Gamma{}e = A\Gamma{}e + B\Gamma{}e 
+$$
+and from the principle (compare [p. 55](#p.55)): 
 <span class="numbered" id="p.50eq4" data-label="4">
 \begin{equation}
 A(b + c) = Ab + Ac
 \end{equation}
 </span>
+the other part of the distributive principle
+$$
+A(Be + \Gamma{}e) = ABe + A\Gamma{}e 
+$$
+or
+$$
+A(B + \Gamma{})e = (AB + A\Gamma{})e 
+$$
+follows. 
 </p>
 </div>
 
@@ -288,7 +364,7 @@ gemacht.
 </p>
 <p lang="en">
 With this, the usual rules of addition and multiplication, which refer
-to numbers insofar as they [designate]{.origphrase title="bedeuten"}
+to numbers insofar as they [stand for]{.origphrase title="bedeuten"}
 magnitudes, would be reduced to the formal rules of [§. 9](#pz9),
 and thus the first application of the formal numbers to Actual objects
 made.
@@ -413,11 +489,15 @@ we must call attention to an essential difference between such principles.
 <div class="parallel">
 <p lang="de">
 Wir wenden uns in dieser Beziehung an [Euklid]{.sc}, der in der
-Edition von [Gregory]{.sc} (Euclidis quae supersunt omnia, Oxford
-1703), die fast allen späteren Ausgaben zu Grunde liegt, folgende 12
+Edition von [Gregory]{.sc} (<cite lang="la">Euclidis quae supersunt omnia</cite>,
+Oxford 1703), die fast allen späteren Ausgaben zu Grunde liegt, folgende 12
 Grundsätze aufstellt:
 </p>
-<p lang="en">...</p>
+<p lang="en">We turn for this to [Euclid]{.sc}, who, in the edition by
+[Gregory]{.sc} (<cite lang="la">Euclidis quae supersunt omnia</cite>, Oxford
+1703) which underlies almost all later editions, puts forward the
+following 12 principles:
+</p>
 </div>
 
 <!-- TODO: can't use <p> here with pandoc lists; need a workaround -->
@@ -433,7 +513,17 @@ Grundsätze aufstellt:
 8) Was einander deckt, ist einander gleich. 
 9) Das Ganze ist grösser als sein Theil. 
 </div>
-<div lang="en">...</div>
+<div lang="en">
+1) Whatever are equal to one and the same, are equal to each other.
+2) Equals added to equals gives equals. 
+3) Equals taken from equals gives equals.
+4) Equals added to unequals gives unequals. 
+5) Equals taken from unequals gives unequals.
+6) Doubling equals gives equals.
+7) Halving equals gives equals.
+8) Whatever covers each other are equal to each other. 
+9) The whole is greater than the part.
+</div>
 </div>
 
 <div class="parallel">
@@ -445,9 +535,13 @@ Grundsätze aufstellt:
     zwei Rechte sind, treffen genügend verlängert an derselben Seite zusammen. 
 12) Zwei gerade Linien schliessen keinen Raum ein. 
 </div>
-<div lang="en">...
-<a lang="en" class="origpage" id="p.52" title="Page 52"></a>
-...
+<div lang="en">
+10) All right angles are equal to each other.
+11) Two straight lines which are cut by a third, such that the two
+    inner angles lying on one side are together smaller than
+    <a lang="en" class="origpage" id="p.52" title="Page 52"></a>
+    two right angles, meet, if sufficiently extended, on the same side.
+12) Two straight lines do not enclose any space.
 </div>
 </div>
 
@@ -465,8 +559,8 @@ Namen der Axiome zusammengeworfen hat, den Euklid gar nicht kennt,
 denn er hat diesen Unterschied auf das schärfste erkannt: <em>In allen
 Manuscripten</em>, welche [F.\ Peybard]{.sc} zum Zwecke seiner
 vortrefflichen Ausgabe des Euklid ([<cite lang="fr">Les oeuvres
-d'[Euclide]{.sc}, trad. en latin et en français</cite>.
-I. Bd.][Peybard1814] 1814, s. Varianten S. 454) verglichen hat, <em>befindet
+d'[Euclide]{.sc}, trad. en latin et en français</cite>, I. Bd.][Peybard1814]
+1814, s. Varianten S. 454) verglichen hat, <em>befindet
 sich der berühmte 11. Grundsatz der Parallelentheorie mit den Sätzen
 vom Gleichen und Ungleichen nicht in einer Kategorie der [χοιναὶ
 ἔννοιαι]{lang="grc"}</em>, sondern figurirt als 5tes <em>Postulat</em>
@@ -482,8 +576,23 @@ One should think that even the most superficial consideration allows
 two essentially different classes of principles to be distinguished here,
 of which one (1--9) refers to relations which are essentially
 connected to the concept of magnitude, while the other (10--12) contains
-geometric truths.
-...
+geometric truths. Yet this distinction is completely overlooked by
+most mathematicians, as shown sufficiently by the circumstance that
+they are thrown together under the single name of axiom,
+with which Euclid is not familiar at all, for he recognized the
+distinction most sharply: <em>in all manuscripts</em> which [F.\ Peybard]{.sc}
+compared for his excellent edition of Euclid ([<cite lang="fr">Les oeuvres
+d'[Euclide]{.sc}, trad. en latin et en français</cite>, I. Bd.][Peybard1814]
+1814, see variants p. 454) 
+<em>the famous 11th principle of the theory of parallels is not located
+with the statements about equals and unequals in a category of [χοιναὶ
+ἔννοιαι]{lang="grc"}</em>, but rather figures as a 5th <em>postulate</em>
+([αἴτημα]{lang="grc"}).
+The 10th principle, similarly, assumes the place of the 4th postulate,
+while the handwriting vacillates around the 12th,
+so that one sees how, little by little, a misunderstanding brought
+these three postulates to the wrong place, at which they inexplicably
+still stand to this day. 
 </p>
 </div>
 
@@ -498,7 +607,13 @@ sie [Stuart Mill]{.sc} nennt: eine weitere Discussion der Natur dieser
 [αἰτήματα]{lang="grc"} ist hier für unsern Zweck ohne directe
 Bedeutung.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Of the principles which arise out of geometric intuition, it cannot be
+doubted that they are <em>synthetic</em>, in [Kant]{.sc}'s
+terminology, or <em>inductive</em>, as [Stuart Mill]{.sc} calls them:
+a further discussion of the nature of these [αἰτήματα]{lang="grc"}
+is without direct significance for our purpose here.
+</p>
 </div>
 
 <div class="parallel">
