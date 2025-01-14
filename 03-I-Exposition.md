@@ -622,8 +622,7 @@ simply formal, insofar as only a certain formal relation comes to
 expression in them.
 That this opposition between the transcendent and Actual numbers in
 its [mediation]{.origphrase title="Vermittelung"} through the formal numbers is
-not a fixed one, but rather [meandering]{.origphrase title="fliessender"},
-will be shown clearly enough in the following. 
+not a fixed one, but rather fluid, will be shown clearly enough in the following. 
 </p>
 </div>
 
@@ -755,7 +754,7 @@ $\frac{1}{a}$ in $b$ that operation through which $b$ is divided in
 $a$ parts; then the proof can be delivered in intuition that 
 $$ \frac{1}{a} \cdot b = b \cdot \frac{1}{a} = \frac{b}{a} $$
 and thus the commutative principle is valid.
-Here is must be remarked that a new definition of multiplication in
+Here it must be remarked that a new definition of multiplication in
 the latter case had to be explicitly given and was so chosen that
 the same laws are valid for the multiplication of fractional numbers
 as earlier for whole numbers. The fractional numbers, because
