@@ -628,7 +628,7 @@ nicht als Principien, z.\ B. der 9. Grundsatz. Und doch auch diese
 selbst, ob sie gleich nach blossen Begriffen gelten, werden in der
 Mathematik nur darum zugelassen, weil sie in der Anschauung können
 dargestellt werden</q> (S. 704, vergl. auch S. 143); und in voller
-üebereinstimmung soweit sie in der Ausdrucksweise zwischen Idealisten
+Uebereinstimmung soweit sie in der Ausdrucksweise zwischen Idealisten
 und Empiriker stattfinden kann sagt [Stuart Mill]{.sc}: <q>Einige
 Axiome Euklid's könnten ohne Zweifel in die Form von Definitionen
 gebracht, oder aus ähnlichen Sätzen abgeleitet werden, wie wenn man
@@ -645,11 +645,41 @@ zusammengesetzt, aus der Erklärung des Namens und aus der Behauptung
 einer Thatsache, wovon die letzte allein ein erstes Princip oder eine
 Prämisse einer Wissenschaft bilden kann</q> (XXIV, §.5).
 </p>
-<p lang="en">...
+<p lang="en">
+More relevant for us are the other class of principles, that of the
+[χοιναὶ ἔννοιαι]{lang="grc"} (notiones communes), whose distinction
+from the former was already noticed by Kant.
+<q>
+... <!-- TODO: see a Kant translation -->
+</q> (p. 704, compare also p. 143); and in complete agreement (so far
+as this can take place between the idealist and empiricist mode of expression),
+[Stuart Mill]{.sc} says:
+<q>Some of the axioms of Euclid might, no doubt, be exhibited in the
+form of definitions, or might be deduced, by reasoning, from
+propositions similar to what are so called. Thus, if instead of the
+[8th]<sup>[A](#p.52nA){#p.52nAref .trnref}</sup> axiom, we
+introduce a definition, "Equal magnitudes are those which may be so
+applied to one another as to coincide;" the three axioms which
+follow, [axioms 1, 2, 3], may be proved by an imaginary superposition...
+there will be found in the list of axioms two or three fundamental
+truths, not capable of being demonstrated
 <a lang="en" class="origpage" id="p.53" title="Page 53"></a>
-...
+among which [are axioms 10, 11...]</q> (ibid. V, §. 3)
+<q>Like other so-called definitions, these are composed of two
+things, the explanation of a name and the assertion of a fact: of which
+the latter alone can form a first principle or premiss of a science</q>
+(XXIV, §.5).
 </p>
 </div>
+
+<aside class="parallel footnote trnote">
+<p lang="de"></p>
+<p lang="en" id="p.52nA">
+A\) Hankel has freely modified the original text of the quote, which
+encloses the axioms from Euclid in parentheses, to instead use his
+numbering from the list above.
+</p>
+</aside>
 
 <div class="parallel">
 <p lang="de">
@@ -665,7 +695,18 @@ wird. Dies mag hier, wo nicht die Logik der mathematischen Methode
 interessirt uns hier die Frage, wie es mit den Urtheilen von der Form
 $2\cdot 2 = 4$ beschaffen sei.
 </p>
-<p lang="en">...</p>
+<p lang="en">
+One will be able to declare oneself in agreement with the essentials
+of these elucidations of the essence of the notiones communes. Such a
+principle expresses an abstractly general and necessary law which
+holds in all domains of magnitudes, which can be transformed into
+a definition without giving up its essential character, and which
+furthermore possesses such a degree of evidence that a mere exposition
+of it suffices for it to be recognized as indubitably true. Here,
+where the logic of mathematical method shall not be developed in
+general, this may suffice. The question which actually interests us
+is how judgements of the form $2\cdot 2 = 4$ are constituted.
+</p>
 </div>
 
 <div class="parallel">
