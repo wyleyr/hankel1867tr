@@ -649,20 +649,26 @@ Prämisse einer Wissenschaft bilden kann</q> (XXIV, §.5).
 More relevant for us are the other class of principles, that of the
 [χοιναὶ ἔννοιαι]{lang="grc"} (notiones communes), whose distinction
 from the former was already noticed by Kant.
-<q>
-... <!-- TODO: see a Kant translation -->
-</q> (p. 704, compare also p. 143); and in complete agreement (so far
-as this can take place between the idealist and empiricist mode of expression),
-[Stuart Mill]{.sc} says:
+<q
+cite="https://archive.org/details/in.ernet.dli.2015.147641/page/n71/mode/2up">Some
+few fundamental propositions, presupposed by the geometrician,
+are, indeed, really analytic, and rest on the principle of
+contradiction. But, as identical propositions, they serve only as
+links in the chain of method and not as principles; for instance, [the
+9th principle]<sup>[A](#p.52nA){#p.52nAref .trnref}</sup>.
+And even these propositions, though they are valid
+according to pure concepts, are only admitted in mathematics because
+they can be exhibited in intuition.</q> (p. 704, compare also p. 143);
+and in complete agreement (so far as this can take place between the
+idealist and empiricist mode of expression), [Stuart Mill]{.sc} says:
 <q>Some of the axioms of Euclid might, no doubt, be exhibited in the
 form of definitions, or might be deduced, by reasoning, from
 propositions similar to what are so called. Thus, if instead of the
-[8th]<sup>[A](#p.52nA){#p.52nAref .trnref}</sup> axiom, we
-introduce a definition, "Equal magnitudes are those which may be so
-applied to one another as to coincide;" the three axioms which
-follow, [axioms 1, 2, 3], may be proved by an imaginary superposition...
-there will be found in the list of axioms two or three fundamental
-truths, not capable of being demonstrated
+[8th] axiom, we introduce a definition, "Equal magnitudes are those
+which may be so applied to one another as to coincide;" the three
+axioms which follow, [axioms 1, 2, 3], may be proved by an imaginary
+superposition... there will be found in the list of axioms two or
+three fundamental truths, not capable of being demonstrated
 <a lang="en" class="origpage" id="p.53" title="Page 53"></a>
 among which [are axioms 10, 11...]</q> (ibid. V, §. 3)
 <q>Like other so-called definitions, these are composed of two
@@ -675,9 +681,8 @@ the latter alone can form a first principle or premiss of a science</q>
 <aside class="parallel footnote trnote">
 <p lang="de"></p>
 <p lang="en" id="p.52nA">
-A\) Hankel has freely modified the original text of the quote, which
-encloses the axioms from Euclid in parentheses, to instead use his
-numbering from the list above.
+A\) In both quotations, Hankel has freely modified the original text
+of the quote to use his numbering from the list above.
 </p>
 </aside>
 
@@ -729,7 +734,29 @@ ohne die Anschauung zu Hilfe zu nehmen, vermittels der blossen
 Zergliederung unserer Begriffe die Summe niemals finden könnten</q>
 (S. 703).
 </p>
-<p lang="en">...</p>
+<p lang="en">
+[Kant]{.sc} gives us the following reply:
+<q
+cite="https://archive.org/details/in.ernet.dli.2015.147641/page/n217/mode/2up">The
+assertion that $7 + 5 = 12$ is not an analytic
+proposition. For neither in the representation of 7, nor in that of 5,
+nor in the representation of the combination of both, do I think the
+number 12. ... But although the proposition is synthetic, it is also
+only singular. ...
+Such propositions must not, therefore, be called axioms (that would
+involve recognition of an infinite number of axioms), but numerical
+formulas</q> (ibid., 144). He then instructs us further,
+<q
+cite="https://archive.org/details/in.ernet.dli.2015.147641/page/n71/mode/2up">We
+have to go outside these concepts, and call in the aid of the
+intuition which corresponds to one of them, our five fingers, for
+instance [...] adding to the concept of 7, unit by unit, the five
+given in intuition. ... Arithmetical propositions are therefore
+always synthetic. This is still more evident if we take larger
+numbers. For it is then obvious that, however we might turn and twist
+our concepts, we could never, by the mere analysis of them, and
+without the aid of intuition, find the sum</q> (p. 703).
+</p>
 </div>
 
 <div class="parallel">
@@ -828,7 +855,11 @@ diesem Schluss (wie Alle wissen, die sich erinnern, wie sie ihn zuerst lernten),
 indem nur die blosse Einheit auf einmal addirt wird, $5 + 1 = 6$, daher 
 $5 + 1 + 1 = 6 + 1 = 7$ und da $1 + 1 = 2$, so ist $5 + 1 + 1 = 5 + 2 = 7$.</q> 
 </p>
-<p lang="en">...</p>
+<p lang="en">
+Likewise for [Stuart Mill]{.sc} (ibid., §.\ 5) <q>
+<!-- TODO -->
+</q>
+</p>
 </div>
 
 <div class="parallel">
