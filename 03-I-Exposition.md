@@ -31,8 +31,8 @@ new [relationships]{.origphrase title="Beziehungen"} which are indeed contained 
 presupposed ones and set out at the same time as them, but cognition
 of which, in consequence of the nature of the human mind, constitutes a
 scientific advance. The purely formal sciences, logic and mathematics,
-treat of such relations which are, or at least could be, independent
-of the determinate content, the substance of the objects. To
+treat of such relations which are, or at least can be, independent
+of the determinate content, of the substance of the objects. To
 mathematics fall especially those relations of objects to one another
 which involve the concept of [magnitude]{.origphrase title="Grösse"},
 of [measure]{.origphrase title="Maass"}, of [number]{.origphrase title="Zahl"}.
@@ -699,9 +699,9 @@ $$ x = \frac{b}{a} $$
 so that
 $$ \frac{b}{a} a = b$$
 contains their definition.
-The latter [operation]{.origphrase title="Verknüpfung"}, however,
-through which these signs of an operation which at first cannot be
-carried out are defined, multiplication, now loses entirely the
+But the latter [operation]{.origphrase title="Verknüpfung"},
+multiplication, through which these signs of an operation which at
+first cannot be carried out are defined, now loses entirely the
 meaning earlier laid down of repeated positing of a certain series of
 units, when $x$ is not a whole number. What, then, is the meaning of
 the latter equation?
