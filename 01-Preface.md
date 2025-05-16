@@ -395,7 +395,7 @@ gewissen Umkreise zu befriedigen, hat auf mich bei Abfassung
 des vorliegenden Werkes einen wesentlichen Einfluss ausgeübt. 
 </p>
 <p lang="en">
-Recent times in the natural sciences have witnessed a determined striving
+Recent times have witnessed a determined striving in the natural sciences
 to climb from the world of empirical details to the great principles
 which govern all individual things and unite them under higher points
 of view into a whole:
